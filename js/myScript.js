@@ -124,7 +124,7 @@ $(function(){
            return;
         }
         
-        $(".newgameDiv").hide();
+        $(".newGameDiv").hide();
         $(".questionResultDiv").show();
         
         var quizCount = parseInt($("#quizcount").val());
@@ -199,9 +199,11 @@ function showNextQuestion() {
     if(quiz.index < quiz.count) {
         clearRadioState();
         var question = quiz.questions.results[quiz.index]; 
+        /*
         $("#questionCategory").text(question.category);
         $("#questionType").text(question.type);
         $("#questionDifficulty").text(question.difficulty);
+        */
         $("#questionIt").html(question.question);
         var iCount = getAnswerCount(question.type);
         var iCorrect = getCorrectIndex(iCount);
