@@ -14,7 +14,7 @@
         <link rel="shortcut icon" href="img/favicon2.png" type="image/x-icon">
         <link rel="icon" href="img/favicon2.png" type="image/x-icon">
         <!-- GOOGLE FONTS --> 
-        <link href="https://fonts.googleapis.com/css?family=Petit+Formal+Script|Ruslan+Display" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Petit+Formal+Script|Ruslan+Display|Shrikhand|Boogaloo" rel="stylesheet">
         <!-- BOOTSTRAP CDN--> 
         <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
         <!-- CSS RESET NORMALIZE -->
@@ -118,41 +118,41 @@
                         <!-- Question Area -->
                         <div class="questionDiv">
                             <!-- Assist Area: top -->
-                            <div>
-                                <div class="button col-md-4 col-xs-4">
-                                    <p><span id="didit"></span></p>
-                                </div>
-                                <div class="warning col-md-4 col-xs-4">
+                            <div class="questionState row">
+                                <div class="warning col-xs-6 col-sm-8">
                                     <p><span id="questiontime"></span></p>
+                                </div>
+                                <div class="didIt col-xs-6 col-sm-4">
+                                    <p><span id="didit"></span></p>
                                 </div>
                             </div>
 
                             <!-- Question Area: middle -->
-                            <div class="questionDesc">
+                            <div class="questionDesc row">
                                 <!--
                                 <p><span class="questionTitle">Category: </span><span id="questionCategory"></span></p>
                                 <p><span class="questionTitle">Type: </span><span id="questionType"></span></p>
                                 <p><span class="questionTitle">Difficulty: </span><span id="questionDifficulty"></span></p>
                                 <p><span class="questionTitle">Question: </span><span id="questionIt"></span></p>
                                 -->
-                                <p id="question" class="question"></p>
+                                <p id="questionIt" class="question"></p>
                             </div>
 
                             <!-- Available Answers Area: bottom -->
-                            <div class="col-md-6">
-                                <div id="quesrow1" class="row">
-                                    <div class="col-md-6">
+                            <div class="questionAnswers row">
+                                <div id="quesrow1" class="col-xs-12 row answers">
+                                    <div class="col-xs-6">
                                         <input type="radio" id="ques1" name="answer" value="0"><span id="ques10"></span>
                                     </div>     
-                                    <div class="col-md-6">
+                                    <div class="col-xs-6">
                                         <input type="radio" id="ques2" name="answer" value="1"><span id="ques11"></span>
                                     </div>     
                                 </div>
-                                <div id="quesrow2" class="row">
-                                    <div class="col-md-6">
+                                <div id="quesrow2" class="col-xs-12  row answers">
+                                    <div class="col-xs-6">
                                         <input type="radio" id="ques3" name="answer" value="2"><span id="ques12"></span>
                                     </div>     
-                                    <div class="col-md-6">
+                                    <div class="col-xs-6">
                                         <input type="radio" id="ques4" name="answer" value="3"><span id="ques13"></span>
                                     </div>     
                                 </div>
@@ -160,24 +160,29 @@
                         </div>
 
                         <!-- Result Area -->
-                        <div class="resultDiv">
+                        <div class="resultDiv row">
                             <!-- Congratulation Area: top -->
                             <div><p id="quizresult" class="resultComment"></p></div>
 
                             <!-- Chart Result Area: middle -->
-                            <div>
+                            <div class="resultChart row">
                                 <!-- Pie for Right/Wrong result: left/top -->
-                                <div class="pie"></div>
+                                <div class="pie col-xs-6"><p>PiePiePiePiePiePiePiePie</p></div>
 
                                 <!-- Line for Times used per question: right/bottom -->
-                                <div class="line"></div>
+                                <div class="line col-xs-6"></div>
                             </div>
 
                         </div>
 
                         <!-- New Game Area: bottom -->
-                        <button id="newgame" class="newGame">New Game</button>
-                    </div>
+                        <div class="newGameBtnDiv row">
+                            <div class="col-xs-4 col-xs-offset-4">
+                                <button id="newgame" class="newGame">New Game</button>
+                            </div>
+                        </div>
+                        
+                    </div> 
                 </div>
             </div>
             
