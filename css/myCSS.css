@@ -1,0 +1,214 @@
+/*---------------------------------------------------------------------
+            FDG FORENSICS WEBSITE CSS STYLE FILE
+---------------------------------------------------------------------*/
+
+/*---------------------------------------------------------------------
+                        WEBSITE COLOUR SCHEME
+---------------------------------------------------------------------*/
+
+/*First colour: rgba(0,53, 93, 0.8); - header
+Secondary colour: rgba(37, 105, 166, 0.8);  - setting
+Third colour: rgba(43, 95, 143, 0.8); - buttons
+Fourth colour: rgba(219, 232, 243, 0.8) - question
+
+Welcome title: rgba(221,228, 214, 1)
+*/
+
+
+/*---------------------------------------------------------------------
+                        MOBILE DEFAULT STYLES - GLOBAL STYLES
+---------------------------------------------------------------------*/
+
+/* Prevents adjustments of font size after orientation change in IE on Windows phone and in IOS */
+html {
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+
+/* Apply a natural box model layout to all elements */
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+/* clearfix: Force an element not to collapse */
+.clearfix: after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* All images and video set to 100% width of their parent container */
+
+img, video {
+    width: 100%;
+}
+
+.welcomeBig, .mainSettings, .settings, .questionResultDiv, .resultDiv {
+    display: none;
+}
+
+.navBtn, .welcomeSmall {
+    display: block;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    color: #444;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    background-color: rgba(219, 232, 243, 1);
+}
+
+.header {
+    background-color: rgba(0,53, 93, 0.8);
+    clear: both;
+}
+
+
+.logo {
+    margin-left: 10px;
+    width: 100px;
+    height: 100px;
+}
+
+.welcome {
+    text-align: center;
+    height: 80px;
+    margin: 10px auto;
+}
+
+.welcome > h1 {
+    font-family: 'Petit Formal Script', cursive;
+    font-weight: bold;
+    color: rgba(221,228, 214, 1);
+}
+
+.settingBtn {
+    position: absolute;
+    background-color: rgba(128, 255, 0, 0.7);
+    top: 30px;
+    right: 5px;
+    width: 50px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.navBtn {
+    font-size: 1.5em;
+    color: rgba(255, 255, 255, 1);
+}
+
+.mainContent {
+    /*background-color: red;*/
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    width: 100%;
+}
+
+div.mainSettings {
+    /*float: none;
+    display: table-cell;*/
+    background-color: rgba(37, 105, 166, 0.8);
+    height: 100%;
+    padding: 20px;
+}
+
+.settings {
+    height: 100%;
+    padding: 0px;
+}
+
+.label {
+    margin: 0;
+    padding: 0;
+}
+
+.inputNum {
+    width: 150px;
+}
+
+.questions {
+    float: none;
+    display: table-cell;
+    background-color: rgba(128, 165, 32, 0.8); /*goldenrod*/
+    background-image: url(../images/maze-1560302_640.png);
+    opacity: 0.8;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.newGameDiv {
+    text-align: center;
+    vertical-align: middle;
+    margin: auto auto;
+    z-index: 100;
+}
+        
+.startGame {    
+    vertical-align: middle;
+    display: block;
+    width: 30%;
+    height: 100px;
+    margin: 150px auto;
+    border-radius: 20px;
+    background-color: rgba(170, 93, 0, 1);
+    color: rgba(255, 0, 0, 1);
+    font-family: 'Ruslan Display', cursive;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+        
+/*---------------------------------------------------------------------
+                 DESKTOP STYLES - 568 SCREEN RESOLUTION
+---------------------------------------------------------------------*/
+
+
+@media screen and (min-width: 568px) {
+    .startGame {
+        font-size: 2em;
+    }
+}
+
+/*---------------------------------------------------------------------
+                 DESKTOP STYLES - 768 SCREEN RESOLUTION
+---------------------------------------------------------------------*/
+
+
+@media screen and (min-width: 768px) {
+    .welcomeBig, .mainSettings, .settings {
+        display: block;
+    }
+    .navBtn, .welcomeSmall {
+        display: none;
+    }
+    .col-small {
+        width: 15%;
+    }
+    .col-big {
+        85%;
+    }
+}
+
+/*---------------------------------------------------------------------
+                 DESKTOP STYLES - 992 SCREEN RESOLUTION
+---------------------------------------------------------------------*/
+
+
+@media screen and (min-width: 992px) {
+}
+
+/*---------------------------------------------------------------------
+                 DESKTOP STYLES - 1024 SCREEN RESOLUTION
+---------------------------------------------------------------------*/
+
+
+@media screen and (min-width: 1024px) {
+}

@@ -14,195 +14,170 @@
         <link rel="shortcut icon" href="img/favicon2.png" type="image/x-icon">
         <link rel="icon" href="img/favicon2.png" type="image/x-icon">
         <!-- GOOGLE FONTS --> 
-        <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-        
-        <!-- BOOTSTRAP CDN
-        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">-->
-        <!-- animate.css 
-        <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" rel="stylesheet" type="text/css">-->
-        <!-- aos.css 
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.css">-->
-
-        <!-- FONT AWESOME CDN FOR ICONS 
-        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet">-->
+        <link href="https://fonts.googleapis.com/css?family=Petit+Formal+Script|Ruslan+Display" rel="stylesheet">
+        <!-- BOOTSTRAP CDN--> 
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
         <!-- CSS RESET NORMALIZE -->
         <link href="css/normalizer.css" rel="stylesheet" type="text/css">
-        <!-- MY OWN CSS -->
+        <!-- My Own CSS -->
         <link href="css/myCSS.css" rel="stylesheet" type="text/css">
     </head>
     
-    <body class="mainPic mainCol">
+    <body>
         
         <!-- Head Section -->
         <section>
-            <div class="row header container">
-                <div class="logoC col-md-3 col-xs-3">
+            <div class="row header">
+                <div class="col-xs-3 col-sm-2">
                     <a href="#home"><img class="logo" src="images/QuizLogoLSC.png" alt="Quiz world logo" /></a>
                 </div>
-                <div class="welcome col-md-7 col-xs-7">
-                    <h1 id="quizTitle">Welcome to Quiz World</h1>
-                    <h1 id="quizTitleS">Quiz World</h1>
+                <div class="welcome col-xs-8 col-sm-9">
+                    <h1 id="quizTitle" class="welcomeBig">Welcome to Quiz World</h1>
+                    <h1 id="quizTitleS" class="welcomeSmall">Quiz World</h1>
                 </div>
+                <!-- Settings Button Area -->
                 <div class="settingBtn">
                     <span title="settings" class="navBtn">&#9776;</span>
-                    <nav>
-                        <ul id="settings" class="menu-items">
-                            <li>
-                                <div class="col-md-3 col-xs-6 rightB bottomB">
-                                    <p class="label"><label for="quizcount">Number of Questions:</label></p>
-                                    <p><input type="number" id="quizcount" name="quizcount" value="10" title="Enter the number of questions between 1 and 50" placeholder="Enter a number"></p>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="col-md-4 col-xs-6 rightBC bottomB">
-                                    <p class="label">Select Category</p>
-                                    <p><select id="quizcategory" name="category">
-                                        <option value="">Any Category</option>
-                                    </select></p>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="col-md-2 col-xs-6 rightB">
-                                    <p class="label">Select Difficulty:</p>
-                                    <p><select id="quizdifficulty" name="category">
-                                        <option value="">Any Difficulty</option>
-                                        <option value="easy">Easy</option>
-                                        <option value="medium">Medium</option>
-                                        <option value="hard">Hard</option>
-                                    </select></p>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="col-md-3 col-xs-6">
-                                    <p class="label">Select Type:</p>
-                                    <p><select id="quiztype" name="quiztype">
-                                        <option value="">Any Type</option>
-                                        <option value="multiple">Multiple Choice</option>
-                                        <option value="boolean">True / False</option>
-                                    </select></p>
-                                </div>
-                            </li>
-                            <li>
-                                <div>
-                                    <p class="label"><label for="quiztime">Limited Time Per Question(1-60):</label></p>
-                                    <p><input type="number" id="quiztime" name="quiztime" value="5" title="Enter the limited time per question(1-60)" placeholder="Enter a limited time">&nbsp;s</p>
-                                </div>
-                            </li>
-                        </ul>
-                    </nav>
-                    
-                </div>                
+                </div> 
+                <!-- End of Setting Area -->
             </div>
         </section>
             
-        <!-- Quiz Setting Section -->
-        <section id="setting" class="setting">
-            <div class="row">   
-
-                <!-- Modal -->
-                <div class="modal fade" id="myModal" role="dialog">
-                    <div class="modal-dialog">
-
-                    <!-- Modal content-->
-                    <div class="modal-content">
-                        <div class="modal-header">
-                          <button type="button" class="close" data-dismiss="modal">&times;</button>
-                          <h4 class="modal-title">Settings</h4>
-                        </div>
-                        <div class="modal-body">
-                            <div>
-                                <p class="label"><label for="quiztime">Limited Time Per Question(1-60):</label></p>
-                                <p><input type="number" id="quiztime" name="quiztime" value="5" title="Enter the limited time per question(1-60)" placeholder="Enter a limited time">&nbsp;s</p>
-                            </div>
-                        </div>
-                        <div class="modal-footer">
-                          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                        </div>
-                      </div>
-
-                    </div>
-                  </div>
-
-            </div>
-        </section>
         
         <!-- Main content section -->
         <section>
             
-            <!-- Settings Area: Left -->
-            <div id="mainsettings" class="mainSettings"></div>
-            
-            <!-- Question Area: Right -->
-            <div>
-                <!-- Initial New Game Display --> 
-                <div class="newGameDiv">
-                    <button id="startgame" class="startGame">Start</button>
+            <div class="row mainContent">
+                <!-- Settings Area: Left -->
+                <div id="mainsettings" class="mainSettings">
+                    <div id="settings" class="settings">
+                        <div class="">
+                            <p class="label"><label for="quizcount">Number of Questions(5-50):</label></p>
+                            <p><input type="number" id="quizcount" name="quizcount" value="10" title="Enter the number of questions (5-50)" placeholder="Enter a number" class="inputNum"></p>
+                        </div>
+                        <div class="">
+                            <p class="label">Select Category</p>
+                            <p><select id="quizcategory" name="category" class="inputNum">
+                                <option value="">Any Category</option>
+                            </select></p>
+                        </div>
+                        <div class="">
+                            <p class="label">Select Difficulty:</p>
+                            <p><select id="quizdifficulty" name="category" class="inputNum">
+                                <option value="">Any Difficulty</option>
+                                <option value="easy">Easy</option>
+                                <option value="medium">Medium</option>
+                                <option value="hard">Hard</option>
+                            </select></p>
+                        </div>
+                        <div class="">
+                            <p class="label">Select Type:</p>
+                            <p><select id="quiztype" name="quiztype" class="inputNum">
+                                <option value="">Any Type</option>
+                                <option value="multiple">Multiple Choice</option>
+                                <option value="boolean">True / False</option>
+                            </select></p>
+                        </div>
+                        <div>
+                            <p class="label"><label for="quiztime">Limited Time Per Question(3-60):</label></p>
+                            <p><input type="number" id="quiztime" name="quiztime" value="5" title="Enter the limited time per question(3-60)" placeholder="Enter a limited time" class="inputNum">&nbsp;<span class="label">s</span></p>
+                        </div>
+                    </div>
+
+                    <!-- Modal -->
+                    <div class="modal fade" id="myModal" role="dialog">
+                        <div class="modal-dialog">
+
+                            <!-- Modal content-->
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                    <h4 class="modal-title">Settings</h4>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Putting the content of div with id="settings" here by javascript -->
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
                 </div>
-                
-                <!-- Question/Result Area -->
-                <div class="questionResultDiv">
-                    <!-- Question Area -->
-                    <div class="questionDiv">
-                        <!-- Assist Area: top -->
-                        <div>
-                            <div class="button col-md-4 col-xs-4">
-                                <p><span id="didit"></span></p>
-                            </div>
-                            <div class="warning col-md-4 col-xs-4">
-                                <p><span id="questiontime"></span></p>
-                            </div>
-                        </div>
 
-                        <!-- Question Area: middle -->
-                        <div class="questionDesc">
-                            <!--
-                            <p><span class="questionTitle">Category: </span><span id="questionCategory"></span></p>
-                            <p><span class="questionTitle">Type: </span><span id="questionType"></span></p>
-                            <p><span class="questionTitle">Difficulty: </span><span id="questionDifficulty"></span></p>
-                            <p><span class="questionTitle">Question: </span><span id="questionIt"></span></p>
-                            -->
-                            <p id="question" class="question"></p>
-                        </div>
-
-                        <!-- Available Answers Area: bottom -->
-                        <div class="col-md-6">
-                            <div id="quesrow1" class="row">
-                                <div class="col-md-6">
-                                    <input type="radio" id="ques1" name="answer" value="0"><span id="ques10"></span>
-                                </div>     
-                                <div class="col-md-6">
-                                    <input type="radio" id="ques2" name="answer" value="1"><span id="ques11"></span>
-                                </div>     
-                            </div>
-                            <div id="quesrow2" class="row">
-                                <div class="col-md-6">
-                                    <input type="radio" id="ques3" name="answer" value="2"><span id="ques12"></span>
-                                </div>     
-                                <div class="col-md-6">
-                                    <input type="radio" id="ques4" name="answer" value="3"><span id="ques13"></span>
-                                </div>     
-                            </div>
-                        </div>
+                <!-- Question Area: Right -->
+                <div class="col-sm-12 col-sm-offset-4 questions">
+                    <!-- Initial New Game Display --> 
+                    <div class="newGameDiv">
+                        <button id="startquiz" class="startGame">Start</button>
                     </div>
 
-                    <!-- Result Area -->
-                    <div class="resultDiv">
-                        <!-- Congratulation Area: top -->
-                        <div><p id="resultcomment" class="resultComment"></p></div>
+                    <!-- Question/Result Area -->
+                    <div class="questionResultDiv">
+                        <!-- Question Area -->
+                        <div class="questionDiv">
+                            <!-- Assist Area: top -->
+                            <div>
+                                <div class="button col-md-4 col-xs-4">
+                                    <p><span id="didit"></span></p>
+                                </div>
+                                <div class="warning col-md-4 col-xs-4">
+                                    <p><span id="questiontime"></span></p>
+                                </div>
+                            </div>
 
-                        <!-- Chart Result Area: middle -->
-                        <div>
-                            <!-- Pie for Right/Wrong result: left/top -->
-                            <div class="pie"></div>
+                            <!-- Question Area: middle -->
+                            <div class="questionDesc">
+                                <!--
+                                <p><span class="questionTitle">Category: </span><span id="questionCategory"></span></p>
+                                <p><span class="questionTitle">Type: </span><span id="questionType"></span></p>
+                                <p><span class="questionTitle">Difficulty: </span><span id="questionDifficulty"></span></p>
+                                <p><span class="questionTitle">Question: </span><span id="questionIt"></span></p>
+                                -->
+                                <p id="question" class="question"></p>
+                            </div>
 
-                            <!-- Line for Times used per question: right/bottom -->
-                            <div class="line"></div>
+                            <!-- Available Answers Area: bottom -->
+                            <div class="col-md-6">
+                                <div id="quesrow1" class="row">
+                                    <div class="col-md-6">
+                                        <input type="radio" id="ques1" name="answer" value="0"><span id="ques10"></span>
+                                    </div>     
+                                    <div class="col-md-6">
+                                        <input type="radio" id="ques2" name="answer" value="1"><span id="ques11"></span>
+                                    </div>     
+                                </div>
+                                <div id="quesrow2" class="row">
+                                    <div class="col-md-6">
+                                        <input type="radio" id="ques3" name="answer" value="2"><span id="ques12"></span>
+                                    </div>     
+                                    <div class="col-md-6">
+                                        <input type="radio" id="ques4" name="answer" value="3"><span id="ques13"></span>
+                                    </div>     
+                                </div>
+                            </div>
                         </div>
 
+                        <!-- Result Area -->
+                        <div class="resultDiv">
+                            <!-- Congratulation Area: top -->
+                            <div><p id="quizresult" class="resultComment"></p></div>
+
+                            <!-- Chart Result Area: middle -->
+                            <div>
+                                <!-- Pie for Right/Wrong result: left/top -->
+                                <div class="pie"></div>
+
+                                <!-- Line for Times used per question: right/bottom -->
+                                <div class="line"></div>
+                            </div>
+
+                        </div>
+
+                        <!-- New Game Area: bottom -->
+                        <button id="newgame" class="newGame">New Game</button>
                     </div>
-                    
-                    <!-- New Game Area: bottom -->
-                    <button id="newgame" class="newGame">New Game</button>
                 </div>
             </div>
             
@@ -226,13 +201,16 @@
             </div>
         </section>
         
+        <!-- Footer -->
+        <footer>Something to add...</footer>
+        
             
         <script
           src="https://code.jquery.com/jquery-3.2.1.min.js"
           integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
           crossorigin="anonymous">
         </script> 
-        <!--<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>-->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
         <script src="js/myScript.js"></script>
     </body>
 </html>
