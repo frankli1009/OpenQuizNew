@@ -119,11 +119,14 @@
                         <div class="questionDiv">
                             <!-- Assist Area: top -->
                             <div class="questionState row">
-                                <div class="warning col-xs-6 col-sm-8">
+                                <div class="col-xs-1 col-sm-2">
+                                    <p>&nbsp;</span></p>
+                                </div>
+                                <div class="warning col-xs-6 col-sm-7">
                                     <p><span id="questiontime"></span></p>
                                 </div>
-                                <div class="didIt col-xs-6 col-sm-4">
-                                    <p><span id="didit"></span></p>
+                                <div class="didIt col-xs-5 col-sm-3">
+                                    <p><span class="didItLabel">You did: </span><br/><span id="didit"></span></p>
                                 </div>
                             </div>
 
@@ -141,19 +144,31 @@
                             <!-- Available Answers Area: bottom -->
                             <div class="questionAnswers row">
                                 <div id="quesrow1" class="col-xs-12 row answers">
-                                    <div class="col-xs-6">
-                                        <input type="radio" id="ques1" name="answer" value="0"><span id="ques10"></span>
+                                    <div id="answer1" class="col-xs-6">
+                                        <div id="ques20" class="answerDiv">
+                                            <!--<input type="radio" id="ques1" name="answer" value="0">-->
+                                            <p id="ques30"><span id="ques10"></span></p>
+                                        </div>
                                     </div>     
-                                    <div class="col-xs-6">
-                                        <input type="radio" id="ques2" name="answer" value="1"><span id="ques11"></span>
+                                    <div id="answer2" class="col-xs-6">
+                                        <div id="ques21" class="answerDiv">
+                                            <!--<input type="radio" id="ques2" name="answer" value="1">-->
+                                            <p id="ques31"><span id="ques11"></span></p>
+                                        </div>
                                     </div>     
                                 </div>
                                 <div id="quesrow2" class="col-xs-12  row answers">
-                                    <div class="col-xs-6">
-                                        <input type="radio" id="ques3" name="answer" value="2"><span id="ques12"></span>
+                                    <div id="answer3" class="col-xs-6 fourAvailAnswers">
+                                        <div id="ques22" class="answerDiv">
+                                            <!--<input type="radio" id="ques3" name="answer" value="2">-->
+                                            <p id="ques32"><span id="ques12"></span></p>
+                                        </div>
                                     </div>     
-                                    <div class="col-xs-6">
-                                        <input type="radio" id="ques4" name="answer" value="3"><span id="ques13"></span>
+                                    <div id="answer4" class="col-xs-6 fourAvailAnswers">
+                                        <div id="ques23" class="answerDiv">
+                                            <!--<input type="radio" id="ques4" name="answer" value="3">-->
+                                            <p id="ques33"><span id="ques13"></span></p>
+                                        </div>
                                     </div>     
                                 </div>
                             </div>
@@ -167,10 +182,10 @@
                             <!-- Chart Result Area: middle -->
                             <div class="resultChart row">
                                 <!-- Pie for Right/Wrong result: left/top -->
-                                <div class="pie col-xs-6"><p>PiePiePiePiePiePiePiePie</p></div>
+                                <div id="chartrightwrong" class="chartHolder col-xs-6"><p>PiePiePiePiePiePiePiePie</p></div>
 
                                 <!-- Line for Times used per question: right/bottom -->
-                                <div class="line col-xs-6"></div>
+                                <div id="charttimeused" class="chartHolder col-xs-6"></div>
                             </div>
 
                         </div>
@@ -216,6 +231,7 @@
           crossorigin="anonymous">
         </script> 
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
         <script src="js/myScript.js"></script>
     </body>
 </html>
