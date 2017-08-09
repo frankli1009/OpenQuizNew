@@ -1,3 +1,8 @@
+function itemInfo(itemName, itemValue) {
+    this.itemName = itemName;
+    this.itemValue = itemValue;
+}
+
 var quiz = {
     questions: null,
     count: 0,
@@ -5,12 +10,14 @@ var quiz = {
     done: 0,
     right: 0,
     countDown: 5,
+    answerTime: [], //itemInfo type
     initQuiz: function (data) {
         this.questions = data;
         this.index = -1;
         this.count = data.results.length;
         this.done = 0;
         this.right = 0;
+        this.answerTime.removeAll();
     }
 };
 
@@ -88,7 +95,7 @@ $(function(){
     });
     
     $("#quizcount").on("keydown", function (e) {
-        console.log(e.keyCode);
+        //console.log(e.keyCode);
         switch(e.keyCode) {
             case 13: // enter key, skipped
                 e.preventDefault();
@@ -104,15 +111,16 @@ $(function(){
                 return false;
         }
     });
-    
-    $("input[type='radio']").on("change", function() {
-        console.log(this.id);
-        console.log(this.value);
-        if(parseInt(this.value) === curQuestion.iCorrect) quiz.right++;
+        
+    $(".answerDiv").on("click", function(e) {
+        //console.log(e.target.id);
+        var choice = e.target.id.substring(5,6);
+        //console.log(choice);
+        if(parseInt(choice) === curQuestion.iCorrect) quiz.right++;
         clearInterval(curQuestion.cntdwnInt);
         curQuestion.cntdwnInt = null;
         nextQuestion();
-    })
+    });
         
     $("#startquiz").on("click", function() {
         if(!validCount($("#quizcount").val(), 5, 50)) {
@@ -135,7 +143,7 @@ $(function(){
         quiz.countDown = parseInt($("#quiztime").val());
         console.log("countdown: "+quiz.countDown);
         
-        $("#didit").html("You did: 0 / 0");
+        $("#didit").html("0 / 0");
         
         var url = "https://opentdb.com/api.php?amount="+quiz.count;
         if(quizCategory) {
@@ -211,6 +219,9 @@ function showNextQuestion() {
         for(var i=0; i<iCount; i++) {
             if(i === iCorrect) {
                 $("#ques1"+i).text(question.correct_answer);
+                if(question.correct_answer.length>40) {
+                    
+                }
             } else {
                 if(i<iCorrect) {
                     $("#ques1"+i).text(question.incorrect_answers[i]);
@@ -222,16 +233,67 @@ function showNextQuestion() {
         }
         
         if(question.type === "multiple") {
+            if($("#answer1").hasClass("twoAvailAnswers"))
+                $("#answer1").removeClass("twoAvailAnswers");
+            if(!$("#answer1").hasClass("fourAvailAnswers"))
+                $("#answer1").addClass("fourAvailAnswers");
+            if($("#answer2").hasClass("twoAvailAnswers"))
+                $("#answer2").removeClass("twoAvailAnswers");
+            if(!$("#answer2").hasClass("fourAvailAnswers"))
+                $("#answer2").addClass("fourAvailAnswers");
             $("#quesrow2").show();
         } else {
+            if($("#answer1").hasClass("fourAvailAnswers"))
+                $("#answer1").removeClass("fourAvailAnswers");
+            if(!$("#answer1").hasClass("twoAvailAnswers"))
+                $("#answer1").addClass("twoAvailAnswers");
+            if($("#answer2").hasClass("fourAvailAnswers"))
+                $("#answer2").removeClass("fourAvailAnswers");
+            if(!$("#answer2").hasClass("twoAvailAnswers"))
+                $("#answer2").addClass("twoAvailAnswers");
             $("#quesrow2").hide();
         }
         
         curQuestion.initQuestion(iCorrect);
         
     } else {
+        var quizRes = quiz.right * 100 / quiz.count;
+        quizRes = 90;
+        $("#quizresult").text(quizRes >= 85 ? "Excellent Job" :
+                             quizRes >= 60 ? "Well Done" : "More Practice Please");
+        var rightWrong = [];
+        rightWrong.push(new itemInfo('right', quiz.right));
+        rightWrong.push(new itemInfo('wrong', quiz.count-quiz.right));
+        addChart('chartrightwrong', 'doughnut', 'Right/Wrong', rightWrong);
+        
+        addChart('charttimeused', 'line', 'Time Used', quiz.answerTime);
         showResult(true);
     }
+}
+
+function addChart(idContainer, chartType, chartTitle, dataToDisplay) {
+    var chart = new CanvasJS.Chart(idContainer, {
+        theme: "theme2",//theme1
+        backgroundColor: "transparent", //custom css, looking on the web docs for it
+        title:{
+            text: chartTitle              
+        },
+        animationEnabled: false,   // change to true
+        data: [              
+        {
+            // Change type to "bar", "area", "spline", "pie",etc.
+            type: chartType,
+            dataPoints: [
+            ]
+
+        }
+        ]
+    });
+    dataToDisplay.forEach(function(item, index) {
+        chart.options.data[0].dataPoints.push({ "label":  item.itemName,  "y": item.itemValue});
+    });
+    chart.render();
+    
 }
 
 function getAnswerCount(type) {
@@ -243,17 +305,16 @@ function getCorrectIndex(answerCount) {
 }
 
 function clearRadioState() {
-    $("input[type='radio']").each(function() {
-        console.log(this.id);
-        console.log(this.checked);
-        if(this.checked) this.checked = false;
-        //removeAttr("checked");
-    });
+//    $("input[type='radio']").each(function() {
+//        console.log(this.id);
+//        console.log(this.checked);
+//        if(this.checked) this.checked = false;
+//        //removeAttr("checked");
+//    });
 }
     
 function nextQuestion() {
     quiz.done++;
-    $("#didit").html("You did: "+quiz.right + " / " + quiz.done);
+    $("#didit").html(quiz.right + " / " + quiz.done);
     showNextQuestion();
 }
-
