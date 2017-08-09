@@ -90,7 +90,7 @@ body {
 
 .settingBtn {
     position: absolute;
-    background-color: rgba(128, 255, 0, 0.7);
+    /*background-color: rgba(128, 255, 0, 0.7);*/
     top: 30px;
     right: 5px;
     width: 50px;
@@ -101,6 +101,7 @@ body {
 .navBtn {
     font-size: 1.5em;
     color: rgba(255, 255, 255, 1);
+    cursor: pointer;
 }
 
 .mainContent {
@@ -136,7 +137,7 @@ div.mainSettings {
     float: none;
     display: table-cell;
     background-color: rgba(128, 165, 32, 0.8); /*goldenrod*/
-    background-image: url(../images/maze-1560302_640.png);
+    /*background-image: url(../images/maze-1560302_640.png);*/
     opacity: 0.8;
     background-repeat: no-repeat;
     background-position: center;
@@ -169,7 +170,10 @@ div.mainSettings {
 .questionState {
     background-color: rgba(37, 105, 166, 0.8);
     margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
     height: 10%;
+    vertical-align: middle; 
 }
 
 .warning > p {
@@ -187,6 +191,12 @@ div.mainSettings {
     
 }
 
+.didIt > p .didItLabel {
+    font-family: 'Shrikhand', cursive;
+    font-size: 0.8em;
+    color: rgba(255, 255, 255, 1);    
+}
+
 .questionDesc {
     margin-top: 5px;
     background-color: rgba(37, 105, 166, 0.8);
@@ -196,10 +206,10 @@ div.mainSettings {
 .question {
     margin: auto auto;
     padding: 0;
-    height: 35%; /*190px;*/
+    height: 130px;
     text-align: center;
     font-family: 'Boogaloo', cursive;
-    font-size: 3em;
+    font-size: 1.5em;
     color: white;
     
 }
@@ -207,13 +217,36 @@ div.mainSettings {
 .questionAnswers {
     background-color: rgba(37, 105, 166, 0.8);
     margin-top: 5px;
-    height: 35%;/*190px;*/
+    height: 260px;
     margin-left: auto;
+    text-align: center;
 }
 
-/*div.answers {
-    background-color: rgba(219, 232, 243, 0.8);    
-}*/
+.answers {
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    font-family: 'Boogaloo', cursive;
+    font-size: 1.5em;
+    color: deeppink;
+}
+
+.answerDiv {
+    margin: 20px 20px 0 0;
+    background-color: rgba(219, 232, 243, 0.8);
+}
+
+.twoAvailAnswers {
+    height: 240px;
+}
+
+.fourAvailAnswers {
+    height: 120px;
+}
+
+.sizeForTooManyWords {
+    font-size: 1.2em;
+}
 
 .resultDiv {
     background-color: rgba(37, 105, 166, 0.8);    
@@ -238,10 +271,17 @@ div.mainSettings {
     height: 300px;
 }
 
-.pie {
-    background-color: red;
-    height: 300px;
+.chartHolder {
+/*    background-color: red;*/
+/*    height: 300px;*/
     color: white;
+    height: 300px !important;
+    margin-bottom: 20px !important;
+}
+
+.data {
+    font-size: 1.2em;
+    /*margin-left: 5%;*/
 }
 
 .newGameBtnDiv {
@@ -269,6 +309,16 @@ div.mainSettings {
     .startGame {
         font-size: 2em;
     }
+    
+    .question {
+        font-size: 1.4em;
+
+    }
+
+    .answers {
+        font-size: 1.7em;
+    }
+
 }
 
 /*---------------------------------------------------------------------
@@ -283,14 +333,18 @@ div.mainSettings {
     .navBtn, .welcomeSmall {
         display: none;
     }
-    .col-small {
-        width: 15%;
-    }
-    .col-big {
-        85%;
-    }
+
     .questions {
         padding-left: 3px;
+    }
+    
+    .question {
+        font-size: 1.8em;
+
+    }
+
+    .answers {
+        font-size: 2.2em;
     }
 }
 
@@ -308,4 +362,8 @@ div.mainSettings {
 
 
 @media screen and (min-width: 1024px) {
+    .question {
+        font-size: 2.5em;
+
+    }
 }
