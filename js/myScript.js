@@ -270,6 +270,7 @@ function showNextQuestion() {
         
         addChart('charttimeused', 'line', 'Time Used', quiz.answerTime);
         showResult(true);
+        $(".resultChart").show();
     }
 }
 
