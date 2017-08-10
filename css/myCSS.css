@@ -64,6 +64,11 @@ body {
     background-color: rgba(219, 232, 243, 1);
 }
 
+.container {
+    padding-left: 0;
+    padding-right: 0;
+}
+
 .header {
     background-color: rgba(0,53, 93, 0.8);
     clear: both;
@@ -165,7 +170,7 @@ div.mainSettings {
     margin: 150px auto;
     border-radius: 20px;
     background-color: rgba(170, 93, 0, 1);
-    color: rgba(255, 0, 0, 1);
+    color: rgba(128, 0, 128, 1);
     font-family: 'Ruslan Display', cursive;
     font-weight: bold;
     font-size: 1.2em;
@@ -219,7 +224,7 @@ div.mainSettings {
 
 .question {
     margin: auto auto;
-    padding: 0;
+    padding: 0 10px 0 5px;
     height: 140px;
     text-align: center;
     font-family: 'Boogaloo', cursive;
@@ -245,9 +250,24 @@ div.mainSettings {
     color: deeppink;
 }
 
-.answerDiv {
-    margin: 20px 20px 0 0;
+.answerUpDiv {
     background-color: rgba(219, 232, 243, 0.8);
+}
+
+.answerDiv {
+    margin: 0;
+}
+
+#answer1, #answer2 {
+    margin-top: 8px;
+}
+
+#answer3, #answer4 {
+    margin-top: 6px;
+}
+
+#answer2, #answer4 {
+    margin-left: -3px;
 }
 
 .twoAvailAnswers {
@@ -274,7 +294,7 @@ div.mainSettings {
 .resultComment {
     background-color: rgba(37, 105, 166, 0.8);
     font-family: 'Shrikhand', cursive;
-    font-size: 2em;
+    font-size: 1.8em;
     color: rgba(255, 0, 255, 1);
     height: 70px;
 }
@@ -285,6 +305,8 @@ div.mainSettings {
 /*    margin-left: auto;*/
     text-align: center;
     height: 300px;
+    padding-left: 3px;
+    padding-right: 3px;
 }
 
 .chartHolder {
@@ -303,8 +325,10 @@ div.mainSettings {
 .newGameBtnDiv {
 /*    background-color: rgba(37, 105, 166, 0.8);    */
     margin-left: auto;
-    margin-top: 5px;
+/*
+    margin-top: -20px;
     padding-top: 20px;
+*/
     text-align: center;
     height: 10%; /*50px;*/
     clear: both;
@@ -313,7 +337,13 @@ div.mainSettings {
 
 .newGame {
     width: 200px;
+    height: 40px;
     border-radius: 20px;
+    background-color: rgba(170, 93, 0, 1);
+    color: rgba(128, 0, 128, 1);
+    font-family: 'Ruslan Display', cursive;
+    font-weight: bold;
+    font-size: 1.2em;
 }
         
 /*---------------------------------------------------------------------
@@ -343,6 +373,10 @@ div.mainSettings {
 
 
 @media screen and (min-width: 768px) {
+    .container {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
     .welcomeBig, .mainSettings, .settings {
         display: block;
     }
@@ -361,6 +395,10 @@ div.mainSettings {
 
     .answers {
         font-size: 2em;
+    }
+    
+    .newGameBtnDiv {
+        padding-top: 0;
     }
 }
 
