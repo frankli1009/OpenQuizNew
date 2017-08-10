@@ -104,13 +104,16 @@ body {
     cursor: pointer;
 }
 
-.mainContent {
+.quizContent {
     /*background-color: red;*/
-    display: table;
+/*    display: table;*/
+/*
     margin-left: auto;
     margin-right: auto;
-    height: 500px;
     width: 100%;
+*/
+    height: 500px;
+    clear: both;
 }
 
 div.mainSettings {
@@ -135,7 +138,7 @@ div.mainSettings {
 
 .questions {
     float: none;
-    display: table-cell;
+/*    display: table-cell;*/
     background-color: rgba(128, 165, 32, 0.8); /*goldenrod*/
     /*background-image: url(../images/maze-1560302_640.png);*/
     opacity: 0.8;
@@ -147,6 +150,7 @@ div.mainSettings {
 }
 
 .newGameDiv {
+    float: none;
     text-align: center;
     vertical-align: middle;
     margin: auto auto;
@@ -167,12 +171,22 @@ div.mainSettings {
     font-size: 1.2em;
 }
 
+.questionResultDiv {
+    float: none;!important
+    margin-right: 0;
+    width: 100%;
+}
+
+.questionDiv {
+/*    float: none;!important*/
+}
+
 .questionState {
     background-color: rgba(37, 105, 166, 0.8);
     margin-left: auto;
     margin-top: auto;
     margin-bottom: auto;
-    height: 10%;
+    height: 50px;
     vertical-align: middle; 
 }
 
@@ -188,7 +202,6 @@ div.mainSettings {
     font-size: 1.2em;
     color: rgba(255, 0, 255, 1);
     text-align: right;
-    
 }
 
 .didIt > p .didItLabel {
@@ -201,12 +214,13 @@ div.mainSettings {
     margin-top: 5px;
     background-color: rgba(37, 105, 166, 0.8);
     margin-left: auto;    
+    height: 140px;
 }
 
 .question {
     margin: auto auto;
     padding: 0;
-    height: 130px;
+    height: 140px;
     text-align: center;
     font-family: 'Boogaloo', cursive;
     font-size: 1.5em;
@@ -249,24 +263,26 @@ div.mainSettings {
 }
 
 .resultDiv {
-    background-color: rgba(37, 105, 166, 0.8);    
+/*    background-color: rgba(37, 105, 166, 0.8);    */
+/*    float: none;!important*/
     margin-left: auto;
     text-align: center;
-    height: 100px;
-    clear: both;
     display: block;
+    width: 100%;
 }
 
 .resultComment {
+    background-color: rgba(37, 105, 166, 0.8);
     font-family: 'Shrikhand', cursive;
     font-size: 2em;
     color: rgba(255, 0, 255, 1);
-    height: 100px;
+    height: 70px;
 }
 
 .resultChart {
-    /*background-color: rgba(37, 105, 166, 0.8); */   
-    margin-left: auto;
+    background-color: rgba(37, 105, 166, 0.8); 
+    margin-top: 5px auto 0 auto;
+/*    margin-left: auto;*/
     text-align: center;
     height: 300px;
 }
@@ -285,7 +301,7 @@ div.mainSettings {
 }
 
 .newGameBtnDiv {
-    background-color: rgba(37, 105, 166, 0.8);    
+/*    background-color: rgba(37, 105, 166, 0.8);    */
     margin-left: auto;
     margin-top: 5px;
     padding-top: 20px;
@@ -311,12 +327,12 @@ div.mainSettings {
     }
     
     .question {
-        font-size: 1.4em;
+        font-size: 1.3em;
 
     }
 
     .answers {
-        font-size: 1.7em;
+        font-size: 1.6em;
     }
 
 }
@@ -339,12 +355,12 @@ div.mainSettings {
     }
     
     .question {
-        font-size: 1.8em;
+        font-size: 1.6em;
 
     }
 
     .answers {
-        font-size: 2.2em;
+        font-size: 2em;
     }
 }
 
@@ -363,7 +379,7 @@ div.mainSettings {
 
 @media screen and (min-width: 1024px) {
     .question {
-        font-size: 2.5em;
+        font-size: 2em;
 
     }
 }
