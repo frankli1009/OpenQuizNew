@@ -17,13 +17,14 @@ var quiz = {
         this.count = data.results.length;
         this.done = 0;
         this.right = 0;
-        this.answerTime.removeAll();
+        this.answerTime = [];
     }
 };
 
 var curQuestion = {
     iCurSeconds: 5,
     iCorrect: -1,
+    startTime: null,
     cntdwnInt: null,
     
     initQuestion: function (iCorrect) {
@@ -32,6 +33,7 @@ var curQuestion = {
         this.iCurSeconds = quiz.countDown;
         
         $("#questiontime").text(this.iCurSeconds);
+        this.startTime = new Date();
         
         this.cntdwnInt = setInterval(function() {
             console.log("myInterval, CountDown: "+curQuestion.iCurSeconds);
@@ -132,7 +134,7 @@ $(function(){
            return;
         }
         
-        $(".newGameDiv").hide();
+        $("#newgamediv").hide();
         $(".questionResultDiv").show();
         
         var quizCount = parseInt($("#quizcount").val());
@@ -184,11 +186,11 @@ $(function(){
 
 function showResult(showRes) {
     if(showRes) {
-        $(".questionDiv").hide();
-        $(".resultDiv").show();
+        $("#questiondiv").hide();
+        $("#resultdiv").show();
     } else {
-        $(".resultDiv").hide();
-        $(".questionDiv").show();
+        $("#resultdiv").hide();
+        $("#questiondiv").show();
     }
 }
 
@@ -218,15 +220,15 @@ function showNextQuestion() {
         console.log("correct: "+iCorrect);
         for(var i=0; i<iCount; i++) {
             if(i === iCorrect) {
-                $("#ques1"+i).text(question.correct_answer);
+                $("#ques1"+i).html(question.correct_answer);
                 if(question.correct_answer.length>40) {
                     
                 }
             } else {
                 if(i<iCorrect) {
-                    $("#ques1"+i).text(question.incorrect_answers[i]);
+                    $("#ques1"+i).html(question.incorrect_answers[i]);
                 } else {
-                    $("#ques1"+i).text(question.incorrect_answers[i-1]);
+                    $("#ques1"+i).html(question.incorrect_answers[i-1]);
                 }
             }
             
@@ -258,7 +260,7 @@ function showNextQuestion() {
         
     } else {
         var quizRes = quiz.right * 100 / quiz.count;
-        quizRes = 90;
+        //quizRes = 90;
         $("#quizresult").text(quizRes >= 85 ? "Excellent Job" :
                              quizRes >= 60 ? "Well Done" : "More Practice Please");
         var rightWrong = [];
@@ -273,12 +275,19 @@ function showNextQuestion() {
 
 function addChart(idContainer, chartType, chartTitle, dataToDisplay) {
     var chart = new CanvasJS.Chart(idContainer, {
-        theme: "theme2",//theme1
+        theme: "theme1",//theme2
         backgroundColor: "transparent", //custom css, looking on the web docs for it
         title:{
-            text: chartTitle              
+            text: chartTitle,
+            fontColor: "rgb(255,255,255)"
         },
         animationEnabled: false,   // change to true
+        axisX: {
+            labelFontColor: "rgb(255,255,255)"
+        },
+        axisY: {
+            labelFontColor: "rgb(255,255,255)"
+        },
         data: [              
         {
             // Change type to "bar", "area", "spline", "pie",etc.
@@ -314,6 +323,11 @@ function clearRadioState() {
 }
     
 function nextQuestion() {
+    if(curQuestion.startTime != null) {
+        var curTime = new Date();
+        quiz.answerTime.push(new itemInfo(quiz.done+1, (curTime - curQuestion.startTime) / 1000.0));
+    }
+    
     quiz.done++;
     $("#didit").html(quiz.right + " / " + quiz.done);
     showNextQuestion();
