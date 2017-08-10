@@ -23,7 +23,7 @@
         <link href="css/myCSS.css" rel="stylesheet" type="text/css">
     </head>
     
-    <body>
+    <body class="container">
         
         <!-- Head Section -->
         <section>
@@ -46,10 +46,9 @@
         
         <!-- Main content section -->
         <section>
-            
-            <div class="row mainContent">
+            <div class="row quizContent">
                 <!-- Settings Area: Left -->
-                <div id="mainsettings" class="mainSettings">
+                <div id="mainsettings" class="col-sm-3 mainSettings">
                     <div id="settings" class="settings">
                         <div class="">
                             <p class="label"><label for="quizcount">Number of Questions(5-50):</label></p>
@@ -79,8 +78,8 @@
                             </select></p>
                         </div>
                         <div>
-                            <p class="label"><label for="quiztime">Limited Time Per Question(3-60):</label></p>
-                            <p><input type="number" id="quiztime" name="quiztime" value="5" title="Enter the limited time per question(3-60)" placeholder="Enter a limited time" class="inputNum">&nbsp;<span class="label">s</span></p>
+                            <p class="label"><label for="quiztime">Time Per Question(3-60)[s]:</label></p>
+                            <p><input type="number" id="quiztime" name="quiztime" value="60" title="Enter the limited time per question(3-60)" placeholder="Enter a limited time" class="inputNum"></p>
                         </div>
                     </div>
 
@@ -107,42 +106,38 @@
                 </div>
 
                 <!-- Question Area: Right -->
-                <div class="col-sm-12 col-sm-offset-4 questions">
+                <div class="col-sm-9 col-sm-offset-3 questions">
                     <!-- Initial New Game Display --> 
-                    <div class="newGameDiv">
-                        <button id="startquiz" class="startGame">Start</button>
+                    <div id="newgamediv" class="row">
+                        <div class="newGameDiv col-sm-12">
+                            <button id="startquiz" class="startGame">Start</button>
+                        </div>
                     </div>
-
+                    
                     <!-- Question/Result Area -->
                     <div class="questionResultDiv">
                         <!-- Question Area -->
-                        <div class="questionDiv">
+                        <div id="questiondiv" class="questionDiv">
                             <!-- Assist Area: top -->
-                            <div class="questionState row">
+                            <div class="row questionState">
                                 <div class="col-xs-1 col-sm-2">
                                     <p>&nbsp;</span></p>
                                 </div>
-                                <div class="warning col-xs-6 col-sm-7">
+                                <div class="col-xs-5 col-sm-7 warning">
                                     <p><span id="questiontime"></span></p>
                                 </div>
-                                <div class="didIt col-xs-5 col-sm-3">
+                                <div class="col-xs-4 col-sm-3 didIt">
                                     <p><span class="didItLabel">You did: </span><br/><span id="didit"></span></p>
                                 </div>
                             </div>
 
                             <!-- Question Area: middle -->
-                            <div class="questionDesc row">
-                                <!--
-                                <p><span class="questionTitle">Category: </span><span id="questionCategory"></span></p>
-                                <p><span class="questionTitle">Type: </span><span id="questionType"></span></p>
-                                <p><span class="questionTitle">Difficulty: </span><span id="questionDifficulty"></span></p>
-                                <p><span class="questionTitle">Question: </span><span id="questionIt"></span></p>
-                                -->
+                            <div class="row questionDesc">
                                 <p id="questionIt" class="question"></p>
                             </div>
 
                             <!-- Available Answers Area: bottom -->
-                            <div class="questionAnswers row">
+                            <div class="row questionAnswers">
                                 <div id="quesrow1" class="col-xs-12 row answers">
                                     <div id="answer1" class="col-xs-6">
                                         <div id="ques20" class="answerDiv">
@@ -175,17 +170,19 @@
                         </div>
 
                         <!-- Result Area -->
-                        <div class="resultDiv row">
+                        <div id="resultdiv" class="resultDiv row">
                             <!-- Congratulation Area: top -->
                             <div><p id="quizresult" class="resultComment"></p></div>
 
                             <!-- Chart Result Area: middle -->
-                            <div class="resultChart row">
-                                <!-- Pie for Right/Wrong result: left/top -->
-                                <div id="chartrightwrong" class="chartHolder col-xs-6"><p>PiePiePiePiePiePiePiePie</p></div>
+                            <div class="resultChart">
+                                <div class="row">
+                                    <!-- Pie for Right/Wrong result: left/top -->
+                                    <div id="chartrightwrong" class="chartHolder col-xs-4"></div>
 
-                                <!-- Line for Times used per question: right/bottom -->
-                                <div id="charttimeused" class="chartHolder col-xs-6"></div>
+                                    <!-- Line for Times used per question: right/bottom -->
+                                    <div id="charttimeused" class="chartHolder col-xs-7"></div>
+                                </div>
                             </div>
 
                         </div>
@@ -203,23 +200,6 @@
             
         </section>
         
-        <!-- Start Button and Time Section -->
-        <section id="buttons" class="buttons">
-            <div class="row">
-            </div>
-        </section>
-
-        <!-- Question and Result Section -->
-        <section id="questions" class="questions">
-            <div class="row">
-                <div class="col-md-3">
-
-                </div>
-                <div class="col-md-3">
-
-                </div>
-            </div>
-        </section>
         
         <!-- Footer -->
         <footer>Something to add...</footer>
