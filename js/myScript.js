@@ -181,7 +181,11 @@ $(function(){
             $("#didit").html("");
         });
     });
-
+    
+    $content = $(".quizContent")
+    var width = $content.width
+    $("#chartrightwrong").width = width * 4 / 10
+    $("#charttimeused").width = width * 4 / 10
 });
 
 function showResult(showRes) {
@@ -271,12 +275,18 @@ function showNextQuestion() {
         addChart('charttimeused', 'line', 'Time Used', quiz.answerTime);
         showResult(true);
         $(".resultChart").show();
+        $("#chartrightwrong div canvas").style ="width: 120px; height: 300px; position: absolute";
+        $("#chartrightwrong div canvas").width = 120;
+        $("#chartrightwrong div canvas").height = 300;
+        $("#charttimeused div canvas").style ="width: 180px; height: 300px; position: absolute";
+        $("#charttimeused div canvas").width = 180;
+        $("#charttimeused div canvas").height = 300;
     }
 }
 
 function addChart(idContainer, chartType, chartTitle, dataToDisplay) {
     var chart = new CanvasJS.Chart(idContainer, {
-        theme: "theme1",//theme2
+        theme: "theme2",//theme1
         backgroundColor: "transparent", //custom css, looking on the web docs for it
         title:{
             text: chartTitle,
