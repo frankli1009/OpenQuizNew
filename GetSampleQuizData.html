@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Get Sample Quiz Data</title>
+    </head>
+    
+    <body>
+        <h1>Get sample data for api service broken down</h1>
+        
+        <p>Due to connection error or api service failed, sometimes the application may not have the response from the https://opentdb.com, so I need to get some sample quiz data to local storage for using in such circumtances.</p>
+        
+        <script src="js/jquery-3.2.1.min.js"></script> 
+        
+        <script>
+            // Function to download data to a file
+            function download(data, filename, type) {
+                var file = new Blob([data], {type: type});
+                if (window.navigator.msSaveOrOpenBlob) // IE10+
+                    window.navigator.msSaveOrOpenBlob(file, filename);
+                else { // Others
+                    var a = document.createElement("a"),
+                            url = URL.createObjectURL(file);
+                    a.href = url;
+                    a.download = filename;
+                    document.body.appendChild(a);
+                    a.click();
+                    setTimeout(function() {
+                        document.body.removeChild(a);
+                        window.URL.revokeObjectURL(url);  
+                    }, 0); 
+                }
+            }
+            
+            var categories = [];
+            var types = ["multiple", "boolean"];
+            var difficulties = ["easy", "medium", "hard"];
+            var i = 0;
+            //get all categories
+            $.getJSON("https://opentdb.com/api_category.php")
+                .done(function(data) {
+                    console.log(data.trivia_categories);
+                    
+                    var jsonData = '{\n\t"categories": [\n';
+                    data.trivia_categories.forEach(function(category, index) {
+                        //console.log(category.name);
+                        categories[i++] = category.id;
+                        jsonData += '\t\t{\n\t\t\t"id": "'+category.id+'",\n';
+                        jsonData += '\t\t\t"name": "'+category.name+'"\n\t\t}';
+                        if(i<data.trivia_categories.length)
+                            jsonData += ',\n';
+                    });
+                    jsonData += "\n\t]\n}";
+                    //download(jsonData, "categories.json", 'application/json');
+                    
+                    if(i>0) {
+                        getQuestions(categories);
+                    }
+                })
+                .fail(function() {
+                    console.error("fail to get categories");
+                    alert("connection failed");
+                });    
+            
+            function getQuestions(categories) {
+                //get questions for each category, 50 is the maximum amount for api
+                categories.forEach(function(category, index) {
+                    //var url = "https://opentdb.com/api.php?amount=50&category=" + category;
+                    //var url = "https://opentdb.com/api.php?amount=20&category=" + category;
+                    var url = "https://opentdb.com/api.php?amount=10&category=" + category;
+
+                    //get questions for each type of each category
+                    types.forEach(function(type, index1) {
+                        url += "&type=" + type;
+
+                        //get questions for each difficulty of each type of each category
+                        difficulties.forEach(function(difficulty, index2) {
+                            url += "&difficulty=" + difficulty;
+
+                            var filename=category+"_"+type+"_"+difficulty+".json";
+                            $.getJSON(url)
+                                .done(function(data) {
+                                    console.log(data);
+                                    
+                                    if(data.response_code === 0) {
+                                        var k=0;
+                                        var jsonData = '{\n\t"response_code": "'+data.response_code+'",\n';
+                                        jsonData += '\t"results": [\n';
+                                        data.results.forEach(function(result, index) {
+                                            jsonData += '\t\t{\n\t\t\t"category": "'+result.category+'",\n';
+                                            jsonData += '\t\t\t"type": "'+result.type+'",\n';
+                                            jsonData += '\t\t\t"difficulty": "'+result.difficulty+'",\n';
+                                            jsonData += '\t\t\t"question": "'+result.question+'",\n';
+                                            jsonData += '\t\t\t"correct_answer": "'+result.correct_answer+'",\n';
+                                            jsonData += '\t\t\t"incorrect_answers": [\n';
+                                            var j=0;
+                                            result.incorrect_answers.forEach(function(incorrect_answer, index) {
+                                                jsonData += '\t\t\t\t{\n\t\t\t\t\t"incorrect_answer": "'+incorrect_answer+'"\n\t\t\t\t}';
+                                                if(++j < result.incorrect_answers.length)
+                                                    jsonData += ',';
+                                                jsonData += '\n';
+                                            });
+                                            jsonData += '\t\t\t]\n';
+                                            jsonData += '\t\t}';
+                                            if(++k < data.results.length)
+                                                jsonData += ',';
+                                            jsonData += '\n';
+                                        });
+                                        jsonData += '\t]\n}';
+
+                                        download(jsonData, filename, 'application/json');
+                                    }
+                                })
+                                .fail(function() {
+                                    console.error("fail to get questions for "+filename);
+                                });
+                        });
+                    });
+                });
+            }
+        </script>
+    </body>
+</html>
