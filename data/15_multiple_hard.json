@@ -1,0 +1,905 @@
+{
+	"response_code": "0",
+	"results": [
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What was the code name given to Sonic the Hedgehog 4 during its development?",
+			"correct_answer": "Project Needlemouse",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Project Bluespike"
+				},
+				{
+					"incorrect_answer": "Project Roboegg"
+				},
+				{
+					"incorrect_answer": "Project Darksphere"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which of these TrackMania environments was NOT in the original game?",
+			"correct_answer": "Bay",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Desert"
+				},
+				{
+					"incorrect_answer": "Snow"
+				},
+				{
+					"incorrect_answer": "Rally"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "How many people can you recruit in the game Suikoden in a single playthrough?",
+			"correct_answer": "107",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "108"
+				},
+				{
+					"incorrect_answer": "93"
+				},
+				{
+					"incorrect_answer": "96"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What was the name of the hero in the 80s animated video game &#039;Dragon&#039;s Lair&#039;?",
+			"correct_answer": "Dirk the Daring",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Arthur"
+				},
+				{
+					"incorrect_answer": "Sir Toby Belch"
+				},
+				{
+					"incorrect_answer": "Guy of Gisbourne"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "In the Super Mario Bros. Series, what is Yoshi&#039;s scientific name?",
+			"correct_answer": "T. Yoshisaur Munchakoopas",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Yoshi"
+				},
+				{
+					"incorrect_answer": "T. Yoshisotop Munchakoopas"
+				},
+				{
+					"incorrect_answer": "Yossy"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "The Internet Meme &quot;All your base are belong to us&quot; is based on the poorly translated English Version of which Video Game?",
+			"correct_answer": "Zero Wing",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "F-Zero"
+				},
+				{
+					"incorrect_answer": "Wing Commander"
+				},
+				{
+					"incorrect_answer": "Star Wars: X-Wing"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What was the nickname of the original model for Half-Life&#039;s protagonist Gordon Freeman?",
+			"correct_answer": "Ivan the Space Biker",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Gordon the Space Biker"
+				},
+				{
+					"incorrect_answer": "Ivan the Alien Biker"
+				},
+				{
+					"incorrect_answer": "Gordon the Alien Biker"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What was the world&#039;s first video game?",
+			"correct_answer": "Tennis for Two",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Spacewar!"
+				},
+				{
+					"incorrect_answer": "Pong"
+				},
+				{
+					"incorrect_answer": "Space Travel"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which of these characters in &quot;Undertale&quot; can the player NOT go on a date with?",
+			"correct_answer": "Toriel",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Papyrus"
+				},
+				{
+					"incorrect_answer": "Undyne"
+				},
+				{
+					"incorrect_answer": "Alphys"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "In the original &quot;Super Mario Bros.&quot;, what is the acceleration of Mario if he was in free fall?",
+			"correct_answer": "9.31 g",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "11 g"
+				},
+				{
+					"incorrect_answer": "9.42 g"
+				},
+				{
+					"incorrect_answer": "4.4 g"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "When was the first &quot;Half-Life&quot; released?",
+			"correct_answer": "1998",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "2004"
+				},
+				{
+					"incorrect_answer": "1999"
+				},
+				{
+					"incorrect_answer": "1997"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What is the main theme song of &quot;Sonic Adventure 2&quot;?",
+			"correct_answer": "Live and Learn",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Open Your Heart"
+				},
+				{
+					"incorrect_answer": "Can You Feel the Sunshine?"
+				},
+				{
+					"incorrect_answer": "His World"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "When was Steam first released?",
+			"correct_answer": "2003",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "2004"
+				},
+				{
+					"incorrect_answer": "2011"
+				},
+				{
+					"incorrect_answer": "2007"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "How long are all the cutscenes from Metal Gear Solid 4 (PS3, 2008) combined?",
+			"correct_answer": "8 hours",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "4 hours"
+				},
+				{
+					"incorrect_answer": "12 hours"
+				},
+				{
+					"incorrect_answer": "5 hours"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What is the fastest speed possible in Trackmania&sup2;: Stadium?",
+			"correct_answer": "1000  km/h",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "500 km/h"
+				},
+				{
+					"incorrect_answer": "320 km/h"
+				},
+				{
+					"incorrect_answer": "100 km/h"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which game was exclusive to Dreamcast?",
+			"correct_answer": "Pen Pen TriIcelon",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Sylvester &amp; Tweety in Cagey Capers"
+				},
+				{
+					"incorrect_answer": "Perfect Dark"
+				},
+				{
+					"incorrect_answer": "Tetrisphere"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What is the name of the main character in the video game VA-11 HALL-A: Cyberpunk Bartender Action?",
+			"correct_answer": "Jill",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Dana"
+				},
+				{
+					"incorrect_answer": "Alma"
+				},
+				{
+					"incorrect_answer": "Anna"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "In the game Nuclear Throne, what organization chases the player character throughout the game?",
+			"correct_answer": "The I.D.P.D",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "The Fishmen"
+				},
+				{
+					"incorrect_answer": "The Bandits"
+				},
+				{
+					"incorrect_answer": "The Y.V.G.G"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Meryl Silverburgh, a video game character from the Metal Gear series, was originally a character in which game?",
+			"correct_answer": "Policenauts",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Gradius"
+				},
+				{
+					"incorrect_answer": "Contra"
+				},
+				{
+					"incorrect_answer": "Castlevania: Symphony of the Night"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which souls game was not directed by Hidetaka Miyazaki?",
+			"correct_answer": "Dark Souls 2",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Demon Souls"
+				},
+				{
+					"incorrect_answer": "Dark Souls"
+				},
+				{
+					"incorrect_answer": "Dark Souls 3"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Before Super Smash Bros. contained Nintendo characters, what was it known as internally?",
+			"correct_answer": "Dragon King: The Fighting Game",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Contest of Champions"
+				},
+				{
+					"incorrect_answer": "Smash and Pummel"
+				},
+				{
+					"incorrect_answer": "Fighter of the Ages: Conquest"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "How long was the World Record Speed Run of Valve Software&#039;s &quot;Half-Life&quot; that was done in 2014.",
+			"correct_answer": "20 Minutes, 41 Seconds",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "45 Minutes, 32 Seconds"
+				},
+				{
+					"incorrect_answer": "5 Minutes, 50 Seconds"
+				},
+				{
+					"incorrect_answer": "12 Minutes, 59 Seconds"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which of these is NOT a possible drink to be made in the game &quot;VA-11 HALL-A: Cyberpunk Bartender Action&quot;?",
+			"correct_answer": "Sour Appletini",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Fringe Weaver"
+				},
+				{
+					"incorrect_answer": "Piano Man"
+				},
+				{
+					"incorrect_answer": "Bad Touch"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "According to Toby Fox, what was the method to creating the initial tune for Megalovania?",
+			"correct_answer": "Singing into a Microphone",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Playing a Piano"
+				},
+				{
+					"incorrect_answer": "Using a Composer Software"
+				},
+				{
+					"incorrect_answer": "Listened to birds at the park"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "In the Fallout series, on which date did The Great War happen?",
+			"correct_answer": "October 23rd, 2077",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "May 15th, 2058"
+				},
+				{
+					"incorrect_answer": "December 14th, 2069"
+				},
+				{
+					"incorrect_answer": "November 5th, 2076"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What animal is on Link&#039;s pajamas in The Legend of Zelda: The Wind Waker?",
+			"correct_answer": "Crawfish",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Lobster"
+				},
+				{
+					"incorrect_answer": "Salmon"
+				},
+				{
+					"incorrect_answer": "Swordfish"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "How many total monsters appear in Monster Hunter Generations?",
+			"correct_answer": "105",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "100"
+				},
+				{
+					"incorrect_answer": "98"
+				},
+				{
+					"incorrect_answer": "73"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "In Monster Hunter Generations, which of these hunter arts are exclusive to the Longsword?",
+			"correct_answer": "Unhinged Spirit",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Shoryugeki"
+				},
+				{
+					"incorrect_answer": "Provoke"
+				},
+				{
+					"incorrect_answer": "Demon Riot"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What&#039;s the name of the halloween-related Sims 4 Stuff Pack released September 29th, 2015?",
+			"correct_answer": "Spooky Stuff",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Ghosts n&#039; Ghouls"
+				},
+				{
+					"incorrect_answer": "Nerving Nights"
+				},
+				{
+					"incorrect_answer": "Fearful Frights"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "In Xenoblade Chronicles X, which class has a sniper rifle as it&#039;s primary weapon?",
+			"correct_answer": "Partisan Eagle",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Blast Fencer"
+				},
+				{
+					"incorrect_answer": "Winged Viper"
+				},
+				{
+					"incorrect_answer": "Bastion Warrior"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which Kingdom Hearts game featured the cast of &quot;The World Ends With You&quot;?",
+			"correct_answer": "Dream Drop Distance",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Birth By Sleep"
+				},
+				{
+					"incorrect_answer": "365/2 Days"
+				},
+				{
+					"incorrect_answer": "Re:Chain of Memories"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "In Animal Crossing: New Leaf, which of these paintings from Redd&#039;s Art Gallery is always genuine?",
+			"correct_answer": "Warm Painting",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Jolly Painting"
+				},
+				{
+					"incorrect_answer": "Neutral Painting"
+				},
+				{
+					"incorrect_answer": "Wistful Painting"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "The voice actor for which Portal 2 character was not a TV or film actor prior to the game?",
+			"correct_answer": "GLaDOS",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Cave Johnson"
+				},
+				{
+					"incorrect_answer": "Wheatley"
+				},
+				{
+					"incorrect_answer": "Atlas / P-Body"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What do the video games No Man&rsquo;s Sky and Mighty No. 9 have in common?",
+			"correct_answer": "Both were announced in 2013.",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Both were crowdfunded."
+				},
+				{
+					"incorrect_answer": "Both were developed by indie studios."
+				},
+				{
+					"incorrect_answer": "Both were released for the PlayStation 3."
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which day in &quot;Papers, Please&quot; does the man in red appear?",
+			"correct_answer": "Day 23",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Day 20"
+				},
+				{
+					"incorrect_answer": "Day 17"
+				},
+				{
+					"incorrect_answer": "Day 15"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "In the Pok&eacute;mon series, what is Palkia&#039;s hidden ability?",
+			"correct_answer": "Telepathy",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Pressure"
+				},
+				{
+					"incorrect_answer": "Water Bubble"
+				},
+				{
+					"incorrect_answer": "Hydration"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "How many playable characters are there in Super Smash Bros. for Nintendo 3DS and Wii U?",
+			"correct_answer": "58",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "48"
+				},
+				{
+					"incorrect_answer": "51"
+				},
+				{
+					"incorrect_answer": "55"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "During development of &quot;Super Mario World&quot;, Yoshi&#039;s hard saddle was originally which of these?",
+			"correct_answer": "A shell",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "A slide of Gelatin"
+				},
+				{
+					"incorrect_answer": "A poffin"
+				},
+				{
+					"incorrect_answer": "A spike"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which character from the Mega Man series made a small cameo on Volt Catfish&#039;s introduction scene in CD versions of Mega Man X3?",
+			"correct_answer": "Auto",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Eddie"
+				},
+				{
+					"incorrect_answer": "Tango"
+				},
+				{
+					"incorrect_answer": "Rush"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which of these games was NOT developed by Markus Persson?",
+			"correct_answer": "Dwarf Fortress",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Minecraft"
+				},
+				{
+					"incorrect_answer": "Wurm Online"
+				},
+				{
+					"incorrect_answer": "0x10c"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which of the following games in the The Legend of Zelda franchise was released in Japan before North America?",
+			"correct_answer": "The Legend of Zelda: The Minish Cap",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "The Legend of Zelda: Twilight Princess"
+				},
+				{
+					"incorrect_answer": "The Legend of Zelda: Spirit Tracks"
+				},
+				{
+					"incorrect_answer": "The Legend of Zelda: Four Swords"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which variant of the MP5 is depicted in Counter-Strike 1.6?",
+			"correct_answer": "MP5N",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "MP5SD"
+				},
+				{
+					"incorrect_answer": "MP5K"
+				},
+				{
+					"incorrect_answer": "MP5RAS"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "In &quot;Earthbound&quot;, how does one enter &quot;Master Belch&#039;s&quot; factory?",
+			"correct_answer": "Wait 3 Minutes",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Enter the password &quot;Fly Honey&quot;"
+				},
+				{
+					"incorrect_answer": "Enter the password &quot;Master Belch Rules&quot;"
+				},
+				{
+					"incorrect_answer": "Enter the password &quot;Mr Saturn Drools&quot;"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "In &quot;Super Mario Sunshine&quot;, how do you unlock the &quot;Corona Mountain&quot; level?",
+			"correct_answer": "By clearing every 7th episode",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "By obtaining 70 Shines"
+				},
+				{
+					"incorrect_answer": "By clearing every episode involving a &quot;Secret&quot;"
+				},
+				{
+					"incorrect_answer": "By unlocking every nozzle F.L.U.D.D can use"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "In the &quot;Little Lost Girl&quot; Easter Egg in Call of Duty: Black Ops II, what&#039;s the last step required for the achievement?",
+			"correct_answer": "Raise Hell",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Freedom"
+				},
+				{
+					"incorrect_answer": "Skewer the Winged Beast"
+				},
+				{
+					"incorrect_answer": "Ascend from Darkness"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "In the &quot;Halo&quot; series, what is the name of the race of aliens humans refer to as &quot;Grunts&quot;?",
+			"correct_answer": "Unggoy",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Huragok"
+				},
+				{
+					"incorrect_answer": "Sangheili"
+				},
+				{
+					"incorrect_answer": "Yanme&#039;e"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "In the &quot;Devil May Cry&quot; franchise, which game is chronologically first?",
+			"correct_answer": "Devil May Cry 3: Dante&#039;s Awakening ",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Devil May Cry 4"
+				},
+				{
+					"incorrect_answer": "Devil May Cry"
+				},
+				{
+					"incorrect_answer": "Devil May Cry 2"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "In &quot;Starbound&quot;, what is the max HP of the monster &quot;Punchy&quot;?",
+			"correct_answer": "50,000 HP",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "9,000,000 HP"
+				},
+				{
+					"incorrect_answer": "100 HP"
+				},
+				{
+					"incorrect_answer": "150,000 HP"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "According to the lore of &quot;Starbound&quot;, what does the &quot;Colony Deed&quot; do when it is placed down?",
+			"correct_answer": "Sends out an advertisement for someone to move in.",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Teleports somebody from somewhere on the planet it is placed."
+				},
+				{
+					"incorrect_answer": "Teleports a random person to the location."
+				},
+				{
+					"incorrect_answer": "Materializes a new being at it&#039;s location."
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What programming language was used to create the game &quot;Minecraft&quot;?",
+			"correct_answer": "Java",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "HTML 5"
+				},
+				{
+					"incorrect_answer": "C++"
+				},
+				{
+					"incorrect_answer": "Python"
+				}
+			]
+		}
+	]
+}

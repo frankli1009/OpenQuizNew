@@ -1,0 +1,365 @@
+{
+	"response_code": "0",
+	"results": [
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the colour of unoxidized blood?",
+			"correct_answer": "Red",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Blue"
+				},
+				{
+					"incorrect_answer": "Purple"
+				},
+				{
+					"incorrect_answer": "Green"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "The humerus, paired radius, and ulna come together to form what joint?",
+			"correct_answer": "Elbow",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Knee"
+				},
+				{
+					"incorrect_answer": "Sholder"
+				},
+				{
+					"incorrect_answer": "Ankle"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What was the first living creature in space?",
+			"correct_answer": "Fruit Flies ",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Monkey"
+				},
+				{
+					"incorrect_answer": "Dog"
+				},
+				{
+					"incorrect_answer": "Mouse"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "To the nearest minute, how long does it take for light to travel from the Sun to the Earth?",
+			"correct_answer": "8 Minutes",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "6 Minutes"
+				},
+				{
+					"incorrect_answer": "2 Minutes"
+				},
+				{
+					"incorrect_answer": "12 Minutes"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which element has the atomic number of 7?",
+			"correct_answer": "Nitrogen",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Oxygen"
+				},
+				{
+					"incorrect_answer": "Hydrogen"
+				},
+				{
+					"incorrect_answer": "Neon"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Au on the Periodic Table refers to which element?",
+			"correct_answer": "Gold",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Silver"
+				},
+				{
+					"incorrect_answer": "Oxygen"
+				},
+				{
+					"incorrect_answer": "Nickel"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "All the following metal elements are liquids at or near room temperature EXCEPT:",
+			"correct_answer": "Beryllium",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Gallium"
+				},
+				{
+					"incorrect_answer": "Caesium"
+				},
+				{
+					"incorrect_answer": "Mercury"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "The Axiom of Preventive Medicine states that people with ___ risk for a disease should be screened and we should treat ___ of those people.",
+			"correct_answer": "low, all",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "low, some"
+				},
+				{
+					"incorrect_answer": "high, all"
+				},
+				{
+					"incorrect_answer": "high, some"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which psychological term refers to the stress of holding contrasting beliefs?",
+			"correct_answer": "Cognitive Dissonance",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Flip-Flop Syndrome"
+				},
+				{
+					"incorrect_answer": "Split-Brain"
+				},
+				{
+					"incorrect_answer": "Blind Sight"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Who developed the first successful polio vaccine in the 1950s?",
+			"correct_answer": "Jonas Salk",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "John F. Enders"
+				},
+				{
+					"incorrect_answer": "Thomas Weller"
+				},
+				{
+					"incorrect_answer": "Frederick Robbins"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Where did the dog breed &quot;Chihuahua&quot; originate?",
+			"correct_answer": "Mexico",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "France"
+				},
+				{
+					"incorrect_answer": "Spain"
+				},
+				{
+					"incorrect_answer": "Russia"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "The medical condition osteoporosis affects which part of the body?",
+			"correct_answer": "Bones",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Skin"
+				},
+				{
+					"incorrect_answer": "Brain"
+				},
+				{
+					"incorrect_answer": "Heart"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the atomic number of the element Strontium?",
+			"correct_answer": "38",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "73"
+				},
+				{
+					"incorrect_answer": "47"
+				},
+				{
+					"incorrect_answer": "11"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What does the yellow diamond on the NFPA 704 fire diamond represent?",
+			"correct_answer": "Reactivity",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Health"
+				},
+				{
+					"incorrect_answer": "Flammability"
+				},
+				{
+					"incorrect_answer": "Radioactivity"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In Chemistry, how many isomers does Butanol (C4H9OH) have?",
+			"correct_answer": "4",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "3"
+				},
+				{
+					"incorrect_answer": "5"
+				},
+				{
+					"incorrect_answer": "6"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What stage of development do the majority of eukaryotic cells remain in for most of their life?",
+			"correct_answer": "Interphase",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Prophase"
+				},
+				{
+					"incorrect_answer": "Stasis"
+				},
+				{
+					"incorrect_answer": "Telophase"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "At what temperature does water boil?",
+			"correct_answer": "212&deg;F",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "200&deg;F"
+				},
+				{
+					"incorrect_answer": "181&deg;F"
+				},
+				{
+					"incorrect_answer": "178&deg;F"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Deuterium is an isotope of which element?",
+			"correct_answer": "Hydrogen",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Nitrogen"
+				},
+				{
+					"incorrect_answer": "Helium"
+				},
+				{
+					"incorrect_answer": "Neon"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "A positron is an antiparticle of a what?",
+			"correct_answer": "Electron",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Neutron"
+				},
+				{
+					"incorrect_answer": "Proton"
+				},
+				{
+					"incorrect_answer": "Photon"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the unit of electrical capacitance?",
+			"correct_answer": "Farad",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Gauss"
+				},
+				{
+					"incorrect_answer": "Henry"
+				},
+				{
+					"incorrect_answer": "Watt"
+				}
+			]
+		}
+	]
+}

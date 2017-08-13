@@ -1,0 +1,905 @@
+{
+	"response_code": "0",
+	"results": [
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of the following is NOT a quote from the 1942 film Casablanca? ",
+			"correct_answer": "&quot;Frankly, my dear, I don&#039;t give a damn.&quot;",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "&quot;Here&#039;s lookin&#039; at you, kid.&quot;"
+				},
+				{
+					"incorrect_answer": "&ldquo;Of all the gin joints, in all the towns, in all the world, she walks into mine&hellip;&rdquo;"
+				},
+				{
+					"incorrect_answer": "&quot;Round up the usual suspects.&quot;"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In the film &quot;Interstellar&quot;, how long did they spend on Miller&#039;s planet?",
+			"correct_answer": "23 years, 4 months, and 8 days",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "15 years, 2 months, and 15 days"
+				},
+				{
+					"incorrect_answer": "10 months and 6 days"
+				},
+				{
+					"incorrect_answer": "26 years, 4 months, and 10 days"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which 1958 movie starred Kirk Douglas and Tony Curtis as half-brothers Einar and Eric?",
+			"correct_answer": "The Vikings ",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "The Long Ships"
+				},
+				{
+					"incorrect_answer": "Prince Valiant"
+				},
+				{
+					"incorrect_answer": "Spartacus"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which retired American football quarterback played himself in &#039;Ace Ventura: Pet Detective&#039; and &#039;Little Nicky&#039;?",
+			"correct_answer": "Dan Marino",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "John Elway"
+				},
+				{
+					"incorrect_answer": "Tom Brady"
+				},
+				{
+					"incorrect_answer": "Joe Montana"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What was Marilyn Monroe`s character&#039;s first name in the film &quot;Some Like It Hot&quot;?",
+			"correct_answer": "Sugar",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Honey"
+				},
+				{
+					"incorrect_answer": "Caramel"
+				},
+				{
+					"incorrect_answer": "Candy"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Velma Kelly and Roxie Hart are the protagonists of which Oscar winning movie?",
+			"correct_answer": "Chicago",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Dreamgirls"
+				},
+				{
+					"incorrect_answer": "Cabaret"
+				},
+				{
+					"incorrect_answer": "All That Jazz"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In which 1973 film does Yul Brynner play a robotic cowboy who malfunctions and goes on a killing	spree?",
+			"correct_answer": "Westworld",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Runaway"
+				},
+				{
+					"incorrect_answer": "Android"
+				},
+				{
+					"incorrect_answer": "The Terminators"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Who voiced the character Draco in the 1996 movie &#039;DragonHeart&#039;?",
+			"correct_answer": "Sean Connery",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Dennis Quaid"
+				},
+				{
+					"incorrect_answer": "Pete Postlethwaite"
+				},
+				{
+					"incorrect_answer": "Brian Thompson"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In the 1984 movie &quot;The Terminator&quot;, what model number is the Terminator portrayed by Arnold Schwarzenegger?",
+			"correct_answer": "T-800",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "I-950"
+				},
+				{
+					"incorrect_answer": "T-888"
+				},
+				{
+					"incorrect_answer": "T-1000"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which actor played the main character in the 1990 film &quot;Edward Scissorhands&quot;?",
+			"correct_answer": "Johnny Depp",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": " Clint Eastwood"
+				},
+				{
+					"incorrect_answer": "Leonardo DiCaprio"
+				},
+				{
+					"incorrect_answer": "Ben Stiller"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the name of James Dean&#039;s character in the 1955 movie &quot;Rebel Without a Cause&quot;?",
+			"correct_answer": "Jim Stark",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Ned Stark"
+				},
+				{
+					"incorrect_answer": "Jim Kane"
+				},
+				{
+					"incorrect_answer": "Frank Stark"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In which 1955 film does Frank Sinatra play Nathan Detroit?",
+			"correct_answer": "Guys and Dolls",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Anchors Aweigh"
+				},
+				{
+					"incorrect_answer": "From Here to Eternity"
+				},
+				{
+					"incorrect_answer": "High Society"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the name of the robot in the 1951 science fiction film classic &#039;The Day the Earth Stood Still&#039;?",
+			"correct_answer": "Gort",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Robby"
+				},
+				{
+					"incorrect_answer": "Colossus"
+				},
+				{
+					"incorrect_answer": "Box"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Who directed the 1973 film &quot;American Graffiti&quot;?",
+			"correct_answer": "George Lucas",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Ron Howard"
+				},
+				{
+					"incorrect_answer": "Francis Ford Coppola"
+				},
+				{
+					"incorrect_answer": "Steven Spielberg"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "This movie contains the quote, &quot;I love the smell of napalm in the morning!&quot;",
+			"correct_answer": "Apocalypse Now",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Platoon"
+				},
+				{
+					"incorrect_answer": "The Deer Hunter"
+				},
+				{
+					"incorrect_answer": "Full Metal Jacket"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "This movie contains the quote, &quot;What we&#039;ve got here is a failure to communicate.&quot;",
+			"correct_answer": "Cool Hand Luke",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Bonnie and Clyde"
+				},
+				{
+					"incorrect_answer": "The Graduate"
+				},
+				{
+					"incorrect_answer": "In the Heat of the Night"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In which African country was the 2006 film &#039;Blood Diamond&#039; mostly set in?",
+			"correct_answer": "Sierra Leone",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Liberia"
+				},
+				{
+					"incorrect_answer": "Burkina Faso"
+				},
+				{
+					"incorrect_answer": "Central African Republic"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the name of the dog that played Toto in the 1939 film &quot;The Wizard of Oz&quot;?",
+			"correct_answer": "Terry",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Tommy"
+				},
+				{
+					"incorrect_answer": "Teddy"
+				},
+				{
+					"incorrect_answer": "Toto"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the name of the first &quot;Star Wars&quot; film by release order?",
+			"correct_answer": "A New Hope",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "The Phantom Menace"
+				},
+				{
+					"incorrect_answer": "The Force Awakens"
+				},
+				{
+					"incorrect_answer": "Revenge of the Sith"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which movie sequel had improved box office results compared to its original film?",
+			"correct_answer": "Toy Story 2",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Sin City: A Dame to Kill For"
+				},
+				{
+					"incorrect_answer": "Speed 2: Cruise Control"
+				},
+				{
+					"incorrect_answer": "Son of the Mask"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which iconic character is featured in movies such as &quot;The Enforcer&quot;, &quot;Sudden Impact&quot;, and &quot;The Dead Pool&quot;?",
+			"correct_answer": "Dirty Harry",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Indiana Jones"
+				},
+				{
+					"incorrect_answer": "James Bond"
+				},
+				{
+					"incorrect_answer": "Harry Potter"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In the 1994 movie &quot;Speed&quot;, what is the minimum speed the bus must go to prevent to bomb from exploding?",
+			"correct_answer": "50 mph",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "60 mph"
+				},
+				{
+					"incorrect_answer": "40 mph"
+				},
+				{
+					"incorrect_answer": "70 mph"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Who plays the Nemesis in the Resident Evil movies?",
+			"correct_answer": "Matthew Taylor",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Jason Dip"
+				},
+				{
+					"incorrect_answer": "Eric Mabius"
+				},
+				{
+					"incorrect_answer": "Jimmy Matts"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "The name of the villian in the 2015 Russian-American Sci-Fi Movie &quot;Hardcore Henry&quot; is...",
+			"correct_answer": "Akan",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Estelle"
+				},
+				{
+					"incorrect_answer": "Jimmy"
+				},
+				{
+					"incorrect_answer": "Henry"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In the 1979 British film &quot;Quadrophenia&quot; what is the name of the main protagonist?",
+			"correct_answer": "Jimmy Cooper",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Pete Townshend"
+				},
+				{
+					"incorrect_answer": "Franc Roddam"
+				},
+				{
+					"incorrect_answer": "Archie Bunker"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Who played Baron Victor Frankestein in the 1957 Hammer horror film &quot;The Curse of Frankenstein&quot;?",
+			"correct_answer": "Peter Cushing",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Boris Karloff"
+				},
+				{
+					"incorrect_answer": "Vincent Price"
+				},
+				{
+					"incorrect_answer": "Lon Chaney Jr."
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In the 2010 Nightmare on Elm Street reboot, who played Freddy Kruger?",
+			"correct_answer": "Jackie Earle Haley",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Tyler Mane"
+				},
+				{
+					"incorrect_answer": "Derek Mears"
+				},
+				{
+					"incorrect_answer": "Gunnar Hansen"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "The 1939 movie &quot;The Wizard of Oz&quot; contained a horse that changed color, what material did they use to achieve this effect?",
+			"correct_answer": "Gelatin",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Dye"
+				},
+				{
+					"incorrect_answer": "Paint"
+				},
+				{
+					"incorrect_answer": "CGI Effect"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which one of these films are shot entirely in one-take?",
+			"correct_answer": "Russian Ark",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Good Will Hunting"
+				},
+				{
+					"incorrect_answer": "Birdman"
+				},
+				{
+					"incorrect_answer": "Schindler&#039;s List"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which one of these actors is said to be cut from the film &#039;E.T. the Extra-Terrestrial&#039;?",
+			"correct_answer": "Harrison Ford",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Michael J. Fox"
+				},
+				{
+					"incorrect_answer": "Andy Kaufman"
+				},
+				{
+					"incorrect_answer": "Arnold Schwarzenegger"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which movie of film director Stanley Kubrick is known to be an adaptation of a Stephen King novel?",
+			"correct_answer": "The Shining",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "2001: A Space Odyssey"
+				},
+				{
+					"incorrect_answer": " Dr. Strangelove "
+				},
+				{
+					"incorrect_answer": "Eyes Wide Shut"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the correct phrase for the Latin saying &quot;Romanes Eunt Domus&quot; in Monty Python&#039;s Life of Brian?",
+			"correct_answer": "Romani Ite Domum",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Romans Go Home"
+				},
+				{
+					"incorrect_answer": "Roxani Ite Domum"
+				},
+				{
+					"incorrect_answer": "Tomate Ite Domum"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Who played Sgt. Gordon Elias in &#039;Platoon&#039; (1986)?",
+			"correct_answer": "Willem Dafoe",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Charlie Sheen"
+				},
+				{
+					"incorrect_answer": "Matt Damon"
+				},
+				{
+					"incorrect_answer": "Johnny Depp"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Who voices the main character Blu in the 2011 animated film &quot;Rio&quot;?",
+			"correct_answer": "Jesse Eisenberg",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Michael Cera"
+				},
+				{
+					"incorrect_answer": "Jonah Hill"
+				},
+				{
+					"incorrect_answer": "Zach Galifianakis"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In The Lord of the Rings: The Fellowship of the Ring, which one of the following characters from the book was left out of the film?",
+			"correct_answer": "Tom Bombadil",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Strider"
+				},
+				{
+					"incorrect_answer": "Barliman Butterbur"
+				},
+				{
+					"incorrect_answer": "Celeborn"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In Back to the Future Part II, Marty and Dr. Emmett Brown go to which future date?",
+			"correct_answer": "October 21, 2015",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "August 28, 2015"
+				},
+				{
+					"incorrect_answer": "July 20, 2015"
+				},
+				{
+					"incorrect_answer": "January 25, 2015"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In the 1999 movie Fight Club, which of these is not a rule of the &quot;fight club&quot;?",
+			"correct_answer": "Always wear a shirt",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "You do not talk about FIGHT CLUB"
+				},
+				{
+					"incorrect_answer": "Only two guys to a fight"
+				},
+				{
+					"incorrect_answer": "Fights will go on as long as they have to"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Darth Vader&#039;s famous reveal to Luke is iconic. But which of these is the right one?",
+			"correct_answer": "&quot;No. I am your father.&quot;",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "&quot;Luke, I am your father.&quot;"
+				},
+				{
+					"incorrect_answer": "&quot;You&#039;re wrong. I am your father.&quot;"
+				},
+				{
+					"incorrect_answer": "&quot;The truth is that I am your father.&quot;"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "This trope refers to minor characters that are killed off to show how a monster works.",
+			"correct_answer": "Red Shirt",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Minions"
+				},
+				{
+					"incorrect_answer": "Expendables"
+				},
+				{
+					"incorrect_answer": "Cannon Fodder"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What year did the James Cameron film &quot;Titanic&quot; come out in theaters?",
+			"correct_answer": "1997",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "1996"
+				},
+				{
+					"incorrect_answer": "1998"
+				},
+				{
+					"incorrect_answer": "1999"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Who voiced Metalbeard in &quot;The Lego Movie&quot;?",
+			"correct_answer": "Nick Offerman",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Liam Neeson"
+				},
+				{
+					"incorrect_answer": "Morgan Freeman"
+				},
+				{
+					"incorrect_answer": "Will Arnet"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What was the name of the protagonist in the movie Commando (1985)?",
+			"correct_answer": "John Matrix",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Ben Richards"
+				},
+				{
+					"incorrect_answer": "Douglas Quaid"
+				},
+				{
+					"incorrect_answer": "Harry Tasker"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Who played the Cenobite called &quot;Pinhead&quot; in the original Hellraiser films?",
+			"correct_answer": "Doug Bradley",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Doug Jones"
+				},
+				{
+					"incorrect_answer": "Doug Savant"
+				},
+				{
+					"incorrect_answer": "Doug Benson"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the correct spelling of the protagonist of the book in The NeverEnding Story (1984)?",
+			"correct_answer": "Atreyu",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Atrayu"
+				},
+				{
+					"incorrect_answer": "Atraiyu"
+				},
+				{
+					"incorrect_answer": "Atraeyu"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In which movie does Robin Williams&#039; character have to disguise themselves into a woman?",
+			"correct_answer": "Mrs. Doubtfire",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Old Dogs"
+				},
+				{
+					"incorrect_answer": "Jumanji"
+				},
+				{
+					"incorrect_answer": "Awakenings"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What type of cheese, loved by Wallace and Gromit, had it&#039;s sale prices rise after their successful short films?",
+			"correct_answer": "Wensleydale",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Cheddar"
+				},
+				{
+					"incorrect_answer": "Moon Cheese"
+				},
+				{
+					"incorrect_answer": "Edam"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Who is the director of the 1991 film &quot;Silence of the Lambs&quot;?",
+			"correct_answer": "Jonathan Demme",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Stanley Kubrick"
+				},
+				{
+					"incorrect_answer": "Frank Darabont"
+				},
+				{
+					"incorrect_answer": "Michael Bay"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In the &quot;Jurassic Park&quot; universe, what is the name of the island that contains InGen&#039;s Site B?",
+			"correct_answer": "Isla Sorna",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Isla Nublar"
+				},
+				{
+					"incorrect_answer": "Isla Pena"
+				},
+				{
+					"incorrect_answer": "Isla Muerta"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the make and model of the tour vehicles in &quot;Jurassic Park&quot;?",
+			"correct_answer": "1992 Ford Explorer XLT",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "1992 Toyota Land Cruiser"
+				},
+				{
+					"incorrect_answer": "1992 Jeep Wrangler YJ Sahar"
+				},
+				{
+					"incorrect_answer": "Mercedes M-Class"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In &quot;Jurassic World&quot;, which company purchases InGen and creates Jurassic World?",
+			"correct_answer": "Masrani Global Corporation ",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Biology Synthetics Technologies"
+				},
+				{
+					"incorrect_answer": "International Genetics Incorporated"
+				},
+				{
+					"incorrect_answer": "International Genetic Technologies"
+				}
+			]
+		}
+	]
+}

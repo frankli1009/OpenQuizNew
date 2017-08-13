@@ -1,0 +1,185 @@
+{
+	"response_code": "0",
+	"results": [
+		{
+			"category": "Entertainment: Board Games",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Carcassonne is based on which French town?",
+			"correct_answer": "Carcassonne",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Paris"
+				},
+				{
+					"incorrect_answer": "Marseille"
+				},
+				{
+					"incorrect_answer": "Clermont-Ferrand"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Board Games",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "In a standard game of Monopoly, what colour are the two cheapest properties?",
+			"correct_answer": "Brown",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Green"
+				},
+				{
+					"incorrect_answer": "Yellow"
+				},
+				{
+					"incorrect_answer": "Blue"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Board Games",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "How many spaces are there on a standard Monopoly board?",
+			"correct_answer": "40",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "28"
+				},
+				{
+					"incorrect_answer": "55"
+				},
+				{
+					"incorrect_answer": "36"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Board Games",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "How many dice are used in the game of Yahtzee?",
+			"correct_answer": "Five",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Four"
+				},
+				{
+					"incorrect_answer": "Six"
+				},
+				{
+					"incorrect_answer": "Eight"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Board Games",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "How many pieces are there on the board at the start of a game of chess?",
+			"correct_answer": "32",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "16"
+				},
+				{
+					"incorrect_answer": "20"
+				},
+				{
+					"incorrect_answer": "36"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Board Games",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "On a standard Monopoly board, which square is diagonally opposite &#039;Go&#039;? ",
+			"correct_answer": "Free Parking",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Go to Jail"
+				},
+				{
+					"incorrect_answer": "Jail"
+				},
+				{
+					"incorrect_answer": "The Electric Company"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Board Games",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "How many dots are on a single die?",
+			"correct_answer": "21",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "24"
+				},
+				{
+					"incorrect_answer": "15"
+				},
+				{
+					"incorrect_answer": "18"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Board Games",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which of these games includes the phrase &quot;Do not pass Go, do not collect $200&quot;?",
+			"correct_answer": "Monopoly",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Pay Day"
+				},
+				{
+					"incorrect_answer": "Cluedo"
+				},
+				{
+					"incorrect_answer": "Coppit"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Board Games",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which one of these is not a real game in the Dungeons &amp; Dragons series?",
+			"correct_answer": "Extreme Dungeons &amp; Dragons",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Advanced Dungeons &amp; Dragons"
+				},
+				{
+					"incorrect_answer": "Dungeons &amp; Dragons 3.5th edition"
+				},
+				{
+					"incorrect_answer": "Advanced Dungeons &amp; Dragons 2nd edition"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Board Games",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "The board game Monopoly takes its street names from which real American city?",
+			"correct_answer": "Atlantic City, New Jersey",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Las Vegas, Nevada"
+				},
+				{
+					"incorrect_answer": "Duluth, Minnesota"
+				},
+				{
+					"incorrect_answer": "Charleston, South Carolina"
+				}
+			]
+		}
+	]
+}

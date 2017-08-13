@@ -1,0 +1,365 @@
+{
+	"response_code": "0",
+	"results": [
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What does AD stand for in relation to Windows Operating Systems? ",
+			"correct_answer": "Active Directory",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Alternative Drive"
+				},
+				{
+					"incorrect_answer": "Automated Database"
+				},
+				{
+					"incorrect_answer": "Active Department"
+				}
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of the following languages is used as a scripting language in the Unity 3D game engine?",
+			"correct_answer": "C#",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Java"
+				},
+				{
+					"incorrect_answer": "C++"
+				},
+				{
+					"incorrect_answer": "Objective-C"
+				}
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?",
+			"correct_answer": "Taiwan",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "United States"
+				},
+				{
+					"incorrect_answer": "Germany"
+				},
+				{
+					"incorrect_answer": "China (People&#039;s Republic of)"
+				}
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Nvidia&#039;s headquarters are based in which Silicon Valley city?",
+			"correct_answer": "Santa Clara",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Palo Alto"
+				},
+				{
+					"incorrect_answer": "Cupertino"
+				},
+				{
+					"incorrect_answer": "Mountain View"
+				}
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What was the first commerically available computer processor?",
+			"correct_answer": "Intel 4004",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Intel 486SX"
+				},
+				{
+					"incorrect_answer": "TMS 1000"
+				},
+				{
+					"incorrect_answer": "AMD AM386"
+				}
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What was the name given to Android 4.3?",
+			"correct_answer": "Jelly Bean",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Lollipop"
+				},
+				{
+					"incorrect_answer": "Nutella"
+				},
+				{
+					"incorrect_answer": "Froyo"
+				}
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "While Apple was formed in California, in which western state was Microsoft founded?",
+			"correct_answer": "New Mexico",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Washington"
+				},
+				{
+					"incorrect_answer": "Colorado"
+				},
+				{
+					"incorrect_answer": "Arizona"
+				}
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What does the acronym CDN stand for in terms of networking?",
+			"correct_answer": "Content Delivery Network",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Content Distribution Network"
+				},
+				{
+					"incorrect_answer": "Computational Data Network"
+				},
+				{
+					"incorrect_answer": "Compressed Data Network"
+				}
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "How many cores does the Intel i7-6950X have?",
+			"correct_answer": "10",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "12"
+				},
+				{
+					"incorrect_answer": "8"
+				},
+				{
+					"incorrect_answer": "4"
+				}
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which coding language was the #1 programming language in terms of usage on GitHub in 2015?",
+			"correct_answer": "JavaScript",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "C#"
+				},
+				{
+					"incorrect_answer": "Python"
+				},
+				{
+					"incorrect_answer": "PHP"
+				}
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the name of the default theme that is installed with Windows XP?",
+			"correct_answer": "Luna",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Neptune"
+				},
+				{
+					"incorrect_answer": "Whistler"
+				},
+				{
+					"incorrect_answer": "Bliss"
+				}
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?",
+			"correct_answer": "&lt;marquee&gt;&lt;/marquee&gt;",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "&lt;scroll&gt;&lt;/scroll&gt;"
+				},
+				{
+					"incorrect_answer": "&lt;move&gt;&lt;/move&gt;"
+				},
+				{
+					"incorrect_answer": "&lt;slide&gt;&lt;/slide&gt;"
+				}
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In CSS, which of these values CANNOT be used with the &quot;position&quot; property?",
+			"correct_answer": "center",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "static"
+				},
+				{
+					"incorrect_answer": "absolute"
+				},
+				{
+					"incorrect_answer": "relative"
+				}
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In programming, the ternary operator is mostly defined with what symbol(s)?",
+			"correct_answer": "?:",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "??"
+				},
+				{
+					"incorrect_answer": "if then"
+				},
+				{
+					"incorrect_answer": "?"
+				}
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which operating system was released first?",
+			"correct_answer": "Mac OS",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Windows"
+				},
+				{
+					"incorrect_answer": "Linux"
+				},
+				{
+					"incorrect_answer": "OS/2"
+				}
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is known as &quot;the brain&quot; of the Computer?",
+			"correct_answer": "Central Processing Unit",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Motherboard"
+				},
+				{
+					"incorrect_answer": "Graphics Processing Unit"
+				},
+				{
+					"incorrect_answer": "Keyboard"
+				}
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What does the term GPU stand for?",
+			"correct_answer": "Graphics Processing Unit",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Gaming Processor Unit"
+				},
+				{
+					"incorrect_answer": "Graphite Producing Unit"
+				},
+				{
+					"incorrect_answer": "Graphical Proprietary Unit"
+				}
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What was the first Android version specifically optimized for tablets?",
+			"correct_answer": "Honeycomb",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Eclair"
+				},
+				{
+					"incorrect_answer": "Froyo"
+				},
+				{
+					"incorrect_answer": "Marshmellow"
+				}
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "When did the online streaming service &quot;Mixer&quot; launch?",
+			"correct_answer": "2016",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "2013"
+				},
+				{
+					"incorrect_answer": "2009"
+				},
+				{
+					"incorrect_answer": "2011"
+				}
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What does the term MIME stand for, in regards to computing?",
+			"correct_answer": "Multipurpose Internet Mail Extensions",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Mail Internet Mail Exchange"
+				},
+				{
+					"incorrect_answer": "Multipurpose Interleave Mail Exchange"
+				},
+				{
+					"incorrect_answer": "Mail Interleave Method Exchange"
+				}
+			]
+		}
+	]
+}

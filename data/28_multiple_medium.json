@@ -1,0 +1,365 @@
+{
+	"response_code": "0",
+	"results": [
+		{
+			"category": "Vehicles",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What was the name of the first front-wheel-drive car produced by Datsun (now Nissan)?",
+			"correct_answer": "Cherry",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Sunny"
+				},
+				{
+					"incorrect_answer": "Bluebird"
+				},
+				{
+					"incorrect_answer": "Skyline"
+				}
+			]
+		},
+		{
+			"category": "Vehicles",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which country has the international vehicle registration letter &#039;A&#039;?",
+			"correct_answer": "Austria",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Afghanistan"
+				},
+				{
+					"incorrect_answer": "Australia"
+				},
+				{
+					"incorrect_answer": "Armenia"
+				}
+			]
+		},
+		{
+			"category": "Vehicles",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which Japanese company is the world&#039;s largest manufacturer of motorcycles?",
+			"correct_answer": "Honda",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Yamaha"
+				},
+				{
+					"incorrect_answer": "Suzuki"
+				},
+				{
+					"incorrect_answer": "Kawasaki"
+				}
+			]
+		},
+		{
+			"category": "Vehicles",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What country is the Hussarya supercar, made by the car manufacturer &quot;Arrinera&quot;, assembled in?",
+			"correct_answer": "Poland",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "China"
+				},
+				{
+					"incorrect_answer": "Sweden"
+				},
+				{
+					"incorrect_answer": "Italy"
+				}
+			]
+		},
+		{
+			"category": "Vehicles",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of the following is NOT a Russian car manufacturer?",
+			"correct_answer": "BYD",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Silant"
+				},
+				{
+					"incorrect_answer": "Dragon"
+				},
+				{
+					"incorrect_answer": "GAZ"
+				}
+			]
+		},
+		{
+			"category": "Vehicles",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of the following countries has officially banned the civilian use of dash cams in cars?",
+			"correct_answer": "Austria",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "United States"
+				},
+				{
+					"incorrect_answer": "Czechia"
+				},
+				{
+					"incorrect_answer": "South Korea"
+				}
+			]
+		},
+		{
+			"category": "Vehicles",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Complete the following analogy: Audi is to Volkswagen as Infiniti is to ?",
+			"correct_answer": "Nissan",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Honda"
+				},
+				{
+					"incorrect_answer": "Hyundai"
+				},
+				{
+					"incorrect_answer": "Subaru"
+				}
+			]
+		},
+		{
+			"category": "Vehicles",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of the following vehicles featured a full glass roof at base model?",
+			"correct_answer": "Renault Avantime",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Chevy Volt"
+				},
+				{
+					"incorrect_answer": "Mercedes-Benz A-Class"
+				},
+				{
+					"incorrect_answer": "Honda Odyssey"
+				}
+			]
+		},
+		{
+			"category": "Vehicles",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of the following car models has been badge-engineered (rebadged) the most?",
+			"correct_answer": "Isuzu Trooper",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Holden Monaro"
+				},
+				{
+					"incorrect_answer": "Suzuki Swift"
+				},
+				{
+					"incorrect_answer": "Chevy Camaro"
+				}
+			]
+		},
+		{
+			"category": "Vehicles",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "When was Tesla founded?",
+			"correct_answer": "2003",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "2008"
+				},
+				{
+					"incorrect_answer": "2005"
+				},
+				{
+					"incorrect_answer": "2007"
+				}
+			]
+		},
+		{
+			"category": "Vehicles",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which supercar company is from Sweden?",
+			"correct_answer": "Koenigsegg",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Bugatti"
+				},
+				{
+					"incorrect_answer": "Lamborghini"
+				},
+				{
+					"incorrect_answer": "McLaren"
+				}
+			]
+		},
+		{
+			"category": "Vehicles",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which car brand does NOT belong to General Motors?",
+			"correct_answer": "Ford",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Buick"
+				},
+				{
+					"incorrect_answer": "Cadillac"
+				},
+				{
+					"incorrect_answer": "Chevrolet"
+				}
+			]
+		},
+		{
+			"category": "Vehicles",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of these car models are produced by Lamborghini?",
+			"correct_answer": "Aventador",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Huayra"
+				},
+				{
+					"incorrect_answer": "918"
+				},
+				{
+					"incorrect_answer": "Chiron"
+				}
+			]
+		},
+		{
+			"category": "Vehicles",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What do the 4 Rings in Audi&#039;s Logo represent?",
+			"correct_answer": "Previously independent automobile manufacturers",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "States in which Audi makes the most sales"
+				},
+				{
+					"incorrect_answer": "Main cities vital to Audi"
+				},
+				{
+					"incorrect_answer": "Countries in which Audi makes the most sales"
+				}
+			]
+		},
+		{
+			"category": "Vehicles",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which one is NOT the function of engine oil in car engines?",
+			"correct_answer": "Combustion",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Lubrication"
+				},
+				{
+					"incorrect_answer": "Cooling"
+				},
+				{
+					"incorrect_answer": "Reduce corrosion"
+				}
+			]
+		},
+		{
+			"category": "Vehicles",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Volkswagen&#039;s legendary VR6 engine has cylinders positioned at what degree angle?",
+			"correct_answer": "15 Degree",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "30 Degree"
+				},
+				{
+					"incorrect_answer": "45 Degree"
+				},
+				{
+					"incorrect_answer": "90 Degree"
+				}
+			]
+		},
+		{
+			"category": "Vehicles",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "When was Cadillac founded?",
+			"correct_answer": "1902",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "1964"
+				},
+				{
+					"incorrect_answer": "1898"
+				},
+				{
+					"incorrect_answer": "1985"
+				}
+			]
+		},
+		{
+			"category": "Vehicles",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which one of the following is not made by Ford?",
+			"correct_answer": "Camry",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Fusion"
+				},
+				{
+					"incorrect_answer": "Model A"
+				},
+				{
+					"incorrect_answer": "F-150"
+				}
+			]
+		},
+		{
+			"category": "Vehicles",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What nickname was given to Air Canada Flight 143 after it ran out of fuel and glided to safety in 1983?",
+			"correct_answer": "Gimli Glider",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Gimli Microlight"
+				},
+				{
+					"incorrect_answer": "Gimli Chaser"
+				},
+				{
+					"incorrect_answer": "Gimli Superb"
+				}
+			]
+		},
+		{
+			"category": "Vehicles",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which car manufacturer created the &quot;Aventador&quot;?",
+			"correct_answer": "Lamborghini",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Ferrari"
+				},
+				{
+					"incorrect_answer": "Pagani"
+				},
+				{
+					"incorrect_answer": "Bugatti"
+				}
+			]
+		}
+	]
+}

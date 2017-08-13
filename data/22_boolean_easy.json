@@ -1,0 +1,125 @@
+{
+	"response_code": "0",
+	"results": [
+		{
+			"category": "Geography",
+			"type": "boolean",
+			"difficulty": "easy",
+			"question": "A group of islands is called an &#039;archipelago&#039;.",
+			"correct_answer": "True",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "False"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "boolean",
+			"difficulty": "easy",
+			"question": "Greenland is covered with grass and Iceland covered with ice.",
+			"correct_answer": "False",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "True"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "boolean",
+			"difficulty": "easy",
+			"question": "The Republic of Malta is the smallest microstate worldwide.",
+			"correct_answer": "False",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "True"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "boolean",
+			"difficulty": "easy",
+			"question": "Vatican City is a country.",
+			"correct_answer": "True",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "False"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "boolean",
+			"difficulty": "easy",
+			"question": "San Marino is the only country completely surrounded by another country.",
+			"correct_answer": "False",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "True"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "boolean",
+			"difficulty": "easy",
+			"question": "Alaska is the largest state in the United States.",
+			"correct_answer": "True",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "False"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "boolean",
+			"difficulty": "easy",
+			"question": "Ottawa is the capital of Canada.",
+			"correct_answer": "True",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "False"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "boolean",
+			"difficulty": "easy",
+			"question": "There are no deserts in Europe.",
+			"correct_answer": "True",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "False"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "boolean",
+			"difficulty": "easy",
+			"question": "St. Louis is the capital of the US State Missouri.",
+			"correct_answer": "False",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "True"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "boolean",
+			"difficulty": "easy",
+			"question": "California is larger than Japan.",
+			"correct_answer": "True",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "False"
+				}
+			]
+		}
+	]
+}

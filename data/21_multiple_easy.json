@@ -1,0 +1,365 @@
+{
+	"response_code": "0",
+	"results": [
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which of the following sports is not part of the triathlon?",
+			"correct_answer": "Horse-Riding",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Cycling"
+				},
+				{
+					"incorrect_answer": "Swimming"
+				},
+				{
+					"incorrect_answer": "Running"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "In golf, what name is given to a hole score of two under par?",
+			"correct_answer": "Eagle",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Birdie"
+				},
+				{
+					"incorrect_answer": "Bogey"
+				},
+				{
+					"incorrect_answer": "Albatross"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "How many soccer players should be on the field at the same time?",
+			"correct_answer": "22",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "20"
+				},
+				{
+					"incorrect_answer": "24"
+				},
+				{
+					"incorrect_answer": "26"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "In what sport is a &quot;shuttlecock&quot; used?",
+			"correct_answer": "Badminton",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Table Tennis"
+				},
+				{
+					"incorrect_answer": "Rugby"
+				},
+				{
+					"incorrect_answer": "Cricket"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which team won the 2015-16 English Premier League?",
+			"correct_answer": "Leicester City",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Liverpool"
+				},
+				{
+					"incorrect_answer": "Cheslea"
+				},
+				{
+					"incorrect_answer": "Manchester United"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "In baseball, how many fouls are an out?",
+			"correct_answer": "0",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "5"
+				},
+				{
+					"incorrect_answer": "3"
+				},
+				{
+					"incorrect_answer": "2"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "The Rio 2016 Summer Olympics held it&#039;s closing ceremony on what date?",
+			"correct_answer": "August 21",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "August 23"
+				},
+				{
+					"incorrect_answer": "August 19"
+				},
+				{
+					"incorrect_answer": "August 17"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which country will host the 2020 Summer Olympics?",
+			"correct_answer": "Japan",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "China"
+				},
+				{
+					"incorrect_answer": "Australia"
+				},
+				{
+					"incorrect_answer": "Germany"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which country is hosting the 2018 FIFA World Cup?",
+			"correct_answer": "Russia",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Germany"
+				},
+				{
+					"incorrect_answer": "United States"
+				},
+				{
+					"incorrect_answer": "Saudi Arabia"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Who won the 2015 Formula 1 World Championship?",
+			"correct_answer": "Lewis Hamilton",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Nico Rosberg"
+				},
+				{
+					"incorrect_answer": "Sebastian Vettel"
+				},
+				{
+					"incorrect_answer": "Jenson Button"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which driver has been the Formula 1 world champion for a record 7 times?",
+			"correct_answer": "Michael Schumacher",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Ayrton Senna"
+				},
+				{
+					"incorrect_answer": "Fernando Alonso"
+				},
+				{
+					"incorrect_answer": "Jim Clark"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What was the final score of the Germany vs. Brazil 2014 FIFA World Cup match?",
+			"correct_answer": "7 - 1",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "0 - 1"
+				},
+				{
+					"incorrect_answer": "3 - 4"
+				},
+				{
+					"incorrect_answer": "16 - 0"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which team won 2014 FIFA World Cup in Brazil?",
+			"correct_answer": "Germany",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Argentina"
+				},
+				{
+					"incorrect_answer": "Brazil"
+				},
+				{
+					"incorrect_answer": "Netherlands"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "How many points did LeBron James score in his first NBA game?",
+			"correct_answer": "25",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "19"
+				},
+				{
+					"incorrect_answer": "69"
+				},
+				{
+					"incorrect_answer": "41"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "In Baseball, how many times does the ball have to be pitched outside of the strike zone before the batter is walked?",
+			"correct_answer": "4",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "1"
+				},
+				{
+					"incorrect_answer": "2"
+				},
+				{
+					"incorrect_answer": "3"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which city did the former NHL team &quot;The Nordiques&quot; originiate from?",
+			"correct_answer": "Quebec City",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Houston"
+				},
+				{
+					"incorrect_answer": "Montreal"
+				},
+				{
+					"incorrect_answer": "New York"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What team won the 2016 MLS Cup?",
+			"correct_answer": "Seattle Sounders",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Colorado Rapids"
+				},
+				{
+					"incorrect_answer": "Toronto FC"
+				},
+				{
+					"incorrect_answer": "Montreal Impact"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What year did the New Orleans Saints win the Super Bowl?",
+			"correct_answer": "2009",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "2008"
+				},
+				{
+					"incorrect_answer": "2010"
+				},
+				{
+					"incorrect_answer": "2011"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "This Canadian television sportscaster is known for his &quot;Hockey Night in Canada&quot; role, a commentary show during hockey games.",
+			"correct_answer": "Don Cherry",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Don McKellar"
+				},
+				{
+					"incorrect_answer": "Don Taylor "
+				},
+				{
+					"incorrect_answer": "Donald Sutherland"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which team has won the most Stanley Cups in the NHL?",
+			"correct_answer": "Montreal Canadians",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Chicago Blackhawks"
+				},
+				{
+					"incorrect_answer": "Toronto Maple Leafs"
+				},
+				{
+					"incorrect_answer": "Detroit Red Wings"
+				}
+			]
+		}
+	]
+}

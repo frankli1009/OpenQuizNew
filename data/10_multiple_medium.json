@@ -1,0 +1,365 @@
+{
+	"response_code": "0",
+	"results": [
+		{
+			"category": "Entertainment: Books",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of the following authors was not born in England? ",
+			"correct_answer": "Arthur Conan Doyle",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Graham Greene"
+				},
+				{
+					"incorrect_answer": "H G Wells"
+				},
+				{
+					"incorrect_answer": "Arthur C Clarke"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Books",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "How many books are in the Chronicles of Narnia series?",
+			"correct_answer": "7",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "6"
+				},
+				{
+					"incorrect_answer": "8"
+				},
+				{
+					"incorrect_answer": "5"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Books",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Who wrote the 1967 horror novel &quot;Rosemary&#039;s Baby&quot;?",
+			"correct_answer": "Ira Levin",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Stephen King"
+				},
+				{
+					"incorrect_answer": "Robert Bloch"
+				},
+				{
+					"incorrect_answer": "Mary Shelley"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Books",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In the Lord of the Rings, who is the father of the dwarf Gimli?",
+			"correct_answer": "Gloin",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Thorin Oakenshield"
+				},
+				{
+					"incorrect_answer": "Bombur"
+				},
+				{
+					"incorrect_answer": "Dwalin"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Books",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What position does Harry Potter play in Quidditch?",
+			"correct_answer": "Seeker",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Beater"
+				},
+				{
+					"incorrect_answer": "Chaser"
+				},
+				{
+					"incorrect_answer": "Keeper"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Books",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "By what nickname is Jack Dawkins known in the Charles Dickens novel, &#039;Oliver Twist&#039;?",
+			"correct_answer": "The Artful Dodger",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Fagin"
+				},
+				{
+					"incorrect_answer": "Bull&rsquo;s-eye"
+				},
+				{
+					"incorrect_answer": "Mr. Fang"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Books",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the fourth book of the Old Testament?",
+			"correct_answer": "Numbers",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Genesis"
+				},
+				{
+					"incorrect_answer": "Exodus"
+				},
+				{
+					"incorrect_answer": "Leviticus"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Books",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What was the name of the Mysterious Island, in Jules Verne&#039;s &quot;The Mysterious Island&quot;?",
+			"correct_answer": "Lincoln Island",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Vulcania Island"
+				},
+				{
+					"incorrect_answer": "Prometheus Island"
+				},
+				{
+					"incorrect_answer": "Neptune Island"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Books",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "By what name was the author Eric Blair better known?",
+			"correct_answer": "George Orwell",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Aldous Huxley"
+				},
+				{
+					"incorrect_answer": "Ernest Hemingway"
+				},
+				{
+					"incorrect_answer": "Ray Bradbury"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Books",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Who wrote the children&#039;s story &quot;The Little Match Girl&quot;?",
+			"correct_answer": "Hans Christian Andersen",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Charles Dickens"
+				},
+				{
+					"incorrect_answer": "Lewis Carroll"
+				},
+				{
+					"incorrect_answer": "Oscar Wilde"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Books",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In the &quot;The Hobbit&quot;, who kills Smaug?",
+			"correct_answer": "Bard",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Bilbo Baggins"
+				},
+				{
+					"incorrect_answer": "Gandalf the Grey"
+				},
+				{
+					"incorrect_answer": "Frodo"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Books",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "The novel &quot;Of Mice And Men&quot; was written by what author? ",
+			"correct_answer": "John Steinbeck ",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "George Orwell"
+				},
+				{
+					"incorrect_answer": "Mark Twain "
+				},
+				{
+					"incorrect_answer": "Harper Lee"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Books",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "J.K. Rowling completed &quot;Harry Potter and the Deathly Hallows&quot; in which hotel in Edinburgh, Scotland?",
+			"correct_answer": "The Balmoral",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "The Dunstane Hotel"
+				},
+				{
+					"incorrect_answer": "Hotel Novotel"
+				},
+				{
+					"incorrect_answer": "Sheraton Grand Hotel &amp; Spa"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Books",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In the year 1818, novelist Mary Shelly is credited with writing a fiction novel and creating this infamous character.",
+			"correct_answer": "Frankenstein&#039;s monster",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Dracula"
+				},
+				{
+					"incorrect_answer": "The Thing"
+				},
+				{
+					"incorrect_answer": "The Invisible Man"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Books",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "The title of Adolf Hitler&#039;s autobiography &quot;Mein Kampf&quot; is what when translated to English?",
+			"correct_answer": "My Struggle",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "My Hatred"
+				},
+				{
+					"incorrect_answer": "My Sadness"
+				},
+				{
+					"incorrect_answer": "My Desire"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Books",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "According to The Hitchhiker&#039;s Guide to the Galaxy book, the answer to life, the universe and everything else is...",
+			"correct_answer": "42",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Loving everyone around you"
+				},
+				{
+					"incorrect_answer": "Chocolate"
+				},
+				{
+					"incorrect_answer": "Death"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Books",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "The book &quot;The Little Prince&quot; was written by...",
+			"correct_answer": "Antoine de Saint-Exup&eacute;ry",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Miguel de Cervantes Saavedra"
+				},
+				{
+					"incorrect_answer": "Jane Austen"
+				},
+				{
+					"incorrect_answer": "F. Scott Fitzgerald"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Books",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In the novel &quot;Lord of the Rings&quot;, how many rings of power were given to the race of man?",
+			"correct_answer": "9",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "5"
+				},
+				{
+					"incorrect_answer": "11"
+				},
+				{
+					"incorrect_answer": "13"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Books",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the name of the gang that Ponyboy is a part of in the book, The Outsiders?",
+			"correct_answer": "The Greasers",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "The Outsiders"
+				},
+				{
+					"incorrect_answer": "The Mafia"
+				},
+				{
+					"incorrect_answer": "The Socs"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Books",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "The book &quot;Fahrenheit 451&quot; was written by whom?",
+			"correct_answer": "Ray Bradbury",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "R. L. Stine"
+				},
+				{
+					"incorrect_answer": "Wolfgang Amadeus Mozart"
+				},
+				{
+					"incorrect_answer": "Stephen King"
+				}
+			]
+		}
+	]
+}

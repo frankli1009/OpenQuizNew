@@ -1,0 +1,185 @@
+{
+	"response_code": "0",
+	"results": [
+		{
+			"category": "Mythology",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Who was the only god from Greece who did not get a name change in Rome?",
+			"correct_answer": "Apollo",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Demeter"
+				},
+				{
+					"incorrect_answer": "Zeus"
+				},
+				{
+					"incorrect_answer": "Athena"
+				}
+			]
+		},
+		{
+			"category": "Mythology",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "The ancient roman god of war was commonly known as...",
+			"correct_answer": "Mars",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Jupiter"
+				},
+				{
+					"incorrect_answer": "Juno"
+				},
+				{
+					"incorrect_answer": "Ares"
+				}
+			]
+		},
+		{
+			"category": "Mythology",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Who in Greek mythology, who led the Argonauts in search of the Golden Fleece?",
+			"correct_answer": "Jason",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Castor"
+				},
+				{
+					"incorrect_answer": "Daedalus"
+				},
+				{
+					"incorrect_answer": "Odysseus"
+				}
+			]
+		},
+		{
+			"category": "Mythology",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "This Greek goddess&#039;s name was chosen for the dwarf planet responsible for discord on Pluto&#039;s classification amongst astronomers.",
+			"correct_answer": "Eris",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Charon"
+				},
+				{
+					"incorrect_answer": "Ceres"
+				},
+				{
+					"incorrect_answer": "Dysnomia"
+				}
+			]
+		},
+		{
+			"category": "Mythology",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Who was the King of Gods in Ancient Greek mythology?",
+			"correct_answer": "Zeus",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Apollo"
+				},
+				{
+					"incorrect_answer": "Hermes"
+				},
+				{
+					"incorrect_answer": "Poseidon"
+				}
+			]
+		},
+		{
+			"category": "Mythology",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which Greek &amp; Roman god was known as the god of music, truth and prophecy, healing, the sun and light, plague, poetry, and more?",
+			"correct_answer": "Apollo",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Aphrodite"
+				},
+				{
+					"incorrect_answer": "Artemis"
+				},
+				{
+					"incorrect_answer": "Athena"
+				}
+			]
+		},
+		{
+			"category": "Mythology",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which figure from Greek mythology traveled to the underworld to return his wife Eurydice to the land of the living?",
+			"correct_answer": "Orpheus",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Hercules"
+				},
+				{
+					"incorrect_answer": "Perseus"
+				},
+				{
+					"incorrect_answer": "Daedalus"
+				}
+			]
+		},
+		{
+			"category": "Mythology",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "In Greek mythology, who is the god of wine?",
+			"correct_answer": "Dionysus",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Hephaestus"
+				},
+				{
+					"incorrect_answer": "Demeter"
+				},
+				{
+					"incorrect_answer": "Apollo"
+				}
+			]
+		},
+		{
+			"category": "Mythology",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "In most traditions, who was the wife of Zeus?",
+			"correct_answer": "Hera",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Aphrodite"
+				},
+				{
+					"incorrect_answer": "Athena"
+				},
+				{
+					"incorrect_answer": "Hestia"
+				}
+			]
+		},
+		{
+			"category": "Mythology",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which of these mythological creatures is said to be half-man and half-horse?",
+			"correct_answer": "Centaur",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Minotaur"
+				},
+				{
+					"incorrect_answer": "Pegasus"
+				},
+				{
+					"incorrect_answer": "Gorgon"
+				}
+			]
+		}
+	]
+}

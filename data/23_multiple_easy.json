@@ -1,0 +1,365 @@
+{
+	"response_code": "0",
+	"results": [
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which one of these was not a beach landing site in the Invasion of Normandy?",
+			"correct_answer": "Silver",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Gold"
+				},
+				{
+					"incorrect_answer": "Juno"
+				},
+				{
+					"incorrect_answer": "Sword"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "King Henry VIII was the second monarch of which European royal house?",
+			"correct_answer": "Tudor",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "York"
+				},
+				{
+					"incorrect_answer": "Stuart"
+				},
+				{
+					"incorrect_answer": "Lancaster"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What was William Frederick Cody better known as?",
+			"correct_answer": "Buffalo Bill",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Billy the Kid"
+				},
+				{
+					"incorrect_answer": "Wild Bill Hickok"
+				},
+				{
+					"incorrect_answer": "Pawnee Bill"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Who discovered Penicillin?",
+			"correct_answer": "Alexander Flemming",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Marie Curie"
+				},
+				{
+					"incorrect_answer": "Alfred Nobel"
+				},
+				{
+					"incorrect_answer": "Louis Pasteur"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "How many manned moon landings have there been?",
+			"correct_answer": "6",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "1"
+				},
+				{
+					"incorrect_answer": "3"
+				},
+				{
+					"incorrect_answer": "7"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "The idea of Socialism was articulated and advanced by whom?",
+			"correct_answer": "Karl Marx",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Vladimir Lenin"
+				},
+				{
+					"incorrect_answer": "Joseph Stalin"
+				},
+				{
+					"incorrect_answer": "Vladimir Putin"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which one of these tanks was designed and operated by the United Kingdom?",
+			"correct_answer": "Tog II",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "M4 Sherman"
+				},
+				{
+					"incorrect_answer": "Tiger H1"
+				},
+				{
+					"incorrect_answer": "T-34"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which of the following African countries was most successful in resisting colonization?",
+			"correct_answer": "Ethiopia",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "C&ocirc;te d&rsquo;Ivoire"
+				},
+				{
+					"incorrect_answer": "Congo"
+				},
+				{
+					"incorrect_answer": "Namibia"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which of the following ancient peoples was NOT classified as Hellenic (Greek)?",
+			"correct_answer": "Illyrians",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Dorians"
+				},
+				{
+					"incorrect_answer": "Achaeans"
+				},
+				{
+					"incorrect_answer": "Ionians"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which famous world leader is famed for the saying, &quot;Let them eat cake&quot;, yet is rumored that he/she never said it at all?",
+			"correct_answer": "Marie Antoinette",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Czar Nicholas II"
+				},
+				{
+					"incorrect_answer": "Elizabeth I"
+				},
+				{
+					"incorrect_answer": "Henry VIII"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "The original Roman alphabet lacked the following letters EXCEPT:",
+			"correct_answer": "X",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "W"
+				},
+				{
+					"incorrect_answer": "U"
+				},
+				{
+					"incorrect_answer": "J"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which of these countries remained neutral during World War II?",
+			"correct_answer": "Switzerland",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "United Kingdom"
+				},
+				{
+					"incorrect_answer": "France"
+				},
+				{
+					"incorrect_answer": "Italy"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "In 1720, England was in massive debt, and became in involved in the South Sea Bubble. Who was the main mastermind behind it?",
+			"correct_answer": "John Blunt",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Daniel Defoe"
+				},
+				{
+					"incorrect_answer": "Robert Harley"
+				},
+				{
+					"incorrect_answer": "John Churchill"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Who was the Prime Minister of Japan when Japan declared war on the US?",
+			"correct_answer": "Hideki Tojo",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Michinomiya Hirohito"
+				},
+				{
+					"incorrect_answer": "Isoroku Yamamoto"
+				},
+				{
+					"incorrect_answer": "Fumimaro Konoe"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What was the first sport to have been played on the moon?",
+			"correct_answer": "Golf",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Football"
+				},
+				{
+					"incorrect_answer": "Tennis"
+				},
+				{
+					"incorrect_answer": "Soccer"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Who was the first prime minister of Canada?",
+			"correct_answer": "John Macdonald",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "John Abbott"
+				},
+				{
+					"incorrect_answer": "Alexander Mackenzie"
+				},
+				{
+					"incorrect_answer": "Robert Borden"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "How long did World War II last?",
+			"correct_answer": "6 years",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "4 years"
+				},
+				{
+					"incorrect_answer": "5 years"
+				},
+				{
+					"incorrect_answer": "7 years"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which of the following countries was not an axis power during World War II?",
+			"correct_answer": " Soviet Union",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Italy"
+				},
+				{
+					"incorrect_answer": "Germany"
+				},
+				{
+					"incorrect_answer": "Japan"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "In 1939, Britain and France declared war on Germany after it invaded which country?",
+			"correct_answer": "Poland",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Czechoslovakia"
+				},
+				{
+					"incorrect_answer": "Austria"
+				},
+				{
+					"incorrect_answer": "Hungary"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "To what political party did Abraham Lincoln belong when elected POTUS?",
+			"correct_answer": "Republican",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Democrat"
+				},
+				{
+					"incorrect_answer": "Independent"
+				},
+				{
+					"incorrect_answer": "Whig"
+				}
+			]
+		}
+	]
+}

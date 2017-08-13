@@ -1,0 +1,245 @@
+{
+	"response_code": "0",
+	"results": [
+		{
+			"category": "Entertainment: Video Games",
+			"type": "boolean",
+			"difficulty": "medium",
+			"question": "Nintendo started out as a playing card manufacturer.",
+			"correct_answer": "True",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "False"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "boolean",
+			"difficulty": "medium",
+			"question": "Amazon acquired Twitch in August 2014 for $970 million dollars.",
+			"correct_answer": "True",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "False"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "boolean",
+			"difficulty": "medium",
+			"question": "The retail disc of Tony Hawk&#039;s Pro Skater 5 only comes with the tutorial.",
+			"correct_answer": "True",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "False"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "boolean",
+			"difficulty": "medium",
+			"question": "DragonForce&#039;s &#039;Through the Fire and Flames&#039; is widely considered to be the hardest song in the Guitar Hero series.",
+			"correct_answer": "True",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "False"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "boolean",
+			"difficulty": "medium",
+			"question": "The first Maxis game to feature the fictional language &quot;Simlish&quot; was The Sims (2000).",
+			"correct_answer": "False",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "True"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "boolean",
+			"difficulty": "medium",
+			"question": "The Ace Attorney trilogy was suppose to end with &quot;Phoenix Wright: Ace Attorney &minus; Trials and Tribulations&quot; as its final game.",
+			"correct_answer": "True",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "False"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "boolean",
+			"difficulty": "medium",
+			"question": "In World of Warcraft lore, Thrall is the original wielder of &quot;Doomhammer&quot;.",
+			"correct_answer": "False",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "True"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "boolean",
+			"difficulty": "medium",
+			"question": "In &quot;Team Fortress 2&quot;, the &quot;Bill&#039;s Hat&quot; is a reference to the game &quot;Dota 2&quot;.",
+			"correct_answer": "False",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "True"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "boolean",
+			"difficulty": "medium",
+			"question": "In Half-Life 2, if you play the zombies&#039; speech in reverse, they actually speak coherent English.",
+			"correct_answer": "True",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "False"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "boolean",
+			"difficulty": "medium",
+			"question": "The Sniper&#039;s SMG in Team Fortress 2, was originally intended to be the Scout&#039;s primary weapon.",
+			"correct_answer": "True",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "False"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "boolean",
+			"difficulty": "medium",
+			"question": "TF2: The Medic will be credited for an assist if he heals a Spy that successfully saps a building.",
+			"correct_answer": "True",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "False"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "boolean",
+			"difficulty": "medium",
+			"question": "TF2: The Heavy&#039;s voice actor, Gary Schwartz, voices the Demoman as well ",
+			"correct_answer": "True",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "False"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "boolean",
+			"difficulty": "medium",
+			"question": "Pistons were added to Minecraft in Beta 1.5.",
+			"correct_answer": "False",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "True"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "boolean",
+			"difficulty": "medium",
+			"question": "Mortal Kombat was almost based on Jean-Claude Van Damme movie.",
+			"correct_answer": "True",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "False"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "boolean",
+			"difficulty": "medium",
+			"question": "In Riot Games &quot;League of Legends&quot; the name of Halloween event is called &quot;The Reckoning&quot;.",
+			"correct_answer": "False",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "True"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "boolean",
+			"difficulty": "medium",
+			"question": "David Baszucki was a co-founder of ROBLOX Corporation.",
+			"correct_answer": "True",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "False"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "boolean",
+			"difficulty": "medium",
+			"question": "Resident Evil 4 was originally meant to be a Nintendo GameCube exclusive.",
+			"correct_answer": "True",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "False"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "boolean",
+			"difficulty": "medium",
+			"question": "In Portal, the Companion Cube&#039;s ARE sentient.",
+			"correct_answer": "True",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "False"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "boolean",
+			"difficulty": "medium",
+			"question": "In &quot;Super Mario World&quot;, the rhino mini-boss, Reznor, is named after the lead singer of the band &quot;Nine Inch Nails&quot;.",
+			"correct_answer": "True",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "False"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "boolean",
+			"difficulty": "medium",
+			"question": "In &quot;Starbound&quot;, the track played by the Decorated Music Box is named &quot;Atlas&quot;.",
+			"correct_answer": "True",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "False"
+				}
+			]
+		}
+	]
+}

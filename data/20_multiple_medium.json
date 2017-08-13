@@ -1,0 +1,185 @@
+{
+	"response_code": "0",
+	"results": [
+		{
+			"category": "Mythology",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "According to Algonquian folklore, how does one transform into a Wendigo?",
+			"correct_answer": "Participating in cannibalism.",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Excessive mutilation of animal corpses."
+				},
+				{
+					"incorrect_answer": "Performing a ritual involving murder."
+				},
+				{
+					"incorrect_answer": "Drinking the blood of many slain animals."
+				}
+			]
+		},
+		{
+			"category": "Mythology",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "This Greek mythological figure is the god/goddess of battle strategy (among other things).",
+			"correct_answer": "Athena",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Ares"
+				},
+				{
+					"incorrect_answer": "Artemis"
+				},
+				{
+					"incorrect_answer": "Apollo"
+				}
+			]
+		},
+		{
+			"category": "Mythology",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "The Hippogriff, not to be confused with the Griffon, is a magical creature with the front half of an eagle, and the back half of what?",
+			"correct_answer": "A Horse",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "A Dragon"
+				},
+				{
+					"incorrect_answer": "A Tiger"
+				},
+				{
+					"incorrect_answer": "A Lion"
+				}
+			]
+		},
+		{
+			"category": "Mythology",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Who was the Roman god of fire?",
+			"correct_answer": "Vulcan",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Apollo"
+				},
+				{
+					"incorrect_answer": "Jupiter"
+				},
+				{
+					"incorrect_answer": "Mercury"
+				}
+			]
+		},
+		{
+			"category": "Mythology",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Hera is god of...",
+			"correct_answer": "Marriage",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Agriculture"
+				},
+				{
+					"incorrect_answer": "Sea"
+				},
+				{
+					"incorrect_answer": "War"
+				}
+			]
+		},
+		{
+			"category": "Mythology",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of the following Mesopotamian mythological figures was NOT a deity?",
+			"correct_answer": "Enkidu",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Enki"
+				},
+				{
+					"incorrect_answer": "Enlil"
+				},
+				{
+					"incorrect_answer": "Enkimdu"
+				}
+			]
+		},
+		{
+			"category": "Mythology",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of these Roman gods doesn&#039;t have a counterpart in Greek mythology?",
+			"correct_answer": "Janus",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Vulcan"
+				},
+				{
+					"incorrect_answer": "Juno"
+				},
+				{
+					"incorrect_answer": "Mars"
+				}
+			]
+		},
+		{
+			"category": "Mythology",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In Greek Mythology, who killed Achilles?",
+			"correct_answer": "Paris",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Hector"
+				},
+				{
+					"incorrect_answer": "Helen"
+				},
+				{
+					"incorrect_answer": "Pericles"
+				}
+			]
+		},
+		{
+			"category": "Mythology",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "A minotaur is half human half what?",
+			"correct_answer": "Bull",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Cow"
+				},
+				{
+					"incorrect_answer": "Horse"
+				},
+				{
+					"incorrect_answer": "Eagle"
+				}
+			]
+		},
+		{
+			"category": "Mythology",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the name of the Greek god of blacksmiths?",
+			"correct_answer": "Hephaestus",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Dyntos"
+				},
+				{
+					"incorrect_answer": "Vulcan"
+				},
+				{
+					"incorrect_answer": "Artagatus"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,905 @@
+{
+	"response_code": "0",
+	"results": [
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Virgin Trains, Virgin Atlantic and Virgin Racing, are all companies owned by which famous entrepreneur?   ",
+			"correct_answer": "Richard Branson",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Alan Sugar"
+				},
+				{
+					"incorrect_answer": "Donald Trump"
+				},
+				{
+					"incorrect_answer": "Bill Gates"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Where is the train station &quot;Llanfair&shy;pwllgwyngyll&shy;gogery&shy;chwyrn&shy;drobwll&shy;llan&shy;tysilio&shy;gogo&shy;goch&quot;?",
+			"correct_answer": "Wales",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Moldova"
+				},
+				{
+					"incorrect_answer": "Czech Republic"
+				},
+				{
+					"incorrect_answer": "Denmark"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which company did Valve cooperate with in the creation of the Vive?",
+			"correct_answer": "HTC",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Oculus"
+				},
+				{
+					"incorrect_answer": "Google"
+				},
+				{
+					"incorrect_answer": "Razer"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What&#039;s the name of Batman&#039;s  parents?",
+			"correct_answer": "Thomas &amp; Martha",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Joey &amp; Jackie"
+				},
+				{
+					"incorrect_answer": "Jason &amp; Sarah"
+				},
+				{
+					"incorrect_answer": "Todd &amp; Mira"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What is the most common surname Wales?",
+			"correct_answer": "Jones",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Williams"
+				},
+				{
+					"incorrect_answer": "Davies"
+				},
+				{
+					"incorrect_answer": "Evans"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What was the name of the WWF professional wrestling tag team made up of the wrestlers Ax and Smash?",
+			"correct_answer": "Demolition",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "The Dream Team"
+				},
+				{
+					"incorrect_answer": "The Bushwhackers"
+				},
+				{
+					"incorrect_answer": "The British Bulldogs"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What name represents the letter &quot;M&quot; in the NATO phonetic alphabet?",
+			"correct_answer": "Mike",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Matthew"
+				},
+				{
+					"incorrect_answer": "Mark"
+				},
+				{
+					"incorrect_answer": "Max"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What is the first book of the Old Testament?",
+			"correct_answer": "Genesis",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Exodus"
+				},
+				{
+					"incorrect_answer": "Leviticus"
+				},
+				{
+					"incorrect_answer": "Numbers"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "In the video-game franchise Kingdom Hearts, the main protagonist, carries a weapon with what shape?",
+			"correct_answer": "Key",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Sword"
+				},
+				{
+					"incorrect_answer": "Pen"
+				},
+				{
+					"incorrect_answer": "Cellphone"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which best selling toy of 1983 caused hysteria, resulting in riots breaking out in stores?",
+			"correct_answer": "Cabbage Patch Kids",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Transformers"
+				},
+				{
+					"incorrect_answer": "Care Bears"
+				},
+				{
+					"incorrect_answer": "Rubik&rsquo;s Cube"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What does a funambulist walk on?",
+			"correct_answer": "A Tight Rope",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Broken Glass"
+				},
+				{
+					"incorrect_answer": "Balls"
+				},
+				{
+					"incorrect_answer": "The Moon"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "In past times, what would a gentleman keep in his fob pocket?",
+			"correct_answer": "Watch",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Money"
+				},
+				{
+					"incorrect_answer": "Keys"
+				},
+				{
+					"incorrect_answer": "Notebook"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Area 51 is located in which US state?",
+			"correct_answer": "Nevada",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Arizona"
+				},
+				{
+					"incorrect_answer": "New Mexico"
+				},
+				{
+					"incorrect_answer": "Utah"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "How would one say goodbye in Spanish?",
+			"correct_answer": "Adi&oacute;s",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": " Hola"
+				},
+				{
+					"incorrect_answer": "Au Revoir"
+				},
+				{
+					"incorrect_answer": "Salir"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What is the largest organ of the human body?",
+			"correct_answer": "Skin",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Heart"
+				},
+				{
+					"incorrect_answer": "large Intestine"
+				},
+				{
+					"incorrect_answer": "Liver"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "HTML is what type of language?",
+			"correct_answer": "Markup Language",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Macro Language"
+				},
+				{
+					"incorrect_answer": "Programming Language"
+				},
+				{
+					"incorrect_answer": "Scripting Language"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which sign of the zodiac is represented by the Crab?",
+			"correct_answer": "Cancer",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Libra"
+				},
+				{
+					"incorrect_answer": "Virgo"
+				},
+				{
+					"incorrect_answer": "Sagittarius"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "On a dartboard, what number is directly opposite No. 1?",
+			"correct_answer": "19",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "20"
+				},
+				{
+					"incorrect_answer": "12"
+				},
+				{
+					"incorrect_answer": "15"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What does the &#039;S&#039; stand for in the abbreviation SIM, as in SIM card? ",
+			"correct_answer": "Subscriber",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Single"
+				},
+				{
+					"incorrect_answer": "Secure"
+				},
+				{
+					"incorrect_answer": "Solid"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What word represents the letter &#039;T&#039; in the NATO phonetic alphabet?",
+			"correct_answer": "Tango",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Target"
+				},
+				{
+					"incorrect_answer": "Taxi"
+				},
+				{
+					"incorrect_answer": "Turkey"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What alcoholic drink is made from molasses?",
+			"correct_answer": "Rum",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Gin"
+				},
+				{
+					"incorrect_answer": "Vodka"
+				},
+				{
+					"incorrect_answer": "Whisky"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which American president appears on a one dollar bill?",
+			"correct_answer": "George Washington",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Thomas Jefferson"
+				},
+				{
+					"incorrect_answer": "Abraham Lincoln"
+				},
+				{
+					"incorrect_answer": "Benjamin Franklin"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What geometric shape is generally used for stop signs?",
+			"correct_answer": "Octagon",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Hexagon"
+				},
+				{
+					"incorrect_answer": "Circle"
+				},
+				{
+					"incorrect_answer": "Triangle"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What is &quot;dabbing&quot;?",
+			"correct_answer": "A dance",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "A medical procedure"
+				},
+				{
+					"incorrect_answer": "A sport"
+				},
+				{
+					"incorrect_answer": "A language"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What is the shape of the toy invented by Hungarian professor Ernő Rubik?",
+			"correct_answer": "Cube",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Sphere"
+				},
+				{
+					"incorrect_answer": "Cylinder"
+				},
+				{
+					"incorrect_answer": "Pyramid"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What is the name of the Jewish New Year?",
+			"correct_answer": "Rosh Hashanah",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Elul"
+				},
+				{
+					"incorrect_answer": "New Year"
+				},
+				{
+					"incorrect_answer": "Succoss"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which one of the following rhythm games was made by Harmonix?",
+			"correct_answer": "Rock Band",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Meat Beat Mania"
+				},
+				{
+					"incorrect_answer": "Guitar Hero Live"
+				},
+				{
+					"incorrect_answer": "Dance Dance Revolution"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What type of animal was Harambe, who was shot after a child fell into it&#039;s enclosure at the Cincinnati Zoo?",
+			"correct_answer": "Gorilla",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Tiger"
+				},
+				{
+					"incorrect_answer": "Panda"
+				},
+				{
+					"incorrect_answer": "Crocodile"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "How many colors are there in a rainbow?",
+			"correct_answer": "7",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "8"
+				},
+				{
+					"incorrect_answer": "9"
+				},
+				{
+					"incorrect_answer": "10"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Red Vines is a brand of what type of candy?",
+			"correct_answer": "Licorice",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Lollipop"
+				},
+				{
+					"incorrect_answer": "Chocolate"
+				},
+				{
+					"incorrect_answer": "Bubblegum"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What is the nickname of the US state of California?",
+			"correct_answer": "Golden State",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Sunshine State"
+				},
+				{
+					"incorrect_answer": "Bay State"
+				},
+				{
+					"incorrect_answer": "Treasure State"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What is on display in the Madame Tussaud&#039;s museum in London?",
+			"correct_answer": "Wax sculptures",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Designer clothing"
+				},
+				{
+					"incorrect_answer": "Unreleased film reels"
+				},
+				{
+					"incorrect_answer": "Vintage cars"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?",
+			"correct_answer": "Spruce Goose",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Noah&#039;s Ark"
+				},
+				{
+					"incorrect_answer": "Fat Man"
+				},
+				{
+					"incorrect_answer": "Trojan Horse"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which of these colours is NOT featured in the logo for Google?",
+			"correct_answer": "Pink",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Yellow"
+				},
+				{
+					"incorrect_answer": "Blue"
+				},
+				{
+					"incorrect_answer": "Green"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What is the Spanish word for &quot;donkey&quot;?",
+			"correct_answer": "Burro",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Caballo"
+				},
+				{
+					"incorrect_answer": "Toro"
+				},
+				{
+					"incorrect_answer": "Perro"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What is the French word for &quot;hat&quot;?",
+			"correct_answer": "Chapeau",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Bonnet"
+				},
+				{
+					"incorrect_answer": " &Eacute;charpe"
+				},
+				{
+					"incorrect_answer": " Casque"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Five dollars is worth how many nickles?",
+			"correct_answer": "100",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "50"
+				},
+				{
+					"incorrect_answer": "25"
+				},
+				{
+					"incorrect_answer": "69"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Who is depicted on the US hundred dollar bill?",
+			"correct_answer": "Benjamin Franklin",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "George Washington"
+				},
+				{
+					"incorrect_answer": "Abraham Lincoln"
+				},
+				{
+					"incorrect_answer": "Thomas Jefferson"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What do the letters in the GMT time zone stand for?",
+			"correct_answer": "Greenwich Mean Time",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Global Meridian Time"
+				},
+				{
+					"incorrect_answer": "General Median Time"
+				},
+				{
+					"incorrect_answer": "Glasgow Man Time"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which one of these is not a typical European sword design?",
+			"correct_answer": "Scimitar",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Falchion"
+				},
+				{
+					"incorrect_answer": "Ulfberht"
+				},
+				{
+					"incorrect_answer": "Flamberge"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which American-owned brewery led the country in sales by volume in 2015?",
+			"correct_answer": "D. G. Yuengling and Son, Inc",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Anheuser Busch"
+				},
+				{
+					"incorrect_answer": "Boston Beer Company"
+				},
+				{
+					"incorrect_answer": "Miller Coors"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "According to Sherlock Holmes, &quot;If you eliminate the impossible, whatever remains, however improbable, must be the...&quot;",
+			"correct_answer": "Truth",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Answer"
+				},
+				{
+					"incorrect_answer": "Cause"
+				},
+				{
+					"incorrect_answer": "Source"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What is the name of Poland in Polish?",
+			"correct_answer": "Polska",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Pupcia"
+				},
+				{
+					"incorrect_answer": "Polszka"
+				},
+				{
+					"incorrect_answer": "P&oacute;land"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "The New York Times slogan is, &ldquo;All the News That&rsquo;s Fit to&hellip;&rdquo;",
+			"correct_answer": "Print",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Digest"
+				},
+				{
+					"incorrect_answer": "Look"
+				},
+				{
+					"incorrect_answer": "Read"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What do the letters of the fast food chain KFC stand for?",
+			"correct_answer": "Kentucky Fried Chicken",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Kentucky Fresh Cheese"
+				},
+				{
+					"incorrect_answer": "Kibbled Freaky Cow"
+				},
+				{
+					"incorrect_answer": "Kiwi Food Cut"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which restaurant&#039;s mascot is a clown?",
+			"correct_answer": "McDonald&#039;s",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Whataburger"
+				},
+				{
+					"incorrect_answer": "Burger King"
+				},
+				{
+					"incorrect_answer": "Sonic"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What color is the &quot;Ex&quot; in FedEx Ground?",
+			"correct_answer": "Green",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Red"
+				},
+				{
+					"incorrect_answer": "Light Blue"
+				},
+				{
+					"incorrect_answer": "Orange"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What was the first ever London Underground line to be built?",
+			"correct_answer": "Metropolitan Line",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Circle Line"
+				},
+				{
+					"incorrect_answer": "Bakerloo Line"
+				},
+				{
+					"incorrect_answer": "Victoria Line"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "How tall is the Burj Khalifa?",
+			"correct_answer": "2,722 ft",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "2,717 ft"
+				},
+				{
+					"incorrect_answer": "2,546 ft"
+				},
+				{
+					"incorrect_answer": "3,024 ft"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which of the following card games revolves around numbers and basic math?",
+			"correct_answer": "Uno",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Go Fish"
+				},
+				{
+					"incorrect_answer": "Twister"
+				},
+				{
+					"incorrect_answer": "Munchkin"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,905 @@
+{
+	"response_code": "0",
+	"results": [
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the world&#039;s most expensive spice by weight?",
+			"correct_answer": "Saffron",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Cinnamon"
+				},
+				{
+					"incorrect_answer": "Cardamom"
+				},
+				{
+					"incorrect_answer": "Vanilla"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "This field is sometimes known as &ldquo;The Dismal Science.&rdquo;",
+			"correct_answer": "Economics",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Philosophy"
+				},
+				{
+					"incorrect_answer": "Politics"
+				},
+				{
+					"incorrect_answer": "Physics"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What does a milliner make and sell?",
+			"correct_answer": "Hats",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Shoes"
+				},
+				{
+					"incorrect_answer": "Belts"
+				},
+				{
+					"incorrect_answer": "Shirts"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which river flows through the Scottish city of Glasgow?",
+			"correct_answer": "Clyde",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Tay"
+				},
+				{
+					"incorrect_answer": "Dee"
+				},
+				{
+					"incorrect_answer": "Tweed"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "When was the Declaration of Independence approved by the Second Continental Congress?",
+			"correct_answer": "July 2, 1776",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "May 4, 1776"
+				},
+				{
+					"incorrect_answer": "June 4, 1776"
+				},
+				{
+					"incorrect_answer": "July 4, 1776"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "A doctor with a PhD is a doctor of what?",
+			"correct_answer": "Philosophy",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Psychology"
+				},
+				{
+					"incorrect_answer": "Phrenology"
+				},
+				{
+					"incorrect_answer": "Physical Therapy"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Scotch whisky and Drambuie make up which cocktail?",
+			"correct_answer": "Rusty Nail",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Screwdriver"
+				},
+				{
+					"incorrect_answer": "Sex on the Beach"
+				},
+				{
+					"incorrect_answer": "Manhattan"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In the Morse code, which letter is indicated by 3 dots? ",
+			"correct_answer": "S",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "O"
+				},
+				{
+					"incorrect_answer": "A"
+				},
+				{
+					"incorrect_answer": "C"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What does the &quot;G&quot; mean in &quot;G-Man&quot;?",
+			"correct_answer": "Government",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Going"
+				},
+				{
+					"incorrect_answer": "Ghost"
+				},
+				{
+					"incorrect_answer": "Geronimo"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which language is NOT Indo-European?",
+			"correct_answer": "Hungarian",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Russian"
+				},
+				{
+					"incorrect_answer": "Greek"
+				},
+				{
+					"incorrect_answer": "Latvian"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which essential condiment is also known as Japanese horseradish?",
+			"correct_answer": "Wasabi ",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Mentsuyu"
+				},
+				{
+					"incorrect_answer": "Karashi"
+				},
+				{
+					"incorrect_answer": "Ponzu"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of the following Ivy League universities has its official motto in Hebrew as well as in Latin?",
+			"correct_answer": "Yale University",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Princeton University"
+				},
+				{
+					"incorrect_answer": "Harvard University"
+				},
+				{
+					"incorrect_answer": "Columbia University"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the name of the very first video uploaded to YouTube?",
+			"correct_answer": "Me at the zoo",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "tribute"
+				},
+				{
+					"incorrect_answer": "carrie rides a truck"
+				},
+				{
+					"incorrect_answer": "Her new puppy from great grandpa vern."
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In 2013 how much money was lost by Nigerian scams?",
+			"correct_answer": "$12.7 Billion",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "$95 Million"
+				},
+				{
+					"incorrect_answer": "$956 Million"
+				},
+				{
+					"incorrect_answer": "$2.7 Billion"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "After how many years would you celebrate your crystal anniversary?",
+			"correct_answer": "15",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "20"
+				},
+				{
+					"incorrect_answer": "10"
+				},
+				{
+					"incorrect_answer": "25"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of these companies does NOT manufacture automobiles?",
+			"correct_answer": "Ducati",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Nissan"
+				},
+				{
+					"incorrect_answer": "GMC"
+				},
+				{
+					"incorrect_answer": "Fiat"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Who is a co-founder of music streaming service Spotify?",
+			"correct_answer": "Daniel Ek",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Sean Parker"
+				},
+				{
+					"incorrect_answer": "Felix Miller"
+				},
+				{
+					"incorrect_answer": "Michael Breidenbruecker"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "A factiod is what?",
+			"correct_answer": "A falsehood",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Useless trivia"
+				},
+				{
+					"incorrect_answer": "A tiny fact"
+				},
+				{
+					"incorrect_answer": "A scientific figure"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the unit of currency in Laos?",
+			"correct_answer": "Kip",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Ruble"
+				},
+				{
+					"incorrect_answer": "Konra"
+				},
+				{
+					"incorrect_answer": "Dollar"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of the following buildings is example of a structure primarily built in the Art Deco architectural style?",
+			"correct_answer": "Niagara Mohawk Building",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Taipei 101"
+				},
+				{
+					"incorrect_answer": "One Detroit Center"
+				},
+				{
+					"incorrect_answer": "Westendstrasse 1"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What alcoholic drink is mainly made from juniper berries?",
+			"correct_answer": "Gin",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Vodka"
+				},
+				{
+					"incorrect_answer": "Rum"
+				},
+				{
+					"incorrect_answer": "Tequila"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What did the Spanish autonomous community of Catalonia ban in 2010, that took effect in 2012?",
+			"correct_answer": "Bullfighting",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Fiestas"
+				},
+				{
+					"incorrect_answer": "Flamenco"
+				},
+				{
+					"incorrect_answer": "Mariachi"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which Italian automobile manufacturer gained majority control of U.S. automobile manufacturer Chrysler in 2011?",
+			"correct_answer": "Fiat",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Maserati"
+				},
+				{
+					"incorrect_answer": "Alfa Romeo"
+				},
+				{
+					"incorrect_answer": "Ferrari"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of these is the name of a Japanese system of alternative medicine, literally meaning &quot;finger pressure&quot;?",
+			"correct_answer": "Shiatsu",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Ukiyo"
+				},
+				{
+					"incorrect_answer": "Majime"
+				},
+				{
+					"incorrect_answer": "Ikigai"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the name given to Indian food cooked over charcoal in a clay oven?",
+			"correct_answer": "Tandoori",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Biryani"
+				},
+				{
+					"incorrect_answer": "Pani puri"
+				},
+				{
+					"incorrect_answer": "Tiki masala"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the German word for &quot;spoon&quot;?",
+			"correct_answer": "L&ouml;ffel",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Gabel"
+				},
+				{
+					"incorrect_answer": "Messer"
+				},
+				{
+					"incorrect_answer": "Essst&auml;bchen"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the romanized Japanese word for &quot;university&quot;?",
+			"correct_answer": "Daigaku",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Toshokan"
+				},
+				{
+					"incorrect_answer": "Jimusho"
+				},
+				{
+					"incorrect_answer": "Shokudou"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the Swedish word for &quot;window&quot;?",
+			"correct_answer": "F&ouml;nster",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "H&aring;l"
+				},
+				{
+					"incorrect_answer": "Sk&auml;rm"
+				},
+				{
+					"incorrect_answer": "Ruta"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the Italian word for &quot;tomato&quot;?",
+			"correct_answer": "Pomodoro",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Aglio"
+				},
+				{
+					"incorrect_answer": "Cipolla"
+				},
+				{
+					"incorrect_answer": "Peperoncino"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the romanized Russian word for &quot;winter&quot;?",
+			"correct_answer": "Zima",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Leto"
+				},
+				{
+					"incorrect_answer": "Vesna"
+				},
+				{
+					"incorrect_answer": "Osen&#039;"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the name of the popular animatronic singing fish prop, singing such hits such as &quot;Don&#039;t Worry, Be Happy&quot;?",
+			"correct_answer": "Big Mouth Billy Bass",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Big Billy Bass"
+				},
+				{
+					"incorrect_answer": "Singing Fish"
+				},
+				{
+					"incorrect_answer": "Sardeen"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What country saw a world record 315 million voters turn out for elections on May 20, 1991?",
+			"correct_answer": "India",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "United States of America"
+				},
+				{
+					"incorrect_answer": "Soviet Union"
+				},
+				{
+					"incorrect_answer": "Poland"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "The term &quot;scientist&quot; was coined in which year?",
+			"correct_answer": "1833",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "1933"
+				},
+				{
+					"incorrect_answer": "1942"
+				},
+				{
+					"incorrect_answer": "1796"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "According to the United States&#039; CDC, one in how many Americans die annually due to smoking?",
+			"correct_answer": "Five",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Twenty"
+				},
+				{
+					"incorrect_answer": "Ten"
+				},
+				{
+					"incorrect_answer": "One hundred"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is a dead mall?",
+			"correct_answer": "A mall with high vacancy rates or low consumer foot traffic",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "A mall with no stores"
+				},
+				{
+					"incorrect_answer": "A mall that has been condemed"
+				},
+				{
+					"incorrect_answer": "A mall after business hours"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which country has the record for the worlds largest orgy?",
+			"correct_answer": "Japan",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Russia"
+				},
+				{
+					"incorrect_answer": "Germany"
+				},
+				{
+					"incorrect_answer": "USA"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the last letter of the Greek alphabet?",
+			"correct_answer": "Omega",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Mu"
+				},
+				{
+					"incorrect_answer": "Epsilon"
+				},
+				{
+					"incorrect_answer": "Kappa"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What character was once considered to be the 27th letter of the alphabet?",
+			"correct_answer": "Ampersand",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Interrobang"
+				},
+				{
+					"incorrect_answer": "Tilde"
+				},
+				{
+					"incorrect_answer": "Pilcrow"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "When was Nintendo founded?",
+			"correct_answer": "September 23rd, 1889",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "October 19th, 1891"
+				},
+				{
+					"incorrect_answer": "March 4th, 1887"
+				},
+				{
+					"incorrect_answer": "December 27th, 1894"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "The new One World Trade Center in Manhattan, New York City was designed by which architect? ",
+			"correct_answer": "David Childs",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Bjarke Ingels"
+				},
+				{
+					"incorrect_answer": "Michael Arad"
+				},
+				{
+					"incorrect_answer": "Fumihiko Maki"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Amsterdam Centraal station is twinned with what station?",
+			"correct_answer": "London Liverpool Street",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Frankfurt (Main) Hauptbahnhof"
+				},
+				{
+					"incorrect_answer": "Paris Gare du Nord"
+				},
+				{
+					"incorrect_answer": "Brussels Midi"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What direction does the Statue of Liberty face?",
+			"correct_answer": "Southeast",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Southwest"
+				},
+				{
+					"incorrect_answer": "Northwest"
+				},
+				{
+					"incorrect_answer": "Northeast"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What year was Apple Inc. founded?",
+			"correct_answer": "1976",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "1978"
+				},
+				{
+					"incorrect_answer": "1980"
+				},
+				{
+					"incorrect_answer": "1974"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In what year was McDonald&#039;s founded?",
+			"correct_answer": "1955",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "1964"
+				},
+				{
+					"incorrect_answer": "1951"
+				},
+				{
+					"incorrect_answer": "1947"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of the General Mills Corporation&#039;s monster cereals was the last to be released in the 1970&#039;s?",
+			"correct_answer": "Fruit Brute",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Count Chocula"
+				},
+				{
+					"incorrect_answer": "Franken Berry"
+				},
+				{
+					"incorrect_answer": "Boo-Berry"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "When was Hubba Bubba first introduced?",
+			"correct_answer": "1979",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "1984"
+				},
+				{
+					"incorrect_answer": "1972"
+				},
+				{
+					"incorrect_answer": "1980"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What was Mountain Dew&#039;s original slogan?",
+			"correct_answer": "Yahoo! Mountain Dew... It&#039;ll tickle your innards!",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Give Me A Dew"
+				},
+				{
+					"incorrect_answer": "Do The Dew"
+				},
+				{
+					"incorrect_answer": "Get&#039; that barefoot feelin&#039; drinkin&#039; Mountain Dew"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What was the soft drink Pepsi originally introduced as?",
+			"correct_answer": "Brad&#039;s Drink",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Pepsin Pop"
+				},
+				{
+					"incorrect_answer": "Carolina Cola"
+				},
+				{
+					"incorrect_answer": "Pepsin Syrup"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the Portuguese word for &quot;Brazil&quot;?",
+			"correct_answer": "Brasil",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Brazil"
+				},
+				{
+					"incorrect_answer": "Brasilia"
+				},
+				{
+					"incorrect_answer": "Bras&iacute;l"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "When did the website &quot;Facebook&quot; launch?",
+			"correct_answer": "2004",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "2005"
+				},
+				{
+					"incorrect_answer": "2003"
+				},
+				{
+					"incorrect_answer": "2006"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,185 @@
+{
+	"response_code": "0",
+	"results": [
+		{
+			"category": "Entertainment: Comics",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In Marvel Comics, Taurus is the founder and leader of which criminal organization?",
+			"correct_answer": "Zodiac",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Scorpio"
+				},
+				{
+					"incorrect_answer": "Tiger Mafia"
+				},
+				{
+					"incorrect_answer": "The Union"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Comics",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What was the name of the first Robin in the Batman comics?",
+			"correct_answer": "Dick Grayson",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Bruce Wayne"
+				},
+				{
+					"incorrect_answer": "Jason Todd"
+				},
+				{
+					"incorrect_answer": "Tim Drake"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Comics",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the name of the main character in the webcomic Gunnerkrigg Court by Tom Siddell?",
+			"correct_answer": "Antimony",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Bismuth"
+				},
+				{
+					"incorrect_answer": "Mercury"
+				},
+				{
+					"incorrect_answer": "Cobalt"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Comics",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of the following superheros did Wonder Woman NOT have a love interest in?",
+			"correct_answer": "Green Arrow",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Superman"
+				},
+				{
+					"incorrect_answer": "Batman"
+				},
+				{
+					"incorrect_answer": "Steve Trevor"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Comics",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In Pre-Super Genesis universe of &quot;Sonic the Hedgehog&quot; comic, what was the name of  Sally Acorn&#039;s brother?",
+			"correct_answer": "Elias Acorn",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Maximillian Acorn"
+				},
+				{
+					"incorrect_answer": "Alexis Acorn"
+				},
+				{
+					"incorrect_answer": "Frederick Acorn"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Comics",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which issue of the &quot;Sonic the Hedgehog&quot; comic did Scourge the Hedgehog make his first appearance?",
+			"correct_answer": "Sonic the Hedgehog #11",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Sonic Universe #32"
+				},
+				{
+					"incorrect_answer": "Sonic the Hedgehog #161"
+				},
+				{
+					"incorrect_answer": "Sonic the Hedgehog #47"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Comics",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Who wrote the Batman comic series &quot;The Killing Joke&quot;?",
+			"correct_answer": "Alan Moore",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Bill Finger"
+				},
+				{
+					"incorrect_answer": "Frank Miller"
+				},
+				{
+					"incorrect_answer": "Jerry Siegel"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Comics",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the designation given to the Marvel Cinematic Universe?",
+			"correct_answer": "Earth-199999",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Earth-616"
+				},
+				{
+					"incorrect_answer": "Earth-10005"
+				},
+				{
+					"incorrect_answer": "Earth-2008"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Comics",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Who created Ultron of Earth-616?",
+			"correct_answer": "Henry Pym",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Amadeus Cho"
+				},
+				{
+					"incorrect_answer": "Tony Stark"
+				},
+				{
+					"incorrect_answer": "Reed Richards"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Comics",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In the comics, which Sonic character took command of the Dark Legion after Luger&#039;s assassination?",
+			"correct_answer": "Lien-Da",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Kragok"
+				},
+				{
+					"incorrect_answer": "Dimitri"
+				},
+				{
+					"incorrect_answer": "Remington"
+				}
+			]
+		}
+	]
+}

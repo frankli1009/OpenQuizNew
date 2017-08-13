@@ -1,0 +1,365 @@
+{
+	"response_code": "0",
+	"results": [
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which city is the capital of the United States of America?",
+			"correct_answer": "Washington D.C",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Seattle"
+				},
+				{
+					"incorrect_answer": "Albany"
+				},
+				{
+					"incorrect_answer": "Los Angeles"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What country is the second largest in the world by area?",
+			"correct_answer": "Canada",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Russia"
+				},
+				{
+					"incorrect_answer": "China"
+				},
+				{
+					"incorrect_answer": "United States of America"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which of these is NOT an Australian state or territory?",
+			"correct_answer": "Alberta",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "New South Wales"
+				},
+				{
+					"incorrect_answer": "Victoria"
+				},
+				{
+					"incorrect_answer": "Queensland"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "How many federal states does Germany have?",
+			"correct_answer": "16",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "13"
+				},
+				{
+					"incorrect_answer": "32"
+				},
+				{
+					"incorrect_answer": "25"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What colour is the circle on the Japanese flag?",
+			"correct_answer": "Red",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "White"
+				},
+				{
+					"incorrect_answer": "Yellow"
+				},
+				{
+					"incorrect_answer": "Black"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What is the capital of Jamaica?",
+			"correct_answer": "Kingston",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Rio de Janeiro"
+				},
+				{
+					"incorrect_answer": "Dar es Salaam"
+				},
+				{
+					"incorrect_answer": "Kano"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "If soccer is called football in England, what is American football called in England?",
+			"correct_answer": "American football",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Combball"
+				},
+				{
+					"incorrect_answer": "Handball"
+				},
+				{
+					"incorrect_answer": "Touchdown"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which of the following European languages is classified as a &quot;language isolate?&quot;",
+			"correct_answer": "Basque",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Galician"
+				},
+				{
+					"incorrect_answer": "Maltese"
+				},
+				{
+					"incorrect_answer": "Hungarian"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which of the following former Yugoslavian states is landlocked?",
+			"correct_answer": "Serbia",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Bosnia and Herzegovina"
+				},
+				{
+					"incorrect_answer": "Montenegro"
+				},
+				{
+					"incorrect_answer": "Croatia"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which nation claims ownership of Antarctica?",
+			"correct_answer": "No one, but there are claims.",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "United States of America"
+				},
+				{
+					"incorrect_answer": "United Nations"
+				},
+				{
+					"incorrect_answer": "Australia"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "How many time zones does China have?",
+			"correct_answer": "1",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "3"
+				},
+				{
+					"incorrect_answer": "4"
+				},
+				{
+					"incorrect_answer": "2"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What is the official language of Costa Rica?",
+			"correct_answer": "Spanish",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "English"
+				},
+				{
+					"incorrect_answer": "Portuguese"
+				},
+				{
+					"incorrect_answer": "Creole"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which of the following Arab countries does NOT have a flag containing only Pan-Arab colours?",
+			"correct_answer": "Qatar",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Kuwait"
+				},
+				{
+					"incorrect_answer": "United Arab Emirates"
+				},
+				{
+					"incorrect_answer": "Jordan"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which UK country features a dragon on their flag?",
+			"correct_answer": "Wales",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "England"
+				},
+				{
+					"incorrect_answer": "North Ireland"
+				},
+				{
+					"incorrect_answer": "Scotland"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What is the capital of the US State of New York?",
+			"correct_answer": "Albany",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Buffalo"
+				},
+				{
+					"incorrect_answer": "New York"
+				},
+				{
+					"incorrect_answer": "Rochester"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which country is the home of the largest Japanese population outside of Japan?",
+			"correct_answer": "Brazil",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "China"
+				},
+				{
+					"incorrect_answer": "Russia"
+				},
+				{
+					"incorrect_answer": "The United States"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What is the Polish city known to Germans as Danzig?",
+			"correct_answer": "Gdańsk",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Warsaw"
+				},
+				{
+					"incorrect_answer": "Zakopane"
+				},
+				{
+					"incorrect_answer": "Poznań"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "How many stars are featured on New Zealand&#039;s flag?",
+			"correct_answer": "4",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "5"
+				},
+				{
+					"incorrect_answer": "2"
+				},
+				{
+					"incorrect_answer": "0"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which of the following Japanese islands is the biggest?",
+			"correct_answer": "Honshu",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Hokkaido"
+				},
+				{
+					"incorrect_answer": "Shikoku"
+				},
+				{
+					"incorrect_answer": "Kyushu"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What is the capital of Spain?",
+			"correct_answer": "Madrid",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Barcelona"
+				},
+				{
+					"incorrect_answer": "Sevilla"
+				},
+				{
+					"incorrect_answer": "Toledo"
+				}
+			]
+		}
+	]
+}

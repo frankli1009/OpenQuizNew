@@ -1,0 +1,365 @@
+{
+	"response_code": "0",
+	"results": [
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "In the TV show &quot;Cheers&quot;, Sam Malone was a former relief pitcher for which baseball team?",
+			"correct_answer": "Boston Red Sox",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "New York Mets"
+				},
+				{
+					"incorrect_answer": "Baltimore Orioles"
+				},
+				{
+					"incorrect_answer": "Milwaukee Brewers"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "In the TV show &#039;M*A*S*H&#039;, what was the nickname of Corporal Walter O&#039;Reilly?",
+			"correct_answer": "Radar",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Hawkeye"
+				},
+				{
+					"incorrect_answer": "Hot Lips"
+				},
+				{
+					"incorrect_answer": "Trapper"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which of these Bojack Horseman characters is a human?",
+			"correct_answer": "Todd Chavez",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Lennie Turtletaub"
+				},
+				{
+					"incorrect_answer": "Princess Carolyn"
+				},
+				{
+					"incorrect_answer": "Tom Jumbo-Grumbo"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "In the show Stranger Things, what is Eleven&#039;s favorite breakfast food?",
+			"correct_answer": "Eggo Waffles",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Toast"
+				},
+				{
+					"incorrect_answer": "Captain Crunch"
+				},
+				{
+					"incorrect_answer": "Bacon and Eggs"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Guy&#039;s Grocery Games is hosted by which presenter?",
+			"correct_answer": "Guy Fieri",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Guy Martin"
+				},
+				{
+					"incorrect_answer": "Guy Ritchie"
+				},
+				{
+					"incorrect_answer": "Ainsley Harriott"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "The &quot;Psycho&quot; series of videos on YouTube was created by which of the following?",
+			"correct_answer": "RiDGiD STUDiOS",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Dan Bell"
+				},
+				{
+					"incorrect_answer": "Billy Familia"
+				},
+				{
+					"incorrect_answer": "VeganGainz"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "How many seasons did &quot;Stargate SG-1&quot; have?",
+			"correct_answer": "10",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "3"
+				},
+				{
+					"incorrect_answer": "7"
+				},
+				{
+					"incorrect_answer": "12"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What country is Cory in the House set in?",
+			"correct_answer": "The United States of America",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Canada"
+				},
+				{
+					"incorrect_answer": "Venezuala"
+				},
+				{
+					"incorrect_answer": "England"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "In Game of Thrones, what continent lies across the Narrow Sea from Westeros?",
+			"correct_answer": "Essos",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Easteros"
+				},
+				{
+					"incorrect_answer": "Westereast"
+				},
+				{
+					"incorrect_answer": "Esuntos"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "In Game of Thrones, what is Littlefinger&#039;s real name?",
+			"correct_answer": "Petyr Baelish",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Podrick Payne"
+				},
+				{
+					"incorrect_answer": "Lancel Lannister"
+				},
+				{
+					"incorrect_answer": "Torrhen Karstark"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "In Supernatural, what&#039;s is Sam&#039;s brothers name?",
+			"correct_answer": "Dean",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Dave"
+				},
+				{
+					"incorrect_answer": "Steve"
+				},
+				{
+					"incorrect_answer": "Mike"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "In DuckTales, what is the name of the city where all the main characters live?",
+			"correct_answer": "Duckburg",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Duckwing"
+				},
+				{
+					"incorrect_answer": "Tailspin"
+				},
+				{
+					"incorrect_answer": "Wingford"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "In the television show Breaking Bad, what is the street name of Walter and Jesse&#039;s notorious product?",
+			"correct_answer": "Blue Sky",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Baby Blue"
+				},
+				{
+					"incorrect_answer": "Rock Candy"
+				},
+				{
+					"incorrect_answer": "Pure Glass"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What was the name of the the first episode of Doctor Who to air in 1963?",
+			"correct_answer": "An Unearthly Child",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "The Daleks"
+				},
+				{
+					"incorrect_answer": "The Aztecs"
+				},
+				{
+					"incorrect_answer": "The Edge of Destruction"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What is the real name of the famous spanish humorist, El Risitas?",
+			"correct_answer": "Juan Joya Borga",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Gabriel Garcia Marquez"
+				},
+				{
+					"incorrect_answer": "Jesus Quintero"
+				},
+				{
+					"incorrect_answer": "Ernesto Guevara"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "In Star Trek: The Next Generation, what is the name of Data&#039;s cat?",
+			"correct_answer": "Spot",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Mittens"
+				},
+				{
+					"incorrect_answer": "Tom"
+				},
+				{
+					"incorrect_answer": "Kitty"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "In season one of the Netflix political drama &quot;House of Cards&quot;, what government position does Frank Underwood hold?",
+			"correct_answer": "House Majority Whip",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Attorney General"
+				},
+				{
+					"incorrect_answer": "President"
+				},
+				{
+					"incorrect_answer": "Chief of Staff"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "British actor David Morrissey stars as which role in &quot;The Walking Dead&quot;?",
+			"correct_answer": "The Governor",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Negan"
+				},
+				{
+					"incorrect_answer": "Rick Grimes"
+				},
+				{
+					"incorrect_answer": "Daryl Dixon"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which of these Disney shows is classified as an anime?",
+			"correct_answer": "Stitch!",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Cory in the House"
+				},
+				{
+					"incorrect_answer": "The Emperor&#039;s New School"
+				},
+				{
+					"incorrect_answer": "Hannah Montana"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "How many seasons did the Sci-Fi television show &quot;Stargate Universe&quot; have?",
+			"correct_answer": "2",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "10"
+				},
+				{
+					"incorrect_answer": "5"
+				},
+				{
+					"incorrect_answer": "3"
+				}
+			]
+		}
+	]
+}

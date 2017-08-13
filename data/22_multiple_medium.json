@@ -1,0 +1,905 @@
+{
+	"response_code": "0",
+	"results": [
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What European country is not a part of the EU?",
+			"correct_answer": "Norway",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Lithuania"
+				},
+				{
+					"incorrect_answer": "Ireland"
+				},
+				{
+					"incorrect_answer": "Czechia"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In which city, is the Big Nickel located in Canada?",
+			"correct_answer": "Sudbury, Ontario",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Calgary, Alberta"
+				},
+				{
+					"incorrect_answer": "Halifax, Nova Scotia "
+				},
+				{
+					"incorrect_answer": "Victoria, British Columbia"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "On a London Underground map, what colour is the Circle Line?",
+			"correct_answer": "Yellow",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Red"
+				},
+				{
+					"incorrect_answer": "Blue"
+				},
+				{
+					"incorrect_answer": "Green"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Montreal is in which Canadian province?",
+			"correct_answer": "Quebec",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Ontario"
+				},
+				{
+					"incorrect_answer": "Nova Scotia"
+				},
+				{
+					"incorrect_answer": "Alberta"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the only country in the world with a flag that doesn&#039;t have four right angles?",
+			"correct_answer": "Nepal",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Panama"
+				},
+				{
+					"incorrect_answer": "Angola"
+				},
+				{
+					"incorrect_answer": "Egypt"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "The Principality of Sealand is an unrecognized micronation off the coast of what country?",
+			"correct_answer": "The United Kingdom",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Japan"
+				},
+				{
+					"incorrect_answer": "Austrailia"
+				},
+				{
+					"incorrect_answer": "Argentina"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "How many sovereign states are members of the United Nations?",
+			"correct_answer": "195",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "201"
+				},
+				{
+					"incorrect_answer": "153"
+				},
+				{
+					"incorrect_answer": "178"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the name of the former country that was succeeded by countries such as Serbia, Croatia and Slovenia?",
+			"correct_answer": "Yugoslavia",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Czechoslovakia"
+				},
+				{
+					"incorrect_answer": "Abkhazia"
+				},
+				{
+					"incorrect_answer": "South Ossetia"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the largest non-continental island in the world?",
+			"correct_answer": "Greenland",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "New Guinea"
+				},
+				{
+					"incorrect_answer": "Borneo"
+				},
+				{
+					"incorrect_answer": "Madagascar"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of these is NOT a city in Saudi Arabia?",
+			"correct_answer": "Dubai",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Riyadh"
+				},
+				{
+					"incorrect_answer": "Mecca"
+				},
+				{
+					"incorrect_answer": "Medina"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In which English county is Stonehenge?",
+			"correct_answer": "Wiltshire",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Somerset"
+				},
+				{
+					"incorrect_answer": "Cumbria"
+				},
+				{
+					"incorrect_answer": "Herefordshire"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the name of the capital of Turkey?",
+			"correct_answer": "Ankara",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Istanbul"
+				},
+				{
+					"incorrect_answer": "Izmir"
+				},
+				{
+					"incorrect_answer": "Bursa"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the capital of Australia?",
+			"correct_answer": "Canberra",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Sydney"
+				},
+				{
+					"incorrect_answer": "Melbourne"
+				},
+				{
+					"incorrect_answer": "Brisbane"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Kuala Lumpur is the capital of which country?",
+			"correct_answer": "Malaysia",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Indonesia"
+				},
+				{
+					"incorrect_answer": "Singapore"
+				},
+				{
+					"incorrect_answer": "Thailand"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of the following language families is the most controversial amongst modern linguists?",
+			"correct_answer": "Altaic",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Sino-Tibetan"
+				},
+				{
+					"incorrect_answer": "Dravidian"
+				},
+				{
+					"incorrect_answer": "Indo-European"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "All of the following are towns/villages in the Pacific Island nation of Kiribati EXCEPT:",
+			"correct_answer": "Urutora",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Rungata"
+				},
+				{
+					"incorrect_answer": "London"
+				},
+				{
+					"incorrect_answer": "Washington"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of the following countries banned the use of personal genetic ancestry tests?",
+			"correct_answer": "Germany",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Austria"
+				},
+				{
+					"incorrect_answer": "Canada"
+				},
+				{
+					"incorrect_answer": "Sweden"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "All of the following countries have official claims to territory in Antartica EXCEPT:",
+			"correct_answer": "United States",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Australia"
+				},
+				{
+					"incorrect_answer": "Chile"
+				},
+				{
+					"incorrect_answer": "Norway"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of these countries is located the FURTHEST away from the South China Sea?",
+			"correct_answer": "Bangladesh",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Malaysia"
+				},
+				{
+					"incorrect_answer": "Vietnam"
+				},
+				{
+					"incorrect_answer": "Philippines"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of these countries is NOT located in Africa?",
+			"correct_answer": "Suriname",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Burkina Faso"
+				},
+				{
+					"incorrect_answer": "Mozambique"
+				},
+				{
+					"incorrect_answer": "Algeria"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "The Japanese district Akihabara is also known by what nickname?",
+			"correct_answer": "Electric Town",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Moon Walk River"
+				},
+				{
+					"incorrect_answer": "Otaku Central "
+				},
+				{
+					"incorrect_answer": "Big Eyes"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of these is NOT an island that is part of the Philippines?",
+			"correct_answer": "Java",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Luzon"
+				},
+				{
+					"incorrect_answer": "Mindanao"
+				},
+				{
+					"incorrect_answer": "Palawan"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Gibraltar, located just south of the Iberian peninsula, is a territory of which West Europe country?",
+			"correct_answer": "United Kingdom",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Spain"
+				},
+				{
+					"incorrect_answer": "Portugal"
+				},
+				{
+					"incorrect_answer": "France"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "How many countries are larger than Australia?",
+			"correct_answer": "5",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "4"
+				},
+				{
+					"incorrect_answer": "3"
+				},
+				{
+					"incorrect_answer": "6"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the capital of the State of Washington, United States?",
+			"correct_answer": "Olympia",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Washington D.C."
+				},
+				{
+					"incorrect_answer": "Seattle"
+				},
+				{
+					"incorrect_answer": "Yukon"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What event led to Liechenstein adding a crown to its flag?",
+			"correct_answer": "The 1936 Olympics",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Coronation of Prince Johann I Joseph in 1805"
+				},
+				{
+					"incorrect_answer": "Charles VI&#039;s decree in 1719"
+				},
+				{
+					"incorrect_answer": "Signing of the 1862 Constitution of Liechtenstein"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Where are the Nazca Lines located?",
+			"correct_answer": "Peru",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Brazil"
+				},
+				{
+					"incorrect_answer": "Colombia"
+				},
+				{
+					"incorrect_answer": "Ecuador"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the largest lake in the African continent?",
+			"correct_answer": "Lake Victoria",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Lake Tanganyika"
+				},
+				{
+					"incorrect_answer": "Lake Malawi"
+				},
+				{
+					"incorrect_answer": "Lake Turkana"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "How many countries does Spain have a land border with?",
+			"correct_answer": "5",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "2"
+				},
+				{
+					"incorrect_answer": "3"
+				},
+				{
+					"incorrect_answer": "4"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the capital of Senegal?",
+			"correct_answer": "Dakar",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Nouakchott"
+				},
+				{
+					"incorrect_answer": "Conakry"
+				},
+				{
+					"incorrect_answer": "Monrovia"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the right way to spell the capital of Hungary?",
+			"correct_answer": "Budapest",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Boodapest"
+				},
+				{
+					"incorrect_answer": "Bhudapest"
+				},
+				{
+					"incorrect_answer": "Budapast"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Where is the world&#039;s oldest still operational space launch facility located?",
+			"correct_answer": "Kazakhstan",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Russia"
+				},
+				{
+					"incorrect_answer": "Iran"
+				},
+				{
+					"incorrect_answer": "United States"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the official language of Bhutan?",
+			"correct_answer": "Dzongkha",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Ladakhi"
+				},
+				{
+					"incorrect_answer": "Karen"
+				},
+				{
+					"incorrect_answer": "Groma"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which country has three capital cities?",
+			"correct_answer": "South Africa",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Somalia"
+				},
+				{
+					"incorrect_answer": "China"
+				},
+				{
+					"incorrect_answer": "United Kingdom"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which country has the abbreviation &quot;CH&quot;?",
+			"correct_answer": "Switzerland",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "China"
+				},
+				{
+					"incorrect_answer": "Canada"
+				},
+				{
+					"incorrect_answer": "No Country"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "The towns of Brugelette, Arlon and Ath are located in which country?",
+			"correct_answer": "Belgium",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Andorra"
+				},
+				{
+					"incorrect_answer": "France"
+				},
+				{
+					"incorrect_answer": "Luxembourg"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "How tall is One World Trade Center in New York City?",
+			"correct_answer": "1,776 ft",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "1,888 ft"
+				},
+				{
+					"incorrect_answer": "1,225 ft"
+				},
+				{
+					"incorrect_answer": "1,960 ft"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the capital of Slovakia?",
+			"correct_answer": "Bratislava",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Sofia"
+				},
+				{
+					"incorrect_answer": "Ljubljana"
+				},
+				{
+					"incorrect_answer": "Sarajevo"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the smallest country in South America by area?",
+			"correct_answer": "Suriname",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Brazil"
+				},
+				{
+					"incorrect_answer": "Uruguay"
+				},
+				{
+					"incorrect_answer": "Chile"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the largest Muslim country in the world?",
+			"correct_answer": "Indonesia",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Pakistan"
+				},
+				{
+					"incorrect_answer": "Saudi Arabia"
+				},
+				{
+					"incorrect_answer": "Iran"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the capital of British Columbia, Canada?",
+			"correct_answer": "Victoria",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Vancouver"
+				},
+				{
+					"incorrect_answer": "Hope"
+				},
+				{
+					"incorrect_answer": "Kelowna"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which one of these countries borders with Poland?",
+			"correct_answer": "Lithuania",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "France"
+				},
+				{
+					"incorrect_answer": "Norway"
+				},
+				{
+					"incorrect_answer": "Netherlands"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the capital of Belarus?",
+			"correct_answer": "Minsk",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Warsaw"
+				},
+				{
+					"incorrect_answer": "Kiev"
+				},
+				{
+					"incorrect_answer": "Vilnius"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "The land mass of modern day Turkey is called what?",
+			"correct_answer": "Anatolia",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Ismuth of Ottoma"
+				},
+				{
+					"incorrect_answer": "Ottoma"
+				},
+				{
+					"incorrect_answer": "Ismuth of Anatolia"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "How many timezones does Russia have?",
+			"correct_answer": "11",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "6"
+				},
+				{
+					"incorrect_answer": "24"
+				},
+				{
+					"incorrect_answer": "16"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of these countries is the smallest by population?",
+			"correct_answer": "Norway",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Slovakia"
+				},
+				{
+					"incorrect_answer": "Finland"
+				},
+				{
+					"incorrect_answer": "Hong Kong"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the highest mountain in the world?",
+			"correct_answer": "Mt. Everest",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Mount Godwin Austen"
+				},
+				{
+					"incorrect_answer": "Kangchenjunga"
+				},
+				{
+					"incorrect_answer": "Annapurna"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What city  has the busiest airport in the world?",
+			"correct_answer": "Atlanta, Georgia USA",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "London, England"
+				},
+				{
+					"incorrect_answer": "Chicago,Illinois ISA"
+				},
+				{
+					"incorrect_answer": "Tokyo,Japan"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What&#039;s the first National Park designated in the United States?",
+			"correct_answer": "Yellowstone",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Sequoia "
+				},
+				{
+					"incorrect_answer": "Yosemite"
+				},
+				{
+					"incorrect_answer": "Rocky Mountain"
+				}
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Broome is a town in which state of Australia?",
+			"correct_answer": "Western Australia",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Northern Territory"
+				},
+				{
+					"incorrect_answer": "South Australia"
+				},
+				{
+					"incorrect_answer": "Tasmania"
+				}
+			]
+		}
+	]
+}

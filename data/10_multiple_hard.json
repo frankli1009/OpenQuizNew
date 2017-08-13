@@ -1,0 +1,185 @@
+{
+	"response_code": "0",
+	"results": [
+		{
+			"category": "Entertainment: Books",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which author and poet famously wrote the line, &quot;The female of the species is more deadly than the male&quot;?",
+			"correct_answer": "Rudyard Kipling",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Edgar Allan Poe"
+				},
+				{
+					"incorrect_answer": "William Shakespeare"
+				},
+				{
+					"incorrect_answer": "William Wordsworth"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Books",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "In the Beatrix Potter books, what type of animal is Tommy Brock?",
+			"correct_answer": "Badger",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Fox"
+				},
+				{
+					"incorrect_answer": "Frog"
+				},
+				{
+					"incorrect_answer": "Rabbit"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Books",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Who wrote the novel &quot;Moby-Dick&quot;?",
+			"correct_answer": "Herman Melville",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "William Golding"
+				},
+				{
+					"incorrect_answer": "William Shakespeare"
+				},
+				{
+					"incorrect_answer": "J. R. R. Tolkien"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Books",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "In the book &quot;The Martian&quot;, how long was Mark Watney trapped on Mars (in Sols)?",
+			"correct_answer": "549 Days",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "765 Days"
+				},
+				{
+					"incorrect_answer": "401 Days"
+				},
+				{
+					"incorrect_answer": "324 Days"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Books",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "In the Harry Potter universe, what is Cornelius Fudge&#039;s middle name?",
+			"correct_answer": "Oswald",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "James"
+				},
+				{
+					"incorrect_answer": "Harold"
+				},
+				{
+					"incorrect_answer": "Christopher"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Books",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "In the Harry Potter universe, who does Draco Malfoy end up marrying?",
+			"correct_answer": "Astoria Greengrass",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Pansy Parkinson"
+				},
+				{
+					"incorrect_answer": "Millicent Bulstrode"
+				},
+				{
+					"incorrect_answer": "Hermione Granger"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Books",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Abel Magwitch is a character from which Charles Dickens novel?",
+			"correct_answer": "Great Expectations",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "The Pickwick Papers"
+				},
+				{
+					"incorrect_answer": "Nicholas Nickleby"
+				},
+				{
+					"incorrect_answer": "Oliver Twist"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Books",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "The novel &quot;Jane Eyre&quot; was written by what author? ",
+			"correct_answer": "Charlotte Bront&euml;",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Emily Bront&euml;"
+				},
+				{
+					"incorrect_answer": "Jane Austen"
+				},
+				{
+					"incorrect_answer": "Louisa May Alcott"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Books",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which of these does Charlie NOT read in The Perks of Being a Wallflower?",
+			"correct_answer": "The Grapes of Wrath",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Hamlet"
+				},
+				{
+					"incorrect_answer": "The Great Gatsby"
+				},
+				{
+					"incorrect_answer": "Peter Pan"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Books",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "The book &quot;The Silence of the Lambs&quot; gets its title from what?",
+			"correct_answer": "The main character&#039;s trauma in childhood",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "The relation it has with killing the innocents"
+				},
+				{
+					"incorrect_answer": "The villain&#039;s favourite meal"
+				},
+				{
+					"incorrect_answer": "The voice of innocent people being shut by the powerful"
+				}
+			]
+		}
+	]
+}

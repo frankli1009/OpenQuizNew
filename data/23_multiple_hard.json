@@ -1,0 +1,365 @@
+{
+	"response_code": "0",
+	"results": [
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "With which Greek philosopher would you associate the phrase, &quot;I know that I know nothing&quot;?",
+			"correct_answer": "Socrates",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Aristotle"
+				},
+				{
+					"incorrect_answer": "Plato"
+				},
+				{
+					"incorrect_answer": "Pythagoras"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which naval battle was considered the turning point of the Pacific Ocean Theater during World War 2?",
+			"correct_answer": "Battle of Midway",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Attack on Truk Island"
+				},
+				{
+					"incorrect_answer": "Attack on Pearl Harbor"
+				},
+				{
+					"incorrect_answer": "Battle of the Coral Sea"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Spain was formed in 1469 with the marriage of Isabella I of Castile and Ferdinand II of what other Iberian kingdom?",
+			"correct_answer": "Aragon",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Galicia"
+				},
+				{
+					"incorrect_answer": "Le&oacute;n"
+				},
+				{
+					"incorrect_answer": "Navarre"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What was the name of the spy ring that helped the United States win the Revolutionary War?",
+			"correct_answer": "Culper Ring",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "New York Spy Ring"
+				},
+				{
+					"incorrect_answer": "Washington&#039;s Spies"
+				},
+				{
+					"incorrect_answer": "Unnamed"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "When did Spanish Peninsular War start?",
+			"correct_answer": "1808",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "1806"
+				},
+				{
+					"incorrect_answer": "1810"
+				},
+				{
+					"incorrect_answer": "1809"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What year was Canada founded in?",
+			"correct_answer": "1867",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "1798"
+				},
+				{
+					"incorrect_answer": "1859"
+				},
+				{
+					"incorrect_answer": "1668"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What age was King Henry V when he died?",
+			"correct_answer": "36",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "62"
+				},
+				{
+					"incorrect_answer": "87"
+				},
+				{
+					"incorrect_answer": "73"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "On which day did ARPANET suffer a 4 hour long network crash?",
+			"correct_answer": "October 27, 1980",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "November 21, 1969"
+				},
+				{
+					"incorrect_answer": "October 29, 1969"
+				},
+				{
+					"incorrect_answer": "December 9, 1991"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What did the first vending machines in the early 1880&#039;s dispense?",
+			"correct_answer": "Post cards",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Alcohol"
+				},
+				{
+					"incorrect_answer": "Cigarettes"
+				},
+				{
+					"incorrect_answer": "Sodas "
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "During the Wars of the Roses (1455 - 1487) which Englishman was dubbed &quot;the Kingmaker&quot;?",
+			"correct_answer": "Richard Neville",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Richard III"
+				},
+				{
+					"incorrect_answer": "Henry V"
+				},
+				{
+					"incorrect_answer": "Thomas Warwick"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Bohdan Khmelnytsky was which of the following?",
+			"correct_answer": "Leader of the Ukrainian Cossacks",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "General Secretary of the Communist Party of the USSR"
+				},
+				{
+					"incorrect_answer": "Prince of Wallachia"
+				},
+				{
+					"incorrect_answer": "Grand Prince of Novgorod"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "During the Roman Triumvirate of 42 BCE, what region of the Roman Republic was given to Lepidus?",
+			"correct_answer": "Hispania ",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Italia"
+				},
+				{
+					"incorrect_answer": "Gallia"
+				},
+				{
+					"incorrect_answer": "Asia"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What was the real name of the Albanian national leader Skanderbeg?",
+			"correct_answer": "Gjergj Kastrioti",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Diturak Zhulati"
+				},
+				{
+					"incorrect_answer": "Iskander Bejko"
+				},
+				{
+					"incorrect_answer": "Mirash Krasniki"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Who invented the &quot;Flying Shuttle&quot; in 1738; one of the key developments in the industrialization of weaving?",
+			"correct_answer": "John Kay",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "James Hargreaves"
+				},
+				{
+					"incorrect_answer": "Richard Arkwright"
+				},
+				{
+					"incorrect_answer": "John Deere"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "When did Lithuania declare independence from the Soviet Union?",
+			"correct_answer": "March 11th, 1990",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "December 25th, 1991"
+				},
+				{
+					"incorrect_answer": "December 5th, 1991"
+				},
+				{
+					"incorrect_answer": "April 20th, 1989"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What was found in 1946 by two young shepards near a cave?",
+			"correct_answer": "Dead Sea Scrolls",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "The Blackbeard Chest"
+				},
+				{
+					"incorrect_answer": "Sheep"
+				},
+				{
+					"incorrect_answer": "The First Oaxaca Cave Sleeper"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "The Battle of Hastings was fought in which year?",
+			"correct_answer": "1066",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "911"
+				},
+				{
+					"incorrect_answer": "1204"
+				},
+				{
+					"incorrect_answer": "1420"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What was the code name for the Allied invasion of Southern France on August 15th, 1944?",
+			"correct_answer": "Operation Dragoon",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Operation Overlord"
+				},
+				{
+					"incorrect_answer": "Operation Market Garden"
+				},
+				{
+					"incorrect_answer": "Operation Torch"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "How long did the Warsaw Uprising during World War II last?",
+			"correct_answer": "63 Days",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "20 Days"
+				},
+				{
+					"incorrect_answer": "55 Days"
+				},
+				{
+					"incorrect_answer": "224 Days"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What was the aim of the &quot;Umbrella Revolution&quot; in Hong Kong in 2014?",
+			"correct_answer": "Genuine universal suffrage",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Gaining Independence"
+				},
+				{
+					"incorrect_answer": "Go back under British Rule"
+				},
+				{
+					"incorrect_answer": "Lower taxes"
+				}
+			]
+		}
+	]
+}

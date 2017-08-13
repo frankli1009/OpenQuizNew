@@ -1,0 +1,365 @@
+{
+	"response_code": "0",
+	"results": [
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which of the following liquids is least viscous? Assume temperature is 25&deg;C.",
+			"correct_answer": "Acetone",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Water"
+				},
+				{
+					"incorrect_answer": "Mercury"
+				},
+				{
+					"incorrect_answer": "Benzene"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "The &#039;Islets of Langerhans&#039; is found in which human organ?",
+			"correct_answer": "Pancreas",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Kidney"
+				},
+				{
+					"incorrect_answer": "Liver"
+				},
+				{
+					"incorrect_answer": "Brain"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "How many legs is it biologically impossible for a centipede to have?",
+			"correct_answer": "100",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "26"
+				},
+				{
+					"incorrect_answer": "50"
+				},
+				{
+					"incorrect_answer": "74"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What common name is given to the medial condition, tibial stress syndrome (MTSS)?",
+			"correct_answer": "Shin Splints",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Tennis Elbow"
+				},
+				{
+					"incorrect_answer": "Carpal Tunnel"
+				},
+				{
+					"incorrect_answer": "Housemaid&#039;s Knee"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What is the molecular formula of Glucose?",
+			"correct_answer": "C6H12O6",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "C2H4O2"
+				},
+				{
+					"incorrect_answer": "K+"
+				},
+				{
+					"incorrect_answer": "CH4"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "An organic compound is considered an alcohol if it has what functional group?",
+			"correct_answer": "Hydroxyl",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Carbonyl"
+				},
+				{
+					"incorrect_answer": "Alkyl"
+				},
+				{
+					"incorrect_answer": "Aldehyde"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What is the scientific name of the knee cap?",
+			"correct_answer": "Patella",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Femur"
+				},
+				{
+					"incorrect_answer": "Foramen Magnum"
+				},
+				{
+					"incorrect_answer": "Scapula"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "If you planted the seeds of Quercus robur what would grow?",
+			"correct_answer": "Trees",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Flowers"
+				},
+				{
+					"incorrect_answer": "Vegtables"
+				},
+				{
+					"incorrect_answer": "Grains"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What is isobutylphenylpropanoic acid more commonly known as?",
+			"correct_answer": "Ibuprofen",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Morphine"
+				},
+				{
+					"incorrect_answer": "Ketamine"
+				},
+				{
+					"incorrect_answer": "Aspirin"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which of these chemical compounds is NOT found in gastric acid?",
+			"correct_answer": "Sulfuric acid",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Hydrochloric acid"
+				},
+				{
+					"incorrect_answer": "Potassium chloride"
+				},
+				{
+					"incorrect_answer": "Sodium chloride"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What is the scientific name of the red fox?",
+			"correct_answer": "Vulpes Vulpes",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Vulpes Redus"
+				},
+				{
+					"incorrect_answer": "Red Fox"
+				},
+				{
+					"incorrect_answer": "Vulpes Vulpie"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which one of these is scientific term for &quot;Brain Freeze&quot;?",
+			"correct_answer": "Sphenopalatine Ganglioneuralgia",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Hyacinthoides Italica"
+				},
+				{
+					"incorrect_answer": "Amaranthus Retroflexus"
+				},
+				{
+					"incorrect_answer": "Amblyomma Americanum"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which moon is the only satellite in our solar system to possess a dense atmosphere?",
+			"correct_answer": "Titan",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Europa"
+				},
+				{
+					"incorrect_answer": "Miranda"
+				},
+				{
+					"incorrect_answer": "Callisto"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which of these is a stop codon in DNA?",
+			"correct_answer": "TAA",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "ACT"
+				},
+				{
+					"incorrect_answer": "ACA"
+				},
+				{
+					"incorrect_answer": "GTA"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What nucleotide pairs with guanine?",
+			"correct_answer": "Cytosine",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Thymine"
+				},
+				{
+					"incorrect_answer": "Adenine"
+				},
+				{
+					"incorrect_answer": "Uracil"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What genetic disease is caused by having an extra Y chromosome (XYY)?",
+			"correct_answer": "Jacob&#039;s Syndrome",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Klinefelter&#039;s Syndrome"
+				},
+				{
+					"incorrect_answer": "Turner&#039;s Syndrome"
+				},
+				{
+					"incorrect_answer": "Down Syndrome"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Botanically speaking, which of these fruits is NOT a berry?",
+			"correct_answer": "Strawberry",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Blueberry"
+				},
+				{
+					"incorrect_answer": "Banana"
+				},
+				{
+					"incorrect_answer": "Concord Grape"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What does the term &quot;isolation&quot; refer to in microbiology?",
+			"correct_answer": "The separation of a strain from a natural, mixed population of living microbes",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "A lack of nutrition in microenviroments"
+				},
+				{
+					"incorrect_answer": "The nitrogen level in soil"
+				},
+				{
+					"incorrect_answer": "Testing effects of certain microorganisms in an isolated enviroments, such as caves"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "How much radiation does a banana emit?",
+			"correct_answer": "0.1 Microsievert",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "0.3 Microsievert"
+				},
+				{
+					"incorrect_answer": "0.5 Microsievert"
+				},
+				{
+					"incorrect_answer": "0.7 Microsievert"
+				}
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What is the unit of electrical inductance?",
+			"correct_answer": "Henry",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Weber"
+				},
+				{
+					"incorrect_answer": "Coulomb"
+				},
+				{
+					"incorrect_answer": "Mho"
+				}
+			]
+		}
+	]
+}

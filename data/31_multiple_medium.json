@@ -1,0 +1,365 @@
+{
+	"response_code": "0",
+	"results": [
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Who created the animated movie &quot;Spirited Away&quot; (2001)?",
+			"correct_answer": "Hayao Miyazaki",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Isao Takahata"
+				},
+				{
+					"incorrect_answer": "Mamoru Hosoda"
+				},
+				{
+					"incorrect_answer": "Hidetaka Miyazaki"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In the anime series &quot;Full Metal Alchemist&quot;, what do Alchemists consider the greatest taboo?",
+			"correct_answer": "Human Transmutation ",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Transmuting Lead Into Gold"
+				},
+				{
+					"incorrect_answer": "Using Alchemy For Crime "
+				},
+				{
+					"incorrect_answer": "Preforming Without A Permit"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In &quot;Shakugan no Shana&quot; what was the Shana usually referred as?",
+			"correct_answer": "Flame-Haired Burning-Eyed Hunter",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Flame Haze"
+				},
+				{
+					"incorrect_answer": "Flame-Haired Burning-Eyed Haze"
+				},
+				{
+					"incorrect_answer": "Shana"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which one of these Manga titles was not created by Urasawa Naoki?",
+			"correct_answer": "My Father&#039;s Journal",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Billy Bat"
+				},
+				{
+					"incorrect_answer": "20th Century Boys"
+				},
+				{
+					"incorrect_answer": "Monster"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "The main antagonist of the second part of JoJo&#039;s Bizarre Adventure is which of the following?",
+			"correct_answer": "Kars",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Erina Joestar"
+				},
+				{
+					"incorrect_answer": "Santana"
+				},
+				{
+					"incorrect_answer": "Wired Beck"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which animation studio animated the 2016 anime &quot;Mob Psycho 100&quot;?",
+			"correct_answer": "Bones",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "A-1 Pictures"
+				},
+				{
+					"incorrect_answer": "Shaft"
+				},
+				{
+					"incorrect_answer": "Madhouse"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of the following manga have the most tankouban volumes?",
+			"correct_answer": "Golgo 13",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "JoJo&#039;s Bizarre Adventure"
+				},
+				{
+					"incorrect_answer": "Detective Conan"
+				},
+				{
+					"incorrect_answer": "One Piece"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What year did &quot;Attack on Titan&quot; Season 2 begin airing?",
+			"correct_answer": "2017",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "2018"
+				},
+				{
+					"incorrect_answer": "2019"
+				},
+				{
+					"incorrect_answer": "2020"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "The character Momonga from the &quot;Overlord&quot; series orders his servants to call him by what name?",
+			"correct_answer": "Ainz Ooal Gown",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Master"
+				},
+				{
+					"incorrect_answer": "Yggdrasil"
+				},
+				{
+					"incorrect_answer": "Kugane Maruyama"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Aoi Miyamori is the production manager of what anime in &quot;Shirobako&quot;?",
+			"correct_answer": "The Third Aerial Girls Squad",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Exodus!"
+				},
+				{
+					"incorrect_answer": "Andes Chucky"
+				},
+				{
+					"incorrect_answer": "Angel Beats!"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "The heroine of &quot;Humanity Has Declined&quot; is a mediator between humans and what?",
+			"correct_answer": "Fairies",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Elves"
+				},
+				{
+					"incorrect_answer": "The Earth"
+				},
+				{
+					"incorrect_answer": "Animals"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Ikki Kurogane is known by what nickname at the beginning of &quot;Chivalry of a Failed Knight&quot;?",
+			"correct_answer": "Worst One",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Another One"
+				},
+				{
+					"incorrect_answer": "Blazer"
+				},
+				{
+					"incorrect_answer": "Princess"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Krusty is the guild master of which guild in &quot;Log Horizon&quot;?",
+			"correct_answer": "D. D. D",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Silver Sword"
+				},
+				{
+					"incorrect_answer": "West Wind Brigade"
+				},
+				{
+					"incorrect_answer": "Oceanic Systems (Marine Agency)"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In &quot;One Piece&quot;, which one of the following is NOT an Ancient Weapon?",
+			"correct_answer": "Jupiter",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Uranus"
+				},
+				{
+					"incorrect_answer": "Poseidon"
+				},
+				{
+					"incorrect_answer": "Pluton"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In the &quot;Sailor Moon&quot; series, what is Sailor Jupiter&#039;s civilian name?",
+			"correct_answer": "Makoto Kino",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Minako Aino"
+				},
+				{
+					"incorrect_answer": "Usagi Tsukino"
+				},
+				{
+					"incorrect_answer": "Rei Hino"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In &quot;A Certain Magical Index,&quot; what is Accelerator able to control?",
+			"correct_answer": "Vectors",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Velocity"
+				},
+				{
+					"incorrect_answer": "Quantums"
+				},
+				{
+					"incorrect_answer": "Wormholes"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In &quot;Toriko&quot;, which of the following foods is knowingly compatible with Toriko?",
+			"correct_answer": "Poison Potato",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Mors Oil"
+				},
+				{
+					"incorrect_answer": "Alpacookie"
+				},
+				{
+					"incorrect_answer": "Parmesansho Fruit"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Who is the creator of the manga series &quot;One Piece&quot;?",
+			"correct_answer": "Eiichiro Oda",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Yoshihiro Togashi"
+				},
+				{
+					"incorrect_answer": "Hayao Miyazaki"
+				},
+				{
+					"incorrect_answer": "Masashi Kishimoto"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Who voices the character &quot;Reigen&quot;  in the English dub of &quot;Mob Psycho 100&quot;?",
+			"correct_answer": "Chris Niosi",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Max Mittelman"
+				},
+				{
+					"incorrect_answer": "Kyle McCarley"
+				},
+				{
+					"incorrect_answer": "Casey Mongillo"
+				}
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Who voices &quot;Shou Suzuki&quot; in the English dub of &quot;Mob Psycho 100&quot;?",
+			"correct_answer": "Casey Mongillo",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Ben Diskin"
+				},
+				{
+					"incorrect_answer": "Chris Niosi"
+				},
+				{
+					"incorrect_answer": "David Naughton"
+				}
+			]
+		}
+	]
+}

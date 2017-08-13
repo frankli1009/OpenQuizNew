@@ -1,0 +1,365 @@
+{
+	"response_code": "0",
+	"results": [
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "The words &quot;bungalow&quot; and &quot;shampoo&quot; originate from the languages of which country?",
+			"correct_answer": "India",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Papua New Guinea"
+				},
+				{
+					"incorrect_answer": "Ethiopia"
+				},
+				{
+					"incorrect_answer": "China"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "When was &quot;YouTube&quot; founded?",
+			"correct_answer": "February 14, 2005",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "May 22, 2004"
+				},
+				{
+					"incorrect_answer": "September 12, 2005"
+				},
+				{
+					"incorrect_answer": "July 19, 2009"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Before the 19th Century, the &quot;Living Room&quot; was originally called the...",
+			"correct_answer": "Parlor",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Open Room"
+				},
+				{
+					"incorrect_answer": "Sitting Room"
+				},
+				{
+					"incorrect_answer": "Loft"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What year was Queen Elizabeth II born?",
+			"correct_answer": "1926",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "1923"
+				},
+				{
+					"incorrect_answer": "1929"
+				},
+				{
+					"incorrect_answer": "1930"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which of the following is not another name for the eggplant?",
+			"correct_answer": "Potimarron",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Brinjal"
+				},
+				{
+					"incorrect_answer": "Guinea Squash"
+				},
+				{
+					"incorrect_answer": "Melongene"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Sciophobia is the fear of what?",
+			"correct_answer": "Shadows",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Eating"
+				},
+				{
+					"incorrect_answer": "Bright lights"
+				},
+				{
+					"incorrect_answer": "Transportation"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which of the following is an existing family in &quot;The Sims&quot;?",
+			"correct_answer": "The Goth Family",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "The Family"
+				},
+				{
+					"incorrect_answer": "The Simoleon Family"
+				},
+				{
+					"incorrect_answer": "The Proud Family"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which of these banks are NOT authorized to issue currency notes in Hong Kong?",
+			"correct_answer": "OCBC",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "HSBC"
+				},
+				{
+					"incorrect_answer": "Standard Chartered"
+				},
+				{
+					"incorrect_answer": "Bank of China"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What is the romanized Chinese word for &quot;airplane&quot;?",
+			"correct_answer": "Feiji",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Qiche"
+				},
+				{
+					"incorrect_answer": "Zongxian"
+				},
+				{
+					"incorrect_answer": "Huojian"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What is the romanized Korean word for &quot;heart&quot;?",
+			"correct_answer": "Simjang",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Aejeong"
+				},
+				{
+					"incorrect_answer": "Jeongsin"
+				},
+				{
+					"incorrect_answer": "Segseu"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What is the romanized Arabic word for &quot;moon&quot;?",
+			"correct_answer": "Qamar",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Najma"
+				},
+				{
+					"incorrect_answer": "Kawkab"
+				},
+				{
+					"incorrect_answer": "Shams"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "How long did it take the motorized window washers of the original World Trade Center to clean the entire exterior of the building?",
+			"correct_answer": "1 Month",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "3 Weeks"
+				},
+				{
+					"incorrect_answer": "1 Week"
+				},
+				{
+					"incorrect_answer": "2 Months"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which one of these Swedish companies was founded in 1943?",
+			"correct_answer": "IKEA",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "H &amp; M"
+				},
+				{
+					"incorrect_answer": "Lindex"
+				},
+				{
+					"incorrect_answer": "Clas Ohlson"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "How many calories are in a 355 ml can of Pepsi Cola?",
+			"correct_answer": "150",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "200"
+				},
+				{
+					"incorrect_answer": "100"
+				},
+				{
+					"incorrect_answer": "155"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "De Eemhof, Port Zelande and Het Heijderbos are holiday villas owned by what company?",
+			"correct_answer": "Center Parcs",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Yelloh Village"
+				},
+				{
+					"incorrect_answer": "Keycamp"
+				},
+				{
+					"incorrect_answer": "Villa Plus"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What year was the RoboSapien toy robot released?",
+			"correct_answer": "2004",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "2000"
+				},
+				{
+					"incorrect_answer": "2001"
+				},
+				{
+					"incorrect_answer": "2006"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "According to the 2014-2015 Australian Bureau of Statistics, what percentage of Australians were born overseas?",
+			"correct_answer": "28%",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "13%"
+				},
+				{
+					"incorrect_answer": "20%"
+				},
+				{
+					"incorrect_answer": "7%"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What was Bank of America originally established as?",
+			"correct_answer": "Bank of Italy",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Bank of Long Island"
+				},
+				{
+					"incorrect_answer": "Bank of Pennsylvania"
+				},
+				{
+					"incorrect_answer": "Bank of Charlotte"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which product did Nokia, the telecommunications company, originally sell?",
+			"correct_answer": "Paper",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Phones"
+				},
+				{
+					"incorrect_answer": "Computers"
+				},
+				{
+					"incorrect_answer": "Processors"
+				}
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What does the Latin phrase &quot;Veni, vidi, vici&quot; translate into English?",
+			"correct_answer": "I came, I saw, I conquered",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "See no evil, hear no evil, speak no evil"
+				},
+				{
+					"incorrect_answer": "Life, liberty, and happiness"
+				},
+				{
+					"incorrect_answer": "Past, present, and future"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,365 @@
+{
+	"response_code": "0",
+	"results": [
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "At which bridge does the annual Oxford and Cambridge boat race start?",
+			"correct_answer": "Putney",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Hammersmith"
+				},
+				{
+					"incorrect_answer": "Vauxhall "
+				},
+				{
+					"incorrect_answer": "Battersea"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "With which team did Michael Schumacher make his Formula One debut at the 1991 Belgian Grand Prix?",
+			"correct_answer": "Jordan",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Benetton"
+				},
+				{
+					"incorrect_answer": "Ferrari"
+				},
+				{
+					"incorrect_answer": "Mercedes"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which German sportswear company&#039;s logo is the &#039;Formstripe&#039;?",
+			"correct_answer": "Puma",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Nike"
+				},
+				{
+					"incorrect_answer": "Adidas"
+				},
+				{
+					"incorrect_answer": "Reebok"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of these teams isn&#039;t a member of the NHL&#039;s &quot;Original Six&quot; era?",
+			"correct_answer": "Philadelphia Flyers",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "New York Rangers"
+				},
+				{
+					"incorrect_answer": "Toronto Maple Leafs"
+				},
+				{
+					"incorrect_answer": "Boston Bruins"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "A stimpmeter measures the speed of a ball over what surface?",
+			"correct_answer": "Golf Putting Green",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": " Football Pitch"
+				},
+				{
+					"incorrect_answer": "Cricket Outfield"
+				},
+				{
+					"incorrect_answer": "Pinball Table"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which Formula One driver was nicknamed &#039;The Professor&#039;?",
+			"correct_answer": "Alain Prost",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Ayrton Senna"
+				},
+				{
+					"incorrect_answer": "Niki Lauda"
+				},
+				{
+					"incorrect_answer": "Emerson Fittipaldi"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which nation hosted the FIFA World Cup in 2006?",
+			"correct_answer": "Germany",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "United Kingdom"
+				},
+				{
+					"incorrect_answer": "Brazil"
+				},
+				{
+					"incorrect_answer": "South Africa"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "The F1 season of 1994 is remembered for what tragic event?",
+			"correct_answer": "Death of Ayrton Senna (San Marino)",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "The Showdown (Australia)"
+				},
+				{
+					"incorrect_answer": "Verstappen on Fire (Germany)"
+				},
+				{
+					"incorrect_answer": "Schumacher&#039;s Ban (Britain)"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the highest belt you can get in Taekwondo?",
+			"correct_answer": "Black",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "White"
+				},
+				{
+					"incorrect_answer": "Red"
+				},
+				{
+					"incorrect_answer": "Green"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which country is hosting the 2022 FIFA World Cup?",
+			"correct_answer": "Qatar",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Uganda"
+				},
+				{
+					"incorrect_answer": "Vietnam"
+				},
+				{
+					"incorrect_answer": "Bolivia"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which team was the 2015-2016 NBA Champions?",
+			"correct_answer": "Cleveland Cavaliers",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Golden State Warriors"
+				},
+				{
+					"incorrect_answer": "Toronto Raptors"
+				},
+				{
+					"incorrect_answer": "Oklahoma City Thunders"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which team was the 2014-2015 NBA Champions?",
+			"correct_answer": "Golden State Warriors",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Cleveland Cavaliers"
+				},
+				{
+					"incorrect_answer": "Houston Rockets"
+				},
+				{
+					"incorrect_answer": "Atlanta Hawks"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Josh Mansour is part of what NRL team?",
+			"correct_answer": "Penrith Panthers",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Melbourne Storm"
+				},
+				{
+					"incorrect_answer": "Sydney Roosters"
+				},
+				{
+					"incorrect_answer": "North Queensland Cowboys"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which car manufacturer won the 2016 24 Hours of Le Mans?",
+			"correct_answer": "Porsche",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Toyota"
+				},
+				{
+					"incorrect_answer": "Audi"
+				},
+				{
+					"incorrect_answer": "Ferrari"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which soccer team won the Copa Am&eacute;rica 2015 Championship ?",
+			"correct_answer": "Chile",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Argentina"
+				},
+				{
+					"incorrect_answer": "Brazil"
+				},
+				{
+					"incorrect_answer": "Paraguay"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What national team won the 2016 edition of UEFA European Championship?",
+			"correct_answer": "Portugal",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "France"
+				},
+				{
+					"incorrect_answer": "Germany"
+				},
+				{
+					"incorrect_answer": "England"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In 2016, who won the Formula 1 World Constructor&#039;s Championship for the third time in a row?",
+			"correct_answer": "Mercedes-AMG Petronas",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Scuderia Ferrari"
+				},
+				{
+					"incorrect_answer": "McLaren Honda"
+				},
+				{
+					"incorrect_answer": "Red Bull Racing Renault"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the oldest team in the NFL?",
+			"correct_answer": "Arizona Cardinals",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Chicago Bears"
+				},
+				{
+					"incorrect_answer": "Green Bay Packers"
+				},
+				{
+					"incorrect_answer": "New York Giants"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the oldest team in Major League Baseball?",
+			"correct_answer": "Atlanta Braves",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Chicago Cubs"
+				},
+				{
+					"incorrect_answer": "Cincinnati Reds"
+				},
+				{
+					"incorrect_answer": "St. Louis Cardinals"
+				}
+			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of the following Grand Slam tennis tournaments occurs LAST?",
+			"correct_answer": "US Open",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "French Open"
+				},
+				{
+					"incorrect_answer": "Wimbledon"
+				},
+				{
+					"incorrect_answer": "Australian Open"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,905 @@
+{
+	"response_code": "0",
+	"results": [
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What disease crippled President Franklin D. Roosevelt and led him to help the nation find a cure? ",
+			"correct_answer": "Polio",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Cancer"
+				},
+				{
+					"incorrect_answer": "Meningitis"
+				},
+				{
+					"incorrect_answer": "HIV"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "During the Mongolian invasions of Japan, what were the Mongol boats mostly stopped by?",
+			"correct_answer": "Typhoons",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Tornados"
+				},
+				{
+					"incorrect_answer": "Economic depression"
+				},
+				{
+					"incorrect_answer": "Samurai"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In what year did Neil Armstrong and Buzz Aldrin land on the moon?",
+			"correct_answer": "1969",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "1965"
+				},
+				{
+					"incorrect_answer": "1966"
+				},
+				{
+					"incorrect_answer": "1973"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "During what war did the &quot;Cuban Missile Crisis&quot; occur?",
+			"correct_answer": "Cold War",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "World War I"
+				},
+				{
+					"incorrect_answer": "World War II"
+				},
+				{
+					"incorrect_answer": "Revolutionary War"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "America&#039;s Strategic Defense System during the Cold War was nicknamed after this famous movie.",
+			"correct_answer": "Star Wars",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Jaws"
+				},
+				{
+					"incorrect_answer": "Blade Runner"
+				},
+				{
+					"incorrect_answer": "Alien"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "The Spitfire L.F. Mk IX had what engine?",
+			"correct_answer": "Merlin 66",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Griffon 65"
+				},
+				{
+					"incorrect_answer": "Merlin 50"
+				},
+				{
+					"incorrect_answer": "Merlin X"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What number does the Roman numeral &quot;D&quot; stand for?",
+			"correct_answer": "500",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "100"
+				},
+				{
+					"incorrect_answer": "1000"
+				},
+				{
+					"incorrect_answer": "50"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "The crown of the Empire State Building was originally built for what purpose?",
+			"correct_answer": "Airship Dock",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Lightning Rod"
+				},
+				{
+					"incorrect_answer": "Antennae"
+				},
+				{
+					"incorrect_answer": "Flag Pole"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "On what day did Germany invade Poland?",
+			"correct_answer": "September 1, 1939",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "December 7, 1941"
+				},
+				{
+					"incorrect_answer": "June 22, 1941"
+				},
+				{
+					"incorrect_answer": "July 7, 1937"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of the following ancient Near Eastern peoples still exists as a modern ethnic group?",
+			"correct_answer": "Assyrians",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Babylonians"
+				},
+				{
+					"incorrect_answer": "Hittites"
+				},
+				{
+					"incorrect_answer": "Elamites"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of the following was NOT a capital of Assyria:",
+			"correct_answer": "Harran",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "A&scaron;&scaron;ur"
+				},
+				{
+					"incorrect_answer": "Kalhu"
+				},
+				{
+					"incorrect_answer": "Nineveh"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "All of the following are names of the Seven Warring States EXCEPT:",
+			"correct_answer": "Zhai (翟)",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Zhao (趙)"
+				},
+				{
+					"incorrect_answer": "Qin (秦)"
+				},
+				{
+					"incorrect_answer": "Qi (齊)"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In what year was the last natural case of smallpox documented?",
+			"correct_answer": "1977",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "1982"
+				},
+				{
+					"incorrect_answer": "1980"
+				},
+				{
+					"incorrect_answer": "1990"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of the following Assyrian kings did NOT rule during the Neo-Assyrian Empire?",
+			"correct_answer": "Shamshi-Adad III",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Shalmaneser V"
+				},
+				{
+					"incorrect_answer": "Esharhaddon"
+				},
+				{
+					"incorrect_answer": "Ashur-nasir-pal II"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which infamous European traitor was known as &quot;the last person to enter Parliament with honest intentions&quot;?",
+			"correct_answer": "Guy Fawkes",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Robert Catesby"
+				},
+				{
+					"incorrect_answer": "Francis Tresham"
+				},
+				{
+					"incorrect_answer": "Everard Digby"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "The creator of the Enigma Cypher and Machine was of what nationality?",
+			"correct_answer": "German",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "American"
+				},
+				{
+					"incorrect_answer": "British"
+				},
+				{
+					"incorrect_answer": "Polish"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "When was &quot;The Gadget&quot;, the first nuclear device to be detonated, tested?",
+			"correct_answer": "July 16, 1945",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "June 22, 1945"
+				},
+				{
+					"incorrect_answer": "August 6, 1945"
+				},
+				{
+					"incorrect_answer": "April 5, 1945"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "On which day did the attempted coup d&#039;etat of 1991 in the Soviet Union begin?",
+			"correct_answer": "August 19",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "August 21"
+				},
+				{
+					"incorrect_answer": "December 26"
+				},
+				{
+					"incorrect_answer": "December 24"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "How old was Lyndon B. Johnson when he assumed the role of President of the United States?",
+			"correct_answer": "55",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "50"
+				},
+				{
+					"incorrect_answer": "60"
+				},
+				{
+					"incorrect_answer": "54"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of these countries was NOT a part of the Soviet Union?",
+			"correct_answer": "Afghanistan",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Turkmenistan"
+				},
+				{
+					"incorrect_answer": "Kazakhstan"
+				},
+				{
+					"incorrect_answer": "Uzbekistan"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the name of the US Navy spy ship which was attacked and captured by North Korean forces in 1968?",
+			"correct_answer": "USS Pueblo",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "USS North Carolina"
+				},
+				{
+					"incorrect_answer": "USS Constitution"
+				},
+				{
+					"incorrect_answer": "USS Indianapolis"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What year did the Battle of Agincourt take place?",
+			"correct_answer": "1415",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "1463"
+				},
+				{
+					"incorrect_answer": "1401"
+				},
+				{
+					"incorrect_answer": "1422"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In which year did the First World War begin?",
+			"correct_answer": "1914",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "1930"
+				},
+				{
+					"incorrect_answer": "1917"
+				},
+				{
+					"incorrect_answer": "1939"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "When did the Battle of the Bulge end?",
+			"correct_answer": "January 25, 1945",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "August 6, 1945"
+				},
+				{
+					"incorrect_answer": "December 7, 1941"
+				},
+				{
+					"incorrect_answer": "December 16, 1944"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "How many times was Albert Einstein married in his lifetime?",
+			"correct_answer": "Twice",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Five"
+				},
+				{
+					"incorrect_answer": "Thrice"
+				},
+				{
+					"incorrect_answer": "Once"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What year were the Marian Reforms instituted in the Roman Republic?",
+			"correct_answer": "107 BCE",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "42 BCE"
+				},
+				{
+					"incorrect_answer": "264 BCE"
+				},
+				{
+					"incorrect_answer": "102 CE"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What year did the Boxing Day earthquake &amp; tsunami occur in the Indian Ocean?",
+			"correct_answer": "2004",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "2006"
+				},
+				{
+					"incorrect_answer": "2008"
+				},
+				{
+					"incorrect_answer": "2002"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Against which country did the Dutch Republic fight the Eighty Years&#039; War?",
+			"correct_answer": "Spain",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "France"
+				},
+				{
+					"incorrect_answer": "England"
+				},
+				{
+					"incorrect_answer": "Portugal"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which WWII tank ace is credited with having destroyed the most tanks?",
+			"correct_answer": "Kurt Knispel",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Michael Wittmann"
+				},
+				{
+					"incorrect_answer": "Walter Kniep"
+				},
+				{
+					"incorrect_answer": "Otto Carius"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the oldest US state?",
+			"correct_answer": "Delaware",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Rhode Island"
+				},
+				{
+					"incorrect_answer": "Maine"
+				},
+				{
+					"incorrect_answer": "Virginia"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What was the transfer of disease, crops, and people across the Atlantic shortly after the discovery of the Americas called?",
+			"correct_answer": "The Columbian Exchange",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Triangle Trade"
+				},
+				{
+					"incorrect_answer": "Transatlantic Slave Trade"
+				},
+				{
+					"incorrect_answer": "The Silk Road"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What was Genghis Khan&#039;s real name?",
+			"correct_answer": "Tem&uuml;jin",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "M&ouml;ngke"
+				},
+				{
+					"incorrect_answer": "&Ouml;gedei"
+				},
+				{
+					"incorrect_answer": "Tem&uuml;r"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which American civilization is the source of the belief that the world would end or drastically change on December 21st, 2012?",
+			"correct_answer": "The Mayans",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "The Incas"
+				},
+				{
+					"incorrect_answer": "The Aztecs"
+				},
+				{
+					"incorrect_answer": "The Navajos"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What year is considered to be the year that the British Empire ended?",
+			"correct_answer": "1997",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "1986"
+				},
+				{
+					"incorrect_answer": "1981"
+				},
+				{
+					"incorrect_answer": "1971"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "When did Norway get its constitution?",
+			"correct_answer": "1814",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "1932"
+				},
+				{
+					"incorrect_answer": "1905"
+				},
+				{
+					"incorrect_answer": "1854"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "When did Norway become free from Sweden?",
+			"correct_answer": "1905",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "1925"
+				},
+				{
+					"incorrect_answer": "1814"
+				},
+				{
+					"incorrect_answer": "1834"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "When Christopher Columbus sailed to America, what was the first region he arrived in?",
+			"correct_answer": "The Bahamas Archipelago",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Florida"
+				},
+				{
+					"incorrect_answer": "Isthmus of Panama"
+				},
+				{
+					"incorrect_answer": "Nicaragua"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of the following snipers has the highest amount of confirmed kills?",
+			"correct_answer": "Simo H&auml;yh&auml;",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Chris Kyle"
+				},
+				{
+					"incorrect_answer": "Vasily Zaytsev"
+				},
+				{
+					"incorrect_answer": "Craig Harrison"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In what dialogue did Socrates defend himself to the court of Athens? ",
+			"correct_answer": "The Apology",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "The Euthyphro"
+				},
+				{
+					"incorrect_answer": "The Laws"
+				},
+				{
+					"incorrect_answer": "The Republic"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Who is attributed credit for recording the epic poem The Odyssey?",
+			"correct_answer": "Homer",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Aristotle"
+				},
+				{
+					"incorrect_answer": "Odysseus"
+				},
+				{
+					"incorrect_answer": "Socrates"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In what year did the First World War end?",
+			"correct_answer": "1918",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "1914"
+				},
+				{
+					"incorrect_answer": "1916"
+				},
+				{
+					"incorrect_answer": "1912"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What was the unofficial name for Germany between 1919 and 1933?",
+			"correct_answer": "Weimar Republic",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "German Democratic Republic"
+				},
+				{
+					"incorrect_answer": "Federal Republic of Germany"
+				},
+				{
+					"incorrect_answer": "Oesterreich "
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which U.S. president took part in the Potsdam Conference, where the Allies reached a peace settlement with Germany?",
+			"correct_answer": "Harry S. Truman",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Dwight D. Eisenhower"
+				},
+				{
+					"incorrect_answer": "Franklin D. Roosevelt"
+				},
+				{
+					"incorrect_answer": "Herbert Hoover"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Who was the leader of the Communist Party of Yugoslavia ?",
+			"correct_answer": "Josip Broz Tito",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Karadjordje Petrovic"
+				},
+				{
+					"incorrect_answer": "Milos Obilic"
+				},
+				{
+					"incorrect_answer": "Aleskandar Petrovic"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "The Fallingwater House, located in Pennsylvania, was designed by which architect?",
+			"correct_answer": "Frank Lloyd Wright",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Antoni Gaudi"
+				},
+				{
+					"incorrect_answer": "Frank Gehry"
+				},
+				{
+					"incorrect_answer": "Le Corbusier"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What was the name of one of the surviving palaces of Henry VIII located near Richmond, London?",
+			"correct_answer": "Hampton Court",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "St James&#039;s Palace"
+				},
+				{
+					"incorrect_answer": "Buckingham Palace"
+				},
+				{
+					"incorrect_answer": "Coughton Court"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What year did Australia become a federation?",
+			"correct_answer": "1901",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "1910"
+				},
+				{
+					"incorrect_answer": "1899"
+				},
+				{
+					"incorrect_answer": "1911"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In which year was Constantinople conquered by the Turks?",
+			"correct_answer": "1453",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "1435"
+				},
+				{
+					"incorrect_answer": "1454"
+				},
+				{
+					"incorrect_answer": "1440"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In what year did Kentucky become the 15th state to join the union?",
+			"correct_answer": "1792",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "1782"
+				},
+				{
+					"incorrect_answer": "1798"
+				},
+				{
+					"incorrect_answer": "1788"
+				}
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of the following countries was the first to send an object into space?",
+			"correct_answer": "Germany",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "USA"
+				},
+				{
+					"incorrect_answer": "Russia"
+				},
+				{
+					"incorrect_answer": "China"
+				}
+			]
+		}
+	]
+}

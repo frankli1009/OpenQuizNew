@@ -1,0 +1,185 @@
+{
+	"response_code": "0",
+	"results": [
+		{
+			"category": "Animals",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What was the name of the Ethiopian Wolf before they knew it was related to wolves?",
+			"correct_answer": "Simien Jackel",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Ethiopian Coyote"
+				},
+				{
+					"incorrect_answer": "Amharic Fox"
+				},
+				{
+					"incorrect_answer": "Canis Simiensis"
+				}
+			]
+		},
+		{
+			"category": "Animals",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What scientific suborder does the family Hyaenidae belong to?",
+			"correct_answer": "Feliformia",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Haplorhini"
+				},
+				{
+					"incorrect_answer": "Caniformia"
+				},
+				{
+					"incorrect_answer": "Ciconiiformes"
+				}
+			]
+		},
+		{
+			"category": "Animals",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "How many known living species of hyenas are there?",
+			"correct_answer": "4",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "8"
+				},
+				{
+					"incorrect_answer": "2"
+				},
+				{
+					"incorrect_answer": "6"
+				}
+			]
+		},
+		{
+			"category": "Animals",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What is the scientific name of the cheetah?",
+			"correct_answer": "Acinonyx jubatus",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Panthera onca"
+				},
+				{
+					"incorrect_answer": "Lynx rufus"
+				},
+				{
+					"incorrect_answer": "Felis catus"
+				}
+			]
+		},
+		{
+			"category": "Animals",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What is the scientific name of the Budgerigar?",
+			"correct_answer": "Melopsittacus undulatus",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Nymphicus hollandicus"
+				},
+				{
+					"incorrect_answer": "Pyrrhura molinae"
+				},
+				{
+					"incorrect_answer": "Ara macao"
+				}
+			]
+		},
+		{
+			"category": "Animals",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What is the Gray Wolf&#039;s scientific name?",
+			"correct_answer": "Canis Lupus",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Canis Aureus"
+				},
+				{
+					"incorrect_answer": "Canis Latrans"
+				},
+				{
+					"incorrect_answer": "Canis Lupus Lycaon"
+				}
+			]
+		},
+		{
+			"category": "Animals",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which of these animals is NOT a lizard?",
+			"correct_answer": "Tuatara",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Komodo Dragon"
+				},
+				{
+					"incorrect_answer": "Gila Monster"
+				},
+				{
+					"incorrect_answer": "Green Iguana"
+				}
+			]
+		},
+		{
+			"category": "Animals",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Unlike on most salamanders, this part of a newt is flat?",
+			"correct_answer": "Tail",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Head"
+				},
+				{
+					"incorrect_answer": "Teeth"
+				},
+				{
+					"incorrect_answer": "Feet"
+				}
+			]
+		},
+		{
+			"category": "Animals",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What is the name of the copper-rich protein that creates the blue blood in the Antarctic octopus?",
+			"correct_answer": "Hemocyanin",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Cytochrome"
+				},
+				{
+					"incorrect_answer": "Iron"
+				},
+				{
+					"incorrect_answer": "Methionine"
+				}
+			]
+		},
+		{
+			"category": "Animals",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which species is a &quot;mountain chicken&quot;?",
+			"correct_answer": "Frog",
+			"incorrect_answers": [
+				{
+					"incorrect_answer": "Chicken"
+				},
+				{
+					"incorrect_answer": "Horse"
+				},
+				{
+					"incorrect_answer": "Fly"
+				}
+			]
+		}
+	]
+}
