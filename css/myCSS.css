@@ -46,7 +46,7 @@ img, video {
     width: 100%;
 }
 
-.welcomeBig, .mainSettings, .settings, .questionResultDiv, .resultDiv, .hideChart {
+.welcomeBig, .mainSettings, .settings, .questionResultDiv, .questionDiv, .resultDiv, .hideChart {
     display: none;
 }
 
@@ -365,7 +365,7 @@ a.btn {
 }
 
 /*---------------------------------------------------------------------
-                 GALAXY S5 STYLES - 360 SCREEN RESOLUTION
+                 GALAXY S5 OR ALIKE DEVICES STYLES - 360 SCREEN RESOLUTION
 ---------------------------------------------------------------------*/
 
 
@@ -393,7 +393,7 @@ a.btn {
 }
 
 /*---------------------------------------------------------------------
-                 PAD STYLES - 568 SCREEN RESOLUTION
+                 BIGGER SCREEN DEVICES STYLES - 568 SCREEN RESOLUTION
 ---------------------------------------------------------------------*/
 
 
