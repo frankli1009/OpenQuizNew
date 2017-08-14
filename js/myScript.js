@@ -79,14 +79,16 @@ $(function(){
     .fail(function() {
         console.error("fail to get categories");
         quiz.online = false;
-        loadLocalQuizInfo();
-        //connectionFailure();
+        //loadLocalQuizInfo();
+        connectionFailure();
     });
     
+    //add the modal body div when showing settings on small devices
     $('#myModal').on('shown.bs.modal', function(){ 
        addModalBody();
     });
     
+    //onclick event action for save settings btn, validate and save the settings on small devices
     $("#savesettings").on("click", function() {
         if(saveQuizSettings()) return;
         else return false;
@@ -102,8 +104,9 @@ $(function(){
         return skipKeys(e);
     });
         
+    //onclick event action for answers div, check whether the answer is right, then shift to the next question
     $(".answerBorder").on("click", function(e) {
-        //console.log(e.target.id);
+        //console.log(e.target.id); //answer1, answer2, answer3, answer4
         var choice = e.target.id.substring(6,7);
         //console.log(choice);
         if(parseInt(choice) === curQuestion.iCorrect) quiz.right++;
@@ -112,6 +115,7 @@ $(function(){
         nextQuestion();
     });
         
+    //onlick event action for start a new quiz
     $("#startquiz").on("click", function() {
         if(!saveQuizSettings()) return;
 
@@ -121,8 +125,9 @@ $(function(){
         $("#didit").html("0 / 0");
         
         var url = "";
-        if(quiz.online) {
-           url += "https://opentdb.com/api.php?amount="+quiz.count; 
+        if(quiz.online) { //opentdb.com/api works
+            //get the questions in json format by ajax
+            url += "https://opentdb.com/api.php?amount="+quiz.count; 
             if(quiz.category) {
                 url += "&category=" + quiz.category;
             }
@@ -134,11 +139,13 @@ $(function(){
             }
             //console.log(url);
             $.getJSON(url)
-            .done(function(data) {
+            .done(function(data) { //ajax done
                 //console.log(data);
-                if(data.response_code === 0) {
+                if(data.response_code === 0) { //data state ok
+                    //initialize quiz information and start a question
                     quiz.initQuiz(data);
                     showNextQuestion();
+                    //hide result div
                     showResult(false);
                 } else {
                     console.error("response_code: "+data.response_code);
@@ -156,12 +163,15 @@ $(function(){
          
     });
     
+    //onclick event action for changechart button, toggle between right/wrong chart and time used chart
     $("#changechart").on("click", function(e) {
         e.preventDefault();
         toggleChart();
     });
     
+    //onclick event action for newgame button, start a new game
     $("#newgame").on("click", function() {
+        //if there is a question, clear the count down interval of the question 
         if(curQuestion.cntdwnInt != null) {
             clearInterval(curQuestion.cntdwnInt);
             curQuestion.cntdwnInt = null;
@@ -202,6 +212,7 @@ function addModalBody() {
     }
 }
 
+//toggle between right/wrong chart and time used chart
 function toggleChart() {
     var $changeChart = $("#changechart");
     if($changeChart.text().indexOf("Time")>-1) {
@@ -215,6 +226,8 @@ function toggleChart() {
     }
 }
 
+//toggle between questions div and result div
+//when result div is on, hide toggle-chart button as required(e.g.: show api service failure result)
 function showResult(showRes, showBtn) {
     if(showRes) {
         $("#questiondiv").hide();
@@ -230,6 +243,7 @@ function showResult(showRes, showBtn) {
     }
 }
 
+//Validate a int value and its range
 function validCount(val, min, max) {
     if(val === null || val < min || val > max ) {
         return false;
@@ -238,6 +252,7 @@ function validCount(val, min, max) {
     return true;
 }
 
+//show the next question by quiz.index++
 function showNextQuestion() {
     if( quiz.count <= 0 ) return;
     
