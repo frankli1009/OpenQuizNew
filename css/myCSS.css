@@ -85,12 +85,13 @@ body {
 .welcome {
     text-align: center;
     height: 80px;
-    margin: 10px auto;
+    margin: 15px auto 5px;
 }
 
 .welcome > h1 {
     font-family: 'Petit Formal Script', cursive;
     font-weight: bolder;
+    font-size: 1.6em;
     color: rgba(221,228, 214, 1);
 }
 
@@ -248,7 +249,7 @@ p.question {
     background-color: rgba(37, 105, 166, 0.8);
     margin-top: 5px;
     margin-left: 0;
-    height: 262px;
+    height: 234px;
     text-align: center;
     width: 100%;
 }
@@ -271,20 +272,18 @@ p.question {
 
 .borderBottomYellow {
     border-bottom: solid 2px rgba(219, 232, 128, 1);
-/*    margin: 0 -2px -2px 0;*/
 }
 
 .borderRightYellow {
     border-right: solid 2px rgba(219, 232, 128, 1);
-/*    margin: 0 -2px -2px 0;*/
 }
 
 .twoAvailAnswers {
-    height: 262px;
+    height: 234px;
 }
 
 .fourAvailAnswers {
-    height: 132px;
+    height: 118px;
 }
 
 .sizeForTooManyWords {
@@ -314,7 +313,7 @@ p.question {
 .resultChart {
     background-color: rgba(37, 105, 166, 0.8); 
     margin-top: 0 auto 0 auto;
-    height: 420px;
+    height: 390px;
     padding-left: 3px;
     padding-right: 3px;
 }
@@ -366,7 +365,35 @@ a.btn {
 }
 
 /*---------------------------------------------------------------------
-                 DESKTOP STYLES - 568 SCREEN RESOLUTION
+                 GALAXY S5 STYLES - 360 SCREEN RESOLUTION
+---------------------------------------------------------------------*/
+
+
+@media screen and (min-width: 360px) {
+    .welcome {
+        margin: 10px auto;
+    }
+    .welcome > h1 {
+        font-size: 2em;
+    }
+    .questionAnswers {
+        height: 262px;
+    }
+    .twoAvailAnswers {
+        height: 262px;
+    }
+
+    .fourAvailAnswers {
+        height: 132px;
+    }
+    .resultChart {
+        height: 420px;
+    }
+    
+}
+
+/*---------------------------------------------------------------------
+                 PAD STYLES - 568 SCREEN RESOLUTION
 ---------------------------------------------------------------------*/
 
 
@@ -387,7 +414,7 @@ a.btn {
 }
 
 /*---------------------------------------------------------------------
-                 DESKTOP STYLES - 768 SCREEN RESOLUTION
+                 IPAD STYLES - 768 SCREEN RESOLUTION
 ---------------------------------------------------------------------*/
 
 
@@ -419,14 +446,6 @@ a.btn {
     .newGameBtnDiv {
         padding-top: 0;
     }
-}
-
-/*---------------------------------------------------------------------
-                 DESKTOP STYLES - 992 SCREEN RESOLUTION
----------------------------------------------------------------------*/
-
-
-@media screen and (min-width: 992px) {
 }
 
 /*---------------------------------------------------------------------
