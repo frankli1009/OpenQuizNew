@@ -1,20 +1,24 @@
+//itemInfo is an object type for chart data
 function itemInfo(itemName, itemValue) {
     this.itemName = itemName;
     this.itemValue = itemValue;
 }
 
+//core data of one quiz
 var quiz = {
-    online: true,
-    questions: null,
-    count: 10,
-    category: null,
-    type: null,
-    difficulty: null,
-    index: -1,
-    done: 0,
-    right: 0,
-    countDown: 5,
-    answerTime: [], //itemInfo type
+    online: true, //if opentdb.com/api works, use the online api
+    questions: null, //hold the questions data
+    count: 10, //the question numbers for one quiz
+    category: null, //the category for one quiz
+    type: null, //the type for one quiz, e.g.: all/multiple/boolean
+    difficulty: null, //the difficulty of one quiz, e.g.: all/easy/medium/hard
+    index: -1, //the index of current question
+    done: 0, //the numbers of questions that the user has done
+    right: 0, //the numbers of questions that the user has got the right answer
+    countDown: 5, //the time limitation for one question
+    answerTime: [], //itemInfo type, for chart data of time used
+    
+    //initialize a new quiz
     initQuiz: function (data) {
         this.questions = data;
         this.index = -1;
@@ -25,34 +29,39 @@ var quiz = {
     }
 };
 
+//control data of current question
 var curQuestion = {
-    iCurSeconds: 5,
-    iCorrect: -1,
-    startTime: null,
-    cntdwnInt: null,
+    iCurSeconds: 5, //the lef time to make a decision
+    iCorrect: -1, //the index of the right answer
+    startTime: null, //the time that the user starts a new question, for calculating the time used on this question
+    cntdwnInt: null, //the interval for count down
     
+    //initialize the control data of current question
     initQuestion: function (iCorrect) {
         
         this.iCorrect = iCorrect;
         this.iCurSeconds = quiz.countDown;
         
+        // Display the left time in the element with id="questiontime"
         $("#questiontime").text(this.iCurSeconds);
+        //save the start time
         this.startTime = new Date();
         
+        //start a new count down
         this.cntdwnInt = setInterval(function() {
             //console.log("myInterval, CountDown: "+curQuestion.iCurSeconds);
     
-            // Time calculations for days, hours, minutes and seconds
+            // Time count down in seconds
             var secs = --curQuestion.iCurSeconds;
             //console.log("secs: " + secs);
 
-            // If the count down is finished, write some text 
+            // If the count down is finished, reset the count down relative stuff and start the next question 
             if (secs === 0) {
                 clearInterval(curQuestion.cntdwnInt);
                 $("#questiontime").text("");
                 nextQuestion();
             } else {
-                // Display the result in the element with id="questiontime"
+                // Display the left time in the element with id="questiontime"
                 $("#questiontime").text(secs);
             }
         }, 1000);        
@@ -60,6 +69,7 @@ var curQuestion = {
 };
 
 $(function(){
+    //try to get the quiz categories from opentdb.com/api
     $.getJSON("https://opentdb.com/api_category.php")
     .done(function(data) {
         //console.log(data.trivia_categories);
@@ -182,54 +192,6 @@ function connectionFailure() {
     showResult(true, false);
 }
 
-function loadQuizSettings() {
-    try{
-        iQuizCount = parseInt(localStorage.getItem("quizCount"));
-        if(isNaN(iQuizCount)) {
-           return;
-        }
-        quiz.count = iQuizCount;
-        $("#quizcount").val(quiz.count);
-        quiz.category = localStorage.getItem("quizCategory");
-        $("#quizcategory").val(quiz.category);
-        quiz.type = localStorage.getItem("quizType");
-        $("#quiztype").val(quiz.type);
-        quiz.difficulty = localStorage.getItem("quizDifficulty");
-        $("#quizdifficulty").val(quiz.difficulty);
-        quiz.countDown = parseInt(localStorage.getItem("quizCountDown"));
-        $("#quiztime").val(quiz.countDown);
-    }
-    catch(e) {
-        console.warn("Can't find the original quiz settings.")
-    }
-}
-
-function saveQuizSettings() {
-    if(!validCount($("#quizcount").val(), 5, 50)) {
-       alert("Please enter a number between 5 and 50 for number of questions.");
-       return false;
-    }
-    if(!validCount($("#quiztime").val(), 3, 60)) {
-       alert("Please enter a number between 3 and 60 for limited time per question.");
-       return false;
-    }
-
-    quiz.count = parseInt($("#quizcount").val());
-    quiz.category = $("#quizcategory").val();
-    quiz.type = $("#quiztype").val();
-    quiz.difficulty = $("#quizdifficulty").val();
-    quiz.countDown = parseInt($("#quiztime").val());
-    //console.log("countdown: "+quiz.countDown);
-    
-    localStorage.setItem("quizCount", quiz.count);
-    localStorage.setItem("quizCategory", quiz.category);
-    localStorage.setItem("quizType", quiz.type);
-    localStorage.setItem("quizDifficulty", quiz.difficulty);
-    localStorage.setItem("quizCountDown", quiz.countDown);
-    
-    return true;
-}
-
 function addModalBody() {
     $modalBody = $(".modal-body");
     if(!($modalBody.hasClass("ownchild"))) {
@@ -281,13 +243,7 @@ function showNextQuestion() {
     
     quiz.index++;
     if(quiz.index < quiz.count) {
-        //clearRadioState();
         var question = quiz.questions.results[quiz.index]; 
-        /*
-        $("#questionCategory").text(question.category);
-        $("#questionType").text(question.type);
-        $("#questionDifficulty").text(question.difficulty);
-        */
         $("#questionIt").html(question.question);
         var iCount = getAnswerCount(question.type);
         var iCorrect = getCorrectIndex(iCount);
@@ -441,6 +397,63 @@ function nextQuestion() {
     showNextQuestion();
 }
 
+/*load the quiz settings from localStorage if there is one,
+  otherwise use the default one*/
+function loadQuizSettings() {
+    try{
+        iQuizCount = parseInt(localStorage.getItem("quizCount"));
+        if(isNaN(iQuizCount)) {
+            console.warn("No quiz settings is saved.")
+            return;
+        }
+        quiz.count = iQuizCount;
+        $("#quizcount").val(quiz.count);
+        quiz.category = localStorage.getItem("quizCategory");
+        $("#quizcategory").val(quiz.category);
+        quiz.type = localStorage.getItem("quizType");
+        $("#quiztype").val(quiz.type);
+        quiz.difficulty = localStorage.getItem("quizDifficulty");
+        $("#quizdifficulty").val(quiz.difficulty);
+        quiz.countDown = parseInt(localStorage.getItem("quizCountDown"));
+        $("#quiztime").val(quiz.countDown);
+    }
+    catch(e) {
+        console.warn("Can't find the quiz settings.")
+    }
+}
+
+/*save settings to the localStorage and initialize the quiz data with new settings
+  return true(successful) or false(failure)*/
+function saveQuizSettings() {
+    //validate the settings
+    if(!validCount($("#quizcount").val(), 5, 50)) {
+       alert("Please enter a number between 5 and 50 for number of questions.");
+       return false;
+    }
+    if(!validCount($("#quiztime").val(), 3, 60)) {
+       alert("Please enter a number between 3 and 60 for limited time per question.");
+       return false;
+    }
+
+    //initialize the quiz data with new settings
+    quiz.count = parseInt($("#quizcount").val());
+    quiz.category = $("#quizcategory").val();
+    quiz.type = $("#quiztype").val();
+    quiz.difficulty = $("#quizdifficulty").val();
+    quiz.countDown = parseInt($("#quiztime").val());
+    //console.log("countdown: "+quiz.countDown);
+    
+    //save settings to the localStorage
+    localStorage.setItem("quizCount", quiz.count);
+    localStorage.setItem("quizCategory", quiz.category);
+    localStorage.setItem("quizType", quiz.type);
+    localStorage.setItem("quizDifficulty", quiz.difficulty);
+    localStorage.setItem("quizCountDown", quiz.countDown);
+    
+    return true;
+}
+
+//initialize the settings
 function loadCategoriesAndSettings(data) {
     data.trivia_categories.forEach(function(category, index) {
         //console.log(category.name);
@@ -449,10 +462,11 @@ function loadCategoriesAndSettings(data) {
         $option.attr("value", category.id);
         $("#quizcategory").append($option);
     });
-    //$("#quizresult").text("Ready, give it a go...");
+    //load quiz settings from localStorage if there is one
     loadQuizSettings();
 }
 
+//load the quiz category from my own website data when api service breaks down
 function loadLocalQuizInfo() {
     $.getJSON("data\categories.json")
     .done(function(data) {
@@ -463,6 +477,7 @@ function loadLocalQuizInfo() {
     });
 }
 
+//get a random category for a new question when api service breaks down
 function getQuestionCategory() {
     if(quiz.category) 
         return quiz.category;
@@ -473,6 +488,7 @@ function getQuestionCategory() {
     }
 }
 
+//get new quiz questions when api service breaks down
 function getLocalQuestions() {
     var i=0;
     do{
