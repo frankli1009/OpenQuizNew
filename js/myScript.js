@@ -179,6 +179,21 @@ $(function(){
         
         $("#startquiz").click();
     });
+    
+    //recenter the body when window resize
+    $window = $(window);
+    $window.on("resize", function() {
+        var height = $window.innerHeight();
+        var bodyheight = $("#headsec").height() + $("#mainsec").height();
+        console.log("winheight: "+height+", bodyheight: "+bodyheight);
+        console.log("headsec-marginTop: "+$("#headsec").css("marginTop")+", settingBtn-top: "+$(".settingBtn").css("top"));
+        if(height > bodyheight) {
+            $("#headsec").css("marginTop", (height - bodyheight) / 2);
+            $(".settingBtn").css("top", (height - bodyheight) / 2 + 30);
+        }
+    });
+    
+    $.ready($window.trigger("resize"));
 });
 
 //avoid key "enter", "." and "E" being input into the text input element
