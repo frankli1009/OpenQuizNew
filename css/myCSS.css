@@ -292,6 +292,7 @@ p.question {
 
 .resultDiv {
     margin-left: auto;
+    margin-right: auto;
     margin-top: 0;
     text-align: center;
     display: block;
@@ -310,12 +311,22 @@ p.question {
     margin-bottom: 0;
 }
 
-.resultChart {
+.resultChartRow {
+    width: 100%;
     background-color: rgba(37, 105, 166, 0.8); 
-    margin-top: 0 auto 0 auto;
+}
+
+.resultChart {
+/*    background-color: rgba(37, 105, 166, 0.8); */
+    margin: 0 auto 0 auto;
     height: 390px;
     padding-left: 3px;
     padding-right: 3px;
+    display: block;
+}
+
+.resultChart .chartHolder .canvasjs-chart-container {
+    text-align: center;
 }
 
 .floatBtn {
@@ -333,6 +344,7 @@ a.btn {
 }
 
 .chartHolder {
+    margin: 0 auto 0 auto;
     color: white;
     width: 100%;
 }
