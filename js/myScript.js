@@ -68,6 +68,7 @@ var curQuestion = {
     }
 };
 
+var $window;
 $(function(){
     //try to get the quiz categories from opentdb.com/api
     $.getJSON("https://opentdb.com/api_category.php")
@@ -181,20 +182,43 @@ $(function(){
     });
     
     //recenter the body when window resize
-    $window = $(window);
+    var $window = $(window);
     $window.on("resize", function() {
+        
         var height = $window.innerHeight();
         var bodyheight = $("#headsec").height() + $("#mainsec").height();
-        console.log("winheight: "+height+", bodyheight: "+bodyheight);
-        console.log("headsec-marginTop: "+$("#headsec").css("marginTop")+", settingBtn-top: "+$(".settingBtn").css("top"));
+        //console.log("winheight: "+height+", bodyheight: "+bodyheight);
+        //console.log("headsec-marginTop: "+$("#headsec").css("marginTop")+", settingBtn-top: "+$(".settingBtn").css("top"));
         if(height > bodyheight) {
             $("#headsec").css("marginTop", (height - bodyheight) / 2);
             $(".settingBtn").css("top", (height - bodyheight) / 2 + 30);
         }
+        
+        //reset result div width when using on small screen
+        //var width = $window.innerWidth(); 
+        //resetResultDivWidth(width);
     });
     
     $.ready($window.trigger("resize"));
+    
 });
+
+//reset result div width when using on small screen
+function resetResultDivWidth(width) {
+       
+    console.log("winwidth: "+width);
+    if(width < 500) {
+        $(".resultDiv").width(width);
+        $(".resultChartRow").width(width);
+        $(".resultChart").width(width);
+        $(".canvasjs-chart-container").width(width);
+        $(".canvasjs-chart-canvas").width(width);
+    }
+    else {
+        $(".resultDiv").width("100%");
+        $(".resultChartRow").width("100%");
+    }    
+}
 
 //avoid key "enter", "." and "E" being input into the text input element
 function skipKeys(e) {
@@ -356,6 +380,8 @@ function addChart(idContainer, chartType, chartTitle, dataToDisplay) {
         chartWidth = dwidth < 530 ? dwidth - 30 : 500;
         chartHeight = dheight < 500 ? dheight - 140 : 360;
     }
+    $(".resultChart").width(chartWidth+3);
+    
     //console.log("dwidth: "+dwidth+", dheight: "+dheight);
     //console.log("chartWidth: "+chartWidth+", chartHeight: "+chartHeight);
     
