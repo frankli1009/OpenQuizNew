@@ -16,6 +16,7 @@ var quiz = {
     done: 0, //the numbers of questions that the user has done
     right: 0, //the numbers of questions that the user has got the right answer
     countDown: 5, //the time limitation for one question
+    maxQuizCount: 50, //maximum amount of questinos in each quiz
     answerTime: [], //itemInfo type, for chart data of time used
     
     //initialize a new quiz
@@ -80,8 +81,9 @@ $(function(){
     .fail(function() {
         console.error("fail to get categories");
         quiz.online = false;
-        //loadLocalQuizInfo();
-        connectionFailure();
+        loadLocalQuizInfo();
+        //move the call to loadLocalQuizInfo() when local fails too
+        //connectionFailure();
     });
     
     //add the modal body div when showing settings on small devices
@@ -107,9 +109,9 @@ $(function(){
         
     //onclick event action for answers div, check whether the answer is right, then shift to the next question
     $(".answerBorder").on("click", function(e) {
-        //console.log(e.target.id); //answer1, answer2, answer3, answer4
+        console.log(e.target.id); //ques11, ques12, ques13, ques14
         var choice = e.target.id.substring(6,7);
-        //console.log(choice);
+        console.log(choice);
         if(parseInt(choice) === curQuestion.iCorrect) quiz.right++;
         clearInterval(curQuestion.cntdwnInt);
         curQuestion.cntdwnInt = null;
@@ -143,11 +145,7 @@ $(function(){
             .done(function(data) { //ajax done
                 //console.log(data);
                 if(data.response_code === 0) { //data state ok
-                    //initialize quiz information and start a question
-                    quiz.initQuiz(data);
-                    showNextQuestion();
-                    //hide result div
-                    showResult(false);
+                    startQuiz(data);
                 } else {
                     console.error("response_code: "+data.response_code);
                     connectionFailure();
@@ -159,11 +157,11 @@ $(function(){
                 $("#didit").html("");
             });
         } else {
-            getLocalQuestions();
+            getLocalQuestionsAndStartQuiz();
         }
          
     });
-    
+        
     //onclick event action for changechart button, toggle between right/wrong chart and time used chart
     $("#changechart").on("click", function(e) {
         e.preventDefault();
@@ -202,6 +200,16 @@ $(function(){
     $.ready($window.trigger("resize"));
     
 });
+
+//start a quiz with real quiz data
+function startQuiz(data) {
+    //initialize quiz information and start a question
+    quiz.initQuiz(data);
+    showNextQuestion();
+    //hide result div
+    showResult(false);
+
+}
 
 //reset result div width when using on small screen
 function resetResultDivWidth(width) {
@@ -304,36 +312,36 @@ function showNextQuestion() {
         //console.log("correct: "+iCorrect);
         for(var i=0; i<iCount; i++) {
             if(i === iCorrect) {
-                $("#ques1"+i).html(question.correct_answer);
-                if(question.correct_answer.length>40) {
-                    
-                }
+                $("#quest1"+i).html(question.correct_answer);
+                console.log("correct: "+question.correct_answer);
             } else {
                 if(i<iCorrect) {
-                    $("#ques1"+i).html(question.incorrect_answers[i]);
+                    $("#quest1"+i).html(question.incorrect_answers[i]);
+                    console.log("incorrect: "+question.incorrect_answers[i]);
                 } else {
-                    $("#ques1"+i).html(question.incorrect_answers[i-1]);
+                    $("#quest1"+i).html(question.incorrect_answers[i-1]);
+                    console.log("incorrect: "+question.incorrect_answers[i-1]);
                 }
             }
             
         }
         
-        if(question.type === "multiple") {
+        if(iCount === 4) { //question.type === "multiple"
+            removeClass($("#answer0"), "twoAvailAnswers");
+            addClass($("#answer0"), "fourAvailAnswers");
             removeClass($("#answer1"), "twoAvailAnswers");
             addClass($("#answer1"), "fourAvailAnswers");
-            removeClass($("#answer2"), "twoAvailAnswers");
-            addClass($("#answer2"), "fourAvailAnswers");
+            addClass($("#answer0"), "borderBottomYellow");
             addClass($("#answer1"), "borderBottomYellow");
-            addClass($("#answer2"), "borderBottomYellow");
             
             $("#quesrow2").show();
         } else {
+            removeClass($("#answer0"), "fourAvailAnswers");
+            addClass($("#answer0"), "twoAvailAnswers");
             removeClass($("#answer1"), "fourAvailAnswers");
             addClass($("#answer1"), "twoAvailAnswers");
-            removeClass($("#answer2"), "fourAvailAnswers");
-            addClass($("#answer2"), "twoAvailAnswers");
+            removeClass($("#answer0"), "borderBottomYellow");
             removeClass($("#answer1"), "borderBottomYellow");
-            removeClass($("#answer2"), "borderBottomYellow");
             
             
             $("#quesrow2").hide();
@@ -482,8 +490,8 @@ function loadQuizSettings() {
   return true(successful) or false(failure)*/
 function saveQuizSettings() {
     //validate the settings
-    if(!validCount($("#quizcount").val(), 5, 50)) {
-       alert("Please enter a number between 5 and 50 for number of questions.");
+    if(!validCount($("#quizcount").val(), 5, quiz.maxQuizCount)) {
+       alert("Please enter a number between 5 and "+quiz.maxQuizCount+" for number of questions.");
        return false;
     }
     if(!validCount($("#quiztime").val(), 3, 60)) {
@@ -522,34 +530,3 @@ function loadCategoriesAndSettings(data) {
     loadQuizSettings();
 }
 
-//load the quiz category from my own website data when api service breaks down
-function loadLocalQuizInfo() {
-    $.getJSON("data\categories.json")
-    .done(function(data) {
-        loadCategoriesAndSettings(data);
-    })
-    .fail(function() {
-        console.error("file 'data\categories.json' doesn't exist.");
-    });
-}
-
-//get a random category for a new question when api service breaks down
-function getQuestionCategory() {
-    if(quiz.category) 
-        return quiz.category;
-    else {
-        var max = $("#quizcategory").options.length;
-        var index = Math.floor(Math.random()) * (max - 1) + 1;
-        return $("#quizcategory").options[index].value;
-    }
-}
-
-//get new quiz questions when api service breaks down
-function getLocalQuestions() {
-    var i=0;
-    do{
-        var category = getQuestionCategory();
-        var type = getQuestionType();
-        var difficulty = getQuestionDifficulty();
-    } while(++i < quiz.count);
-}
