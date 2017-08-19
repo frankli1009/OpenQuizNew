@@ -5,54 +5,60 @@
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "easy",
+			"question": "What&#039;s the name of the main protagonist in the &quot;Legend of Zelda&quot; franchise?",
+			"correct_answer": "Link",
+			"incorrect_answers": [
+				"Mario"
+				,
+				"Zelda"
+				,
+				"Pit"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "easy",
 			"question": "Which game did &quot;Sonic The Hedgehog&quot; make his first appearance in?",
 			"correct_answer": "Rad Mobile",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Sonic The Hedgehog"
-				},
-				{
-					"incorrect_answer": "Super Mario 64"
-				},
-				{
-					"incorrect_answer": "Mega Man"
-				}
+				"Sonic The Hedgehog"
+				,
+				"Super Mario 64"
+				,
+				"Mega Man"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "easy",
-			"question": "What year was the game Team Fortress 2 released?",
-			"correct_answer": "2007",
+			"question": "In which series of games do you collect souls to empower you and buy weaponry and armor with?",
+			"correct_answer": "Souls ",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "2009"
-				},
-				{
-					"incorrect_answer": "2005"
-				},
-				{
-					"incorrect_answer": "2010"
-				}
+				"Final Fantasy "
+				,
+				"Monster Hunter"
+				,
+				"The Legend of Zelda"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "easy",
-			"question": "Which Greek letter represents the &quot;Half-Life&quot; logo?",
-			"correct_answer": "Lambda",
+			"question": "Who is the main antagonist in the Portal franchise?",
+			"correct_answer": "GLaDOS",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Omega"
-				},
-				{
-					"incorrect_answer": "Alpha"
-				},
-				{
-					"incorrect_answer": "Sigma"
-				}
+				"Chell"
+				,
+				"Wheatley"
+				,
+				"Rick"
+				
 			]
 		},
 		{
@@ -62,105 +68,42 @@
 			"question": "What&#039;s the famous line Vaas says in &quot;Far Cry 3&quot;?",
 			"correct_answer": "Did I ever tell you the definition of Insanity?",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Have I failed to entertain you?"
-				},
-				{
-					"incorrect_answer": "You&#039;re my b*tch!"
-				},
-				{
-					"incorrect_answer": "Maybe your best course...would be to tread lightly."
-				}
+				"Have I failed to entertain you?"
+				,
+				"You&#039;re my b*tch!"
+				,
+				"Maybe your best course...would be to tread lightly."
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "easy",
-			"question": "What is the most expensive weapon in Counter-Strike: Global Offensive?",
-			"correct_answer": "Scar-20/G3SG1",
+			"question": "What is the name of Team Fortress 2&#039;s Heavy Weapons Guy&#039;s minigun?",
+			"correct_answer": "Sasha",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "M4A1"
-				},
-				{
-					"incorrect_answer": "AWP"
-				},
-				{
-					"incorrect_answer": "R8 Revolver"
-				}
+				"Betty"
+				,
+				"Anna"
+				,
+				"Diana"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "easy",
-			"question": "Who is Sonic&#039;s sidekick?",
-			"correct_answer": "Tails",
+			"question": "What is Pikachu&#039;s National Pok&eacute;Dex Number?",
+			"correct_answer": "#025",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Shadow"
-				},
-				{
-					"incorrect_answer": "Amy"
-				},
-				{
-					"incorrect_answer": "Knuckles"
-				}
-			]
-		},
-		{
-			"category": "Entertainment: Video Games",
-			"type": "multiple",
-			"difficulty": "easy",
-			"question": "Which game did NOT get financed via Crowdfunding?",
-			"correct_answer": "Enter the Gungeon",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "Town of Salem"
-				},
-				{
-					"incorrect_answer": "Undertale"
-				},
-				{
-					"incorrect_answer": "Tower Unite"
-				}
-			]
-		},
-		{
-			"category": "Entertainment: Video Games",
-			"type": "multiple",
-			"difficulty": "easy",
-			"question": "Which of these is NOT a player class in Team Fortress 2?",
-			"correct_answer": "Healer",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "Demoman"
-				},
-				{
-					"incorrect_answer": "Pyro"
-				},
-				{
-					"incorrect_answer": "Spy"
-				}
-			]
-		},
-		{
-			"category": "Entertainment: Video Games",
-			"type": "multiple",
-			"difficulty": "easy",
-			"question": "Half-Life by Valve uses the GoldSrc game engine, which is a highly modified version of what engine?",
-			"correct_answer": "Quake Engine",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "Doom Engine"
-				},
-				{
-					"incorrect_answer": "id Engine"
-				},
-				{
-					"incorrect_answer": "Source Engine"
-				}
+				"#001"
+				,
+				"#031"
+				,
+				"#109"
+				
 			]
 		},
 		{
@@ -170,69 +113,72 @@
 			"question": "In the game Half-Life, which enemy is showcased as the final boss?",
 			"correct_answer": "The Nihilanth",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Dr. Wallace Breen"
-				},
-				{
-					"incorrect_answer": "G-Man"
-				},
-				{
-					"incorrect_answer": "The Gonarch"
-				}
+				"Dr. Wallace Breen"
+				,
+				"G-Man"
+				,
+				"The Gonarch"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "easy",
-			"question": "In Kingdom Hearts, how many members does Organization XIII have in total?",
-			"correct_answer": "14",
+			"question": "If a &quot;360 no-scope&quot; is one full rotation before shooting, how many rotations would a &quot;1080 no-scope&quot; be?",
+			"correct_answer": "3",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "10"
-				},
-				{
-					"incorrect_answer": "13"
-				},
-				{
-					"incorrect_answer": "12"
-				}
+				"4"
+				,
+				"2"
+				,
+				"5"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "easy",
-			"question": "Who is the writer of the game &quot;Half-Life&quot;?",
-			"correct_answer": "Marc Laidlaw",
+			"question": "What is the main ship used by Commander Shepard in the Mass Effect Franchise called?",
+			"correct_answer": "Normandy",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Gabe Newell"
-				},
-				{
-					"incorrect_answer": "Robin Walker"
-				},
-				{
-					"incorrect_answer": "Chet Faliszek"
-				}
+				"Osiris"
+				,
+				"Infinity"
+				,
+				"Endeavour"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "easy",
-			"question": "Which of these levels does NOT appear in the console/PC versions of the game &quot;Sonic Generations&quot;?",
-			"correct_answer": "Mushroom Hill",
+			"question": "In &quot;Undertale&quot;, how many main endings are there?",
+			"correct_answer": "3",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "City Escape"
-				},
-				{
-					"incorrect_answer": "Planet Wisp"
-				},
-				{
-					"incorrect_answer": "Sky Sanctuary"
-				}
+				"2"
+				,
+				"5"
+				,
+				"13"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which of these is NOT a main playable character in &quot;Grand Theft Auto V&quot;?",
+			"correct_answer": "Lamar",
+			"incorrect_answers": [
+				"Trevor"
+				,
+				"Michael"
+				,
+				"Franklin"
+				
 			]
 		},
 		{
@@ -242,51 +188,27 @@
 			"question": "What was the first video game in the Batman &quot;Arkham&quot; series?",
 			"correct_answer": "Arkham Asylum",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Arkham Knight"
-				},
-				{
-					"incorrect_answer": "Arkham City"
-				},
-				{
-					"incorrect_answer": "Arkham Origins"
-				}
+				"Arkham Knight"
+				,
+				"Arkham City"
+				,
+				"Arkham Origins"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "easy",
-			"question": "Which student in Yandere Simulator is known for asking irritating and stupid questions?",
-			"correct_answer": "Midori Gurin",
+			"question": "Pok&eacute;mon Go is a location-based augmented reality game developed and published by which company?",
+			"correct_answer": "Niantic",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Kokona Hruka"
-				},
-				{
-					"incorrect_answer": "Oka Ruto"
-				},
-				{
-					"incorrect_answer": "Pipi Osu"
-				}
-			]
-		},
-		{
-			"category": "Entertainment: Video Games",
-			"type": "multiple",
-			"difficulty": "easy",
-			"question": "How many times do you fight Gilgamesh in &quot;Final Fantasy 5&quot;?",
-			"correct_answer": "6",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "4"
-				},
-				{
-					"incorrect_answer": "5"
-				},
-				{
-					"incorrect_answer": "3"
-				}
+				"Rovio"
+				,
+				"Zynga"
+				,
+				"Supercell"
+				
 			]
 		},
 		{
@@ -296,33 +218,12 @@
 			"question": "Which of these is NOT a team available in the game Pok&eacute;mon Go?",
 			"correct_answer": "Team Rocket",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Team Instinct"
-				},
-				{
-					"incorrect_answer": "Team Valor"
-				},
-				{
-					"incorrect_answer": "Team Mystic"
-				}
-			]
-		},
-		{
-			"category": "Entertainment: Video Games",
-			"type": "multiple",
-			"difficulty": "easy",
-			"question": "In the fighting game &quot;Skullgirls,&quot; which character utilizes a folding chair called the &quot;Hurting&quot; as a weapon?",
-			"correct_answer": "Beowulf",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "Big Band"
-				},
-				{
-					"incorrect_answer": "Squigly"
-				},
-				{
-					"incorrect_answer": "Cerebella"
-				}
+				"Team Instinct"
+				,
+				"Team Valor"
+				,
+				"Team Mystic"
+				
 			]
 		},
 		{
@@ -332,15 +233,12 @@
 			"question": "In Grand Theft Auto V, what was Michael De Santa&#039;s former surname?",
 			"correct_answer": "Townley",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "De Santos"
-				},
-				{
-					"incorrect_answer": "Watson"
-				},
-				{
-					"incorrect_answer": "Simpson"
-				}
+				"De Santos"
+				,
+				"Watson"
+				,
+				"Simpson"
+				
 			]
 		},
 		{
@@ -350,15 +248,12 @@
 			"question": "&quot;Tomb Raider&quot; icon Lara Croft was originally called...",
 			"correct_answer": "Laura Cruz",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Laura Craft"
-				},
-				{
-					"incorrect_answer": "Laura Croft"
-				},
-				{
-					"incorrect_answer": "Lara Craft"
-				}
+				"Laura Craft"
+				,
+				"Laura Croft"
+				,
+				"Lara Craft"
+				
 			]
 		},
 		{
@@ -368,213 +263,222 @@
 			"question": "In what year was &quot;Metal Gear Solid&quot; released in North America?",
 			"correct_answer": "1998",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "1987"
-				},
-				{
-					"incorrect_answer": "2001"
-				},
-				{
-					"incorrect_answer": "2004"
-				}
+				"1987"
+				,
+				"2001"
+				,
+				"2004"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "easy",
-			"question": "Which of these is NOT a playable character in the 2016 video game Overwatch?",
-			"correct_answer": "Invoker",
+			"question": "In the 2002 video game &quot;Kingdom Hearts&quot;, how many Keyblades are usable?",
+			"correct_answer": "18",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Mercy"
-				},
-				{
-					"incorrect_answer": "Winston"
-				},
-				{
-					"incorrect_answer": "Zenyatta"
-				}
+				"13"
+				,
+				"16"
+				,
+				"15"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "easy",
-			"question": "In what year was the game &quot;Fallout&quot; released?",
-			"correct_answer": "1997",
+			"question": "Which of these is NOT the name of a rival gang in the video game Saint&#039;s Row 2?",
+			"correct_answer": "The Zin Empire",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "1998"
-				},
-				{
-					"incorrect_answer": "1999"
-				},
-				{
-					"incorrect_answer": "1996"
-				}
+				"The Brotherhood"
+				,
+				"The Ronin"
+				,
+				"The Sons of Samedi"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "easy",
-			"question": "In the first game of the Sly Cooper franchise, what family heirloom did Sly Cooper want to steal back?",
-			"correct_answer": "Thievius Raccoonus",
+			"question": "In most FPS video games such as Counter-Strike, shooting which part of the body does the highest damage?",
+			"correct_answer": "Head",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Raccoon Training 101"
-				},
-				{
-					"incorrect_answer": "The Art of Sneak"
-				},
-				{
-					"incorrect_answer": "Raccoonus Teachus"
-				}
+				"Arm"
+				,
+				"Leg"
+				,
+				"Chest"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "easy",
-			"question": "What&#039;s the Team Fortress 2 Scout&#039;s city of origin?",
-			"correct_answer": "Boston",
+			"question": "In the game Dark Souls, what is the name of the region you&#039;re in for the majority of the game?",
+			"correct_answer": "Lordran",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Sydney"
-				},
-				{
-					"incorrect_answer": "Detroit"
-				},
-				{
-					"incorrect_answer": "New York"
-				}
+				"Drangleic"
+				,
+				"Oolacile"
+				,
+				"Catarina"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "easy",
-			"question": "Which of these characters is the mascot of the video game company SEGA?",
-			"correct_answer": "Sonic the Hedgehog",
+			"question": "In Portal 2, how did CEO of Aperture Science, Cave Johnson, presumably die?",
+			"correct_answer": "Moon Rock Poisoning",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Dynamite Headdy"
-				},
-				{
-					"incorrect_answer": "Alex Kidd"
-				},
-				{
-					"incorrect_answer": "Opa-Opa"
-				}
+				"Accidentally sending a portal to the Moon"
+				,
+				"Slipped in the shower"
+				,
+				"Asbestos Poisoning"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "easy",
-			"question": "Which Game Boy from the Game Boy series of portable video game consoles was released first?",
-			"correct_answer": "Game Boy Color",
+			"question": "Which Mario spin-off game did Waluigi make his debut?",
+			"correct_answer": "Mario Tennis",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Game Boy Advance"
-				},
-				{
-					"incorrect_answer": "Game Boy Micro"
-				},
-				{
-					"incorrect_answer": "Game Boy Advance SP"
-				}
+				"Mario Party 3"
+				,
+				"Mario Kart: Double Dash!!"
+				,
+				"Mario Golf: Toadstool Tour"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "easy",
-			"question": "TF2: What code does Soldier put into the door keypad in &quot;Meet the Spy&quot;?",
-			"correct_answer": "1111",
+			"question": "What is Gabe Newell&#039;s favorite class in Team Fortress 2?",
+			"correct_answer": "Spy",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "1432"
-				},
-				{
-					"incorrect_answer": "1337"
-				},
-				{
-					"incorrect_answer": "No code"
-				}
+				"Heavy"
+				,
+				"Medic"
+				,
+				"Pyro"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "easy",
-			"question": "The Touhou Project series of games is often associated with which genre?",
-			"correct_answer": "Shoot &#039;em up",
+			"question": "What company created and developed the game &quot;Overwatch&quot;?",
+			"correct_answer": "Blizzard Entertainment",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Strategy"
-				},
-				{
-					"incorrect_answer": "FPS"
-				},
-				{
-					"incorrect_answer": "Casual"
-				}
+				"Valve"
+				,
+				"Hi-Rez Studios"
+				,
+				"Gearbox Software"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "easy",
-			"question": "In the Half-Life series, Gordon Freeman&#039;s signature weapon is a:",
-			"correct_answer": "Crowbar",
+			"question": "What year was the game &quot;Overwatch&quot; revealed?",
+			"correct_answer": "2014",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Sledgehammer"
-				},
-				{
-					"incorrect_answer": "Fiber Wire"
-				},
-				{
-					"incorrect_answer": "Katana"
-				}
+				"2015"
+				,
+				"2011"
+				,
+				"2008"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "easy",
-			"question": "The Day of Defeat games take place during:",
-			"correct_answer": "World War II",
+			"question": "When was Minecraft first released to the public?",
+			"correct_answer": "May 17th, 2009",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "World War I"
-				},
-				{
-					"incorrect_answer": "Vietnam War"
-				},
-				{
-					"incorrect_answer": "Iraq War"
-				}
+				"September 17th, 2009"
+				,
+				"November 18th, 2011"
+				,
+				"October 7th, 2011"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "easy",
-			"question": "Which of these is NOT a playable character in &quot;Left 4 Dead&quot;?",
-			"correct_answer": "Nick",
+			"question": "What was the original name of Crash Bandicoot?",
+			"correct_answer": "Willie Wombat",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Louis"
-				},
-				{
-					"incorrect_answer": "Zoey"
-				},
-				{
-					"incorrect_answer": "Bill"
-				}
+				"Coco Bandicoot"
+				,
+				"Marvelous Mole"
+				,
+				"Wally Wombat"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "In Overwatch, Mercy&#039;s ultimate ability is..",
+			"correct_answer": "Resurrect",
+			"incorrect_answers": [
+				"Earthshatter"
+				,
+				"Rocket Barrage"
+				,
+				"Molten Core"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What is the first weapon you acquire in Half-Life?",
+			"correct_answer": "A crowbar",
+			"incorrect_answers": [
+				"A pistol"
+				,
+				"The H.E.V suit"
+				,
+				"Your fists"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What ingredients are required to make a cake in Minecraft?",
+			"correct_answer": "Milk, Sugar, Egg, and Wheat",
+			"incorrect_answers": [
+				"Milk, Bread, Egg, and Wheat"
+				,
+				"Milk, Sugar Cane, Egg, and Wheat"
+				,
+				"Milk, Sugar, and Wheat"
+				
 			]
 		},
 		{
@@ -584,33 +488,42 @@
 			"question": "Who is the leader of Team Valor in Pok&eacute;mon Go?",
 			"correct_answer": "Candela",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Willow"
-				},
-				{
-					"incorrect_answer": "Blanche"
-				},
-				{
-					"incorrect_answer": "Spark"
-				}
+				"Willow"
+				,
+				"Blanche"
+				,
+				"Spark"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "easy",
-			"question": "What is the default alias that Princess Garnet goes by in Final Fantasy IX?",
-			"correct_answer": "Dagger",
+			"question": "Which of the following is NOT a summon in the game &quot;South Park: The Stick of Truth&quot;?",
+			"correct_answer": "Towelie",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Dirk"
-				},
-				{
-					"incorrect_answer": "Garnet"
-				},
-				{
-					"incorrect_answer": "Quina"
-				}
+				"Jesus"
+				,
+				"Mr. Hankey"
+				,
+				"Mr. Slave"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "In PROTOTYPE 2. who is referred to as &quot;Tango Primary&quot;?",
+			"correct_answer": "James Heller",
+			"incorrect_answers": [
+				"Alex Mercer"
+				,
+				"Dana Mercer"
+				,
+				"Any Goliaths roaming around"
+				
 			]
 		},
 		{
@@ -620,15 +533,12 @@
 			"question": "How many differently shaped Tetris pieces are there?",
 			"correct_answer": "7",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "5"
-				},
-				{
-					"incorrect_answer": "6"
-				},
-				{
-					"incorrect_answer": "8"
-				}
+				"5"
+				,
+				"6"
+				,
+				"8"
+				
 			]
 		},
 		{
@@ -638,15 +548,12 @@
 			"question": "In Danganronpa: Trigger Happy Havoc, what is the protagonist&#039;s name?",
 			"correct_answer": "Makoto Naegi",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Hajime Hinata"
-				},
-				{
-					"incorrect_answer": "Nagito Komaeda"
-				},
-				{
-					"incorrect_answer": "Komaru Naegi"
-				}
+				"Hajime Hinata"
+				,
+				"Nagito Komaeda"
+				,
+				"Komaru Naegi"
+				
 			]
 		},
 		{
@@ -656,33 +563,27 @@
 			"question": "In Need for Speed: Most Wanted (2005), what was the name of the main antagonist?",
 			"correct_answer": "Clarence &quot;Razor&quot; Callahan",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Hector &quot;Ming&quot; Domingo"
-				},
-				{
-					"incorrect_answer": "Toru &quot;Bull&quot; Sato"
-				},
-				{
-					"incorrect_answer": "Karl &quot;Baron&quot; Smit"
-				}
+				"Hector &quot;Ming&quot; Domingo"
+				,
+				"Toru &quot;Bull&quot; Sato"
+				,
+				"Karl &quot;Baron&quot; Smit"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "easy",
-			"question": "In the video game Overwatch, which playable character is infamous for saying &quot;It&#039;s high noon.&quot;?",
-			"correct_answer": "McCree",
+			"question": "Which Sonic the Hedgehog game was originally supposed to be packaged with Sonic 3, but was cut in half due to time constraints?",
+			"correct_answer": "Sonic &amp; Knuckles",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Hanzo"
-				},
-				{
-					"incorrect_answer": "Pharah"
-				},
-				{
-					"incorrect_answer": "Soldier: 76"
-				}
+				"Sonic 2"
+				,
+				"Sonic CD"
+				,
+				"Sonic 3D Blast"
+				
 			]
 		},
 		{
@@ -692,159 +593,117 @@
 			"question": "What is the homeworld of the Elites from Halo?",
 			"correct_answer": "Sanghelios",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Te"
-				},
-				{
-					"incorrect_answer": "Doisac"
-				},
-				{
-					"incorrect_answer": "Eayn"
-				}
+				"Te"
+				,
+				"Doisac"
+				,
+				"Eayn"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "easy",
-			"question": "In what year was Hearthstone released?",
-			"correct_answer": "2014",
+			"question": "In what year was &quot;Antichamber&quot; released?",
+			"correct_answer": "2013",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "2011"
-				},
-				{
-					"incorrect_answer": "2013"
-				},
-				{
-					"incorrect_answer": "2012"
-				}
+				"2012"
+				,
+				"2014"
+				,
+				"2011"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "easy",
-			"question": "Who are the original creators of Rachet &amp; Clank?",
-			"correct_answer": "Insomniac Games",
+			"question": "Which of the following is not a faction in Tom Clancy&#039;s The Division?",
+			"correct_answer": "CDC",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "PixelTail Games"
-				},
-				{
-					"incorrect_answer": "Rare"
-				},
-				{
-					"incorrect_answer": "Bethesda"
-				}
+				"Cleaners"
+				,
+				"Last Man Batallion"
+				,
+				"Rikers"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "easy",
-			"question": "Which of the following was NOT a playable character in the game Kingdom Hearts: Birth by Sleep?",
-			"correct_answer": "Ignis",
+			"question": "In what year was the game &quot;FTL: Faster Than Light&quot; released?",
+			"correct_answer": "2012",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Ventus"
-				},
-				{
-					"incorrect_answer": "Terra"
-				},
-				{
-					"incorrect_answer": "Aqua"
-				}
+				"2014"
+				,
+				"2013"
+				,
+				"2011"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "easy",
-			"question": "Which Elite Four member from the first generation of Pok&eacute;mon became the champion in the next generation?",
-			"correct_answer": "Lance",
+			"question": "What is the name of the largest planet in Kerbal Space Program?",
+			"correct_answer": "Jool",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Agatha"
-				},
-				{
-					"incorrect_answer": "Bruno"
-				},
-				{
-					"incorrect_answer": "Lorelei"
-				}
+				"Eeloo"
+				,
+				"Kerbol"
+				,
+				"Minmus"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "easy",
-			"question": "In the video game &quot;Team Fortress 2&quot;, which class is able to double jump?",
-			"correct_answer": "Scout",
+			"question": "Which of the following characters from the game &quot;Overwatch&quot; was revealed to be homosexual in December of 2016?",
+			"correct_answer": "Tracer",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Spy"
-				},
-				{
-					"incorrect_answer": "Engineer"
-				},
-				{
-					"incorrect_answer": "Pyro"
-				}
+				"Widowmaker"
+				,
+				"Sombra"
+				,
+				"Symmetra"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "easy",
-			"question": "Which Animal Crossing game was for the Nintendo Wii?",
-			"correct_answer": "Animal Crossing: City Folk",
+			"question": "What minimum level in the Defence skill is needed to equip Dragon Armour in the MMO RuneScape?",
+			"correct_answer": "60",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Animal Crossing: New Leaf"
-				},
-				{
-					"incorrect_answer": "Animal Crossing: Wild World"
-				},
-				{
-					"incorrect_answer": "Animal Crossing: Population Growing!"
-				}
+				"65"
+				,
+				"55"
+				,
+				"70"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "easy",
-			"question": "Which of the following names is the &quot;Mega Man&quot; Franchise known as in Japan?",
-			"correct_answer": "Rockman",
+			"question": "In Minecraft, which two items must be combined to craft a torch?",
+			"correct_answer": "Stick and Coal",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Paperman"
-				},
-				{
-					"incorrect_answer": "Scissorsman"
-				},
-				{
-					"incorrect_answer": "Mega Man"
-				}
-			]
-		},
-		{
-			"category": "Entertainment: Video Games",
-			"type": "multiple",
-			"difficulty": "easy",
-			"question": "Which &quot;Fallout: New Vegas&quot; quest is NOT named after a real-life song?",
-			"correct_answer": "They Went That-a-Way",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "Come Fly With Me"
-				},
-				{
-					"incorrect_answer": "Ain&#039;t That a Kick in the Head"
-				},
-				{
-					"incorrect_answer": "Ring-a-Ding Ding"
-				}
+				"Stick and Fire"
+				,
+				"Wood and Coal"
+				,
+				"Wood and Fire"
+				
 			]
 		},
 		{
@@ -854,51 +713,42 @@
 			"question": "Aperture Science CEO Cave Johnson is voiced by which American actor?",
 			"correct_answer": "J.K. Simmons",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Nolan North"
-				},
-				{
-					"incorrect_answer": "John Patrick Lowrie"
-				},
-				{
-					"incorrect_answer": "Christopher Lloyd"
-				}
+				"Nolan North"
+				,
+				"John Patrick Lowrie"
+				,
+				"Christopher Lloyd"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "easy",
-			"question": "Which Kirby game first introduced Copy Abilities?",
-			"correct_answer": "Kirby&#039;s Adventure",
+			"question": "In the game &quot;Hearthstone&quot;, what is the best rank possible?",
+			"correct_answer": "Rank 1 Legend",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Kirby Super Star"
-				},
-				{
-					"incorrect_answer": "Kirby&#039;s Dream Land 2"
-				},
-				{
-					"incorrect_answer": "Kirby&#039;s Dream Land"
-				}
+				"Rank 1 Elite"
+				,
+				"Rank 1 Master"
+				,
+				"Rank 1 Supreme"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "easy",
-			"question": "What game was used to advertise Steam?",
-			"correct_answer": "Counter-Strike 1.6",
+			"question": "When was the top-down online RPG &quot;Space Station 13&quot; released?",
+			"correct_answer": "2003",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Half-Life"
-				},
-				{
-					"incorrect_answer": "Half-Life 2"
-				},
-				{
-					"incorrect_answer": "Team Fortress"
-				}
+				"2000"
+				,
+				"2010"
+				,
+				"2006"
+				
 			]
 		}
 	]

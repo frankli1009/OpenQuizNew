@@ -5,36 +5,15 @@
 			"category": "Entertainment: Television",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "In the TV series &quot;Person of Interest&quot;, who plays the character &quot;Harold Finch&quot;?",
-			"correct_answer": "Michael Emerson",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "Jim Caviezel"
-				},
-				{
-					"incorrect_answer": "Taraji P. Henson"
-				},
-				{
-					"incorrect_answer": "Kevin Chapman"
-				}
-			]
-		},
-		{
-			"category": "Entertainment: Television",
-			"type": "multiple",
-			"difficulty": "medium",
 			"question": "What year did the television company BBC officially launch the channel BBC One?",
 			"correct_answer": "1936",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "1948"
-				},
-				{
-					"incorrect_answer": "1932"
-				},
-				{
-					"incorrect_answer": "1955"
-				}
+				"1948"
+				,
+				"1932"
+				,
+				"1955"
+				
 			]
 		},
 		{
@@ -44,15 +23,57 @@
 			"question": "In the Doctor Who universe, how many times can a time lord normally regenerate?",
 			"correct_answer": "12",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "11"
-				},
-				{
-					"incorrect_answer": "13"
-				},
-				{
-					"incorrect_answer": "15"
-				}
+				"11"
+				,
+				"13"
+				,
+				"15"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which track by &quot;Massive Attack&quot; is used for the theme of &quot;House&quot;? ",
+			"correct_answer": "Teardrop",
+			"incorrect_answers": [
+				"Protection"
+				,
+				"Angel"
+				,
+				"Black Milk"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the title of The Allman Brothers Band instrumental used as the theme to the BBC motoring show, &#039;Top Gear&#039;?",
+			"correct_answer": "Jessica",
+			"incorrect_answers": [
+				"Angela"
+				,
+				"Erica"
+				,
+				"Sandra"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Who sang the theme song for the TV show &#039;Rawhide&#039;?",
+			"correct_answer": "Frankie Laine",
+			"incorrect_answers": [
+				"Guy Mitchell"
+				,
+				" Tennessee Ernie Ford"
+				,
+				"Slim Whitman"
+				
 			]
 		},
 		{
@@ -62,15 +83,27 @@
 			"question": "In what year did &quot;The Big Bang Theory&quot; debut on CBS?",
 			"correct_answer": "2007",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "2008"
-				},
-				{
-					"incorrect_answer": "2006"
-				},
-				{
-					"incorrect_answer": "2009"
-				}
+				"2008"
+				,
+				"2006"
+				,
+				"2009"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In the original Doctor Who series (1963), fourth doctor Tom Baker&#039;s scarf was how long?",
+			"correct_answer": "7 Meters",
+			"incorrect_answers": [
+				"10 Meters"
+				,
+				"2 Meters"
+				,
+				"5 Meters"
+				
 			]
 		},
 		{
@@ -80,15 +113,12 @@
 			"question": "Which of the following Autobot names in Michael Bay&#039;s movies was NOT a name for a Transformer in the original 1980&#039;s cartoon?",
 			"correct_answer": "Mudflap",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Skids"
-				},
-				{
-					"incorrect_answer": "Sideswipe"
-				},
-				{
-					"incorrect_answer": "Ratchet"
-				}
+				"Skids"
+				,
+				"Sideswipe"
+				,
+				"Ratchet"
+				
 			]
 		},
 		{
@@ -98,15 +128,12 @@
 			"question": "What is the setting of the show &quot;Parks and Recreation&quot;?",
 			"correct_answer": "Pawnee, Indiana",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Eagleton, Indiana"
-				},
-				{
-					"incorrect_answer": "Pasadena, California"
-				},
-				{
-					"incorrect_answer": "London, England"
-				}
+				"Eagleton, Indiana"
+				,
+				"Pasadena, California"
+				,
+				"London, England"
+				
 			]
 		},
 		{
@@ -116,15 +143,12 @@
 			"question": "Who was the star of the TV series &quot;24&quot;?",
 			"correct_answer": "Kiefer Sutherland",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Kevin Bacon"
-				},
-				{
-					"incorrect_answer": "Hugh Laurie"
-				},
-				{
-					"incorrect_answer": "Rob Lowe"
-				}
+				"Kevin Bacon"
+				,
+				"Hugh Laurie"
+				,
+				"Rob Lowe"
+				
 			]
 		},
 		{
@@ -134,15 +158,12 @@
 			"question": "What was the name of Ross&#039; pet monkey on &quot;Friends&quot;?",
 			"correct_answer": "Marcel",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Jojo"
-				},
-				{
-					"incorrect_answer": "George"
-				},
-				{
-					"incorrect_answer": "Champ"
-				}
+				"Jojo"
+				,
+				"George"
+				,
+				"Champ"
+				
 			]
 		},
 		{
@@ -152,15 +173,27 @@
 			"question": "Which character does voice actress Tara Strong NOT voice?",
 			"correct_answer": "Bubbles (2016)",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Twilight Sparkle"
-				},
-				{
-					"incorrect_answer": "Timmy Turner"
-				},
-				{
-					"incorrect_answer": "Harley Quinn"
-				}
+				"Twilight Sparkle"
+				,
+				"Timmy Turner"
+				,
+				"Harley Quinn"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In the episode of SpongeBob SquarePants, &quot;Survival of the Idiots&quot;, Spongebob called Patrick which nickname?",
+			"correct_answer": "Pinhead",
+			"incorrect_answers": [
+				"Starfish"
+				,
+				"Larry"
+				,
+				"Dirty Dan"
+				
 			]
 		},
 		{
@@ -170,15 +203,12 @@
 			"question": "In Breaking Bad, the initials W.W. refer to which of the following?",
 			"correct_answer": "Walter White",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "William Wolf"
-				},
-				{
-					"incorrect_answer": "Willy Wonka"
-				},
-				{
-					"incorrect_answer": "Wally Walrus"
-				}
+				"William Wolf"
+				,
+				"Willy Wonka"
+				,
+				"Wally Walrus"
+				
 			]
 		},
 		{
@@ -188,15 +218,42 @@
 			"question": "Who co-founded the YouTube Let&#039;s Play channel &quot;Game Grumps&quot; alongside Newgrounds animator Egoraptor?",
 			"correct_answer": "JonTron",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Pewdiepie"
-				},
-				{
-					"incorrect_answer": "Tobuscus"
-				},
-				{
-					"incorrect_answer": "Markiplier"
-				}
+				"Pewdiepie"
+				,
+				"Tobuscus"
+				,
+				"Markiplier"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In Naruto: Shippuden, which of the following elements is a &quot;Kekkei Tōta?&quot;",
+			"correct_answer": "Particle Style",
+			"incorrect_answers": [
+				"Any Doujutsu"
+				,
+				"Shadow Style"
+				,
+				"Ice Style"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Dee from &quot;It&#039;s Always Sunny in Philadelphia&quot; has dated all of the following guys EXCEPT",
+			"correct_answer": "Matthew &quot;Rickety Cricket&quot; Mara",
+			"incorrect_answers": [
+				"Colin the Thief"
+				,
+				"Ben the Soldier"
+				,
+				"Kevin Gallagher aka Lil&#039; Kevin"
+				
 			]
 		},
 		{
@@ -206,15 +263,12 @@
 			"question": "In the Netflix show, Stranger Things, what song would Will sing to himself as he was missing?",
 			"correct_answer": "Should I Stay or Should I Go?",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Love Will Tear Us Apart"
-				},
-				{
-					"incorrect_answer": "This Charming Man"
-				},
-				{
-					"incorrect_answer": "Africa"
-				}
+				"Love Will Tear Us Apart"
+				,
+				"This Charming Man"
+				,
+				"Africa"
+				
 			]
 		},
 		{
@@ -224,15 +278,12 @@
 			"question": "Which of these television shows makes everyone look under their chair?",
 			"correct_answer": "Oprah",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Jimmy Fallon"
-				},
-				{
-					"incorrect_answer": "Saturday Night Live"
-				},
-				{
-					"incorrect_answer": "Larry Rubert"
-				}
+				"Jimmy Fallon"
+				,
+				"Saturday Night Live"
+				,
+				"Larry Rubert"
+				
 			]
 		},
 		{
@@ -242,15 +293,12 @@
 			"question": "In &quot;The Big Bang Theory&quot;, what is Howard Wolowitz&#039;s nickname in World of Warcraft?",
 			"correct_answer": "Wolowizard",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Sheldor"
-				},
-				{
-					"incorrect_answer": "Rajesh"
-				},
-				{
-					"incorrect_answer": "Priya"
-				}
+				"Sheldor"
+				,
+				"Rajesh"
+				,
+				"Priya"
+				
 			]
 		},
 		{
@@ -260,15 +308,12 @@
 			"question": "What is the surname of the character Daryl in AMC&#039;s show The Walking Dead?",
 			"correct_answer": "Dixon",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Grimes"
-				},
-				{
-					"incorrect_answer": "Dickinson"
-				},
-				{
-					"incorrect_answer": "Dicketson"
-				}
+				"Grimes"
+				,
+				"Dickinson"
+				,
+				"Dicketson"
+				
 			]
 		},
 		{
@@ -278,51 +323,87 @@
 			"question": "How long was Ken Jennings&#039; win streak on Jeopardy?",
 			"correct_answer": "74",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "88"
-				},
-				{
-					"incorrect_answer": "49"
-				},
-				{
-					"incorrect_answer": "62"
-				}
+				"88"
+				,
+				"49"
+				,
+				"62"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Television",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "Which British writer wrote for both Doctor Who and Sherlock?",
-			"correct_answer": "Steven Moffatt",
+			"question": "What is the name of the &quot;Flash&quot; and &quot;Arrow&quot; spinoff featuring a team of characters that have appeared on both shows?",
+			"correct_answer": "Legends of Tomorrow",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Phil Ford"
-				},
-				{
-					"incorrect_answer": "Russell T Davies"
-				},
-				{
-					"incorrect_answer": "Toby Whithouse"
-				}
+				"Heroes of Tomorrow"
+				,
+				"The Justice Society of America"
+				,
+				"The Justice Society"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Television",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "How many seasons did the TV show &quot;Donkey Kong Country&quot; last?",
-			"correct_answer": "2",
+			"question": "In which year did the British television series &quot;The Bill&quot; end?",
+			"correct_answer": "2010",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "1"
-				},
-				{
-					"incorrect_answer": "4"
-				},
-				{
-					"incorrect_answer": "5"
-				}
+				"2001"
+				,
+				"2007"
+				,
+				"2012"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Who was the winner of the 2016 WWE Royal Rumble?",
+			"correct_answer": "Triple H",
+			"incorrect_answers": [
+				"Roman Reigns"
+				,
+				"AJ Styles"
+				,
+				"Dean Ambrose"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In the television show &quot;Lazy Town&quot;, who is the actor of Robbie Rotten?",
+			"correct_answer": "Stef&aacute;n Stef&aacute;nsson",
+			"incorrect_answers": [
+				"Adam Sandler"
+				,
+				"Magn&uacute;s Scheving"
+				,
+				"Stephen Carl"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of following is rude and dishonorable by Klingon standards?",
+			"correct_answer": "Taking his D&#039;k tahg",
+			"incorrect_answers": [
+				"Insulting and laughing at him at the dinner table"
+				,
+				"Reaching over and taking his meal"
+				,
+				"Punching him and taking his ship station position"
+				
 			]
 		},
 		{
@@ -332,15 +413,12 @@
 			"question": "In Star Trek, what is the Ferengi&#039;s First Rule of Acquisition?",
 			"correct_answer": "Once you have their money, you never give it back. ",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Never place friendship above profit"
-				},
-				{
-					"incorrect_answer": "Greed is Eternal"
-				},
-				{
-					"incorrect_answer": "Never allow family to stand in the way of opportunity"
-				}
+				"Never place friendship above profit"
+				,
+				"Greed is Eternal"
+				,
+				"Never allow family to stand in the way of opportunity"
+				
 			]
 		},
 		{
@@ -350,15 +428,27 @@
 			"question": "What was Nickelodeon&#039;s original name?",
 			"correct_answer": "Pinwheel",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "MTVKids"
-				},
-				{
-					"incorrect_answer": "KidsTV"
-				},
-				{
-					"incorrect_answer": "Splat!"
-				}
+				"MTVKids"
+				,
+				"KidsTV"
+				,
+				"Splat!"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In &quot;Star Trek&quot;, what is the Klingon death ritual?",
+			"correct_answer": "Look into sky and yell loudly in mourning.",
+			"incorrect_answers": [
+				"Kiss the jagged forehead before burial."
+				,
+				"Shoot into space in a torpedo casing."
+				,
+				"Split the deceased&#039;s earnings between bloodkin."
+				
 			]
 		}
 	]

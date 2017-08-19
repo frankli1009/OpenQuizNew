@@ -8,15 +8,12 @@
 			"question": "What does &quot;hippopotamus&quot; mean and in what langauge?",
 			"correct_answer": "River Horse (Greek)",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "River Horse (Latin)"
-				},
-				{
-					"incorrect_answer": "Fat Pig (Greek)"
-				},
-				{
-					"incorrect_answer": "Fat Pig (Latin)"
-				}
+				"River Horse (Latin)"
+				,
+				"Fat Pig (Greek)"
+				,
+				"Fat Pig (Latin)"
+				
 			]
 		},
 		{
@@ -26,15 +23,42 @@
 			"question": "What type of animal is a natterjack?",
 			"correct_answer": "Toad",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Bird"
-				},
-				{
-					"incorrect_answer": "Fish"
-				},
-				{
-					"incorrect_answer": "Insect"
-				}
+				"Bird"
+				,
+				"Fish"
+				,
+				"Insect"
+				
+			]
+		},
+		{
+			"category": "Animals",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What color/colour is a polar bear&#039;s skin?",
+			"correct_answer": "Black",
+			"incorrect_answers": [
+				"White"
+				,
+				"Pink"
+				,
+				"Green"
+				
+			]
+		},
+		{
+			"category": "Animals",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Cashmere is the wool from which kind of animal?",
+			"correct_answer": "Goat",
+			"incorrect_answers": [
+				"Sheep"
+				,
+				"Camel"
+				,
+				"Llama"
+				
 			]
 		},
 		{
@@ -44,15 +68,12 @@
 			"question": "What is the scientific name for the &quot;Polar Bear&quot;?",
 			"correct_answer": "Ursus Maritimus",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Polar Bear"
-				},
-				{
-					"incorrect_answer": "Ursus Spelaeus"
-				},
-				{
-					"incorrect_answer": "Ursus Arctos"
-				}
+				"Polar Bear"
+				,
+				"Ursus Spelaeus"
+				,
+				"Ursus Arctos"
+				
 			]
 		},
 		{
@@ -62,15 +83,12 @@
 			"question": "What are rhino&#039;s horn made of?",
 			"correct_answer": "Keratin",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Bone"
-				},
-				{
-					"incorrect_answer": "Ivory"
-				},
-				{
-					"incorrect_answer": "Skin"
-				}
+				"Bone"
+				,
+				"Ivory"
+				,
+				"Skin"
+				
 			]
 		},
 		{
@@ -80,15 +98,12 @@
 			"question": "For what reason would a spotted hyena &quot;laugh&quot;?",
 			"correct_answer": "Nervousness",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Excitement"
-				},
-				{
-					"incorrect_answer": "Aggression"
-				},
-				{
-					"incorrect_answer": "Exhaustion"
-				}
+				"Excitement"
+				,
+				"Aggression"
+				,
+				"Exhaustion"
+				
 			]
 		},
 		{
@@ -98,15 +113,12 @@
 			"question": "Which animal was part of an Russian domestication experiment in 1959?",
 			"correct_answer": "Foxes",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Pigeons"
-				},
-				{
-					"incorrect_answer": "Bears"
-				},
-				{
-					"incorrect_answer": "Alligators"
-				}
+				"Pigeons"
+				,
+				"Bears"
+				,
+				"Alligators"
+				
 			]
 		},
 		{
@@ -116,51 +128,12 @@
 			"question": "The now extinct species &quot;Thylacine&quot; was native to where?",
 			"correct_answer": "Tasmania, Australia",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Baluchistan, Pakistan"
-				},
-				{
-					"incorrect_answer": "Wallachia, Romania"
-				},
-				{
-					"incorrect_answer": "Oregon, United States"
-				}
-			]
-		},
-		{
-			"category": "Animals",
-			"type": "multiple",
-			"difficulty": "medium",
-			"question": "Which of these species is not extinct?",
-			"correct_answer": "Komodo dragon",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "Japanese sea lion"
-				},
-				{
-					"incorrect_answer": "Tasmanian tiger"
-				},
-				{
-					"incorrect_answer": "Saudi gazelle"
-				}
-			]
-		},
-		{
-			"category": "Animals",
-			"type": "multiple",
-			"difficulty": "medium",
-			"question": "What is the name of the family that the domestic cat is a member of?",
-			"correct_answer": "Felidae",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "Felinae"
-				},
-				{
-					"incorrect_answer": "Felis"
-				},
-				{
-					"incorrect_answer": "Cat"
-				}
+				"Baluchistan, Pakistan"
+				,
+				"Wallachia, Romania"
+				,
+				"Oregon, United States"
+				
 			]
 		},
 		{
@@ -170,15 +143,12 @@
 			"question": "What dog bread is one of the oldest breeds of dog and has flourished since before 400 BCE.",
 			"correct_answer": "Pugs",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Bulldogs"
-				},
-				{
-					"incorrect_answer": "Boxers"
-				},
-				{
-					"incorrect_answer": "Chihuahua"
-				}
+				"Bulldogs"
+				,
+				"Boxers"
+				,
+				"Chihuahua"
+				
 			]
 		}
 	]

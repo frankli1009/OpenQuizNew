@@ -8,33 +8,41 @@
 			"question": "The Neanderthals were a direct ancestor of modern humans.",
 			"correct_answer": "False",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "True"
-				}
+				"True"
+				
 			]
 		},
 		{
 			"category": "Science & Nature",
 			"type": "boolean",
 			"difficulty": "medium",
-			"question": "You can be sunburned on a cloudy day.",
+			"question": "Chickens can live without a head.",
 			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"False"
+				
 			]
 		},
 		{
 			"category": "Science & Nature",
 			"type": "boolean",
 			"difficulty": "medium",
-			"question": "The Doppler effect applies to light.",
+			"question": "Hippopotomonstrosesquippedaliophobia is the irrational fear of long words.",
 			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"False"
+				
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "boolean",
+			"difficulty": "medium",
+			"question": "The &quot;Gympie Stinger&quot; is the deadliest plant in the world.",
+			"correct_answer": "False",
+			"incorrect_answers": [
+				"True"
+				
 			]
 		},
 		{
@@ -44,9 +52,8 @@
 			"question": "The planet Mars has two moons orbiting it.",
 			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"False"
+				
 			]
 		},
 		{
@@ -56,21 +63,19 @@
 			"question": "Like with the Neanderthals, Homo sapiens sapiens also interbred with the Denisovans.",
 			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"False"
+				
 			]
 		},
 		{
 			"category": "Science & Nature",
 			"type": "boolean",
 			"difficulty": "medium",
-			"question": "A defibrillator is used to start up a heartbeat once a heart has stopped beating.",
-			"correct_answer": "False",
+			"question": "Shrimp can swim backwards.",
+			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "True"
-				}
+				"False"
+				
 			]
 		},
 		{
@@ -80,21 +85,8 @@
 			"question": "Anatomy considers the forms of macroscopic structures such as organs and organ systems.",
 			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
-			]
-		},
-		{
-			"category": "Science & Nature",
-			"type": "boolean",
-			"difficulty": "medium",
-			"question": "Scientists accidentally killed the once known world&#039;s oldest living creature, a mollusc, known to be aged as 507 years old.",
-			"correct_answer": "True",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"False"
+				
 			]
 		},
 		{
@@ -104,9 +96,8 @@
 			"question": "Centripedal force is an apparent force that acts outward on a body moving around a center, arising from the body&#039;s inertia.",
 			"correct_answer": "False",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "True"
-				}
+				"True"
+				
 			]
 		},
 		{
@@ -116,9 +107,8 @@
 			"question": "In the periodic table, Potassium&#039;s symbol is the letter K.",
 			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"False"
+				
 			]
 		}
 	]

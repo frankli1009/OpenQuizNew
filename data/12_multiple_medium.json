@@ -8,33 +8,27 @@
 			"question": "What French artist/band is known for playing on the midi instrument &quot;Launchpad&quot;?",
 			"correct_answer": "Madeon",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Daft Punk "
-				},
-				{
-					"incorrect_answer": "Disclosure"
-				},
-				{
-					"incorrect_answer": "David Guetta"
-				}
+				"Daft Punk "
+				,
+				"Disclosure"
+				,
+				"David Guetta"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Music",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "Who had hits in the 70s with the songs &quot;Lonely Boy&quot; and &quot;Never Let Her Slip Away&quot;?",
-			"correct_answer": "Andrew Gold",
+			"question": "Who had a 1973 hit with the song &#039;Hocus Pocus&#039;?",
+			"correct_answer": "Focus",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Elton John"
-				},
-				{
-					"incorrect_answer": "Leo Sayer"
-				},
-				{
-					"incorrect_answer": "Barry White "
-				}
+				"Pilot"
+				,
+				"Rush"
+				,
+				"AC/DC"
+				
 			]
 		},
 		{
@@ -44,15 +38,12 @@
 			"question": "Who is the artist of the recent new album the Uncanny Valley?",
 			"correct_answer": "Perturbator",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Carpenter Brut"
-				},
-				{
-					"incorrect_answer": "GOST"
-				},
-				{
-					"incorrect_answer": "Dan Terminus "
-				}
+				"Carpenter Brut"
+				,
+				"GOST"
+				,
+				"Dan Terminus "
+				
 			]
 		},
 		{
@@ -62,69 +53,57 @@
 			"question": "In the song &ldquo;The Ultimate Showdown of Ultimate Destiny,&rdquo; who is the only one to survive the battle?",
 			"correct_answer": "Mr. Rogers",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Batman"
-				},
-				{
-					"incorrect_answer": "Chuck Norris"
-				},
-				{
-					"incorrect_answer": "Godzilla"
-				}
+				"Batman"
+				,
+				"Chuck Norris"
+				,
+				"Godzilla"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Music",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "Who is the best selling artist of all time?",
-			"correct_answer": "The Beatles",
+			"question": "Which French duo had UK hits in 1998 with the songs &#039;Sexy Boy&#039;, &#039;Kelly Watch The Stars&#039; &amp; &#039;All I Need&#039;?",
+			"correct_answer": "Air",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Michael Jackson"
-				},
-				{
-					"incorrect_answer": "Elton John"
-				},
-				{
-					"incorrect_answer": "Elvis Presley"
-				}
+				"Fire"
+				,
+				"Earth"
+				,
+				"Water"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Music",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "According to their 1974 hit, what were Brownsville Station doing &quot;In The Boys&#039; Room&quot;?",
-			"correct_answer": "Smokin&#039;",
+			"question": "Which band had hits in 1975 with the songs, &#039;One Of These Nights&#039; &amp; &#039;Lyin Eyes&#039;?",
+			"correct_answer": "The Eagles",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Hangin&#039;"
-				},
-				{
-					"incorrect_answer": "Lovin&#039;"
-				},
-				{
-					"incorrect_answer": "Peein&#039;"
-				}
+				"Fools Gold"
+				,
+				"The Doobie Brothers"
+				,
+				"Fleetwood Mac"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Music",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "Who is the founder and leader of industrial rock band, &#039;Nine Inch Nails&#039;?",
-			"correct_answer": "Trent Reznor",
+			"question": "Which American family band had a 1986 top 10 hit with the song &#039;Crush On You&#039;?",
+			"correct_answer": "The Jets",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Marilyn Manson"
-				},
-				{
-					"incorrect_answer": "Robin Finck"
-				},
-				{
-					"incorrect_answer": "Josh Homme"
-				}
+				"DeBarge"
+				,
+				"The Jacksons"
+				,
+				"The Cover Girls"
+				
 			]
 		},
 		{
@@ -134,51 +113,42 @@
 			"question": "Who had a US and UK number 1 hit in 1962 with the instrumental, &#039;Telstar&#039;?",
 			"correct_answer": "The Tornados",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "The Ventures"
-				},
-				{
-					"incorrect_answer": "The Spotnicks"
-				},
-				{
-					"incorrect_answer": "The Tremeloes"
-				}
+				"The Ventures"
+				,
+				"The Spotnicks"
+				,
+				"The Tremeloes"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Music",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "Which Elton John hit starts with the line &#039;When are you gonna come down&#039;?",
-			"correct_answer": "Goodbye Yellow Brick Road",
+			"question": "Who had a 1976 hit with the song &#039;You Make Me Feel Like Dancing&#039;?",
+			"correct_answer": "Leo Sayer",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Rocket Man"
-				},
-				{
-					"incorrect_answer": "Bennie and the Jets"
-				},
-				{
-					"incorrect_answer": "Crocodile Rock"
-				}
+				"Elton John"
+				,
+				"Billy Joel"
+				,
+				"Andy Gibb"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Music",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "Which of these is NOT an album released by The Beatles?",
-			"correct_answer": "The Wall",
+			"question": "Typically, how many keys are on a piano?",
+			"correct_answer": "88",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Abbey Road"
-				},
-				{
-					"incorrect_answer": "Magical Mystery Tour"
-				},
-				{
-					"incorrect_answer": "Revolver"
-				}
+				"24"
+				,
+				"12"
+				,
+				"96"
+				
 			]
 		},
 		{
@@ -188,69 +158,27 @@
 			"question": "Saul Hudson (Slash) of the band Guns N&#039; Roses is known for playing what type of guitar?",
 			"correct_answer": "Les Paul Standard",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Fender Stratocaster"
-				},
-				{
-					"incorrect_answer": "LsL Mongrel"
-				},
-				{
-					"incorrect_answer": "Gretsch Falcon"
-				}
+				"Fender Stratocaster"
+				,
+				"LsL Mongrel"
+				,
+				"Gretsch Falcon"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Music",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "Who is the Pink Floyd song &quot;Shine On You Crazy Diamond&quot; written about?",
-			"correct_answer": "Syd Barrett",
+			"question": "According to a Beatles song, who kept her face in a jar by the door?",
+			"correct_answer": "Eleanor Rigby",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "John Lennon"
-				},
-				{
-					"incorrect_answer": "David Gilmour"
-				},
-				{
-					"incorrect_answer": "Floyd"
-				}
-			]
-		},
-		{
-			"category": "Entertainment: Music",
-			"type": "multiple",
-			"difficulty": "medium",
-			"question": "Which popular rock band has a one-armed drummer?",
-			"correct_answer": "Def Leppard",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "The Beatles"
-				},
-				{
-					"incorrect_answer": "Lynyrd Skynyrd"
-				},
-				{
-					"incorrect_answer": "Foreigner"
-				}
-			]
-		},
-		{
-			"category": "Entertainment: Music",
-			"type": "multiple",
-			"difficulty": "medium",
-			"question": "Who wrote the musical composition, &quot;Rhapsody In Blue&quot;?",
-			"correct_answer": "George Gershwin",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "Irving Berlin"
-				},
-				{
-					"incorrect_answer": "Duke Ellington"
-				},
-				{
-					"incorrect_answer": "Johnny Mandel"
-				}
+				"Loretta Martin"
+				,
+				"Molly Jones"
+				,
+				"Lady Madonna"
+				
 			]
 		},
 		{
@@ -260,69 +188,57 @@
 			"question": "Which singer was featured in Swedish producer Avicii&#039;s song &quot;Wake Me Up&quot;?",
 			"correct_answer": "Aloe Blacc",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "John Legend"
-				},
-				{
-					"incorrect_answer": "CeeLo Green"
-				},
-				{
-					"incorrect_answer": "Pharrell Williams"
-				}
+				"John Legend"
+				,
+				"CeeLo Green"
+				,
+				"Pharrell Williams"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Music",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "Which country is singer Kyary Pamyu Pamyu from?",
-			"correct_answer": "Japan",
+			"question": "Which song is not by TheFatRat?",
+			"correct_answer": "Ascent",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "South Korea"
-				},
-				{
-					"incorrect_answer": "China"
-				},
-				{
-					"incorrect_answer": "Vietnam"
-				}
+				"Monody"
+				,
+				"Windfall"
+				,
+				"Infinite Power!"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Music",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "Which band released songs such as &quot;Electric Feel&quot;, &quot;Kids&quot;, and &quot;Time to Pretend&quot;?",
-			"correct_answer": "MGMT",
+			"question": "In 2015, David Hasselhof released a single called...",
+			"correct_answer": "True Survivor",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Passion Pit"
-				},
-				{
-					"incorrect_answer": "Phoenix"
-				},
-				{
-					"incorrect_answer": "Franz Ferdinand"
-				}
+				"True Fighter"
+				,
+				"Real Kung-Fury"
+				,
+				"Real Warrior"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Music",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "What genre of EDM is the Dutch DJ, musician, and remixer Armin van Buuren most well-known for?",
-			"correct_answer": "Trance",
+			"question": "Which one of these artists appears in the album Deltron 3030?",
+			"correct_answer": "Dan the Automater",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "House"
-				},
-				{
-					"incorrect_answer": "Drum and Bass"
-				},
-				{
-					"incorrect_answer": "Dubstep"
-				}
+				"Lamarr Kendrick"
+				,
+				"Danger Mouse"
+				,
+				"CeeLo Green"
+				
 			]
 		},
 		{
@@ -332,87 +248,117 @@
 			"question": "In which city did American rap producer DJ Khaled originate from?",
 			"correct_answer": "Miami",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "New York"
-				},
-				{
-					"incorrect_answer": "Detroit"
-				},
-				{
-					"incorrect_answer": "Atlanta"
-				}
+				"New York"
+				,
+				"Detroit"
+				,
+				"Atlanta"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Music",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "EDM producer Marshmello performs live wearing clothes and a marshmallow mask of what colour?",
-			"correct_answer": "White",
+			"question": "Which of these artists was NOT a member of the electronic music supergroup Swedish House Mafia, which split up in 2013?",
+			"correct_answer": "Alesso",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Black"
-				},
-				{
-					"incorrect_answer": "Blue"
-				},
-				{
-					"incorrect_answer": "Yellow"
-				}
+				"Steve Angello"
+				,
+				"Sebastian Ingrosso"
+				,
+				"Axwell"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Music",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "Madonna&#039;s song &quot;Hung Up&quot; includes a piece from which popular 70s song?",
-			"correct_answer": "Gimmie! Gimmie! Gimme! (A Man After Midnight)",
+			"question": "Which Queen song was covered by Brittany Murphy in the 2006 film &quot;Happy Feet&quot;?",
+			"correct_answer": "Somebody to Love",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Staying Alive"
-				},
-				{
-					"incorrect_answer": "Night Fever"
-				},
-				{
-					"incorrect_answer": "The Chain"
-				}
+				"Under Pressure"
+				,
+				"Flash"
+				,
+				"Bohemian Rhapsody"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Music",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "Which of these is NOT a song on The Beatles&#039; 1968 self titled album, also known as the White album?",
-			"correct_answer": "Being For The Benefit Of Mr. Kite!",
+			"question": "Which of these is NOT the name of an album released by American rapper Viper?",
+			"correct_answer": "The Life of Pablo",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Why Don&#039;t We Do It in the Road?"
-				},
-				{
-					"incorrect_answer": "Everybody&#039;s Got Something to Hide Except Me and My Monkey"
-				},
-				{
-					"incorrect_answer": "The Continuing Story of Bungalow Bill"
-				}
+				"Kill Urself My Man"
+				,
+				"You&#039;ll Cowards Don&#039;t Even Smoke Crack"
+				,
+				"Yo Wife Handcuffin&#039; Me"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Music",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "What&#039;s the most common time signature for rock songs?",
-			"correct_answer": "4/4",
+			"question": "EDM record label Monstercat is based in which country?",
+			"correct_answer": "Canada",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "1/2"
-				},
-				{
-					"incorrect_answer": "8/12"
-				},
-				{
-					"incorrect_answer": "2/4"
-				}
+				"United States"
+				,
+				"Australia"
+				,
+				"United Kingdom"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Music",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of these artists has NOT been a member of dancehall group Major Lazer?",
+			"correct_answer": "Skrillex",
+			"incorrect_answers": [
+				"Diplo"
+				,
+				"Jillionaire"
+				,
+				"Walshy Fire"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Music",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which song by Swedish electronic musician Avicii samples the song &quot;Something&#039;s Got A Hold On Me&quot; by Etta James?",
+			"correct_answer": "Levels",
+			"incorrect_answers": [
+				"Fade Into Darkness"
+				,
+				"Silhouettes"
+				,
+				"Seek Bromance"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Music",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Who is the lead singer of Silverchair?",
+			"correct_answer": "Daniel Johns",
+			"incorrect_answers": [
+				"Ben Gillies"
+				,
+				"Chris Joannou"
+				,
+				""
+				
 			]
 		},
 		{
@@ -422,15 +368,12 @@
 			"question": "Which of these is the name of an American psychedelic rock band formed in 2002 by Benjamin Goldwasser and Andrew VanWyngarden?",
 			"correct_answer": "MGMT",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "MSTRKRFT"
-				},
-				{
-					"incorrect_answer": "STRFKR"
-				},
-				{
-					"incorrect_answer": "SBTRKT"
-				}
+				"MSTRKRFT"
+				,
+				"STRFKR"
+				,
+				"SBTRKT"
+				
 			]
 		},
 		{
@@ -440,33 +383,42 @@
 			"question": "Which artist collaborated with American DJ Dillon Francis to release the song 2016 &quot;Need You&quot;?",
 			"correct_answer": "NGHTMRE",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "LOUDPVCK"
-				},
-				{
-					"incorrect_answer": "KRNE"
-				},
-				{
-					"incorrect_answer": "DVBBS"
-				}
+				"LOUDPVCK"
+				,
+				"KRNE"
+				,
+				"DVBBS"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Music",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "What animal is featured on the cover of English electronic music group The Prodigy&#039;s album, &quot;The Fat of the Land&quot;?",
-			"correct_answer": "Crab",
+			"question": "Pink Floyd made this song for their previous lead singer Syd Barrett.",
+			"correct_answer": "Shine On You Crazy Diamond",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Fox"
-				},
-				{
-					"incorrect_answer": "Elephant"
-				},
-				{
-					"incorrect_answer": "Tiger"
-				}
+				"Wish You Were Here"
+				,
+				"Have A Cigar"
+				,
+				"Welcome to the Machine"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Music",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which one of these Pink Floyd albums were also a movie?",
+			"correct_answer": "The Wall",
+			"incorrect_answers": [
+				"The Dark Side of the Moon"
+				,
+				"Wish You Were Here"
+				,
+				"Animals"
+				
 			]
 		},
 		{
@@ -476,33 +428,27 @@
 			"question": "May 16th of every year is known as __________ Day, named after a punk band prominent in the 1990s.",
 			"correct_answer": "Lagwagon",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Goldfinger"
-				},
-				{
-					"incorrect_answer": "Less Than Jake"
-				},
-				{
-					"incorrect_answer": "Lit"
-				}
+				"Goldfinger"
+				,
+				"Less Than Jake"
+				,
+				"Lit"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Music",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "Which country does the power metal band &quot;Sabaton&quot; originate from?",
-			"correct_answer": "Sweden",
+			"question": "Which of these bands are NOT from Australia?",
+			"correct_answer": "The Naked and Famous",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Germany"
-				},
-				{
-					"incorrect_answer": "United States"
-				},
-				{
-					"incorrect_answer": "Finland"
-				}
+				"Cut Copy"
+				,
+				"Empire of the Sun"
+				,
+				"Tame Impala"
+				
 			]
 		},
 		{
@@ -512,33 +458,12 @@
 			"question": "What is the relationship between the band members of American rock band King of Leon?",
 			"correct_answer": "Brothers &amp; cousins",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Childhood friends"
-				},
-				{
-					"incorrect_answer": "Former classmates"
-				},
-				{
-					"incorrect_answer": "Fraternity house members"
-				}
-			]
-		},
-		{
-			"category": "Entertainment: Music",
-			"type": "multiple",
-			"difficulty": "medium",
-			"question": "Which of these is NOT a name of an album released by American rapper Pitbull?",
-			"correct_answer": "Welcome to Miami",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "Dale"
-				},
-				{
-					"incorrect_answer": "Global Warming"
-				},
-				{
-					"incorrect_answer": "Armando"
-				}
+				"Childhood friends"
+				,
+				"Former classmates"
+				,
+				"Fraternity house members"
+				
 			]
 		},
 		{
@@ -548,33 +473,12 @@
 			"question": "The song &quot;Feel Good Inc.&quot; by British band Gorillaz features which hip hop group?",
 			"correct_answer": "De La Soul",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Public Enemy"
-				},
-				{
-					"incorrect_answer": "OutKast"
-				},
-				{
-					"incorrect_answer": "Cypress Hill"
-				}
-			]
-		},
-		{
-			"category": "Entertainment: Music",
-			"type": "multiple",
-			"difficulty": "medium",
-			"question": "Who is the frontman of Muse?",
-			"correct_answer": "Matt Bellamy",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "Dominic Howard"
-				},
-				{
-					"incorrect_answer": "Thom Yorke"
-				},
-				{
-					"incorrect_answer": "Jonny Greenwood"
-				}
+				"Public Enemy"
+				,
+				"OutKast"
+				,
+				"Cypress Hill"
+				
 			]
 		},
 		{
@@ -584,15 +488,12 @@
 			"question": "Which famous 90&#039;s rap album is commonly referred to as &quot;The Bible of Hip Hop&quot;?",
 			"correct_answer": "Illmatic",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "The Low End Theory"
-				},
-				{
-					"incorrect_answer": "The Chronic"
-				},
-				{
-					"incorrect_answer": "Enter The Wu-Tang (36 Chambers)"
-				}
+				"The Low End Theory"
+				,
+				"The Chronic"
+				,
+				"Enter The Wu-Tang (36 Chambers)"
+				
 			]
 		},
 		{
@@ -602,33 +503,42 @@
 			"question": "Which one of these rappers is NOT a member of the rap group Wu-Tang Clan?",
 			"correct_answer": "Dr.Dre",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Ol&#039; Dirty Bastard"
-				},
-				{
-					"incorrect_answer": "GZA"
-				},
-				{
-					"incorrect_answer": "Method Man"
-				}
+				"Ol&#039; Dirty Bastard"
+				,
+				"GZA"
+				,
+				"Method Man"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Music",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "Which iconic album cover features the pulsar waves of CP 1919 placed in the center of the cover?",
-			"correct_answer": "Unknown Pleasures",
+			"question": "What musician made the song &quot;Fuckin` Perfect&quot; in 2010?",
+			"correct_answer": "P!nk",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "The Dark Side of the Moon"
-				},
-				{
-					"incorrect_answer": "London Calling"
-				},
-				{
-					"incorrect_answer": "The Velvet Underground &amp; Nico"
-				}
+				"Mitis"
+				,
+				"Adam lambert"
+				,
+				"Koven"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Music",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which country does the electronic music duo &quot;The Knife&quot; originate from?",
+			"correct_answer": "Sweden",
+			"incorrect_answers": [
+				"Finland"
+				,
+				"Denmark"
+				,
+				"Norway"
+				
 			]
 		},
 		{
@@ -638,15 +548,12 @@
 			"question": "Who recorded the album called &quot;Down to the Moon&quot; in 1986?",
 			"correct_answer": "Andreas Vollenweider",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Jean-Michel Jarre"
-				},
-				{
-					"incorrect_answer": "Bing Crosby"
-				},
-				{
-					"incorrect_answer": "Enya"
-				}
+				"Jean-Michel Jarre"
+				,
+				"Bing Crosby"
+				,
+				"Enya"
+				
 			]
 		},
 		{
@@ -656,69 +563,27 @@
 			"question": "What was Radiohead&#039;s first album?",
 			"correct_answer": "Pablo Honey",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "The Bends"
-				},
-				{
-					"incorrect_answer": "Kid A"
-				},
-				{
-					"incorrect_answer": "A Moon Shaped Pool"
-				}
+				"The Bends"
+				,
+				"Kid A"
+				,
+				"A Moon Shaped Pool"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Music",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "Which song in Drake&#039;s &quot;Views&quot; features Future?",
-			"correct_answer": "Grammys",
+			"question": "When did The Beatles release the LP &quot;Please Please Me&quot;?",
+			"correct_answer": "1963",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Too Good"
-				},
-				{
-					"incorrect_answer": "Faithful"
-				},
-				{
-					"incorrect_answer": "Pop Style"
-				}
-			]
-		},
-		{
-			"category": "Entertainment: Music",
-			"type": "multiple",
-			"difficulty": "medium",
-			"question": "&quot;Lift Your Spirit&quot; is an album by which artist?",
-			"correct_answer": "Aloe Blacc",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "Lena Meyer-Landrut"
-				},
-				{
-					"incorrect_answer": "Stevie Wonder"
-				},
-				{
-					"incorrect_answer": "Taylor Swift"
-				}
-			]
-		},
-		{
-			"category": "Entertainment: Music",
-			"type": "multiple",
-			"difficulty": "medium",
-			"question": "Which of these is not an Ed Sheeran album?",
-			"correct_answer": "-",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "+"
-				},
-				{
-					"incorrect_answer": "X"
-				},
-				{
-					"incorrect_answer": "&divide;"
-				}
+				"1970"
+				,
+				"1960"
+				,
+				"1969"
+				
 			]
 		},
 		{
@@ -728,15 +593,12 @@
 			"question": "Which of these bands is the oldest?",
 			"correct_answer": "Pink Floyd",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "AC/DC"
-				},
-				{
-					"incorrect_answer": "Metallica"
-				},
-				{
-					"incorrect_answer": "Red Hot Chili Peppers"
-				}
+				"AC/DC"
+				,
+				"Metallica"
+				,
+				"Red Hot Chili Peppers"
+				
 			]
 		},
 		{
@@ -746,15 +608,12 @@
 			"question": "&quot;Drink the Sea&quot; is an album by which electronic music artist?",
 			"correct_answer": "The Glitch Mob",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Avicii"
-				},
-				{
-					"incorrect_answer": "XXYYXX"
-				},
-				{
-					"incorrect_answer": "Flux Pavilion"
-				}
+				"Avicii"
+				,
+				"XXYYXX"
+				,
+				"Flux Pavilion"
+				
 			]
 		},
 		{
@@ -764,15 +623,12 @@
 			"question": "What is the last song on the first Panic! At the Disco album?",
 			"correct_answer": "Build God, Then We&#039;ll Talk",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Nails for Breakfast, Tacks for Snacks"
-				},
-				{
-					"incorrect_answer": "I Write Sins Not Tragedies"
-				},
-				{
-					"incorrect_answer": "Lying Is The Most Fun A Girl Can Have Without Taking Her Clothes Off"
-				}
+				"Nails for Breakfast, Tacks for Snacks"
+				,
+				"I Write Sins Not Tragedies"
+				,
+				"Lying Is The Most Fun A Girl Can Have Without Taking Her Clothes Off"
+				
 			]
 		},
 		{
@@ -782,33 +638,12 @@
 			"question": "What is the first track on Kanye West&#039;s 808s &amp; Heartbreak?",
 			"correct_answer": "Say You Will",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Welcome to Heartbreak"
-				},
-				{
-					"incorrect_answer": "Street Lights"
-				},
-				{
-					"incorrect_answer": "Heartless"
-				}
-			]
-		},
-		{
-			"category": "Entertainment: Music",
-			"type": "multiple",
-			"difficulty": "medium",
-			"question": "Who is the lead singer of The Lumineers?",
-			"correct_answer": "Wesley Schultz",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "Jeremiah Fraites"
-				},
-				{
-					"incorrect_answer": "Jay Van Dyke"
-				},
-				{
-					"incorrect_answer": "Neyla Pekarek"
-				}
+				"Welcome to Heartbreak"
+				,
+				"Street Lights"
+				,
+				"Heartless"
+				
 			]
 		},
 		{
@@ -818,15 +653,12 @@
 			"question": "The song &quot;Caramelldansen&quot; is commonly mistaken as a Japanese song, what language is the song actually sung in?",
 			"correct_answer": "Swedish",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Hungarian"
-				},
-				{
-					"incorrect_answer": "Finnish"
-				},
-				{
-					"incorrect_answer": "Chinese"
-				}
+				"Hungarian"
+				,
+				"Finnish"
+				,
+				"Chinese"
+				
 			]
 		},
 		{
@@ -836,15 +668,12 @@
 			"question": "Ellie Goulding&#039;s earliest album was named?",
 			"correct_answer": "Lights",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Halcyon"
-				},
-				{
-					"incorrect_answer": "Bright Lights"
-				},
-				{
-					"incorrect_answer": "Halcyon Days"
-				}
+				"Halcyon"
+				,
+				"Bright Lights"
+				,
+				"Halcyon Days"
+				
 			]
 		},
 		{
@@ -854,15 +683,12 @@
 			"question": "African-American performer Sammy Davis Jr. was known for losing which part of his body in a car accident?",
 			"correct_answer": "Left Eye",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Right Ear"
-				},
-				{
-					"incorrect_answer": "Right Middle Finger"
-				},
-				{
-					"incorrect_answer": "Nose"
-				}
+				"Right Ear"
+				,
+				"Right Middle Finger"
+				,
+				"Nose"
+				
 			]
 		},
 		{
@@ -872,15 +698,42 @@
 			"question": "How many copies have Metallica album &quot;Metallica&quot; (A.K.A The Black Album) sold worldwide (in Millions of Copies)?",
 			"correct_answer": "20.5",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "19.5"
-				},
-				{
-					"incorrect_answer": "22.5"
-				},
-				{
-					"incorrect_answer": "25.5"
-				}
+				"19.5"
+				,
+				"22.5"
+				,
+				"25.5"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Music",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of these is NOT a song by Pegboard Nerds?",
+			"correct_answer": "WiFi Tears",
+			"incorrect_answers": [
+				"Swamp Thing"
+				,
+				"Emoji"
+				,
+				"BAMF"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Music",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In which year did &quot;Caravan Palace&quot; release their first album?",
+			"correct_answer": "2008",
+			"incorrect_answers": [
+				"2000"
+				,
+				"2015"
+				,
+				"2004"
+				
 			]
 		},
 		{
@@ -890,15 +743,12 @@
 			"question": "Which of these songs is not on the &quot;untitled&quot; album by Led Zeppelin?",
 			"correct_answer": "Celebration Day",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Stairway to Heaven"
-				},
-				{
-					"incorrect_answer": "Black Dog"
-				},
-				{
-					"incorrect_answer": "Rock and Roll"
-				}
+				"Stairway to Heaven"
+				,
+				"Black Dog"
+				,
+				"Rock and Roll"
+				
 			]
 		}
 	]

@@ -8,15 +8,27 @@
 			"question": "The theme for the popular science fiction series &quot;Doctor Who&quot; was composed by who?",
 			"correct_answer": "Ron Grainer",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Murray Gold"
-				},
-				{
-					"incorrect_answer": "Delia Derbyshire"
-				},
-				{
-					"incorrect_answer": "Peter Howell"
-				}
+				"Murray Gold"
+				,
+				"Delia Derbyshire"
+				,
+				"Peter Howell"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What&#039;s Dr. Doofenshmirtz first name?",
+			"correct_answer": "Heinz",
+			"incorrect_answers": [
+				"Hans"
+				,
+				"Hank"
+				,
+				"Heidi"
+				
 			]
 		},
 		{
@@ -26,33 +38,12 @@
 			"question": "In &quot;It&#039;s Always Sunny in Philadelphia&quot; what was the name of Frank&#039;s wrestling persona?",
 			"correct_answer": "The Trash Man",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Bird of War"
-				},
-				{
-					"incorrect_answer": "Day Man"
-				},
-				{
-					"incorrect_answer": "The Maniac"
-				}
-			]
-		},
-		{
-			"category": "Entertainment: Television",
-			"type": "multiple",
-			"difficulty": "hard",
-			"question": "Which country does the YouTuber &quot;SinowBeats&quot; originate from?",
-			"correct_answer": "Scotland",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "England"
-				},
-				{
-					"incorrect_answer": "Sweden"
-				},
-				{
-					"incorrect_answer": "Germany"
-				}
+				"Bird of War"
+				,
+				"Day Man"
+				,
+				"The Maniac"
+				
 			]
 		},
 		{
@@ -62,15 +53,12 @@
 			"question": "Who played the sun baby in the original run of Teletubbies?",
 			"correct_answer": "Jessica Smith",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Pui Fan Lee"
-				},
-				{
-					"incorrect_answer": "Sue Monroe"
-				},
-				{
-					"incorrect_answer": "Lisa Brockwell"
-				}
+				"Pui Fan Lee"
+				,
+				"Sue Monroe"
+				,
+				"Lisa Brockwell"
+				
 			]
 		},
 		{
@@ -80,15 +68,12 @@
 			"question": "In &quot;Donkey Kong Country&quot;, why does Donkey Kong want to know the secret of the crystal coconut?",
 			"correct_answer": "He&#039;s the big kahuna.",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "To find out where all the bananas are."
-				},
-				{
-					"incorrect_answer": "Because Diddy Kong forced him."
-				},
-				{
-					"incorrect_answer": "He wants to punish brutes."
-				}
+				"To find out where all the bananas are."
+				,
+				"Because Diddy Kong forced him."
+				,
+				"He wants to punish brutes."
+				
 			]
 		},
 		{
@@ -98,15 +83,12 @@
 			"question": "Which of these in the Star Trek series is NOT Klingon food?",
 			"correct_answer": "Hors d&#039;oeuvre",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Racht"
-				},
-				{
-					"incorrect_answer": "Gagh"
-				},
-				{
-					"incorrect_answer": "Bloodwine"
-				}
+				"Racht"
+				,
+				"Gagh"
+				,
+				"Bloodwine"
+				
 			]
 		},
 		{
@@ -116,15 +98,12 @@
 			"question": "What is the Klingon&#039;s afterlife called?",
 			"correct_answer": "Sto-vo-kor",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Valhalla"
-				},
-				{
-					"incorrect_answer": "Karon&#039;gahk"
-				},
-				{
-					"incorrect_answer": "New Jersey"
-				}
+				"Valhalla"
+				,
+				"Karon&#039;gahk"
+				,
+				"New Jersey"
+				
 			]
 		},
 		{
@@ -134,15 +113,12 @@
 			"question": "In Star Trek, who was the founder of the Klingon Empire and its philosophy?",
 			"correct_answer": "Kahless the Unforgettable",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Lady Lukara of the Great Hall"
-				},
-				{
-					"incorrect_answer": "Molor the Unforgiving"
-				},
-				{
-					"incorrect_answer": "Dahar Master Kor"
-				}
+				"Lady Lukara of the Great Hall"
+				,
+				"Molor the Unforgiving"
+				,
+				"Dahar Master Kor"
+				
 			]
 		},
 		{
@@ -152,33 +128,27 @@
 			"question": "Which race enjoys a glass of warm baghol in &quot;Star Trek&quot;?",
 			"correct_answer": "Klingon",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Vulcan"
-				},
-				{
-					"incorrect_answer": "Human"
-				},
-				{
-					"incorrect_answer": "Botha"
-				}
+				"Vulcan"
+				,
+				"Human"
+				,
+				"Botha"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Television",
 			"type": "multiple",
 			"difficulty": "hard",
-			"question": "In &quot;Star Trek&quot;, what sauce is commonly used by Klingons on bregit lung?",
-			"correct_answer": "Grapok sauce",
+			"question": "In &quot;Star Trek&quot;, what is the Klingon delicacy of &quot;gagh&quot; made from?",
+			"correct_answer": "Serpent worms",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Gazorpazorp pudding"
-				},
-				{
-					"incorrect_answer": "Sweet chili sauce"
-				},
-				{
-					"incorrect_answer": "Grapork sauce"
-				}
+				"Earthworms"
+				,
+				"Spaghetti noodles"
+				,
+				"Klingworms"
+				
 			]
 		}
 	]

@@ -5,198 +5,90 @@
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "When Halo 3: ODST was unveiled in 2008, it had a different title. What was the game formally called?",
-			"correct_answer": "Halo 3: Recon",
+			"question": "What name did &quot;Mario&quot;, from &quot;Super Mario Brothers&quot;, originally have?",
+			"correct_answer": "Ossan",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Halo 3: Helljumpers"
-				},
-				{
-					"incorrect_answer": "Halo 3: Phantom"
-				},
-				{
-					"incorrect_answer": "Halo 3: Guerilla"
-				}
+				"Jumpman"
+				,
+				"Mr. Video"
+				,
+				"Mario"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "Killing Floor started as a mod for which Unreal Engine 2 game?",
-			"correct_answer": "Unreal Tournament 2004",
+			"question": "What is the main character of Metal Gear Solid 2?",
+			"correct_answer": "Raiden",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Deus Ex: Invisible War"
-				},
-				{
-					"incorrect_answer": "Unreal Tournament 3"
-				},
-				{
-					"incorrect_answer": "Postal"
-				}
+				"Solidus Snake"
+				,
+				"Big Boss"
+				,
+				"Venom Snake"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "How many Chaos Emeralds can you collect in the first Sonic The Hedgehog?",
-			"correct_answer": "Six",
+			"question": "The original Planetside was released in North America on...",
+			"correct_answer": "May 20, 2003",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Seven"
-				},
-				{
-					"incorrect_answer": "Five"
-				},
-				{
-					"incorrect_answer": "Eight"
-				}
+				"June 17, 2001"
+				,
+				"September 29, 2003"
+				,
+				"January 14, 2005"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "What is the name of the virus that infected New York in Tom Clancy&#039;s The Division?",
-			"correct_answer": "Dollar Flu",
+			"question": "In the game &quot;Undertale&quot;, who was Mettaton&#039;s creator?",
+			"correct_answer": "Alphys",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Ebola"
-				},
-				{
-					"incorrect_answer": "Red Poison"
-				},
-				{
-					"incorrect_answer": "Smallpox"
-				}
+				"Undyne"
+				,
+				"Sans"
+				,
+				"Asgore"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "Who was the first jedi that Starkiller had to kill in Star Wars: The Force Unleashed?",
-			"correct_answer": "Rahm Kota",
+			"question": "The original mascot of the popular Nintendo game, &quot;Splatoon&quot; was going to be...",
+			"correct_answer": "Mario",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Ahsoka Tano"
-				},
-				{
-					"incorrect_answer": "Kazdan Paratus"
-				},
-				{
-					"incorrect_answer": "Kento Marek"
-				}
+				"Inklings"
+				,
+				"Octolings"
+				,
+				"Zelda"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "What is the name of the currency in the &quot;Animal Crossing&quot; series?",
-			"correct_answer": "Bells",
+			"question": "What is the final game of the &quot;Zero Escape&quot; series called?",
+			"correct_answer": "Zero Escape Zero Time Dilemma ",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Sea Shells"
-				},
-				{
-					"incorrect_answer": "Leaves"
-				},
-				{
-					"incorrect_answer": "Bugs"
-				}
-			]
-		},
-		{
-			"category": "Entertainment: Video Games",
-			"type": "multiple",
-			"difficulty": "medium",
-			"question": "What is the world&#039;s first video game console?",
-			"correct_answer": "Magnavox Odyssey",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "Coleco Telstar"
-				},
-				{
-					"incorrect_answer": "Nintendo Color TV Game"
-				},
-				{
-					"incorrect_answer": "Atari 2600"
-				}
-			]
-		},
-		{
-			"category": "Entertainment: Video Games",
-			"type": "multiple",
-			"difficulty": "medium",
-			"question": "The city of Rockport is featured in which of the following video games?",
-			"correct_answer": "Need for Speed: Most Wanted (2005)",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "Infamous 2"
-				},
-				{
-					"incorrect_answer": "Saints Row: The Third"
-				},
-				{
-					"incorrect_answer": "Burnout Revenge"
-				}
-			]
-		},
-		{
-			"category": "Entertainment: Video Games",
-			"type": "multiple",
-			"difficulty": "medium",
-			"question": "What was the name of the Secret Organization in the Hotline Miami series? ",
-			"correct_answer": "50 Blessings",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "American Blessings"
-				},
-				{
-					"incorrect_answer": "50 Saints"
-				},
-				{
-					"incorrect_answer": "USSR&#039;s Blessings"
-				}
-			]
-		},
-		{
-			"category": "Entertainment: Video Games",
-			"type": "multiple",
-			"difficulty": "medium",
-			"question": "Which football player is featured on the international cover version of the video game FIFA 16?",
-			"correct_answer": "Lionel Messi",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "Cristiano Ronaldo"
-				},
-				{
-					"incorrect_answer": "Wayne Rooney"
-				},
-				{
-					"incorrect_answer": "David Beckham"
-				}
-			]
-		},
-		{
-			"category": "Entertainment: Video Games",
-			"type": "multiple",
-			"difficulty": "medium",
-			"question": "In the Kingdom Heart series who provides the english voice for Master Eraqus?",
-			"correct_answer": "Mark Hamill",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "Jason Dohring"
-				},
-				{
-					"incorrect_answer": "Jesse McCartney"
-				},
-				{
-					"incorrect_answer": "Haley Joel Osment"
-				}
+				"Nine Hours, Nine Persons, Nine Doors "
+				,
+				"Zero Escape Virtue&#039;s Last Reward"
+				,
+				"The Nonary Game: Sigma&#039;s Last Life"
+				
 			]
 		},
 		{
@@ -206,213 +98,207 @@
 			"question": "What was the first interactive movie video game?",
 			"correct_answer": "Astron Belt",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Dragon&#039;s Lair"
-				},
-				{
-					"incorrect_answer": "Cube Quest"
-				},
-				{
-					"incorrect_answer": "M.A.C.H. 3"
-				}
+				"Dragon&#039;s Lair"
+				,
+				"Cube Quest"
+				,
+				"M.A.C.H. 3"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "What is the name of the machine that fails and essentially dooms mankind in the beginning of the first Half-Life game?",
-			"correct_answer": "Anti-mass spectrometer",
+			"question": "Which of these &quot;Worms&quot; games featured 3D gameplay?",
+			"correct_answer": "Worms 4: Mayhem",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Oscillation generator"
-				},
-				{
-					"incorrect_answer": "Dark fusion reactor"
-				},
-				{
-					"incorrect_answer": "Dark fusion resonator"
-				}
+				"Worms W.M.D"
+				,
+				"Worms Reloaded"
+				,
+				"Worms: Open Warfare 2"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "What two characters from the game Undertale are never in a relationship or not related?",
-			"correct_answer": "Frisk &amp; Chara",
+			"question": "Which of the following Pok&eacute;mon games released first?",
+			"correct_answer": "Pok&eacute;mon Crystal",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Sans &amp; Papyrus"
-				},
-				{
-					"incorrect_answer": "Toriel &amp; Asgore"
-				},
-				{
-					"incorrect_answer": "Alphys &amp; Undyne"
-				}
+				"Pok&eacute;mon Platinum"
+				,
+				"Pok&eacute;mon FireRed"
+				,
+				"Pok&eacute;mon Black"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "In Terraria, which of the following items does the Martian Saucer mini-boss NOT drop?",
-			"correct_answer": "Drill Containment Unit",
+			"question": "Which CS:GO eSports team won the major event ESL One Cologne 2016?",
+			"correct_answer": "SK Gaming",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Anti-Gravity Hook"
-				},
-				{
-					"incorrect_answer": "Influx Waver"
-				},
-				{
-					"incorrect_answer": "Cosmic Car Key"
-				}
+				"Team Liquid"
+				,
+				"Fnatic"
+				,
+				"Virtus.pro"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "By how many minutes are you late to work in &quot;Half-Life&quot;?",
-			"correct_answer": "30",
+			"question": "In which Mario game did the Mega Mushroom make its debut?",
+			"correct_answer": "Mario Party 4",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "5"
-				},
-				{
-					"incorrect_answer": "60"
-				},
-				{
-					"incorrect_answer": "15"
-				}
+				"New Super Mario Bros."
+				,
+				"Mario Kart Wii"
+				,
+				"Super Mario 3D World"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "In Call of Duty: United Offensive, what two soldiers share a name of a video game character?",
-			"correct_answer": "Gordon &amp; Freeman",
+			"question": "In &quot;Overwatch,&quot; what is the hero McCree&#039;s full name?",
+			"correct_answer": "Jesse McCree",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Sam &amp; Fisher"
-				},
-				{
-					"incorrect_answer": "Nathan &amp; Drake"
-				},
-				{
-					"incorrect_answer": "Dig &amp; Dug"
-				}
+				"Jack &quot;McCree&quot; Morrison"
+				,
+				"Gabriel Reyes"
+				,
+				"Jamison &quot;Deadeye&quot; Fawkes"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "In what year were achivements added to Steam?",
-			"correct_answer": "2007",
+			"question": "One of the early prototypes of the Sega Dreamcast controller resembled which of the following?",
+			"correct_answer": "Television Remote",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "2008"
-				},
-				{
-					"incorrect_answer": "2009"
-				},
-				{
-					"incorrect_answer": "2006"
-				}
+				"Tablet"
+				,
+				"Hairdryer"
+				,
+				"Flip Phone"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "What type of genre is the controversial 2015 game &quot;Hatred&quot;?",
-			"correct_answer": "Shoot &#039;Em Up",
+			"question": "In the beta version of the 1986 game &quot;The Legend of Zelda&quot;, players have the choice between a sword and what other item?",
+			"correct_answer": "Boomerang ",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Point &amp; Click"
-				},
-				{
-					"incorrect_answer": "MMORPG"
-				},
-				{
-					"incorrect_answer": "Simulation"
-				}
+				"Spear"
+				,
+				"Slingshot"
+				,
+				"Crossbow"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "What is the full name of the protagonist from the SNES game Clock Tower?",
-			"correct_answer": "Jennifer Simpson",
+			"question": "Which of the following is not a playable race in the MMORPG Guild Wars 2? ",
+			"correct_answer": "Tengu",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Jennifer Barrows"
-				},
-				{
-					"incorrect_answer": "Jennifer Cartwright"
-				},
-				{
-					"incorrect_answer": "Jennifer Maxwell"
-				}
+				"Sylvari"
+				,
+				"Charr"
+				,
+				"Asura "
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "What name does the little headcrab in &quot;Half Life 2&quot; have?",
-			"correct_answer": "Lamarr",
+			"question": "Which of these is NOT a game under the Worms series?",
+			"correct_answer": "Major Malfunction",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Jumperr"
-				},
-				{
-					"incorrect_answer": "Drett"
-				},
-				{
-					"incorrect_answer": "Jerry"
-				}
+				"Crazy Golf"
+				,
+				"Clan Wars"
+				,
+				"Ultimate Mayhem"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "Which of these is NOT the name of a team leader in Pok&eacute;mon GO?",
-			"correct_answer": "Leif",
+			"question": "What was the first PlayStation game to require the use of the DualShock controller?",
+			"correct_answer": "Ape Escape",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Blanche"
-				},
-				{
-					"incorrect_answer": "Spark"
-				},
-				{
-					"incorrect_answer": "Candela"
-				}
+				"Metal Gear"
+				,
+				"Tekken "
+				,
+				"Tomba 2!"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "Final Fantasy VI was originally released outside Japan under what name?",
-			"correct_answer": "Final Fantasy III",
+			"question": "In PROTOTYPE 2, which of the following abilities/weapons is NOT obtained by an Evolved?",
+			"correct_answer": "Tendrils",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Final Fantasy VI"
-				},
-				{
-					"incorrect_answer": "Final Fantasy V"
-				},
-				{
-					"incorrect_answer": "Final Fantasy II"
-				}
+				"Blade"
+				,
+				"Bio-Bomb"
+				,
+				"Pack Leader"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which horror movie had a sequel in the form of a video game released in August 20, 2002?",
+			"correct_answer": "The Thing",
+			"incorrect_answers": [
+				"The Evil Dead"
+				,
+				"Saw"
+				,
+				"Alien"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which company did Bethesda purchase the Fallout Series from?",
+			"correct_answer": "Interplay Entertainment ",
+			"incorrect_answers": [
+				"Capcom"
+				,
+				"Blizzard Entertainment"
+				,
+				"Nintendo"
+				
 			]
 		},
 		{
@@ -422,123 +308,12 @@
 			"question": "How many times do you fight the Imprisoned in The Legend of Zelda: Skyward Sword?",
 			"correct_answer": "3",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "2"
-				},
-				{
-					"incorrect_answer": "4"
-				},
-				{
-					"incorrect_answer": "5"
-				}
-			]
-		},
-		{
-			"category": "Entertainment: Video Games",
-			"type": "multiple",
-			"difficulty": "medium",
-			"question": "When was Chapter 1 of the Source Engine mod &quot;Underhell&quot; released?",
-			"correct_answer": "September 1st, 2013",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "March 3rd, 2011"
-				},
-				{
-					"incorrect_answer": "September 12th, 2013"
-				},
-				{
-					"incorrect_answer": "October 2nd, 2012"
-				}
-			]
-		},
-		{
-			"category": "Entertainment: Video Games",
-			"type": "multiple",
-			"difficulty": "medium",
-			"question": "When was Final Fantasy XV released?",
-			"correct_answer": "November 29th, 2016",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "October 25th, 2016"
-				},
-				{
-					"incorrect_answer": "December 31th, 2016"
-				},
-				{
-					"incorrect_answer": "November 30th, 2016"
-				}
-			]
-		},
-		{
-			"category": "Entertainment: Video Games",
-			"type": "multiple",
-			"difficulty": "medium",
-			"question": "During the game&#039;s development, what was the first ever created Pok&eacute;mon?",
-			"correct_answer": "Rhyhorn",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "Bulbasaur"
-				},
-				{
-					"incorrect_answer": "Mew"
-				},
-				{
-					"incorrect_answer": "Arceus"
-				}
-			]
-		},
-		{
-			"category": "Entertainment: Video Games",
-			"type": "multiple",
-			"difficulty": "medium",
-			"question": "What was the first game ever released that ran on the Source engine?",
-			"correct_answer": "Counter-Strike: Source",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "Half-Life 2"
-				},
-				{
-					"incorrect_answer": "Garry&#039;s Mod"
-				},
-				{
-					"incorrect_answer": "Team Fortress 2"
-				}
-			]
-		},
-		{
-			"category": "Entertainment: Video Games",
-			"type": "multiple",
-			"difficulty": "medium",
-			"question": "Which of these game franchises were made by Namco?",
-			"correct_answer": "Tekken",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "Street Fighter"
-				},
-				{
-					"incorrect_answer": "Mortal Kombat"
-				},
-				{
-					"incorrect_answer": "Dragon Quest"
-				}
-			]
-		},
-		{
-			"category": "Entertainment: Video Games",
-			"type": "multiple",
-			"difficulty": "medium",
-			"question": "In the Halo series, what fleet was Thel &#039;Vadam supreme commander of before being branded an Arbiter?",
-			"correct_answer": "Fleet of Particular Justice",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "Fleet of Sacred Consecration"
-				},
-				{
-					"incorrect_answer": "Fleet of Furious Redemption"
-				},
-				{
-					"incorrect_answer": "Fleet of Righteous Vigilance"
-				}
+				"2"
+				,
+				"4"
+				,
+				"5"
+				
 			]
 		},
 		{
@@ -548,69 +323,102 @@
 			"question": "Which of these songs does NOT play during the Ruins segments of the 2015 game &quot;Undertale&quot;?",
 			"correct_answer": "Another Medium",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Anticipation"
-				},
-				{
-					"incorrect_answer": "Unnecessary Tension"
-				},
-				{
-					"incorrect_answer": "Ruins"
-				}
+				"Anticipation"
+				,
+				"Unnecessary Tension"
+				,
+				"Ruins"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "Who voices the infamous Citadel Station A.I known as S.H.O.D.A.N, in the System Shock games?",
-			"correct_answer": "Terri Brosius",
+			"question": "In what Anno game did the eco balance an part of the game play?",
+			"correct_answer": "Anno 2070",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": " Jennifer Hale"
-				},
-				{
-					"incorrect_answer": "Jenn Taylor"
-				},
-				{
-					"incorrect_answer": "Lori Alan"
-				}
+				"Anno 1404"
+				,
+				"Anno 2205"
+				,
+				" Anno 1701"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "This weapon in Counter-Strike: Global Offensive does not exist in real life.",
-			"correct_answer": "M4A4",
+			"question": "In the Half-Life franchise, what is the real name of the &quot;gravity gun&quot;?",
+			"correct_answer": "Zero-Point Energy Field Manipulator",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "AWP"
-				},
-				{
-					"incorrect_answer": "M4A1"
-				},
-				{
-					"incorrect_answer": "MP9"
-				}
+				"Universal Gravity Manipulation Device"
+				,
+				"Isaac Newton&#039;s Theory Disprover"
+				,
+				"Quantum Energy Displacement Modifier"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "Which of these characters was almost added into Super Smash Bros. Melee, but not included as the game was too far in development?",
-			"correct_answer": "Solid Snake",
+			"question": "Which Game Development company made No Man&#039;s Sky?",
+			"correct_answer": "Hello Games",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Pit"
-				},
-				{
-					"incorrect_answer": "Meta Knight"
-				},
-				{
-					"incorrect_answer": "R.O.B."
-				}
+				"Dovetail Games"
+				,
+				"Valve"
+				,
+				"Blizzard Entertainment"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which Overwatch character says the line &quot;Heroes never die!&quot;?",
+			"correct_answer": "Mercy",
+			"incorrect_answers": [
+				"Reaper"
+				,
+				"Sonic"
+				,
+				"Ana"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In the game &quot;Terraria&quot;, which of these bosses are pre-hardmode bosses?",
+			"correct_answer": "Eye of Cthulhu",
+			"incorrect_answers": [
+				"Plantera"
+				,
+				"Skeletron Prime"
+				,
+				"The Destroyer"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In the game &quot;Persona 4&quot;, what is the canonical name of the protagonist?",
+			"correct_answer": "Yu Narukami",
+			"incorrect_answers": [
+				"Chino Mashido"
+				,
+				"Tunki Sunada"
+				,
+				"Masaki Narinaka"
+				
 			]
 		},
 		{
@@ -620,69 +428,147 @@
 			"question": "The default playermodel of Garry&#039;s Mod is this Half Life 2 character.",
 			"correct_answer": "Isaac Kleiner",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "G-Man"
-				},
-				{
-					"incorrect_answer": "Alyx Vance"
-				},
-				{
-					"incorrect_answer": "Gordon Freeman"
-				}
+				"G-Man"
+				,
+				"Alyx Vance"
+				,
+				"Gordon Freeman"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "What was the name of the protagonist of Metal Gear Solid V: The Phantom Pain?",
-			"correct_answer": "Punished &quot;Venom&quot; Snake",
+			"question": "What block in Minecraft has the highest blast resistance?",
+			"correct_answer": "Barrier",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Miller"
-				},
-				{
-					"incorrect_answer": "Solid Snake"
-				},
-				{
-					"incorrect_answer": "Ocelot"
-				}
+				"Obsidian"
+				,
+				"Bedrock"
+				,
+				"Block of Diamond"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "In The Elder Scrolls V: Skyrim, who is the jester in the dark brotherhood?",
-			"correct_answer": "Cicero",
+			"question": "Which of the following is not a real Pok&eacute;mon?",
+			"correct_answer": "Luminid",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Lucien Lachance"
-				},
-				{
-					"incorrect_answer": "Archimedes"
-				},
-				{
-					"incorrect_answer": "Astrid"
-				}
+				"Dragalge"
+				,
+				"Mandibuzz"
+				,
+				"Araquanid"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "Phil Fish was the designer of which game?",
-			"correct_answer": "Fez",
+			"question": "What level do you have to be to get a service medal on CS:GO?",
+			"correct_answer": "40",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Super Meat Boy"
-				},
-				{
-					"incorrect_answer": "Hotline Miami"
-				},
-				{
-					"incorrect_answer": "FTL"
-				}
+				"50"
+				,
+				"30"
+				,
+				"20"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the item required to summon the boss Duke Fishron in the game Terraria?",
+			"correct_answer": "Truffle Worm",
+			"incorrect_answers": [
+				"Suspicious Looking Fish"
+				,
+				"King Grasshopper"
+				,
+				"Slug"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In the Pok&eacute;mon series, which type is Sudowoodo, the Imitation Pok&eacute;mon?",
+			"correct_answer": "Rock",
+			"incorrect_answers": [
+				"Grass"
+				,
+				"Bug"
+				,
+				"Ground"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In what year were screenshots added to Steam?",
+			"correct_answer": "2011",
+			"incorrect_answers": [
+				"2010"
+				,
+				"2008"
+				,
+				"2009"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of the following has Jennifer Taylor NOT voiced?",
+			"correct_answer": "Sarah Kerrigan",
+			"incorrect_answers": [
+				"Princess Peach"
+				,
+				"Zoey"
+				,
+				"Cortana"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What video game genre were the original Warcraft games?",
+			"correct_answer": "RTS (Real Time Strategy)",
+			"incorrect_answers": [
+				"RPG (Role Playing Game)"
+				,
+				"TBS (Turn Based Strategy)"
+				,
+				"MMO (Massively Multiplayer Online)"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "On the 6th of June 2006, what was the name of the infamous glitch that occurred in the MMO RuneScape?",
+			"correct_answer": "The Falador Massacre",
+			"incorrect_answers": [
+				"Noclip glitch"
+				,
+				"Party-hat Duplication Glitch"
+				,
+				"TzHaar Massacre"
+				
 			]
 		},
 		{
@@ -692,51 +578,27 @@
 			"question": "In what year was &quot;Super Mario Sunshine&quot; released?",
 			"correct_answer": "2002",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "2003"
-				},
-				{
-					"incorrect_answer": "2000"
-				},
-				{
-					"incorrect_answer": "2004"
-				}
+				"2003"
+				,
+				"2000"
+				,
+				"2004"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "What was the original name of  &quot;Minecraft&quot;?",
-			"correct_answer": "Cave Game",
+			"question": "One of the Nintendo Entertainment System voice channels supports playback of sound samples. Which one?",
+			"correct_answer": "DMC",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Minecraft: Order of the Stone"
-				},
-				{
-					"incorrect_answer": "Dig And Build"
-				},
-				{
-					"incorrect_answer": "Infiniminer"
-				}
-			]
-		},
-		{
-			"category": "Entertainment: Video Games",
-			"type": "multiple",
-			"difficulty": "medium",
-			"question": "What is the real name of the Scout in &quot;Team Fortress 2&quot;?",
-			"correct_answer": "Jeremy",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "Lance"
-				},
-				{
-					"incorrect_answer": "Walter"
-				},
-				{
-					"incorrect_answer": "John"
-				}
+				"Noise"
+				,
+				"Triangle"
+				,
+				"Square"
+				
 			]
 		},
 		{
@@ -746,87 +608,57 @@
 			"question": "In &quot;The Binding of Isaac&quot;, what is the name of the final boss that you fight in The Void?",
 			"correct_answer": "Delirium",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Mega Satan"
-				},
-				{
-					"incorrect_answer": "Hush"
-				},
-				{
-					"incorrect_answer": "The Lamb"
-				}
+				"Mega Satan"
+				,
+				"Hush"
+				,
+				"The Lamb"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "Which German city does the map &quot;Clubhouse&quot; in &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; take place in?",
-			"correct_answer": "Hannover",
+			"question": "Which town was Seamus &quot;Sledge&quot; Cowden from &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; born in?",
+			"correct_answer": "John O&#039;Groats",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Berlin"
-				},
-				{
-					"incorrect_answer": "Hamburg"
-				},
-				{
-					"incorrect_answer": "Munich"
-				}
+				"Brawl"
+				,
+				"Kearvaig"
+				,
+				"Talmine"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "Which one of these was not a member of the Fiendish Five in the game Sly Cooper and the Thievius Raccoonus?",
-			"correct_answer": "Dimitri Lousteau",
+			"question": "Which country was Eliza &quot;Ash&quot; Cohen from &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; born in?",
+			"correct_answer": "Israel",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Mz. Ruby"
-				},
-				{
-					"incorrect_answer": "Muggshot"
-				},
-				{
-					"incorrect_answer": "Clockwerk"
-				}
+				"United States of America"
+				,
+				"Mexico"
+				,
+				"Canada"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "In Terraria, which of these items is NOT crafted at a Mythril Anvil?",
-			"correct_answer": "Ankh Charm",
+			"question": "What was the first Call of Duty game to include the Zombies gamemode?",
+			"correct_answer": "Call of Duty: World at War",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Venom Staff"
-				},
-				{
-					"incorrect_answer": "Sky Fracture"
-				},
-				{
-					"incorrect_answer": "Orichalcum Tools"
-				}
-			]
-		},
-		{
-			"category": "Entertainment: Video Games",
-			"type": "multiple",
-			"difficulty": "medium",
-			"question": "What was the first Weapon Pack for Payday 2?",
-			"correct_answer": "The Gage Weapon Pack #1",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "The Overkill Pack"
-				},
-				{
-					"incorrect_answer": "The Gage Chivalry Pack"
-				},
-				{
-					"incorrect_answer": "The Gage Historical Pack"
-				}
+				"Call of Duty: Black Ops"
+				,
+				"Call of Duty: Modern Warfare 2"
+				,
+				"Call of Duty: Black Ops III"
+				
 			]
 		},
 		{
@@ -836,51 +668,72 @@
 			"question": "Who is the English voice actor for Sora from the Kingdom Hearts series?",
 			"correct_answer": "Haley Joel Osment",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Kōki Uchiyama"
-				},
-				{
-					"incorrect_answer": "Jesse McCartney"
-				},
-				{
-					"incorrect_answer": "Miyu Irino"
-				}
+				"Kōki Uchiyama"
+				,
+				"Jesse McCartney"
+				,
+				"Miyu Irino"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "Which of these games was NOT a Nintendo Switch launch title in the United States? ",
-			"correct_answer": "Voez",
+			"question": "Which of the following Copy Abilities was only featured in &quot;Kirby &amp; The Amazing Mirror&quot;?",
+			"correct_answer": "Mini",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Just Dance 2017"
-				},
-				{
-					"incorrect_answer": "Snipperclips"
-				},
-				{
-					"incorrect_answer": "Fast RMX"
-				}
+				"Magic"
+				,
+				"Smash"
+				,
+				"Missile"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Video Games",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "Toby Fox&#039;s &quot;Megalovania&quot; was first used where?",
-			"correct_answer": "Radiation&#039;s Earthbound Halloween Hack",
+			"question": "What is the browser game Kantai Collection heavily inspired by?",
+			"correct_answer": "Second World War",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Homestuck: [S] Wake"
-				},
-				{
-					"incorrect_answer": "Undertale"
-				},
-				{
-					"incorrect_answer": "Mother: Cognitive Dissonance"
-				}
+				"Manga"
+				,
+				"World of Warcraft"
+				,
+				"An Anime"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of these blocks in &quot;Minecraft&quot; has the lowest blast resistance?",
+			"correct_answer": "Sand",
+			"incorrect_answers": [
+				"End Stone"
+				,
+				"Water"
+				,
+				"Wood Planks"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the name of the common, gun-toting enemies of the &quot;Oddworld&quot; video game series?",
+			"correct_answer": "Sligs",
+			"incorrect_answers": [
+				"Scrabs"
+				,
+				"Slogs"
+				,
+				"Glukkons"
+				
 			]
 		},
 		{
@@ -890,15 +743,12 @@
 			"question": "What is the name of the creature that the main character befriends in &quot;The Last Guardian&quot;?",
 			"correct_answer": "Trico",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Nico"
-				},
-				{
-					"incorrect_answer": "Wolf"
-				},
-				{
-					"incorrect_answer": "Andazi"
-				}
+				"Nico"
+				,
+				"Wolf"
+				,
+				"Andazi"
+				
 			]
 		}
 	]

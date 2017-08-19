@@ -5,36 +5,15 @@
 			"category": "Geography",
 			"type": "multiple",
 			"difficulty": "hard",
-			"question": "What country is not a part of Scandinavia?",
-			"correct_answer": "Finland",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "Norway"
-				},
-				{
-					"incorrect_answer": "Sweden"
-				},
-				{
-					"incorrect_answer": "Denmark"
-				}
-			]
-		},
-		{
-			"category": "Geography",
-			"type": "multiple",
-			"difficulty": "hard",
 			"question": "What is the largest city and commercial capital of Sri Lanka?",
 			"correct_answer": "Colombo",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Moratuwa"
-				},
-				{
-					"incorrect_answer": "Negombo"
-				},
-				{
-					"incorrect_answer": "Kandy"
-				}
+				"Moratuwa"
+				,
+				"Negombo"
+				,
+				"Kandy"
+				
 			]
 		},
 		{
@@ -44,15 +23,27 @@
 			"question": "Which of these island countries is located in the Caribbean?",
 			"correct_answer": "Barbados",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Fiji"
-				},
-				{
-					"incorrect_answer": "Maldives"
-				},
-				{
-					"incorrect_answer": "Seychelles"
-				}
+				"Fiji"
+				,
+				"Maldives"
+				,
+				"Seychelles"
+				
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which of these is NOT a city in India?",
+			"correct_answer": "Islamabad",
+			"incorrect_answers": [
+				"Hyderabad"
+				,
+				"Ahmedabad"
+				,
+				"Ghaziabad"
+				
 			]
 		},
 		{
@@ -62,15 +53,42 @@
 			"question": "The prefix Sino- (As in Sino-American) is used to refer to what nationality?",
 			"correct_answer": "Chinese",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Japanese"
-				},
-				{
-					"incorrect_answer": "Russian"
-				},
-				{
-					"incorrect_answer": "Indian"
-				}
+				"Japanese"
+				,
+				"Russian"
+				,
+				"Indian"
+				
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which country is completely landlocked by South Africa?",
+			"correct_answer": "Lesotho",
+			"incorrect_answers": [
+				"Swaziland"
+				,
+				"Botswana"
+				,
+				"Zimbabwe"
+				
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which of these is NOT a province in China?",
+			"correct_answer": "Yangtze",
+			"incorrect_answers": [
+				"Fujian"
+				,
+				"Sichuan"
+				,
+				"Guangdong"
+				
 			]
 		},
 		{
@@ -80,15 +98,12 @@
 			"question": "The mountainous Khyber Pass connects which of the two following countries?",
 			"correct_answer": "Afghanistan and Pakistan",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "India and Nepal"
-				},
-				{
-					"incorrect_answer": "Pakistan and India"
-				},
-				{
-					"incorrect_answer": "Tajikistan and Kyrgyzstan"
-				}
+				"India and Nepal"
+				,
+				"Pakistan and India"
+				,
+				"Tajikistan and Kyrgyzstan"
+				
 			]
 		},
 		{
@@ -98,15 +113,12 @@
 			"question": "What is the name of one of the Neo-Aramaic languages spoken by the Jewish population from Northwestern Iraq?",
 			"correct_answer": "Lishana Deni",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Hulaul&aacute;"
-				},
-				{
-					"incorrect_answer": "Lishan Didan"
-				},
-				{
-					"incorrect_answer": "Chaldean Neo-Aramaic"
-				}
+				"Hulaul&aacute;"
+				,
+				"Lishan Didan"
+				,
+				"Chaldean Neo-Aramaic"
+				
 			]
 		},
 		{
@@ -116,15 +128,12 @@
 			"question": "Which of the following Inuit languages was the FIRST to use a unique writing system not based on the Latin alphabet?",
 			"correct_answer": "Inuktitut",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Inuinnaqtun"
-				},
-				{
-					"incorrect_answer": "Greenlandic"
-				},
-				{
-					"incorrect_answer": "Inupiat"
-				}
+				"Inuinnaqtun"
+				,
+				"Greenlandic"
+				,
+				"Inupiat"
+				
 			]
 		},
 		{
@@ -134,15 +143,27 @@
 			"question": "In 2012 the German-speaking microstate &quot;Liechtenstein&quot; in Central Europe had a population of how many inhabitants?",
 			"correct_answer": "36,600",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "2,400"
-				},
-				{
-					"incorrect_answer": "90,000"
-				},
-				{
-					"incorrect_answer": "323,400"
-				}
+				"2,400"
+				,
+				"90,000"
+				,
+				"323,400"
+				
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Where is the Luxor Hotel &amp; Casino located?",
+			"correct_answer": "Paradise, Nevada",
+			"incorrect_answers": [
+				"Las Vegas, Nevada"
+				,
+				"Winchester, Nevada"
+				,
+				"Jackpot, Nevada"
+				
 			]
 		},
 		{
@@ -152,15 +173,12 @@
 			"question": "What year is on the flag of the US state Wisconsin?",
 			"correct_answer": "1848",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "1634"
-				},
-				{
-					"incorrect_answer": "1783"
-				},
-				{
-					"incorrect_answer": "1901"
-				}
+				"1634"
+				,
+				"1783"
+				,
+				"1901"
+				
 			]
 		},
 		{
@@ -170,15 +188,27 @@
 			"question": "How many countries border Kyrgyzstan?",
 			"correct_answer": "4",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "3"
-				},
-				{
-					"incorrect_answer": "1"
-				},
-				{
-					"incorrect_answer": "6"
-				}
+				"3"
+				,
+				"1"
+				,
+				"6"
+				
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which is the largest freshwater lake in the world?",
+			"correct_answer": "Lake Superior ",
+			"incorrect_answers": [
+				"Caspian Sea"
+				,
+				"Lake Michigan"
+				,
+				"Lake Huron"
+				
 			]
 		},
 		{
@@ -188,15 +218,42 @@
 			"question": "Llanfair&shy;pwllgwyngyll&shy;gogery&shy;chwyrn&shy;drobwll&shy;llan&shy;tysilio&shy;gogo&shy;goch is located on which Welsh island?",
 			"correct_answer": "Anglesey",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Barry"
-				},
-				{
-					"incorrect_answer": "Bardsey"
-				},
-				{
-					"incorrect_answer": "Caldey"
-				}
+				"Barry"
+				,
+				"Bardsey"
+				,
+				"Caldey"
+				
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What is the area of Vatican City?",
+			"correct_answer": "0.44km^2",
+			"incorrect_answers": [
+				"0.10km^2"
+				,
+				"0.86km^2"
+				,
+				"12.00km^2"
+				
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "The Hunua Ranges is located in...",
+			"correct_answer": "New Zealand",
+			"incorrect_answers": [
+				"Nepal"
+				,
+				"China"
+				,
+				"Mexico"
+				
 			]
 		},
 		{
@@ -206,15 +263,12 @@
 			"question": "Fucking is a village in which country?",
 			"correct_answer": "Austria",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Germany"
-				},
-				{
-					"incorrect_answer": "Switzerland"
-				},
-				{
-					"incorrect_answer": "Czech Republic"
-				}
+				"Germany"
+				,
+				"Switzerland"
+				,
+				"Czech Republic"
+				
 			]
 		},
 		{
@@ -224,15 +278,42 @@
 			"question": "Which country was NOT formerly part of Yugoslavia?",
 			"correct_answer": "Albania",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Croatia"
-				},
-				{
-					"incorrect_answer": "Serbia"
-				},
-				{
-					"incorrect_answer": "Macedonia"
-				}
+				"Croatia"
+				,
+				"Serbia"
+				,
+				"Macedonia"
+				
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What is the official German name of the Swiss Federal Railways?",
+			"correct_answer": "Schweizerische Bundesbahnen",
+			"incorrect_answers": [
+				"Schweizerische Nationalbahnen"
+				,
+				"Bundesbahnen der Schweiz"
+				,
+				"Schweizerische Staatsbahnen"
+				
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What city is known as the Rose Capital of the World?",
+			"correct_answer": "Tyler, Texas",
+			"incorrect_answers": [
+				"San Diego, California"
+				,
+				"Miami, Florida"
+				,
+				"Anaheim, California"
+				
 			]
 		},
 		{
@@ -242,15 +323,12 @@
 			"question": "What is the Finnish word for &quot;Finland&quot;?",
 			"correct_answer": "Suomi",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Eesti"
-				},
-				{
-					"incorrect_answer": "Magyarorsz&aacute;g"
-				},
-				{
-					"incorrect_answer": "Sverige"
-				}
+				"Eesti"
+				,
+				"Magyarorsz&aacute;g"
+				,
+				"Sverige"
+				
 			]
 		},
 		{
@@ -260,15 +338,12 @@
 			"question": "What is the name of the Canadian national anthem?",
 			"correct_answer": "O Canada",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "O Red Maple"
-				},
-				{
-					"incorrect_answer": "Leaf-Spangled Banner"
-				},
-				{
-					"incorrect_answer": "March of the Puck Drop"
-				}
+				"O Red Maple"
+				,
+				"Leaf-Spangled Banner"
+				,
+				"March of the Puck Drop"
+				
 			]
 		},
 		{
@@ -278,33 +353,42 @@
 			"question": "What North American tourist attraction is served by the &quot;Maid of the Mist&quot; tour company?",
 			"correct_answer": "Niagara Falls",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Whistler, British Columbia"
-				},
-				{
-					"incorrect_answer": "Disney World"
-				},
-				{
-					"incorrect_answer": "Yosemite National Park"
-				}
+				"Whistler, British Columbia"
+				,
+				"Disney World"
+				,
+				"Yosemite National Park"
+				
 			]
 		},
 		{
 			"category": "Geography",
 			"type": "multiple",
 			"difficulty": "hard",
-			"question": "What is the name of rocky region that spans most of eastern Canada?",
-			"correct_answer": "Canadian Shield",
+			"question": "What is the tallest mountain in Canada?",
+			"correct_answer": "Mount Logan",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Rocky Mountains"
-				},
-				{
-					"incorrect_answer": "Appalachian Mountains"
-				},
-				{
-					"incorrect_answer": "Himalayas"
-				}
+				"Mont Tremblant"
+				,
+				"Whistler Mountain"
+				,
+				"Blue Mountain"
+				
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What is Canada&#039;s largest island?",
+			"correct_answer": "Baffin Island",
+			"incorrect_answers": [
+				"Prince Edward Island"
+				,
+				"Vancouver Island"
+				,
+				"Newfoundland"
+				
 			]
 		},
 		{
@@ -314,15 +398,12 @@
 			"question": "What is the name of the formerly rich fishing grounds off the island of Newfoundland, Canada?",
 			"correct_answer": "Grand Banks",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Great Barrier Reef"
-				},
-				{
-					"incorrect_answer": "Mariana Trench"
-				},
-				{
-					"incorrect_answer": "Hudson Bay"
-				}
+				"Great Barrier Reef"
+				,
+				"Mariana Trench"
+				,
+				"Hudson Bay"
+				
 			]
 		},
 		{
@@ -332,15 +413,12 @@
 			"question": "When does Finland celebrate their independence day?",
 			"correct_answer": "December 6th",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "January 2nd"
-				},
-				{
-					"incorrect_answer": "November 12th"
-				},
-				{
-					"incorrect_answer": "February 8th"
-				}
+				"January 2nd"
+				,
+				"November 12th"
+				,
+				"February 8th"
+				
 			]
 		},
 		{
@@ -350,15 +428,27 @@
 			"question": "What is the second-largest city in Lithuania?",
 			"correct_answer": "Kaunas",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Panevėžys"
-				},
-				{
-					"incorrect_answer": "Vilnius"
-				},
-				{
-					"incorrect_answer": "Klaipėda"
-				}
+				"Panevėžys"
+				,
+				"Vilnius"
+				,
+				"Klaipėda"
+				
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What is the land connecting North America and South America?",
+			"correct_answer": "Isthmus of Panama",
+			"incorrect_answers": [
+				"Isthmus of Suez"
+				,
+				"Urals"
+				,
+				"Australasia"
+				
 			]
 		}
 	]

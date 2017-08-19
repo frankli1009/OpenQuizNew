@@ -8,15 +8,12 @@
 			"question": "In a complete graph G, which has 12 vertices, how many edges are there?",
 			"correct_answer": "66",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "67"
-				},
-				{
-					"incorrect_answer": "34"
-				},
-				{
-					"incorrect_answer": "11"
-				}
+				"67"
+				,
+				"34"
+				,
+				"11"
+				
 			]
 		},
 		{
@@ -26,15 +23,12 @@
 			"question": "In base 2, what is 1 + 1?",
 			"correct_answer": "10",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Two (2)"
-				},
-				{
-					"incorrect_answer": "01"
-				},
-				{
-					"incorrect_answer": "11"
-				}
+				"Two (2)"
+				,
+				"01"
+				,
+				"11"
+				
 			]
 		},
 		{
@@ -44,15 +38,12 @@
 			"question": "In the hexadecimal system, what number comes after 9?",
 			"correct_answer": "The Letter A",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "10"
-				},
-				{
-					"incorrect_answer": "The Number 0"
-				},
-				{
-					"incorrect_answer": "16"
-				}
+				"10"
+				,
+				"The Number 0"
+				,
+				"16"
+				
 			]
 		},
 		{
@@ -62,15 +53,12 @@
 			"question": "How many zeros are there in a googol?",
 			"correct_answer": "100",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "10"
-				},
-				{
-					"incorrect_answer": "1,000"
-				},
-				{
-					"incorrect_answer": "1,000,000"
-				}
+				"10"
+				,
+				"1,000"
+				,
+				"1,000,000"
+				
 			]
 		},
 		{
@@ -80,15 +68,12 @@
 			"question": "What is the area of a circle with a diameter of 20 inches if &pi;= 3.1415?",
 			"correct_answer": "314.15 Inches",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "380.1215 Inches"
-				},
-				{
-					"incorrect_answer": "3141.5 Inches"
-				},
-				{
-					"incorrect_answer": "1256.6 Inches"
-				}
+				"380.1215 Inches"
+				,
+				"3141.5 Inches"
+				,
+				"1256.6 Inches"
+				
 			]
 		},
 		{
@@ -98,15 +83,12 @@
 			"question": "What are the first 6 digits of the number &quot;Pi&quot;?",
 			"correct_answer": "3.14159",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "3.14169"
-				},
-				{
-					"incorrect_answer": "3.12423"
-				},
-				{
-					"incorrect_answer": "3.25812"
-				}
+				"3.14169"
+				,
+				"3.12423"
+				,
+				"3.25812"
+				
 			]
 		},
 		{
@@ -116,15 +98,12 @@
 			"question": "What is the Roman numeral for 500?",
 			"correct_answer": "D",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "L"
-				},
-				{
-					"incorrect_answer": "C"
-				},
-				{
-					"incorrect_answer": "X"
-				}
+				"L"
+				,
+				"C"
+				,
+				"X"
+				
 			]
 		},
 		{
@@ -134,15 +113,12 @@
 			"question": "What is the first Mersenne prime over 1000?",
 			"correct_answer": "1279",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "2203"
-				},
-				{
-					"incorrect_answer": "1009"
-				},
-				{
-					"incorrect_answer": "1069"
-				}
+				"2203"
+				,
+				"1009"
+				,
+				"1069"
+				
 			]
 		},
 		{
@@ -152,33 +128,27 @@
 			"question": "What is the alphanumeric representation of the imaginary number?",
 			"correct_answer": "i",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "e"
-				},
-				{
-					"incorrect_answer": "n"
-				},
-				{
-					"incorrect_answer": "x"
-				}
+				"e"
+				,
+				"n"
+				,
+				"x"
+				
 			]
 		},
 		{
 			"category": "Science: Mathematics",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "To the nearest whole number, how many radians are in a whole circle?",
-			"correct_answer": "6",
+			"question": "What Greek letter is used to signify summation?",
+			"correct_answer": "Sigma",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "3"
-				},
-				{
-					"incorrect_answer": "4"
-				},
-				{
-					"incorrect_answer": "5"
-				}
+				"Delta"
+				,
+				"Alpha"
+				,
+				"Omega"
+				
 			]
 		}
 	]

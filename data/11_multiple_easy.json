@@ -5,36 +5,15 @@
 			"category": "Entertainment: Film",
 			"type": "multiple",
 			"difficulty": "easy",
-			"question": "What breed of dog was &#039;Marley&#039; in the film &#039;Marley &amp; Me&#039;?",
-			"correct_answer": "Labrador Retriever",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "Golden Retriever"
-				},
-				{
-					"incorrect_answer": "Dalmatian"
-				},
-				{
-					"incorrect_answer": "Shiba Inu"
-				}
-			]
-		},
-		{
-			"category": "Entertainment: Film",
-			"type": "multiple",
-			"difficulty": "easy",
 			"question": "Which of the following is not the name of a &#039;Bond Girl&#039;? ",
 			"correct_answer": "Vanessa Kensington",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Pam Bouvier"
-				},
-				{
-					"incorrect_answer": "Mary Goodnight"
-				},
-				{
-					"incorrect_answer": "Wai Lin"
-				}
+				"Pam Bouvier"
+				,
+				"Mary Goodnight"
+				,
+				"Wai Lin"
+				
 			]
 		},
 		{
@@ -44,15 +23,12 @@
 			"question": "Which of the following was not one of &#039;The Magnificent Seven&#039;?",
 			"correct_answer": "Clint Eastwood",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Steve McQueen"
-				},
-				{
-					"incorrect_answer": "Charles Bronson"
-				},
-				{
-					"incorrect_answer": "Robert Vaughn"
-				}
+				"Steve McQueen"
+				,
+				"Charles Bronson"
+				,
+				"Robert Vaughn"
+				
 			]
 		},
 		{
@@ -62,15 +38,12 @@
 			"question": "Which of the following movies was not based on a novel by Stephen King? ",
 			"correct_answer": "The Thing",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Carrie"
-				},
-				{
-					"incorrect_answer": "Misery"
-				},
-				{
-					"incorrect_answer": "The Green Mile"
-				}
+				"Carrie"
+				,
+				"Misery"
+				,
+				"The Green Mile"
+				
 			]
 		},
 		{
@@ -80,15 +53,12 @@
 			"question": "Which movie released in 2016 features Superman and Batman fighting?",
 			"correct_answer": "Batman v Superman: Dawn of Justice",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Batman v Superman: Superapocalypse"
-				},
-				{
-					"incorrect_answer": "Batman v Superman: Black of Knight"
-				},
-				{
-					"incorrect_answer": "Batman v Superman: Knightfall"
-				}
+				"Batman v Superman: Superapocalypse"
+				,
+				"Batman v Superman: Black of Knight"
+				,
+				"Batman v Superman: Knightfall"
+				
 			]
 		},
 		{
@@ -98,15 +68,12 @@
 			"question": "Daniel Radcliffe became a global star in the film industry due to his performance in which film franchise?",
 			"correct_answer": "Harry Potter",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Ted"
-				},
-				{
-					"incorrect_answer": "Spy Kids"
-				},
-				{
-					"incorrect_answer": "Pirates of the Caribbean "
-				}
+				"Ted"
+				,
+				"Spy Kids"
+				,
+				"Pirates of the Caribbean "
+				
 			]
 		},
 		{
@@ -116,15 +83,12 @@
 			"question": "Who starred as Bruce Wayne and Batman in Tim Burton&#039;s 1989 movie &quot;Batman&quot;?",
 			"correct_answer": "Michael Keaton",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "George Clooney"
-				},
-				{
-					"incorrect_answer": "Val Kilmer"
-				},
-				{
-					"incorrect_answer": "Adam West"
-				}
+				"George Clooney"
+				,
+				"Val Kilmer"
+				,
+				"Adam West"
+				
 			]
 		},
 		{
@@ -134,15 +98,12 @@
 			"question": "What name did Tom Hanks give to his volleyball companion in the film `Cast Away`?",
 			"correct_answer": "Wilson",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Friday"
-				},
-				{
-					"incorrect_answer": "Jones"
-				},
-				{
-					"incorrect_answer": "Billy"
-				}
+				"Friday"
+				,
+				"Jones"
+				,
+				"Billy"
+				
 			]
 		},
 		{
@@ -152,15 +113,12 @@
 			"question": "Who directed &quot;E.T. the Extra-Terrestrial&quot; (1982)?",
 			"correct_answer": "Steven Spielberg",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Stanley Kubrick"
-				},
-				{
-					"incorrect_answer": "James Cameron"
-				},
-				{
-					"incorrect_answer": "Tim Burton"
-				}
+				"Stanley Kubrick"
+				,
+				"James Cameron"
+				,
+				"Tim Burton"
+				
 			]
 		},
 		{
@@ -170,15 +128,12 @@
 			"question": "What is the highest grossing film of all time (without adjusting for inflation)?",
 			"correct_answer": "Avatar",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Jurassic World"
-				},
-				{
-					"incorrect_answer": "Star Wars: The Force Awakens"
-				},
-				{
-					"incorrect_answer": "Titanic"
-				}
+				"Jurassic World"
+				,
+				"Star Wars: The Force Awakens"
+				,
+				"Titanic"
+				
 			]
 		},
 		{
@@ -188,15 +143,12 @@
 			"question": "Which animated movie was first to feature a celebrity as a voice actor?",
 			"correct_answer": "Aladdin",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Toy Story"
-				},
-				{
-					"incorrect_answer": "James and the Giant Peach"
-				},
-				{
-					"incorrect_answer": "The Hunchback of Notre Dame"
-				}
+				"Toy Story"
+				,
+				"James and the Giant Peach"
+				,
+				"The Hunchback of Notre Dame"
+				
 			]
 		},
 		{
@@ -206,15 +158,12 @@
 			"question": "When was the movie &#039;Con Air&#039; released?",
 			"correct_answer": "1997",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "1985"
-				},
-				{
-					"incorrect_answer": "1999"
-				},
-				{
-					"incorrect_answer": "1990"
-				}
+				"1985"
+				,
+				"1999"
+				,
+				"1990"
+				
 			]
 		},
 		{
@@ -224,15 +173,12 @@
 			"question": "Who wrote and directed the 1986 film &#039;Platoon&#039;?",
 			"correct_answer": "Oliver Stone",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Francis Ford Coppola"
-				},
-				{
-					"incorrect_answer": "Stanley Kubrick"
-				},
-				{
-					"incorrect_answer": "Michael Cimino"
-				}
+				"Francis Ford Coppola"
+				,
+				"Stanley Kubrick"
+				,
+				"Michael Cimino"
+				
 			]
 		},
 		{
@@ -242,15 +188,12 @@
 			"question": "Who played Deputy Marshal Samuel Gerard in the 1993 film &quot;The Fugitive&quot;?",
 			"correct_answer": "Tommy Lee Jones",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Harrison Ford"
-				},
-				{
-					"incorrect_answer": "Harvey Keitel"
-				},
-				{
-					"incorrect_answer": "Martin Landau"
-				}
+				"Harrison Ford"
+				,
+				"Harvey Keitel"
+				,
+				"Martin Landau"
+				
 			]
 		},
 		{
@@ -260,15 +203,12 @@
 			"question": "Who played the female lead in the 1933 film &quot;King Kong&quot;?",
 			"correct_answer": "Fay Wray",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Jean Harlow"
-				},
-				{
-					"incorrect_answer": "Vivien Leigh"
-				},
-				{
-					"incorrect_answer": "Mae West"
-				}
+				"Jean Harlow"
+				,
+				"Vivien Leigh"
+				,
+				"Mae West"
+				
 			]
 		},
 		{
@@ -278,15 +218,12 @@
 			"question": "Which actress danced the twist with John Travolta in &#039;Pulp Fiction&#039;?",
 			"correct_answer": "Uma Thurman",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Kathy Griffin"
-				},
-				{
-					"incorrect_answer": "Pam Grier"
-				},
-				{
-					"incorrect_answer": "Bridget Fonda"
-				}
+				"Kathy Griffin"
+				,
+				"Pam Grier"
+				,
+				"Bridget Fonda"
+				
 			]
 		},
 		{
@@ -296,15 +233,12 @@
 			"question": "Who starred in the film 1973 movie &quot;Enter The Dragon&quot;?",
 			"correct_answer": "Bruce Lee",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Jackie Chan"
-				},
-				{
-					"incorrect_answer": "Jet Li"
-				},
-				{
-					"incorrect_answer": " Yun-Fat Chow"
-				}
+				"Jackie Chan"
+				,
+				"Jet Li"
+				,
+				" Yun-Fat Chow"
+				
 			]
 		},
 		{
@@ -314,15 +248,12 @@
 			"question": "Which movie contains the quote, &quot;Say hello to my little friend!&quot;?",
 			"correct_answer": "Scarface",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Reservoir Dogs"
-				},
-				{
-					"incorrect_answer": "Heat"
-				},
-				{
-					"incorrect_answer": "Goodfellas"
-				}
+				"Reservoir Dogs"
+				,
+				"Heat"
+				,
+				"Goodfellas"
+				
 			]
 		},
 		{
@@ -332,15 +263,12 @@
 			"question": "Who directed the movies &quot;Pulp Fiction&quot;, &quot;Reservoir Dogs&quot; and &quot;Django Unchained&quot;?",
 			"correct_answer": "Quentin Tarantino",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Martin Scorcese"
-				},
-				{
-					"incorrect_answer": "Steven Spielberg"
-				},
-				{
-					"incorrect_answer": "James Cameron"
-				}
+				"Martin Scorcese"
+				,
+				"Steven Spielberg"
+				,
+				"James Cameron"
+				
 			]
 		},
 		{
@@ -350,15 +278,12 @@
 			"question": "Who directed the 2015 movie &quot;The Revenant&quot;?",
 			"correct_answer": "Alejandro G. I&ntilde;&aacute;rritu",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Christopher Nolan"
-				},
-				{
-					"incorrect_answer": "David Fincher"
-				},
-				{
-					"incorrect_answer": "Wes Anderson"
-				}
+				"Christopher Nolan"
+				,
+				"David Fincher"
+				,
+				"Wes Anderson"
+				
 			]
 		},
 		{
@@ -368,15 +293,12 @@
 			"question": "The Queen song `A Kind Of Magic` is featured in which 1986 film?",
 			"correct_answer": "Highlander",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Flash Gordon"
-				},
-				{
-					"incorrect_answer": "Labyrinth"
-				},
-				{
-					"incorrect_answer": "Howard the Duck"
-				}
+				"Flash Gordon"
+				,
+				"Labyrinth"
+				,
+				"Howard the Duck"
+				
 			]
 		},
 		{
@@ -386,15 +308,12 @@
 			"question": "What was Dorothy&#039;s surname in &#039;The Wizard Of Oz&#039;?",
 			"correct_answer": "Gale",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Perkins"
-				},
-				{
-					"incorrect_answer": "Day"
-				},
-				{
-					"incorrect_answer": "Parker"
-				}
+				"Perkins"
+				,
+				"Day"
+				,
+				"Parker"
+				
 			]
 		},
 		{
@@ -404,15 +323,12 @@
 			"question": "What was the title of the first Bond movie, released in 1962?",
 			"correct_answer": "Dr. No",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "From Russia with Love"
-				},
-				{
-					"incorrect_answer": "Goldfinger"
-				},
-				{
-					"incorrect_answer": "Thunderball"
-				}
+				"From Russia with Love"
+				,
+				"Goldfinger"
+				,
+				"Thunderball"
+				
 			]
 		},
 		{
@@ -422,15 +338,12 @@
 			"question": "This movie contains the quote, &quot;Houston, we have a problem.&quot;",
 			"correct_answer": "Apollo 13",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "The Right Stuff"
-				},
-				{
-					"incorrect_answer": "Capricorn One"
-				},
-				{
-					"incorrect_answer": "Marooned"
-				}
+				"The Right Stuff"
+				,
+				"Capricorn One"
+				,
+				"Marooned"
+				
 			]
 		},
 		{
@@ -440,15 +353,12 @@
 			"question": "This movie contains the quote, &quot;I feel the need ... the need for speed!&quot;",
 			"correct_answer": "Top Gun",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Days of Thunder"
-				},
-				{
-					"incorrect_answer": "The Color of Money"
-				},
-				{
-					"incorrect_answer": "Cocktail"
-				}
+				"Days of Thunder"
+				,
+				"The Color of Money"
+				,
+				"Cocktail"
+				
 			]
 		},
 		{
@@ -458,15 +368,12 @@
 			"question": "This movie contains the quote, &quot;Nobody puts Baby in a corner.&quot;",
 			"correct_answer": "Dirty Dancing",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Three Men and a Baby"
-				},
-				{
-					"incorrect_answer": "Ferris Bueller&#039;s Day Off"
-				},
-				{
-					"incorrect_answer": "Pretty in Pink"
-				}
+				"Three Men and a Baby"
+				,
+				"Ferris Bueller&#039;s Day Off"
+				,
+				"Pretty in Pink"
+				
 			]
 		},
 		{
@@ -476,15 +383,12 @@
 			"question": "What is the orange and white bot&#039;s name in &quot;Star Wars: The Force Awakens&quot;?",
 			"correct_answer": "BB-8",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "BB-3"
-				},
-				{
-					"incorrect_answer": "AA-A"
-				},
-				{
-					"incorrect_answer": "R2-D2"
-				}
+				"BB-3"
+				,
+				"AA-A"
+				,
+				"R2-D2"
+				
 			]
 		},
 		{
@@ -494,15 +398,12 @@
 			"question": "What was the first James Bond film?",
 			"correct_answer": "Dr. No",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Goldfinger"
-				},
-				{
-					"incorrect_answer": "From Russia With Love"
-				},
-				{
-					"incorrect_answer": "Thunderball"
-				}
+				"Goldfinger"
+				,
+				"From Russia With Love"
+				,
+				"Thunderball"
+				
 			]
 		},
 		{
@@ -512,15 +413,12 @@
 			"question": "Which of these actors/actresses is NOT a part of the cast for the 2016 movie &quot;Suicide Squad&quot;?",
 			"correct_answer": "Scarlett Johansson",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Jared Leto"
-				},
-				{
-					"incorrect_answer": "Will Smith"
-				},
-				{
-					"incorrect_answer": "Margot Robbie"
-				}
+				"Jared Leto"
+				,
+				"Will Smith"
+				,
+				"Margot Robbie"
+				
 			]
 		},
 		{
@@ -530,15 +428,12 @@
 			"question": "Which of these movies did Jeff Bridges not star in?",
 			"correct_answer": "The Hateful Eight",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Tron: Legacy"
-				},
-				{
-					"incorrect_answer": "The Giver"
-				},
-				{
-					"incorrect_answer": "True Grit"
-				}
+				"Tron: Legacy"
+				,
+				"The Giver"
+				,
+				"True Grit"
+				
 			]
 		},
 		{
@@ -548,15 +443,12 @@
 			"question": "Which movie includes a giant bunny-like spirit who has magic powers including growing trees?",
 			"correct_answer": "My Neighbor Totoro",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Hop"
-				},
-				{
-					"incorrect_answer": "Rise of the Guardians"
-				},
-				{
-					"incorrect_answer": "Alice in Wonderland"
-				}
+				"Hop"
+				,
+				"Rise of the Guardians"
+				,
+				"Alice in Wonderland"
+				
 			]
 		},
 		{
@@ -566,15 +458,12 @@
 			"question": "Who plays Alice in the Resident Evil movies?",
 			"correct_answer": "Milla Jovovich",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Madison Derpe"
-				},
-				{
-					"incorrect_answer": "Milla Johnson"
-				},
-				{
-					"incorrect_answer": "Kim Demp"
-				}
+				"Madison Derpe"
+				,
+				"Milla Johnson"
+				,
+				"Kim Demp"
+				
 			]
 		},
 		{
@@ -584,15 +473,12 @@
 			"question": "What is the oldest Disney film?",
 			"correct_answer": "Snow White and the Seven Dwarfs",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Pinocchio"
-				},
-				{
-					"incorrect_answer": "Dumbo"
-				},
-				{
-					"incorrect_answer": "Fantasia"
-				}
+				"Pinocchio"
+				,
+				"Dumbo"
+				,
+				"Fantasia"
+				
 			]
 		},
 		{
@@ -602,15 +488,12 @@
 			"question": "Who is the main protagonist in, the 1985 film, Back to the Future?",
 			"correct_answer": "Marty McFly",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Emmett &quot;Doc&quot; Brown"
-				},
-				{
-					"incorrect_answer": "Biff Tannen"
-				},
-				{
-					"incorrect_answer": "George McFly"
-				}
+				"Emmett &quot;Doc&quot; Brown"
+				,
+				"Biff Tannen"
+				,
+				"George McFly"
+				
 			]
 		},
 		{
@@ -620,15 +503,27 @@
 			"question": "In the movie &quot;Cast Away&quot; the main protagonist&#039;s best friend while on the island is named",
 			"correct_answer": "Wilson",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Carson"
-				},
-				{
-					"incorrect_answer": "Jackson"
-				},
-				{
-					"incorrect_answer": "Willy"
-				}
+				"Carson"
+				,
+				"Jackson"
+				,
+				"Willy"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Who in Pulp Fiction says &quot;No, they got the metric system there, they wouldn&#039;t know what the fuck a Quarter Pounder is.&quot;",
+			"correct_answer": "Vincent Vega",
+			"incorrect_answers": [
+				"Jules Winnfield"
+				,
+				"Jimmie Dimmick"
+				,
+				"Butch Coolidge"
+				
 			]
 		},
 		{
@@ -638,15 +533,12 @@
 			"question": "Which actor plays Obi-Wan Kenobi in Star Wars Episodes I-lll?",
 			"correct_answer": "Ewan McGregor",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Alec Guinness"
-				},
-				{
-					"incorrect_answer": "Hayden Christensen"
-				},
-				{
-					"incorrect_answer": "Liam Neeson"
-				}
+				"Alec Guinness"
+				,
+				"Hayden Christensen"
+				,
+				"Liam Neeson"
+				
 			]
 		},
 		{
@@ -656,15 +548,12 @@
 			"question": "The 2002 film &quot;28 Days Later&quot; is mainly set in which European country?",
 			"correct_answer": "United Kingdom",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "France"
-				},
-				{
-					"incorrect_answer": "Italy"
-				},
-				{
-					"incorrect_answer": "Germany"
-				}
+				"France"
+				,
+				"Italy"
+				,
+				"Germany"
+				
 			]
 		},
 		{
@@ -674,15 +563,12 @@
 			"question": "In the movie &quot;Spaceballs&quot;, what are the Spaceballs attempting to steal from Planet Druidia?",
 			"correct_answer": "Air",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "The Schwartz"
-				},
-				{
-					"incorrect_answer": "Princess Lonestar"
-				},
-				{
-					"incorrect_answer": "Meatballs"
-				}
+				"The Schwartz"
+				,
+				"Princess Lonestar"
+				,
+				"Meatballs"
+				
 			]
 		},
 		{
@@ -692,15 +578,12 @@
 			"question": "What was the first monster to appear alongside Godzilla?",
 			"correct_answer": "Anguirus",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "King Kong"
-				},
-				{
-					"incorrect_answer": "Mothra"
-				},
-				{
-					"incorrect_answer": "King Ghidora"
-				}
+				"King Kong"
+				,
+				"Mothra"
+				,
+				"King Ghidora"
+				
 			]
 		},
 		{
@@ -710,15 +593,12 @@
 			"question": "In the movie Gremlins, after what time of day should you not feed Mogwai?",
 			"correct_answer": "Midnight",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Evening"
-				},
-				{
-					"incorrect_answer": "Morning"
-				},
-				{
-					"incorrect_answer": "Afternoon"
-				}
+				"Evening"
+				,
+				"Morning"
+				,
+				"Afternoon"
+				
 			]
 		},
 		{
@@ -728,15 +608,12 @@
 			"question": "When does &quot;Rogue One: A Star Wars Story&quot; take place chronologically in the series?",
 			"correct_answer": "Between Episode 3 and 4",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "After Episode 6"
-				},
-				{
-					"incorrect_answer": "Before Episode 1"
-				},
-				{
-					"incorrect_answer": "Between Episode 4 and 5"
-				}
+				"After Episode 6"
+				,
+				"Before Episode 1"
+				,
+				"Between Episode 4 and 5"
+				
 			]
 		},
 		{
@@ -746,15 +623,12 @@
 			"question": "&quot;The first rule is: you don&#039;t talk about it&quot; is a reference to which movie?",
 			"correct_answer": "Fight Club",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "The Island"
-				},
-				{
-					"incorrect_answer": "Unthinkable"
-				},
-				{
-					"incorrect_answer": "American Pie"
-				}
+				"The Island"
+				,
+				"Unthinkable"
+				,
+				"American Pie"
+				
 			]
 		},
 		{
@@ -764,15 +638,12 @@
 			"question": "In the 2012 film, &quot;The Lorax&quot;, who is the antagonist?",
 			"correct_answer": "Aloysius O&#039;Hare",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Ted Wiggins"
-				},
-				{
-					"incorrect_answer": "The Once-Ler"
-				},
-				{
-					"incorrect_answer": "Grammy Norma"
-				}
+				"Ted Wiggins"
+				,
+				"The Once-Ler"
+				,
+				"Grammy Norma"
+				
 			]
 		},
 		{
@@ -782,15 +653,12 @@
 			"question": "In the 1992 film &quot;Army of Darkness&quot;, what name does Ash give to his double-barreled shotgun?",
 			"correct_answer": "Boomstick",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Bloomstick"
-				},
-				{
-					"incorrect_answer": "Blastbranch"
-				},
-				{
-					"incorrect_answer": "2-Pump Chump"
-				}
+				"Bloomstick"
+				,
+				"Blastbranch"
+				,
+				"2-Pump Chump"
+				
 			]
 		},
 		{
@@ -800,15 +668,12 @@
 			"question": "At the end of the 2001 film &quot;Rat Race&quot;, whose concert do the contestants crash?",
 			"correct_answer": "Smash Mouth",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Bowling for Soup"
-				},
-				{
-					"incorrect_answer": "Sum 41"
-				},
-				{
-					"incorrect_answer": "Linkin Park"
-				}
+				"Bowling for Soup"
+				,
+				"Sum 41"
+				,
+				"Linkin Park"
+				
 			]
 		},
 		{
@@ -818,15 +683,12 @@
 			"question": "Who plays the character of Po in the Kung Fu Panda movies?",
 			"correct_answer": "Jack Black",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Mirana Jonnes"
-				},
-				{
-					"incorrect_answer": "McConahey Ramses"
-				},
-				{
-					"incorrect_answer": "Jim Petersson"
-				}
+				"Mirana Jonnes"
+				,
+				"McConahey Ramses"
+				,
+				"Jim Petersson"
+				
 			]
 		},
 		{
@@ -836,15 +698,12 @@
 			"question": "In the movie &quot;Blade Runner&quot;, what is the term used for human-like androids ?",
 			"correct_answer": "Replicants",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Cylons"
-				},
-				{
-					"incorrect_answer": "Synthetics"
-				},
-				{
-					"incorrect_answer": "Skinjobs"
-				}
+				"Cylons"
+				,
+				"Synthetics"
+				,
+				"Skinjobs"
+				
 			]
 		},
 		{
@@ -854,15 +713,12 @@
 			"question": "The 2016 Disney animated film &#039;Moana&#039; is based on which culture?",
 			"correct_answer": "Polynesian",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Native American"
-				},
-				{
-					"incorrect_answer": "Japanese"
-				},
-				{
-					"incorrect_answer": "Nordic"
-				}
+				"Native American"
+				,
+				"Japanese"
+				,
+				"Nordic"
+				
 			]
 		},
 		{
@@ -872,15 +728,12 @@
 			"question": "In the 1995 film &quot;Balto&quot;, who are Steele&#039;s accomplices?",
 			"correct_answer": "Kaltag, Nikki, and Star",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Dusty, Kirby, and Ralph"
-				},
-				{
-					"incorrect_answer": "Nuk, Yak, and Sumac"
-				},
-				{
-					"incorrect_answer": "Jenna, Sylvie, and Dixie"
-				}
+				"Dusty, Kirby, and Ralph"
+				,
+				"Nuk, Yak, and Sumac"
+				,
+				"Jenna, Sylvie, and Dixie"
+				
 			]
 		},
 		{
@@ -890,15 +743,12 @@
 			"question": "What is the name of the island that &quot;Jurassic Park&quot; is built on?",
 			"correct_answer": "Isla Nublar",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Isla Sorna"
-				},
-				{
-					"incorrect_answer": "Isla Muerta"
-				},
-				{
-					"incorrect_answer": "Isla Pena"
-				}
+				"Isla Sorna"
+				,
+				"Isla Muerta"
+				,
+				"Isla Pena"
+				
 			]
 		}
 	]

@@ -8,15 +8,12 @@
 			"question": "Which actress&#039;s real name was Frances Ethel Gumm?",
 			"correct_answer": "Judy Garland",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Doris Day"
-				},
-				{
-					"incorrect_answer": "Julie Andrews"
-				},
-				{
-					"incorrect_answer": "Marilyn Monroe"
-				}
+				"Doris Day"
+				,
+				"Julie Andrews"
+				,
+				"Marilyn Monroe"
+				
 			]
 		},
 		{
@@ -26,15 +23,12 @@
 			"question": "What is the name of Jontron&#039;s parrot?",
 			"correct_answer": "Jacques",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Jak"
-				},
-				{
-					"incorrect_answer": "John"
-				},
-				{
-					"incorrect_answer": "Jaques"
-				}
+				"Jak"
+				,
+				"John"
+				,
+				"Jaques"
+				
 			]
 		},
 		{
@@ -44,15 +38,12 @@
 			"question": "What is the real name of &quot;moot&quot;, founder of the imageboard 4chan?",
 			"correct_answer": "Christopher Poole",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Mark Zuckerberg"
-				},
-				{
-					"incorrect_answer": "Allison Harvard"
-				},
-				{
-					"incorrect_answer": "Catie Wayne"
-				}
+				"Mark Zuckerberg"
+				,
+				"Allison Harvard"
+				,
+				"Catie Wayne"
+				
 			]
 		},
 		{
@@ -62,15 +53,12 @@
 			"question": "What is Doug Walker&#039;s YouTube name?",
 			"correct_answer": "The Nostalgia Critic",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "The Angry Video Game Nerd"
-				},
-				{
-					"incorrect_answer": "AngryJoeShow"
-				},
-				{
-					"incorrect_answer": "The Cinema Snob"
-				}
+				"The Angry Video Game Nerd"
+				,
+				"AngryJoeShow"
+				,
+				"The Cinema Snob"
+				
 			]
 		},
 		{
@@ -80,15 +68,12 @@
 			"question": "Paul McCartney has always used his middle name. What is his real first name? ",
 			"correct_answer": "James",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "John"
-				},
-				{
-					"incorrect_answer": "Jack"
-				},
-				{
-					"incorrect_answer": "Justin"
-				}
+				"John"
+				,
+				"Jack"
+				,
+				"Justin"
+				
 			]
 		},
 		{
@@ -98,15 +83,27 @@
 			"question": "Donald J. Trump&#039;s Middle Name is...",
 			"correct_answer": "John",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Jeff"
-				},
-				{
-					"incorrect_answer": "Jerald"
-				},
-				{
-					"incorrect_answer": "Jason"
-				}
+				"Jeff"
+				,
+				"Jerald"
+				,
+				"Jason"
+				
+			]
+		},
+		{
+			"category": "Celebrities",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What year did radio icon Howard Stern start a job at radio station WNBC?",
+			"correct_answer": "1982",
+			"incorrect_answers": [
+				"1985"
+				,
+				"1984"
+				,
+				"1995"
+				
 			]
 		},
 		{
@@ -116,15 +113,12 @@
 			"question": "Which of these people is NOT a part of the Internet comedy group Mega64?",
 			"correct_answer": "Jon Jafari",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Rocco Botte"
-				},
-				{
-					"incorrect_answer": "Derrick Acosta"
-				},
-				{
-					"incorrect_answer": "Shawn Chatfield"
-				}
+				"Rocco Botte"
+				,
+				"Derrick Acosta"
+				,
+				"Shawn Chatfield"
+				
 			]
 		},
 		{
@@ -134,15 +128,12 @@
 			"question": "What was the cause of death for Freddie Mercury?",
 			"correct_answer": "Pneumonia",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Stomach Cancer"
-				},
-				{
-					"incorrect_answer": "HIV"
-				},
-				{
-					"incorrect_answer": "Brain Hemorrhage"
-				}
+				"Stomach Cancer"
+				,
+				"HIV"
+				,
+				"Brain Hemorrhage"
+				
 			]
 		},
 		{
@@ -152,15 +143,12 @@
 			"question": "When was Elvis Presley born?",
 			"correct_answer": "January 8, 1935",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "December 13, 1931"
-				},
-				{
-					"incorrect_answer": "July 18, 1940"
-				},
-				{
-					"incorrect_answer": "April 17, 1938"
-				}
+				"December 13, 1931"
+				,
+				"July 18, 1940"
+				,
+				"April 17, 1938"
+				
 			]
 		},
 		{
@@ -170,15 +158,12 @@
 			"question": "What is generally considered to be William Shakespeare&#039;s birth date?",
 			"correct_answer": "April 23rd, 1564",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "July 4th, 1409"
-				},
-				{
-					"incorrect_answer": "September 29th, 1699"
-				},
-				{
-					"incorrect_answer": "December 1st, 1750"
-				}
+				"July 4th, 1409"
+				,
+				"September 29th, 1699"
+				,
+				"December 1st, 1750"
+				
 			]
 		},
 		{
@@ -188,15 +173,12 @@
 			"question": "If he was still alive, in what year would Elvis Presley celebrate his 100th birthday?",
 			"correct_answer": "2035",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "2030"
-				},
-				{
-					"incorrect_answer": "2040"
-				},
-				{
-					"incorrect_answer": "2045"
-				}
+				"2030"
+				,
+				"2040"
+				,
+				"2045"
+				
 			]
 		},
 		{
@@ -206,15 +188,12 @@
 			"question": "Before voicing Pearl in Steven Universe, Deedee Magno Hall was part of which American band?",
 			"correct_answer": "The Party",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "The Weather Girls"
-				},
-				{
-					"incorrect_answer": "The Pussycat Dolls"
-				},
-				{
-					"incorrect_answer": "The Cheetah Girls"
-				}
+				"The Weather Girls"
+				,
+				"The Pussycat Dolls"
+				,
+				"The Cheetah Girls"
+				
 			]
 		},
 		{
@@ -224,15 +203,12 @@
 			"question": "Where was Kanye West born?",
 			"correct_answer": "Atlanta, Georgia",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Chicago, Illinois"
-				},
-				{
-					"incorrect_answer": "Los Angeles, California"
-				},
-				{
-					"incorrect_answer": "Detroit, Michigan"
-				}
+				"Chicago, Illinois"
+				,
+				"Los Angeles, California"
+				,
+				"Detroit, Michigan"
+				
 			]
 		},
 		{
@@ -242,15 +218,12 @@
 			"question": "Which famous New York Yankees outfielder did Marilyn Monroe marry?",
 			"correct_answer": "Joe DiMaggio",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Tino Martinez"
-				},
-				{
-					"incorrect_answer": "Babe Ruth"
-				},
-				{
-					"incorrect_answer": "Mason Williams"
-				}
+				"Tino Martinez"
+				,
+				"Babe Ruth"
+				,
+				"Mason Williams"
+				
 			]
 		},
 		{
@@ -260,15 +233,12 @@
 			"question": "What was the name of Marilyn Monroe&#039;s first husband?",
 			"correct_answer": "James Dougherty",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Joe Dimaggio"
-				},
-				{
-					"incorrect_answer": "Kirk Douglas"
-				},
-				{
-					"incorrect_answer": "Arthur Miller"
-				}
+				"Joe Dimaggio"
+				,
+				"Kirk Douglas"
+				,
+				"Arthur Miller"
+				
 			]
 		},
 		{
@@ -278,15 +248,12 @@
 			"question": "Which radio personality calls himself &quot;The King of All Media&quot;?",
 			"correct_answer": "Howard Stern",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Rush Limbaugh"
-				},
-				{
-					"incorrect_answer": "Pete Tong"
-				},
-				{
-					"incorrect_answer": "Ryan Seacrest"
-				}
+				"Rush Limbaugh"
+				,
+				"Pete Tong"
+				,
+				"Ryan Seacrest"
+				
 			]
 		},
 		{
@@ -296,15 +263,12 @@
 			"question": "How much weight did Chris Pratt lose for his role as Star-Lord in &quot;Guardians of the Galaxy&quot;?",
 			"correct_answer": "60 lbs",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "30 lbs"
-				},
-				{
-					"incorrect_answer": "50 lbs"
-				},
-				{
-					"incorrect_answer": "70 lbs"
-				}
+				"30 lbs"
+				,
+				"50 lbs"
+				,
+				"70 lbs"
+				
 			]
 		},
 		{
@@ -314,15 +278,12 @@
 			"question": "Nikki Diamond portrayed which Gladiator in the 1992 TV show &quot;Gladiators&quot;?",
 			"correct_answer": "Scorpio",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Jet"
-				},
-				{
-					"incorrect_answer": "Nightshade"
-				},
-				{
-					"incorrect_answer": "Falcon"
-				}
+				"Jet"
+				,
+				"Nightshade"
+				,
+				"Falcon"
+				
 			]
 		},
 		{
@@ -332,33 +293,12 @@
 			"question": "Who out of these actresses is the youngest?",
 			"correct_answer": "Kiernan Shipka",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Ariel Winter"
-				},
-				{
-					"incorrect_answer": "Emma Watson"
-				},
-				{
-					"incorrect_answer": "Bonnie Wright"
-				}
-			]
-		},
-		{
-			"category": "Celebrities",
-			"type": "multiple",
-			"difficulty": "medium",
-			"question": "In what year did &quot;Bob Ross&quot; die?",
-			"correct_answer": "1995",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "1986"
-				},
-				{
-					"incorrect_answer": "1989"
-				},
-				{
-					"incorrect_answer": "1997"
-				}
+				"Ariel Winter"
+				,
+				"Emma Watson"
+				,
+				"Bonnie Wright"
+				
 			]
 		}
 	]

@@ -8,15 +8,12 @@
 			"question": "Which author and poet famously wrote the line, &quot;The female of the species is more deadly than the male&quot;?",
 			"correct_answer": "Rudyard Kipling",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Edgar Allan Poe"
-				},
-				{
-					"incorrect_answer": "William Shakespeare"
-				},
-				{
-					"incorrect_answer": "William Wordsworth"
-				}
+				"Edgar Allan Poe"
+				,
+				"William Shakespeare"
+				,
+				"William Wordsworth"
+				
 			]
 		},
 		{
@@ -26,51 +23,12 @@
 			"question": "In the Beatrix Potter books, what type of animal is Tommy Brock?",
 			"correct_answer": "Badger",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Fox"
-				},
-				{
-					"incorrect_answer": "Frog"
-				},
-				{
-					"incorrect_answer": "Rabbit"
-				}
-			]
-		},
-		{
-			"category": "Entertainment: Books",
-			"type": "multiple",
-			"difficulty": "hard",
-			"question": "Who wrote the novel &quot;Moby-Dick&quot;?",
-			"correct_answer": "Herman Melville",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "William Golding"
-				},
-				{
-					"incorrect_answer": "William Shakespeare"
-				},
-				{
-					"incorrect_answer": "J. R. R. Tolkien"
-				}
-			]
-		},
-		{
-			"category": "Entertainment: Books",
-			"type": "multiple",
-			"difficulty": "hard",
-			"question": "In the book &quot;The Martian&quot;, how long was Mark Watney trapped on Mars (in Sols)?",
-			"correct_answer": "549 Days",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "765 Days"
-				},
-				{
-					"incorrect_answer": "401 Days"
-				},
-				{
-					"incorrect_answer": "324 Days"
-				}
+				"Fox"
+				,
+				"Frog"
+				,
+				"Rabbit"
+				
 			]
 		},
 		{
@@ -80,51 +38,57 @@
 			"question": "In the Harry Potter universe, what is Cornelius Fudge&#039;s middle name?",
 			"correct_answer": "Oswald",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "James"
-				},
-				{
-					"incorrect_answer": "Harold"
-				},
-				{
-					"incorrect_answer": "Christopher"
-				}
+				"James"
+				,
+				"Harold"
+				,
+				"Christopher"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Books",
 			"type": "multiple",
 			"difficulty": "hard",
-			"question": "In the Harry Potter universe, who does Draco Malfoy end up marrying?",
-			"correct_answer": "Astoria Greengrass",
+			"question": "What is Hermione Granger&#039;s middle name?",
+			"correct_answer": "Jean",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Pansy Parkinson"
-				},
-				{
-					"incorrect_answer": "Millicent Bulstrode"
-				},
-				{
-					"incorrect_answer": "Hermione Granger"
-				}
+				"Jane"
+				,
+				"Emma"
+				,
+				"Jo"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Books",
 			"type": "multiple",
 			"difficulty": "hard",
-			"question": "Abel Magwitch is a character from which Charles Dickens novel?",
-			"correct_answer": "Great Expectations",
+			"question": "What is Ron Weasley&#039;s middle name?",
+			"correct_answer": "Bilius",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "The Pickwick Papers"
-				},
-				{
-					"incorrect_answer": "Nicholas Nickleby"
-				},
-				{
-					"incorrect_answer": "Oliver Twist"
-				}
+				"Arthur"
+				,
+				"John"
+				,
+				"Dominic"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Books",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "In the &quot;Harry Potter&quot; series, what is Headmaster Dumbledore&#039;s full name?",
+			"correct_answer": "Albus Percival Wulfric Brian Dumbledore",
+			"incorrect_answers": [
+				"Albus Valum Jetta Mobius Dumbledore"
+				,
+				"Albus James Lunae Otto Dumbledore"
+				,
+				"Albus Valencium Horatio Kul Dumbledore"
+				
 			]
 		},
 		{
@@ -134,15 +98,12 @@
 			"question": "The novel &quot;Jane Eyre&quot; was written by what author? ",
 			"correct_answer": "Charlotte Bront&euml;",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Emily Bront&euml;"
-				},
-				{
-					"incorrect_answer": "Jane Austen"
-				},
-				{
-					"incorrect_answer": "Louisa May Alcott"
-				}
+				"Emily Bront&euml;"
+				,
+				"Jane Austen"
+				,
+				"Louisa May Alcott"
+				
 			]
 		},
 		{
@@ -152,15 +113,12 @@
 			"question": "Which of these does Charlie NOT read in The Perks of Being a Wallflower?",
 			"correct_answer": "The Grapes of Wrath",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Hamlet"
-				},
-				{
-					"incorrect_answer": "The Great Gatsby"
-				},
-				{
-					"incorrect_answer": "Peter Pan"
-				}
+				"Hamlet"
+				,
+				"The Great Gatsby"
+				,
+				"Peter Pan"
+				
 			]
 		},
 		{
@@ -170,15 +128,27 @@
 			"question": "The book &quot;The Silence of the Lambs&quot; gets its title from what?",
 			"correct_answer": "The main character&#039;s trauma in childhood",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "The relation it has with killing the innocents"
-				},
-				{
-					"incorrect_answer": "The villain&#039;s favourite meal"
-				},
-				{
-					"incorrect_answer": "The voice of innocent people being shut by the powerful"
-				}
+				"The relation it has with killing the innocents"
+				,
+				"The villain&#039;s favourite meal"
+				,
+				"The voice of innocent people being shut by the powerful"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Books",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which of the following is NOT a work done by Shakespeare?",
+			"correct_answer": "Trial of Temperance",
+			"incorrect_answers": [
+				"Measure For Measure"
+				,
+				"Titus Andronicus"
+				,
+				"Cymbeline"
+				
 			]
 		}
 	]

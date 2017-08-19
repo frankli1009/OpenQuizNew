@@ -8,9 +8,8 @@
 			"question": "Peter Molyneux was the founder of Bullfrog Productions.",
 			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"False"
+				
 			]
 		},
 		{
@@ -20,9 +19,8 @@
 			"question": "The name of the main character of the video game &quot;The Legend of Zelda&quot;, is Zelda.",
 			"correct_answer": "False",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "True"
-				}
+				"True"
+				
 			]
 		},
 		{
@@ -32,9 +30,8 @@
 			"question": "The main character in the &quot;Half-Life&quot; franchise is named Morgan Freeman.",
 			"correct_answer": "False",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "True"
-				}
+				"True"
+				
 			]
 		},
 		{
@@ -44,9 +41,8 @@
 			"question": "The song &quot;Megalovania&quot; by Toby Fox made its third appearence in the 2015 RPG &quot;Undertale&quot;.",
 			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"False"
+				
 			]
 		},
 		{
@@ -56,33 +52,8 @@
 			"question": "The Indie Game Development Studio Cing, developers of Hotel Dusk and Last Window, went bankrupt on March 1st, 2010.",
 			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
-			]
-		},
-		{
-			"category": "Entertainment: Video Games",
-			"type": "boolean",
-			"difficulty": "easy",
-			"question": "English new wave musician Gary Numan founded the video game development company Facepunch Studios in March 2009.",
-			"correct_answer": "False",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "True"
-				}
-			]
-		},
-		{
-			"category": "Entertainment: Video Games",
-			"type": "boolean",
-			"difficulty": "easy",
-			"question": "The Mann Co. Store from Team Fortress 2 has the slogan &quot;We hire mercenaries and get in fights&quot;.",
-			"correct_answer": "False",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "True"
-				}
+				"False"
+				
 			]
 		},
 		{
@@ -92,9 +63,8 @@
 			"question": "In &quot;Super Mario 64&quot;, collecting 100 coins on a level will give you a 1-UP.",
 			"correct_answer": "False",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "True"
-				}
+				"True"
+				
 			]
 		},
 		{
@@ -104,9 +74,8 @@
 			"question": "In &quot;Mario Kart 64&quot;, Waluigi is a playable character.",
 			"correct_answer": "False",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "True"
-				}
+				"True"
+				
 			]
 		},
 		{
@@ -116,9 +85,8 @@
 			"question": "&quot;Undertale&quot; is an RPG created by Toby Fox and released in 2015.",
 			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"False"
+				
 			]
 		},
 		{
@@ -128,9 +96,8 @@
 			"question": "Faust is a playable character in &quot;Guilty Gear Xrd Revelator&quot;.",
 			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"False"
+				
 			]
 		},
 		{
@@ -140,9 +107,8 @@
 			"question": "There are 6 legendary cards in &quot;Clash Royale&quot;.",
 			"correct_answer": "False",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "True"
-				}
+				"True"
+				
 			]
 		},
 		{
@@ -152,9 +118,8 @@
 			"question": "Luigi is taller than Mario?",
 			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"False"
+				
 			]
 		},
 		{
@@ -164,9 +129,8 @@
 			"question": "The game &quot;Battlefield 1&quot; takes place during World War I.",
 			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"False"
+				
 			]
 		},
 		{
@@ -176,9 +140,8 @@
 			"question": "&quot;Half-Life 2&quot; runs on the Source Engine.",
 			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"False"
+				
 			]
 		},
 		{
@@ -188,9 +151,8 @@
 			"question": "Donkey Kong was originally set to be a Popeye arcade game.",
 			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"False"
+				
 			]
 		},
 		{
@@ -200,9 +162,8 @@
 			"question": "Pac-Man was invented by the designer Toru Iwatani while he was eating pizza.",
 			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"False"
+				
 			]
 		},
 		{
@@ -212,9 +173,8 @@
 			"question": "In &quot;Super Mario Bros.&quot;, the clouds and bushes have the same artwork and are just different colors.",
 			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"False"
+				
 			]
 		},
 		{
@@ -224,9 +184,8 @@
 			"question": "Big the Cat is a playable character in &quot;Sonic Generations&quot;.",
 			"correct_answer": "False",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "True"
-				}
+				"True"
+				
 			]
 		},
 		{
@@ -236,9 +195,8 @@
 			"question": "Niko Bellic is the protagonist of Grand Theft Auto IV.",
 			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"False"
+				
 			]
 		},
 		{
@@ -248,9 +206,8 @@
 			"question": "In Kingdom Hearts the Paopu fruit is said to intertwine the destinies for two people forever.",
 			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"False"
+				
 			]
 		},
 		{
@@ -260,9 +217,8 @@
 			"question": "Tetris is the #1 best-selling video game of all-time.",
 			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"False"
+				
 			]
 		},
 		{
@@ -272,9 +228,8 @@
 			"question": "In &quot;Sonic Adventure&quot;, you are able to transform into Super Sonic at will after completing the main story.",
 			"correct_answer": "False",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "True"
-				}
+				"True"
+				
 			]
 		},
 		{
@@ -284,9 +239,8 @@
 			"question": "In &quot;Super Mario 3D World&quot;, the Double Cherry power-up originated from a developer accidentally making two characters controllable.",
 			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"False"
+				
 			]
 		},
 		{
@@ -296,9 +250,8 @@
 			"question": "Solid Snake is actually a clone from the DNA of Big Boss in the Metal Gear Solid series&#039; history.",
 			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"False"
+				
 			]
 		},
 		{
@@ -308,9 +261,19 @@
 			"question": "Deus Ex (2000) does not feature the World Trade Center because it was destroyed by terrorist attacks according to the game&#039;s plot.",
 			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"False"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "boolean",
+			"difficulty": "easy",
+			"question": "Gordon Freeman, the protagonist of &quot;Half-Life&quot;, is said to have once had a ponytail.",
+			"correct_answer": "True",
+			"incorrect_answers": [
+				"False"
+				
 			]
 		},
 		{
@@ -320,9 +283,8 @@
 			"question": "The ultimate phrase used by Pharah from Overwatch is: &quot;Justice rains from above!&quot;",
 			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"False"
+				
 			]
 		},
 		{
@@ -332,9 +294,8 @@
 			"question": "The PlayStation was originally a joint project between Sega and Sony that was a Sega Genesis with a disc drive.",
 			"correct_answer": "False",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "True"
-				}
+				"True"
+				
 			]
 		},
 		{
@@ -344,9 +305,8 @@
 			"question": "Minecraft can be played with a virtual reality headset.",
 			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"False"
+				
 			]
 		},
 		{
@@ -356,9 +316,8 @@
 			"question": "The 2005 video game &quot;Call of Duty 2: Big Red One&quot; is not available on PC.",
 			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"False"
+				
 			]
 		},
 		{
@@ -368,9 +327,8 @@
 			"question": "In Team Fortress 2, being disguised as a scout or medic results in a speed boost.",
 			"correct_answer": "False",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "True"
-				}
+				"True"
+				
 			]
 		},
 		{
@@ -380,9 +338,8 @@
 			"question": "In the &quot;Half-Life&quot; series, &quot;H.E.V&quot; stands for &quot;Hazardous Evasiveness Vest&quot;",
 			"correct_answer": "False",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "True"
-				}
+				"True"
+				
 			]
 		},
 		{
@@ -392,9 +349,19 @@
 			"question": "The main playable character of the 2015 RPG &quot;Undertale&quot; is a monster.",
 			"correct_answer": "False",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "True"
-				}
+				"True"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "boolean",
+			"difficulty": "easy",
+			"question": "Danganronpa 2: Goodbye Despair featured all of the surviving students from the first game.",
+			"correct_answer": "True",
+			"incorrect_answers": [
+				"False"
+				
 			]
 		},
 		{
@@ -404,9 +371,8 @@
 			"question": "Rebecca Chambers does not appear in any Resident Evil except for the original Resident Evil and the Gamecube remake.",
 			"correct_answer": "False",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "True"
-				}
+				"True"
+				
 			]
 		},
 		{
@@ -416,9 +382,8 @@
 			"question": "In Splatoon, the Squid Sisters are named Tako and Yaki.",
 			"correct_answer": "False",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "True"
-				}
+				"True"
+				
 			]
 		},
 		{
@@ -428,9 +393,8 @@
 			"question": "In the game &quot;Subnautica&quot;, a &quot;Spadefish&quot; will attack you.",
 			"correct_answer": "False",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "True"
-				}
+				"True"
+				
 			]
 		},
 		{
@@ -440,9 +404,8 @@
 			"question": "In Sonic the Hedgehog universe, Tails&#039; real name is Miles Prower.",
 			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"False"
+				
 			]
 		},
 		{
@@ -452,21 +415,8 @@
 			"question": "Ana was added as a new hero for the game Overwatch on July 19th, 2016.",
 			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
-			]
-		},
-		{
-			"category": "Entertainment: Video Games",
-			"type": "boolean",
-			"difficulty": "easy",
-			"question": "The end credits sequence in Grand Theft Auto 5 is over half an hour long.",
-			"correct_answer": "True",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"False"
+				
 			]
 		},
 		{
@@ -476,21 +426,8 @@
 			"question": "In the game Dead by Daylight, the killer Michael Myers is refered to as &quot;The Shape&quot;.",
 			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
-			]
-		},
-		{
-			"category": "Entertainment: Video Games",
-			"type": "boolean",
-			"difficulty": "easy",
-			"question": "The names of Tom Nook&#039;s cousins in the Animal Crossing franchise are named &quot;Timmy&quot; and &quot;Jimmy&quot;.",
-			"correct_answer": "False",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "True"
-				}
+				"False"
+				
 			]
 		},
 		{
@@ -500,9 +437,8 @@
 			"question": "In Pok&eacute;mon Sun and Moon, a male Salandit can evolve to a Salazzle.",
 			"correct_answer": "False",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "True"
-				}
+				"True"
+				
 			]
 		},
 		{
@@ -512,9 +448,8 @@
 			"question": "In Terraria, you can craft the Cell Phone pre-hardmode.",
 			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"False"
+				
 			]
 		},
 		{
@@ -524,9 +459,8 @@
 			"question": "In Pok&eacute;mon, Bulbasaur is the only starter pokemon that is a Grass/Poison type.",
 			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"False"
+				
 			]
 		},
 		{
@@ -536,9 +470,8 @@
 			"question": "The Konami Code is known as Up, Up, Down, Down, Left, Right, Right, Left, B, A, Start.",
 			"correct_answer": "False",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "True"
-				}
+				"True"
+				
 			]
 		},
 		{
@@ -548,9 +481,8 @@
 			"question": "In &quot;Undertale&quot;, the main character of the game is Sans.",
 			"correct_answer": "False",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "True"
-				}
+				"True"
+				
 			]
 		},
 		{
@@ -560,9 +492,8 @@
 			"question": "In Pok&eacute;mon, Arbok evolves into Seviper.",
 			"correct_answer": "False",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "True"
-				}
+				"True"
+				
 			]
 		},
 		{
@@ -572,9 +503,19 @@
 			"question": "In RuneScape, one must complete the &quot;Dragon Slayer&quot; quest before equipping Rune Platelegs.",
 			"correct_answer": "False",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "True"
-				}
+				"True"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "boolean",
+			"difficulty": "easy",
+			"question": "Valve&#039;s &quot;Portal&quot; and &quot;Half-Life&quot; franchises exist within the same in-game universe.",
+			"correct_answer": "True",
+			"incorrect_answers": [
+				"False"
+				
 			]
 		},
 		{
@@ -584,9 +525,19 @@
 			"question": "Watch_Dogs 2 is a prequel.",
 			"correct_answer": "False",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "True"
-				}
+				"True"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Video Games",
+			"type": "boolean",
+			"difficulty": "easy",
+			"question": "In Heroes of the Storm, the Cursed Hollow map gimmick requires players to kill the undead to curse the enemy team.",
+			"correct_answer": "False",
+			"incorrect_answers": [
+				"True"
+				
 			]
 		},
 		{
@@ -596,9 +547,8 @@
 			"question": "The ghosts in &quot;Pac-Man&quot; and &quot;Ms. Pac-Man&quot; have completely different behavior.",
 			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"False"
+				
 			]
 		}
 	]

@@ -5,18 +5,30 @@
 			"category": "Entertainment: Film",
 			"type": "multiple",
 			"difficulty": "hard",
+			"question": "Which was the first of Alfred Hitchcock&#039;s movies to be filmed in colour?",
+			"correct_answer": "Rope",
+			"incorrect_answers": [
+				"Psycho"
+				,
+				"Vertigo"
+				,
+				"Rebecca"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Film",
+			"type": "multiple",
+			"difficulty": "hard",
 			"question": "What was the last Marx Brothers film to feature Zeppo?",
 			"correct_answer": "Duck Soup",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "A Night at the Opera"
-				},
-				{
-					"incorrect_answer": "A Day at the Races"
-				},
-				{
-					"incorrect_answer": "Monkey Business"
-				}
+				"A Night at the Opera"
+				,
+				"A Day at the Races"
+				,
+				"Monkey Business"
+				
 			]
 		},
 		{
@@ -26,15 +38,12 @@
 			"question": "In the 1976 film &#039;Taxi Driver&#039;, how many guns did Travis buy from the salesman?",
 			"correct_answer": "4",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "2"
-				},
-				{
-					"incorrect_answer": "6"
-				},
-				{
-					"incorrect_answer": "1"
-				}
+				"2"
+				,
+				"6"
+				,
+				"1"
+				
 			]
 		},
 		{
@@ -44,15 +53,12 @@
 			"question": "What did Alfred Hitchcock use as blood in the film &quot;Psycho&quot;? ",
 			"correct_answer": "Chocolate syrup",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Ketchup"
-				},
-				{
-					"incorrect_answer": "Red food coloring"
-				},
-				{
-					"incorrect_answer": "Maple syrup"
-				}
+				"Ketchup"
+				,
+				"Red food coloring"
+				,
+				"Maple syrup"
+				
 			]
 		},
 		{
@@ -62,15 +68,12 @@
 			"question": "What is the name of the assassin in the first &quot;Hellboy&quot; movie?",
 			"correct_answer": "Karl Ruprecht Kroenen",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Klaus Werner von Krupt"
-				},
-				{
-					"incorrect_answer": "Grigori Efimovich Rasputin"
-				},
-				{
-					"incorrect_answer": "Ilsa Haupstein"
-				}
+				"Klaus Werner von Krupt"
+				,
+				"Grigori Efimovich Rasputin"
+				,
+				"Ilsa Haupstein"
+				
 			]
 		},
 		{
@@ -80,15 +83,12 @@
 			"question": "What was the name of the planet in &quot;Aliens&quot;?",
 			"correct_answer": "LV-426",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Weyland Yutani Corporation Base"
-				},
-				{
-					"incorrect_answer": "FR-838"
-				},
-				{
-					"incorrect_answer": "DI-621"
-				}
+				"Weyland Yutani Corporation Base"
+				,
+				"FR-838"
+				,
+				"DI-621"
+				
 			]
 		},
 		{
@@ -98,33 +98,12 @@
 			"question": "What did the first moving picture depict?",
 			"correct_answer": "A galloping horse",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "A woman in a dress"
-				},
-				{
-					"incorrect_answer": "A man walking"
-				},
-				{
-					"incorrect_answer": "A crackling fire"
-				}
-			]
-		},
-		{
-			"category": "Entertainment: Film",
-			"type": "multiple",
-			"difficulty": "hard",
-			"question": "In 2012, which movie won every category in the 32nd &quot;Golden Raspberry Awards&quot;?",
-			"correct_answer": "Jack and Jill",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "The Girl with the Dragon Tattoo"
-				},
-				{
-					"incorrect_answer": "Thor"
-				},
-				{
-					"incorrect_answer": "The King&#039;s Speech"
-				}
+				"A woman in a dress"
+				,
+				"A man walking"
+				,
+				"A crackling fire"
+				
 			]
 		},
 		{
@@ -134,15 +113,12 @@
 			"question": "In what Disney movie can you spot the character &quot;Pac-Man&quot; in if you look closely enough in some scenes?",
 			"correct_answer": "Tron",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Big Hero 6"
-				},
-				{
-					"incorrect_answer": "Fantasia"
-				},
-				{
-					"incorrect_answer": "Monsters, Inc."
-				}
+				"Big Hero 6"
+				,
+				"Fantasia"
+				,
+				"Monsters, Inc."
+				
 			]
 		},
 		{
@@ -152,15 +128,12 @@
 			"question": "In the 1964 film &quot;Zulu&quot;, what song does the British Army company sing before the final battle?",
 			"correct_answer": "Men of Harlech",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Scotland the Brave"
-				},
-				{
-					"incorrect_answer": "Colonel Bogey March"
-				},
-				{
-					"incorrect_answer": "The British Grenadiers"
-				}
+				"Scotland the Brave"
+				,
+				"Colonel Bogey March"
+				,
+				"The British Grenadiers"
+				
 			]
 		},
 		{
@@ -170,15 +143,12 @@
 			"question": "What was the first movie to ever use a Wilhelm Scream?",
 			"correct_answer": "Distant Drums",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Treasure of the Sierra Madre"
-				},
-				{
-					"incorrect_answer": "The Charge at Feather River"
-				},
-				{
-					"incorrect_answer": "Indiana Jones"
-				}
+				"Treasure of the Sierra Madre"
+				,
+				"The Charge at Feather River"
+				,
+				"Indiana Jones"
+				
 			]
 		},
 		{
@@ -188,15 +158,12 @@
 			"question": "In the movie &quot;Scream&quot; who is Ghost Face?",
 			"correct_answer": "Billy Loomis and Stu Macher",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Dewey Riley"
-				},
-				{
-					"incorrect_answer": "Sidney Prescott"
-				},
-				{
-					"incorrect_answer": "Archie Prescott and Philip Marv"
-				}
+				"Dewey Riley"
+				,
+				"Sidney Prescott"
+				,
+				"Archie Prescott and Philip Marv"
+				
 			]
 		},
 		{
@@ -206,15 +173,12 @@
 			"question": "What was the name of the actor who played Leatherface in the 1974 horror film, The Texas Chainsaw Massacre?",
 			"correct_answer": "Gunnar Hansen",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Edwin Neal"
-				},
-				{
-					"incorrect_answer": "John Dugan"
-				},
-				{
-					"incorrect_answer": "Joe Bill Hogan"
-				}
+				"Edwin Neal"
+				,
+				"John Dugan"
+				,
+				"Joe Bill Hogan"
+				
 			]
 		},
 		{
@@ -224,15 +188,12 @@
 			"question": "In order to cut costs, what were most of the extras of Mad Max (1979) paid with?",
 			"correct_answer": "Beer",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Fast food"
-				},
-				{
-					"incorrect_answer": "Food stamps"
-				},
-				{
-					"incorrect_answer": "They weren&#039;t paid"
-				}
+				"Fast food"
+				,
+				"Food stamps"
+				,
+				"They weren&#039;t paid"
+				
 			]
 		},
 		{
@@ -242,15 +203,12 @@
 			"question": "In &quot;Star Trek Nemesis&quot;, why was Praetor Shinzon created?",
 			"correct_answer": "To replace Picard as a Romulan Agent",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "To destroy the Enterprise"
-				},
-				{
-					"incorrect_answer": "To become Picard&#039;s friend "
-				},
-				{
-					"incorrect_answer": "To steal the Enterprise"
-				}
+				"To destroy the Enterprise"
+				,
+				"To become Picard&#039;s friend "
+				,
+				"To steal the Enterprise"
+				
 			]
 		},
 		{
@@ -260,15 +218,12 @@
 			"question": "In what year did Clint Eastwood star as Inspector Harry Callahan in the film &quot;Dirty Harry&quot;?",
 			"correct_answer": "1971",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "1975"
-				},
-				{
-					"incorrect_answer": "1983"
-				},
-				{
-					"incorrect_answer": "1969"
-				}
+				"1975"
+				,
+				"1983"
+				,
+				"1969"
+				
 			]
 		},
 		{
@@ -278,15 +233,12 @@
 			"question": "In what year does Jurassic World open in the &quot;Jurassic Park&quot; universe?",
 			"correct_answer": "2005",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "2007"
-				},
-				{
-					"incorrect_answer": "2015"
-				},
-				{
-					"incorrect_answer": "2020"
-				}
+				"2007"
+				,
+				"2015"
+				,
+				"2020"
+				
 			]
 		},
 		{
@@ -296,15 +248,12 @@
 			"question": "What is the name of the supercomputer located in the control room in &quot;Jurassic Park&quot;?",
 			"correct_answer": "Thinking Machines CM-5",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Cray X-MP"
-				},
-				{
-					"incorrect_answer": "Cray XK7"
-				},
-				{
-					"incorrect_answer": "IBM Blue Gene/Q"
-				}
+				"Cray X-MP"
+				,
+				"Cray XK7"
+				,
+				"IBM Blue Gene/Q"
+				
 			]
 		},
 		{
@@ -314,15 +263,12 @@
 			"question": "Before &quot;Jurassic Park III&quot; was finalized and the Spinosaurus was chosen, which dinosaur was going to be the star?",
 			"correct_answer": "Baryonyx",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Tyrannosaurus Rex"
-				},
-				{
-					"incorrect_answer": "Velociraptor"
-				},
-				{
-					"incorrect_answer": "Suchomimus"
-				}
+				"Tyrannosaurus Rex"
+				,
+				"Velociraptor"
+				,
+				"Suchomimus"
+				
 			]
 		},
 		{
@@ -332,15 +278,12 @@
 			"question": "In the &quot;Jurassic Park&quot; universe, what was the first dinosaur cloned by InGen in 1986?",
 			"correct_answer": "Velociraptor",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Triceratops"
-				},
-				{
-					"incorrect_answer": "Troodon"
-				},
-				{
-					"incorrect_answer": "Brachiosaurus"
-				}
+				"Triceratops"
+				,
+				"Troodon"
+				,
+				"Brachiosaurus"
+				
 			]
 		},
 		{
@@ -350,15 +293,12 @@
 			"question": "In the &quot;Jurassic Park&quot; universe, when did &quot;Jurassic Park: San Diego&quot; begin construction?",
 			"correct_answer": "1985",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "1988"
-				},
-				{
-					"incorrect_answer": "1986"
-				},
-				{
-					"incorrect_answer": "1993"
-				}
+				"1988"
+				,
+				"1986"
+				,
+				"1993"
+				
 			]
 		}
 	]

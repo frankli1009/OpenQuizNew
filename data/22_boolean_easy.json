@@ -5,24 +5,22 @@
 			"category": "Geography",
 			"type": "boolean",
 			"difficulty": "easy",
-			"question": "A group of islands is called an &#039;archipelago&#039;.",
-			"correct_answer": "True",
+			"question": "Greenland is almost as big as Africa.",
+			"correct_answer": "False",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"True"
+				
 			]
 		},
 		{
 			"category": "Geography",
 			"type": "boolean",
 			"difficulty": "easy",
-			"question": "Greenland is covered with grass and Iceland covered with ice.",
-			"correct_answer": "False",
+			"question": "A group of islands is called an &#039;archipelago&#039;.",
+			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "True"
-				}
+				"False"
+				
 			]
 		},
 		{
@@ -32,33 +30,19 @@
 			"question": "The Republic of Malta is the smallest microstate worldwide.",
 			"correct_answer": "False",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "True"
-				}
+				"True"
+				
 			]
 		},
 		{
 			"category": "Geography",
 			"type": "boolean",
 			"difficulty": "easy",
-			"question": "Vatican City is a country.",
-			"correct_answer": "True",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
-			]
-		},
-		{
-			"category": "Geography",
-			"type": "boolean",
-			"difficulty": "easy",
-			"question": "San Marino is the only country completely surrounded by another country.",
+			"question": "There is a city called Rome in every continent on Earth.",
 			"correct_answer": "False",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "True"
-				}
+				"True"
+				
 			]
 		},
 		{
@@ -68,9 +52,8 @@
 			"question": "Alaska is the largest state in the United States.",
 			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"False"
+				
 			]
 		},
 		{
@@ -80,21 +63,19 @@
 			"question": "Ottawa is the capital of Canada.",
 			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"False"
+				
 			]
 		},
 		{
 			"category": "Geography",
 			"type": "boolean",
 			"difficulty": "easy",
-			"question": "There are no deserts in Europe.",
-			"correct_answer": "True",
+			"question": "Toronto is the capital city of the North American country of Canada.",
+			"correct_answer": "False",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"True"
+				
 			]
 		},
 		{
@@ -104,9 +85,8 @@
 			"question": "St. Louis is the capital of the US State Missouri.",
 			"correct_answer": "False",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "True"
-				}
+				"True"
+				
 			]
 		},
 		{
@@ -116,9 +96,19 @@
 			"question": "California is larger than Japan.",
 			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"False"
+				
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "boolean",
+			"difficulty": "easy",
+			"question": "Tokyo is the capital of Japan.",
+			"correct_answer": "True",
+			"incorrect_answers": [
+				"False"
+				
 			]
 		}
 	]

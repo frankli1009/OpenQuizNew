@@ -8,15 +8,42 @@
 			"question": "Who created the animated movie &quot;Spirited Away&quot; (2001)?",
 			"correct_answer": "Hayao Miyazaki",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Isao Takahata"
-				},
-				{
-					"incorrect_answer": "Mamoru Hosoda"
-				},
-				{
-					"incorrect_answer": "Hidetaka Miyazaki"
-				}
+				"Isao Takahata"
+				,
+				"Mamoru Hosoda"
+				,
+				"Hidetaka Miyazaki"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the name of the main character of the anime &quot;One-Punch Man&quot;?",
+			"correct_answer": "Saitama",
+			"incorrect_answers": [
+				"Genos"
+				,
+				"Sonic"
+				,
+				"King"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In the anime &quot;Mr. Osomatsu&quot;, how many brothers does Osomatsu-san have?",
+			"correct_answer": "5",
+			"incorrect_answers": [
+				"6"
+				,
+				"7"
+				,
+				"4"
+				
 			]
 		},
 		{
@@ -26,15 +53,27 @@
 			"question": "In the anime series &quot;Full Metal Alchemist&quot;, what do Alchemists consider the greatest taboo?",
 			"correct_answer": "Human Transmutation ",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Transmuting Lead Into Gold"
-				},
-				{
-					"incorrect_answer": "Using Alchemy For Crime "
-				},
-				{
-					"incorrect_answer": "Preforming Without A Permit"
-				}
+				"Transmuting Lead Into Gold"
+				,
+				"Using Alchemy For Crime "
+				,
+				"Preforming Without A Permit"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "When was the first episode of Soul Eater released?",
+			"correct_answer": "2008",
+			"incorrect_answers": [
+				"2003"
+				,
+				"2005"
+				,
+				"2011"
+				
 			]
 		},
 		{
@@ -44,15 +83,42 @@
 			"question": "In &quot;Shakugan no Shana&quot; what was the Shana usually referred as?",
 			"correct_answer": "Flame-Haired Burning-Eyed Hunter",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Flame Haze"
-				},
-				{
-					"incorrect_answer": "Flame-Haired Burning-Eyed Haze"
-				},
-				{
-					"incorrect_answer": "Shana"
-				}
+				"Flame Haze"
+				,
+				"Flame-Haired Burning-Eyed Haze"
+				,
+				"Shana"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In the anime, &quot;Super Sonicio&quot;, what is Super Sonico&#039;s favorite food?",
+			"correct_answer": "Macroons",
+			"incorrect_answers": [
+				"Ice Cream"
+				,
+				"Pizza"
+				,
+				"Chips"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which band name isn&#039;t a Stand in &quot;JoJo&#039;s Bizzare Adventure&quot;?",
+			"correct_answer": "AC/DC",
+			"incorrect_answers": [
+				"Green Day"
+				,
+				"Survivor"
+				,
+				"Red Hot Chili Peppers"
+				
 			]
 		},
 		{
@@ -62,15 +128,27 @@
 			"question": "Which one of these Manga titles was not created by Urasawa Naoki?",
 			"correct_answer": "My Father&#039;s Journal",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Billy Bat"
-				},
-				{
-					"incorrect_answer": "20th Century Boys"
-				},
-				{
-					"incorrect_answer": "Monster"
-				}
+				"Billy Bat"
+				,
+				"20th Century Boys"
+				,
+				"Monster"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "The manga JoJo&#039;s Bizarre Adventure is split into how many parts?",
+			"correct_answer": "8",
+			"incorrect_answers": [
+				"6"
+				,
+				"4"
+				,
+				"3"
+				
 			]
 		},
 		{
@@ -80,15 +158,117 @@
 			"question": "The main antagonist of the second part of JoJo&#039;s Bizarre Adventure is which of the following?",
 			"correct_answer": "Kars",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Erina Joestar"
-				},
-				{
-					"incorrect_answer": "Santana"
-				},
-				{
-					"incorrect_answer": "Wired Beck"
-				}
+				"Erina Joestar"
+				,
+				"Santana"
+				,
+				"Wired Beck"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "The main protagonist of the fifth part of JoJo&#039;s Bizarre Adventure is which of the following?",
+			"correct_answer": "Giorno Giovanna",
+			"incorrect_answers": [
+				"Guido Mista"
+				,
+				"Jonathan Joestar"
+				,
+				"Joey JoJo"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In JoJo&#039;s Bizarre Adventure, winch character is able to accelerate time?",
+			"correct_answer": "Enrico Pucci",
+			"incorrect_answers": [
+				"Jotaro Kujo"
+				,
+				"Jolyne Cujoh"
+				,
+				"Kujo Jotaro"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What song plays in the ending credits of the anime &quot;Ergo Proxy&quot;?",
+			"correct_answer": "Paranoid Android",
+			"incorrect_answers": [
+				"Sadistic Summer"
+				,
+				"Bittersweet Symphony"
+				,
+				"Mad World"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In the anime Assassination Classroom what is the class that Korosensei teaches?",
+			"correct_answer": "Class 3-E",
+			"incorrect_answers": [
+				"Class 3-A"
+				,
+				"Class 3-B"
+				,
+				"Class 3-D"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the name of the final villain in the manga series &quot;Bleach&quot;?",
+			"correct_answer": "Yhwach",
+			"incorrect_answers": [
+				"Juha Bach"
+				,
+				"Yuhabah"
+				,
+				"Juhabach"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What year did the anime &quot;Himouto! Umaru-chan&quot; air?",
+			"correct_answer": "2015",
+			"incorrect_answers": [
+				"2014"
+				,
+				"2012"
+				,
+				"2013"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In the &quot;Toaru Majutsu no Index&quot; anime, Touma Kamijou is a level 0 esper that has the ability to do what?",
+			"correct_answer": "Dispell any esper or magical powers",
+			"incorrect_answers": [
+				"Teleport"
+				,
+				"Make telepathic communications"
+				,
+				"Create electricity from his own body"
+				
 			]
 		},
 		{
@@ -98,15 +278,27 @@
 			"question": "Which animation studio animated the 2016 anime &quot;Mob Psycho 100&quot;?",
 			"correct_answer": "Bones",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "A-1 Pictures"
-				},
-				{
-					"incorrect_answer": "Shaft"
-				},
-				{
-					"incorrect_answer": "Madhouse"
-				}
+				"A-1 Pictures"
+				,
+				"Shaft"
+				,
+				"Madhouse"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of the following anime of the mecha genre began airing in 1982?",
+			"correct_answer": "The Super Dimension Fortress Macross",
+			"incorrect_answers": [
+				"Mobile Suit Gundam"
+				,
+				"Armored Trooper VOTOMS"
+				,
+				"Neon Genesis Evangelion"
+				
 			]
 		},
 		{
@@ -116,15 +308,27 @@
 			"question": "Which of the following manga have the most tankouban volumes?",
 			"correct_answer": "Golgo 13",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "JoJo&#039;s Bizarre Adventure"
-				},
-				{
-					"incorrect_answer": "Detective Conan"
-				},
-				{
-					"incorrect_answer": "One Piece"
-				}
+				"JoJo&#039;s Bizarre Adventure"
+				,
+				"Detective Conan"
+				,
+				"One Piece"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What sport is being played in the Anime Eyeshield 21?",
+			"correct_answer": "American Football",
+			"incorrect_answers": [
+				"Baseball"
+				,
+				"Football"
+				,
+				"Basketball"
+				
 			]
 		},
 		{
@@ -134,15 +338,27 @@
 			"question": "What year did &quot;Attack on Titan&quot; Season 2 begin airing?",
 			"correct_answer": "2017",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "2018"
-				},
-				{
-					"incorrect_answer": "2019"
-				},
-				{
-					"incorrect_answer": "2020"
-				}
+				"2018"
+				,
+				"2019"
+				,
+				"2020"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "The character Plum from &quot;No Game No Life&quot; is of what race?",
+			"correct_answer": "Dhampir",
+			"incorrect_answers": [
+				"Fl&uuml;gel"
+				,
+				"Imanity"
+				,
+				"Seiren"
+				
 			]
 		},
 		{
@@ -152,15 +368,12 @@
 			"question": "The character Momonga from the &quot;Overlord&quot; series orders his servants to call him by what name?",
 			"correct_answer": "Ainz Ooal Gown",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Master"
-				},
-				{
-					"incorrect_answer": "Yggdrasil"
-				},
-				{
-					"incorrect_answer": "Kugane Maruyama"
-				}
+				"Master"
+				,
+				"Yggdrasil"
+				,
+				"Kugane Maruyama"
+				
 			]
 		},
 		{
@@ -170,33 +383,42 @@
 			"question": "Aoi Miyamori is the production manager of what anime in &quot;Shirobako&quot;?",
 			"correct_answer": "The Third Aerial Girls Squad",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Exodus!"
-				},
-				{
-					"incorrect_answer": "Andes Chucky"
-				},
-				{
-					"incorrect_answer": "Angel Beats!"
-				}
+				"Exodus!"
+				,
+				"Andes Chucky"
+				,
+				"Angel Beats!"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Japanese Anime & Manga",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "The heroine of &quot;Humanity Has Declined&quot; is a mediator between humans and what?",
-			"correct_answer": "Fairies",
+			"question": "What is the name of the device that allows for infinite energy in the anime &quot;Dimension W&quot;?",
+			"correct_answer": "Coils",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Elves"
-				},
-				{
-					"incorrect_answer": "The Earth"
-				},
-				{
-					"incorrect_answer": "Animals"
-				}
+				"Wires"
+				,
+				"Collectors"
+				,
+				"Tesla"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What was studio Trigger&#039;s first original long-form animated series for television?",
+			"correct_answer": "Kill la Kill",
+			"incorrect_answers": [
+				"Kiznaiver"
+				,
+				"Inferno Cop"
+				,
+				"Gurren Lagann"
+				
 			]
 		},
 		{
@@ -206,15 +428,12 @@
 			"question": "Ikki Kurogane is known by what nickname at the beginning of &quot;Chivalry of a Failed Knight&quot;?",
 			"correct_answer": "Worst One",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Another One"
-				},
-				{
-					"incorrect_answer": "Blazer"
-				},
-				{
-					"incorrect_answer": "Princess"
-				}
+				"Another One"
+				,
+				"Blazer"
+				,
+				"Princess"
+				
 			]
 		},
 		{
@@ -224,15 +443,12 @@
 			"question": "Krusty is the guild master of which guild in &quot;Log Horizon&quot;?",
 			"correct_answer": "D. D. D",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Silver Sword"
-				},
-				{
-					"incorrect_answer": "West Wind Brigade"
-				},
-				{
-					"incorrect_answer": "Oceanic Systems (Marine Agency)"
-				}
+				"Silver Sword"
+				,
+				"West Wind Brigade"
+				,
+				"Oceanic Systems (Marine Agency)"
+				
 			]
 		},
 		{
@@ -242,15 +458,12 @@
 			"question": "In &quot;One Piece&quot;, which one of the following is NOT an Ancient Weapon?",
 			"correct_answer": "Jupiter",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Uranus"
-				},
-				{
-					"incorrect_answer": "Poseidon"
-				},
-				{
-					"incorrect_answer": "Pluton"
-				}
+				"Uranus"
+				,
+				"Poseidon"
+				,
+				"Pluton"
+				
 			]
 		},
 		{
@@ -260,15 +473,27 @@
 			"question": "In the &quot;Sailor Moon&quot; series, what is Sailor Jupiter&#039;s civilian name?",
 			"correct_answer": "Makoto Kino",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Minako Aino"
-				},
-				{
-					"incorrect_answer": "Usagi Tsukino"
-				},
-				{
-					"incorrect_answer": "Rei Hino"
-				}
+				"Minako Aino"
+				,
+				"Usagi Tsukino"
+				,
+				"Rei Hino"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of the stands from &quot;JoJo&#039;s Bizarre Adventure&quot; mimics the likeness of a tomato?",
+			"correct_answer": "Pearl Jam",
+			"incorrect_answers": [
+				"Red Hot Chili Pepper"
+				,
+				"Cream Starter"
+				,
+				"Nut King Call"
+				
 			]
 		},
 		{
@@ -278,15 +503,12 @@
 			"question": "In &quot;A Certain Magical Index,&quot; what is Accelerator able to control?",
 			"correct_answer": "Vectors",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Velocity"
-				},
-				{
-					"incorrect_answer": "Quantums"
-				},
-				{
-					"incorrect_answer": "Wormholes"
-				}
+				"Velocity"
+				,
+				"Quantums"
+				,
+				"Wormholes"
+				
 			]
 		},
 		{
@@ -296,33 +518,57 @@
 			"question": "In &quot;Toriko&quot;, which of the following foods is knowingly compatible with Toriko?",
 			"correct_answer": "Poison Potato",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Mors Oil"
-				},
-				{
-					"incorrect_answer": "Alpacookie"
-				},
-				{
-					"incorrect_answer": "Parmesansho Fruit"
-				}
+				"Mors Oil"
+				,
+				"Alpacookie"
+				,
+				"Parmesansho Fruit"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Japanese Anime & Manga",
 			"type": "multiple",
 			"difficulty": "medium",
-			"question": "Who is the creator of the manga series &quot;One Piece&quot;?",
-			"correct_answer": "Eiichiro Oda",
+			"question": "In &quot;Toriko&quot;, which of the following Heavenly Kings has an enhanced sense of Hearing?",
+			"correct_answer": "Zebra",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Yoshihiro Togashi"
-				},
-				{
-					"incorrect_answer": "Hayao Miyazaki"
-				},
-				{
-					"incorrect_answer": "Masashi Kishimoto"
-				}
+				"Coco"
+				,
+				"Sunny"
+				,
+				"Toriko"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What year does Part 7 of &quot;JoJo&#039;s Bizarre Adventure&quot; take place in?",
+			"correct_answer": "1890",
+			"incorrect_answers": [
+				"1888"
+				,
+				"1999"
+				,
+				"2003"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Japanese Anime & Manga",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In &quot;JoJo&#039;s Bizarre Adventure&quot;, which of the following Stands does NOT have a time-based ability?",
+			"correct_answer": "20th Century Boy",
+			"incorrect_answers": [
+				"Made in Heaven"
+				,
+				"Star Platinum"
+				,
+				"The World"
+				
 			]
 		},
 		{
@@ -332,15 +578,12 @@
 			"question": "Who voices the character &quot;Reigen&quot;  in the English dub of &quot;Mob Psycho 100&quot;?",
 			"correct_answer": "Chris Niosi",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Max Mittelman"
-				},
-				{
-					"incorrect_answer": "Kyle McCarley"
-				},
-				{
-					"incorrect_answer": "Casey Mongillo"
-				}
+				"Max Mittelman"
+				,
+				"Kyle McCarley"
+				,
+				"Casey Mongillo"
+				
 			]
 		},
 		{
@@ -350,15 +593,12 @@
 			"question": "Who voices &quot;Shou Suzuki&quot; in the English dub of &quot;Mob Psycho 100&quot;?",
 			"correct_answer": "Casey Mongillo",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Ben Diskin"
-				},
-				{
-					"incorrect_answer": "Chris Niosi"
-				},
-				{
-					"incorrect_answer": "David Naughton"
-				}
+				"Ben Diskin"
+				,
+				"Chris Niosi"
+				,
+				"David Naughton"
+				
 			]
 		}
 	]

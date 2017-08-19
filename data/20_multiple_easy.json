@@ -8,15 +8,12 @@
 			"question": "Who was the only god from Greece who did not get a name change in Rome?",
 			"correct_answer": "Apollo",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Demeter"
-				},
-				{
-					"incorrect_answer": "Zeus"
-				},
-				{
-					"incorrect_answer": "Athena"
-				}
+				"Demeter"
+				,
+				"Zeus"
+				,
+				"Athena"
+				
 			]
 		},
 		{
@@ -26,15 +23,12 @@
 			"question": "The ancient roman god of war was commonly known as...",
 			"correct_answer": "Mars",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Jupiter"
-				},
-				{
-					"incorrect_answer": "Juno"
-				},
-				{
-					"incorrect_answer": "Ares"
-				}
+				"Jupiter"
+				,
+				"Juno"
+				,
+				"Ares"
+				
 			]
 		},
 		{
@@ -44,15 +38,12 @@
 			"question": "Who in Greek mythology, who led the Argonauts in search of the Golden Fleece?",
 			"correct_answer": "Jason",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Castor"
-				},
-				{
-					"incorrect_answer": "Daedalus"
-				},
-				{
-					"incorrect_answer": "Odysseus"
-				}
+				"Castor"
+				,
+				"Daedalus"
+				,
+				"Odysseus"
+				
 			]
 		},
 		{
@@ -62,15 +53,12 @@
 			"question": "This Greek goddess&#039;s name was chosen for the dwarf planet responsible for discord on Pluto&#039;s classification amongst astronomers.",
 			"correct_answer": "Eris",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Charon"
-				},
-				{
-					"incorrect_answer": "Ceres"
-				},
-				{
-					"incorrect_answer": "Dysnomia"
-				}
+				"Charon"
+				,
+				"Ceres"
+				,
+				"Dysnomia"
+				
 			]
 		},
 		{
@@ -80,33 +68,27 @@
 			"question": "Who was the King of Gods in Ancient Greek mythology?",
 			"correct_answer": "Zeus",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Apollo"
-				},
-				{
-					"incorrect_answer": "Hermes"
-				},
-				{
-					"incorrect_answer": "Poseidon"
-				}
+				"Apollo"
+				,
+				"Hermes"
+				,
+				"Poseidon"
+				
 			]
 		},
 		{
 			"category": "Mythology",
 			"type": "multiple",
 			"difficulty": "easy",
-			"question": "Which Greek &amp; Roman god was known as the god of music, truth and prophecy, healing, the sun and light, plague, poetry, and more?",
-			"correct_answer": "Apollo",
+			"question": "The greek god Poseidon was the god of what?",
+			"correct_answer": "The Sea",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Aphrodite"
-				},
-				{
-					"incorrect_answer": "Artemis"
-				},
-				{
-					"incorrect_answer": "Athena"
-				}
+				"War"
+				,
+				"Sun"
+				,
+				"Fire"
+				
 			]
 		},
 		{
@@ -116,15 +98,12 @@
 			"question": "Which figure from Greek mythology traveled to the underworld to return his wife Eurydice to the land of the living?",
 			"correct_answer": "Orpheus",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Hercules"
-				},
-				{
-					"incorrect_answer": "Perseus"
-				},
-				{
-					"incorrect_answer": "Daedalus"
-				}
+				"Hercules"
+				,
+				"Perseus"
+				,
+				"Daedalus"
+				
 			]
 		},
 		{
@@ -134,15 +113,12 @@
 			"question": "In Greek mythology, who is the god of wine?",
 			"correct_answer": "Dionysus",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Hephaestus"
-				},
-				{
-					"incorrect_answer": "Demeter"
-				},
-				{
-					"incorrect_answer": "Apollo"
-				}
+				"Hephaestus"
+				,
+				"Demeter"
+				,
+				"Apollo"
+				
 			]
 		},
 		{
@@ -152,15 +128,12 @@
 			"question": "In most traditions, who was the wife of Zeus?",
 			"correct_answer": "Hera",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Aphrodite"
-				},
-				{
-					"incorrect_answer": "Athena"
-				},
-				{
-					"incorrect_answer": "Hestia"
-				}
+				"Aphrodite"
+				,
+				"Athena"
+				,
+				"Hestia"
+				
 			]
 		},
 		{
@@ -170,15 +143,12 @@
 			"question": "Which of these mythological creatures is said to be half-man and half-horse?",
 			"correct_answer": "Centaur",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Minotaur"
-				},
-				{
-					"incorrect_answer": "Pegasus"
-				},
-				{
-					"incorrect_answer": "Gorgon"
-				}
+				"Minotaur"
+				,
+				"Pegasus"
+				,
+				"Gorgon"
+				
 			]
 		}
 	]

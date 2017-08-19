@@ -8,15 +8,12 @@
 			"question": "Which one of these was not a beach landing site in the Invasion of Normandy?",
 			"correct_answer": "Silver",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Gold"
-				},
-				{
-					"incorrect_answer": "Juno"
-				},
-				{
-					"incorrect_answer": "Sword"
-				}
+				"Gold"
+				,
+				"Juno"
+				,
+				"Sword"
+				
 			]
 		},
 		{
@@ -26,33 +23,27 @@
 			"question": "King Henry VIII was the second monarch of which European royal house?",
 			"correct_answer": "Tudor",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "York"
-				},
-				{
-					"incorrect_answer": "Stuart"
-				},
-				{
-					"incorrect_answer": "Lancaster"
-				}
+				"York"
+				,
+				"Stuart"
+				,
+				"Lancaster"
+				
 			]
 		},
 		{
 			"category": "History",
 			"type": "multiple",
 			"difficulty": "easy",
-			"question": "What was William Frederick Cody better known as?",
-			"correct_answer": "Buffalo Bill",
+			"question": "Which German field marshal was known as the `Desert Fox`?",
+			"correct_answer": "Erwin Rommel",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Billy the Kid"
-				},
-				{
-					"incorrect_answer": "Wild Bill Hickok"
-				},
-				{
-					"incorrect_answer": "Pawnee Bill"
-				}
+				"Ernst Busch"
+				,
+				"Wolfram Freiherr von Richthofen"
+				,
+				"Wilhelm List"
+				
 			]
 		},
 		{
@@ -62,15 +53,12 @@
 			"question": "Who discovered Penicillin?",
 			"correct_answer": "Alexander Flemming",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Marie Curie"
-				},
-				{
-					"incorrect_answer": "Alfred Nobel"
-				},
-				{
-					"incorrect_answer": "Louis Pasteur"
-				}
+				"Marie Curie"
+				,
+				"Alfred Nobel"
+				,
+				"Louis Pasteur"
+				
 			]
 		},
 		{
@@ -80,15 +68,12 @@
 			"question": "How many manned moon landings have there been?",
 			"correct_answer": "6",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "1"
-				},
-				{
-					"incorrect_answer": "3"
-				},
-				{
-					"incorrect_answer": "7"
-				}
+				"1"
+				,
+				"3"
+				,
+				"7"
+				
 			]
 		},
 		{
@@ -98,15 +83,27 @@
 			"question": "The idea of Socialism was articulated and advanced by whom?",
 			"correct_answer": "Karl Marx",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Vladimir Lenin"
-				},
-				{
-					"incorrect_answer": "Joseph Stalin"
-				},
-				{
-					"incorrect_answer": "Vladimir Putin"
-				}
+				"Vladimir Lenin"
+				,
+				"Joseph Stalin"
+				,
+				"Vladimir Putin"
+				
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "In what year did the Wall Street Crash take place?",
+			"correct_answer": "1929",
+			"incorrect_answers": [
+				"1932"
+				,
+				"1930"
+				,
+				"1925"
+				
 			]
 		},
 		{
@@ -116,51 +113,27 @@
 			"question": "Which one of these tanks was designed and operated by the United Kingdom?",
 			"correct_answer": "Tog II",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "M4 Sherman"
-				},
-				{
-					"incorrect_answer": "Tiger H1"
-				},
-				{
-					"incorrect_answer": "T-34"
-				}
+				"M4 Sherman"
+				,
+				"Tiger H1"
+				,
+				"T-34"
+				
 			]
 		},
 		{
 			"category": "History",
 			"type": "multiple",
 			"difficulty": "easy",
-			"question": "Which of the following African countries was most successful in resisting colonization?",
-			"correct_answer": "Ethiopia",
+			"question": "During WWII, in 1945, the United States dropped atomic bombs on the two Japanese cities of Hiroshima and what other city?",
+			"correct_answer": "Nagasaki",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "C&ocirc;te d&rsquo;Ivoire"
-				},
-				{
-					"incorrect_answer": "Congo"
-				},
-				{
-					"incorrect_answer": "Namibia"
-				}
-			]
-		},
-		{
-			"category": "History",
-			"type": "multiple",
-			"difficulty": "easy",
-			"question": "Which of the following ancient peoples was NOT classified as Hellenic (Greek)?",
-			"correct_answer": "Illyrians",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "Dorians"
-				},
-				{
-					"incorrect_answer": "Achaeans"
-				},
-				{
-					"incorrect_answer": "Ionians"
-				}
+				"Kawasaki"
+				,
+				"Tokyo"
+				,
+				"Kagoshima"
+				
 			]
 		},
 		{
@@ -170,15 +143,12 @@
 			"question": "Which famous world leader is famed for the saying, &quot;Let them eat cake&quot;, yet is rumored that he/she never said it at all?",
 			"correct_answer": "Marie Antoinette",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Czar Nicholas II"
-				},
-				{
-					"incorrect_answer": "Elizabeth I"
-				},
-				{
-					"incorrect_answer": "Henry VIII"
-				}
+				"Czar Nicholas II"
+				,
+				"Elizabeth I"
+				,
+				"Henry VIII"
+				
 			]
 		},
 		{
@@ -188,15 +158,12 @@
 			"question": "The original Roman alphabet lacked the following letters EXCEPT:",
 			"correct_answer": "X",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "W"
-				},
-				{
-					"incorrect_answer": "U"
-				},
-				{
-					"incorrect_answer": "J"
-				}
+				"W"
+				,
+				"U"
+				,
+				"J"
+				
 			]
 		},
 		{
@@ -206,15 +173,102 @@
 			"question": "Which of these countries remained neutral during World War II?",
 			"correct_answer": "Switzerland",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "United Kingdom"
-				},
-				{
-					"incorrect_answer": "France"
-				},
-				{
-					"incorrect_answer": "Italy"
-				}
+				"United Kingdom"
+				,
+				"France"
+				,
+				"Italy"
+				
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "The collapse of the Soviet Union took place in which year?",
+			"correct_answer": "1991",
+			"incorrect_answers": [
+				"1992"
+				,
+				"1891"
+				,
+				"1990"
+				
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What was Manfred von Richthofen&#039;s nickname?",
+			"correct_answer": "The Red Baron",
+			"incorrect_answers": [
+				"The High Flying Ace"
+				,
+				"The Blue Serpent "
+				,
+				"The Germany Gunner"
+				
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which modern day country is the region that was known as Phrygia in ancient times?",
+			"correct_answer": "Turkey",
+			"incorrect_answers": [
+				"Syria"
+				,
+				"Greece"
+				,
+				"Egypt"
+				
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "In which year did the Invasion of Kuwait by Iraq occur?",
+			"correct_answer": "1990",
+			"incorrect_answers": [
+				"1992"
+				,
+				"1988"
+				,
+				"1986"
+				
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "When did the Battle of the Somme begin?",
+			"correct_answer": "July 1st, 1916",
+			"incorrect_answers": [
+				"August 1st, 1916"
+				,
+				"July 2nd, 1916"
+				,
+				"June 30th, 1916"
+				
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Who was the first president of the United States?",
+			"correct_answer": "George Washington",
+			"incorrect_answers": [
+				"James Madison"
+				,
+				"Thomas Jefferson"
+				,
+				"James K. Polk"
+				
 			]
 		},
 		{
@@ -224,15 +278,27 @@
 			"question": "In 1720, England was in massive debt, and became in involved in the South Sea Bubble. Who was the main mastermind behind it?",
 			"correct_answer": "John Blunt",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Daniel Defoe"
-				},
-				{
-					"incorrect_answer": "Robert Harley"
-				},
-				{
-					"incorrect_answer": "John Churchill"
-				}
+				"Daniel Defoe"
+				,
+				"Robert Harley"
+				,
+				"John Churchill"
+				
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "When was Google founded?",
+			"correct_answer": "September 4, 1998",
+			"incorrect_answers": [
+				"October 9, 1997"
+				,
+				"December 12, 1989"
+				,
+				"Feburary 7th, 2000"
+				
 			]
 		},
 		{
@@ -242,15 +308,12 @@
 			"question": "Who was the Prime Minister of Japan when Japan declared war on the US?",
 			"correct_answer": "Hideki Tojo",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Michinomiya Hirohito"
-				},
-				{
-					"incorrect_answer": "Isoroku Yamamoto"
-				},
-				{
-					"incorrect_answer": "Fumimaro Konoe"
-				}
+				"Michinomiya Hirohito"
+				,
+				"Isoroku Yamamoto"
+				,
+				"Fumimaro Konoe"
+				
 			]
 		},
 		{
@@ -260,15 +323,12 @@
 			"question": "What was the first sport to have been played on the moon?",
 			"correct_answer": "Golf",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Football"
-				},
-				{
-					"incorrect_answer": "Tennis"
-				},
-				{
-					"incorrect_answer": "Soccer"
-				}
+				"Football"
+				,
+				"Tennis"
+				,
+				"Soccer"
+				
 			]
 		},
 		{
@@ -278,15 +338,27 @@
 			"question": "Who was the first prime minister of Canada?",
 			"correct_answer": "John Macdonald",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "John Abbott"
-				},
-				{
-					"incorrect_answer": "Alexander Mackenzie"
-				},
-				{
-					"incorrect_answer": "Robert Borden"
-				}
+				"John Abbott"
+				,
+				"Alexander Mackenzie"
+				,
+				"Robert Borden"
+				
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "How was Socrates executed?",
+			"correct_answer": "Poison",
+			"incorrect_answers": [
+				"Decapitation"
+				,
+				"Firing squad"
+				,
+				"Crucifixion "
+				
 			]
 		},
 		{
@@ -296,15 +368,12 @@
 			"question": "How long did World War II last?",
 			"correct_answer": "6 years",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "4 years"
-				},
-				{
-					"incorrect_answer": "5 years"
-				},
-				{
-					"incorrect_answer": "7 years"
-				}
+				"4 years"
+				,
+				"5 years"
+				,
+				"7 years"
+				
 			]
 		},
 		{
@@ -314,15 +383,12 @@
 			"question": "Which of the following countries was not an axis power during World War II?",
 			"correct_answer": " Soviet Union",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Italy"
-				},
-				{
-					"incorrect_answer": "Germany"
-				},
-				{
-					"incorrect_answer": "Japan"
-				}
+				"Italy"
+				,
+				"Germany"
+				,
+				"Japan"
+				
 			]
 		},
 		{
@@ -332,15 +398,42 @@
 			"question": "In 1939, Britain and France declared war on Germany after it invaded which country?",
 			"correct_answer": "Poland",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Czechoslovakia"
-				},
-				{
-					"incorrect_answer": "Austria"
-				},
-				{
-					"incorrect_answer": "Hungary"
-				}
+				"Czechoslovakia"
+				,
+				"Austria"
+				,
+				"Hungary"
+				
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "The &quot;Trail of Tears&quot; was a result of which United States President&#039;s Indian Removal Policy?",
+			"correct_answer": "Andrew Jackson",
+			"incorrect_answers": [
+				"Harry S. Truman"
+				,
+				"Martin Van Buren"
+				,
+				"John Quincy Adams"
+				
+			]
+		},
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Who was among those killed in the 2010 Smolensk, Russia plane crash tragedy?",
+			"correct_answer": "The Polish President",
+			"incorrect_answers": [
+				"Pope John Paul II"
+				,
+				"Bang-Ding Ow"
+				,
+				"Albert Putin"
+				
 			]
 		},
 		{
@@ -350,15 +443,12 @@
 			"question": "To what political party did Abraham Lincoln belong when elected POTUS?",
 			"correct_answer": "Republican",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Democrat"
-				},
-				{
-					"incorrect_answer": "Independent"
-				},
-				{
-					"incorrect_answer": "Whig"
-				}
+				"Democrat"
+				,
+				"Independent"
+				,
+				"Whig"
+				
 			]
 		}
 	]

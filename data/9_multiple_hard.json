@@ -5,18 +5,60 @@
 			"category": "General Knowledge",
 			"type": "multiple",
 			"difficulty": "hard",
+			"question": "Electronic music producer Kygo&#039;s popularity skyrocketed after a certain remix. Which song did he remix?",
+			"correct_answer": "Ed Sheeran - I See Fire",
+			"incorrect_answers": [
+				"Marvin Gaye - Sexual Healing"
+				,
+				"Coldplay - Midnight"
+				,
+				"a-ha - Take On Me"
+				
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What type of dog is &#039;Handsome Dan&#039;, the mascot of Yale University?",
+			"correct_answer": "Bulldog",
+			"incorrect_answers": [
+				"Yorkshire Terrier"
+				,
+				"Boxer"
+				,
+				"Pug"
+				
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What is the airspeed velocity of an unladen swallow?",
+			"correct_answer": "24 MPH",
+			"incorrect_answers": [
+				"15 MPH"
+				,
+				"20 MPH"
+				,
+				"200 MPH"
+				
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "hard",
 			"question": "The words &quot;bungalow&quot; and &quot;shampoo&quot; originate from the languages of which country?",
 			"correct_answer": "India",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Papua New Guinea"
-				},
-				{
-					"incorrect_answer": "Ethiopia"
-				},
-				{
-					"incorrect_answer": "China"
-				}
+				"Papua New Guinea"
+				,
+				"Ethiopia"
+				,
+				"China"
+				
 			]
 		},
 		{
@@ -26,15 +68,12 @@
 			"question": "When was &quot;YouTube&quot; founded?",
 			"correct_answer": "February 14, 2005",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "May 22, 2004"
-				},
-				{
-					"incorrect_answer": "September 12, 2005"
-				},
-				{
-					"incorrect_answer": "July 19, 2009"
-				}
+				"May 22, 2004"
+				,
+				"September 12, 2005"
+				,
+				"July 19, 2009"
+				
 			]
 		},
 		{
@@ -44,15 +83,12 @@
 			"question": "Before the 19th Century, the &quot;Living Room&quot; was originally called the...",
 			"correct_answer": "Parlor",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Open Room"
-				},
-				{
-					"incorrect_answer": "Sitting Room"
-				},
-				{
-					"incorrect_answer": "Loft"
-				}
+				"Open Room"
+				,
+				"Sitting Room"
+				,
+				"Loft"
+				
 			]
 		},
 		{
@@ -62,15 +98,27 @@
 			"question": "What year was Queen Elizabeth II born?",
 			"correct_answer": "1926",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "1923"
-				},
-				{
-					"incorrect_answer": "1929"
-				},
-				{
-					"incorrect_answer": "1930"
-				}
+				"1923"
+				,
+				"1929"
+				,
+				"1930"
+				
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which film star has his statue in Leicester Square?",
+			"correct_answer": "Charlie Chaplin",
+			"incorrect_answers": [
+				"Paul Newman"
+				,
+				"Rowan Atkinson "
+				,
+				"Alfred Hitchcock"
+				
 			]
 		},
 		{
@@ -80,15 +128,27 @@
 			"question": "Which of the following is not another name for the eggplant?",
 			"correct_answer": "Potimarron",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Brinjal"
-				},
-				{
-					"incorrect_answer": "Guinea Squash"
-				},
-				{
-					"incorrect_answer": "Melongene"
-				}
+				"Brinjal"
+				,
+				"Guinea Squash"
+				,
+				"Melongene"
+				
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which of the following chemicals are found in eggplant seeds?",
+			"correct_answer": "Nicotine",
+			"incorrect_answers": [
+				"Mescaline"
+				,
+				"Cyanide"
+				,
+				"Psilocybin"
+				
 			]
 		},
 		{
@@ -98,15 +158,12 @@
 			"question": "Sciophobia is the fear of what?",
 			"correct_answer": "Shadows",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Eating"
-				},
-				{
-					"incorrect_answer": "Bright lights"
-				},
-				{
-					"incorrect_answer": "Transportation"
-				}
+				"Eating"
+				,
+				"Bright lights"
+				,
+				"Transportation"
+				
 			]
 		},
 		{
@@ -116,15 +173,12 @@
 			"question": "Which of the following is an existing family in &quot;The Sims&quot;?",
 			"correct_answer": "The Goth Family",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "The Family"
-				},
-				{
-					"incorrect_answer": "The Simoleon Family"
-				},
-				{
-					"incorrect_answer": "The Proud Family"
-				}
+				"The Family"
+				,
+				"The Simoleon Family"
+				,
+				"The Proud Family"
+				
 			]
 		},
 		{
@@ -134,15 +188,12 @@
 			"question": "Which of these banks are NOT authorized to issue currency notes in Hong Kong?",
 			"correct_answer": "OCBC",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "HSBC"
-				},
-				{
-					"incorrect_answer": "Standard Chartered"
-				},
-				{
-					"incorrect_answer": "Bank of China"
-				}
+				"HSBC"
+				,
+				"Standard Chartered"
+				,
+				"Bank of China"
+				
 			]
 		},
 		{
@@ -152,15 +203,12 @@
 			"question": "What is the romanized Chinese word for &quot;airplane&quot;?",
 			"correct_answer": "Feiji",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Qiche"
-				},
-				{
-					"incorrect_answer": "Zongxian"
-				},
-				{
-					"incorrect_answer": "Huojian"
-				}
+				"Qiche"
+				,
+				"Zongxian"
+				,
+				"Huojian"
+				
 			]
 		},
 		{
@@ -170,15 +218,12 @@
 			"question": "What is the romanized Korean word for &quot;heart&quot;?",
 			"correct_answer": "Simjang",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Aejeong"
-				},
-				{
-					"incorrect_answer": "Jeongsin"
-				},
-				{
-					"incorrect_answer": "Segseu"
-				}
+				"Aejeong"
+				,
+				"Jeongsin"
+				,
+				"Segseu"
+				
 			]
 		},
 		{
@@ -188,15 +233,57 @@
 			"question": "What is the romanized Arabic word for &quot;moon&quot;?",
 			"correct_answer": "Qamar",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Najma"
-				},
-				{
-					"incorrect_answer": "Kawkab"
-				},
-				{
-					"incorrect_answer": "Shams"
-				}
+				"Najma"
+				,
+				"Kawkab"
+				,
+				"Shams"
+				
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which musician has collaborated with American producer Porter Robinson and released the 2016 song &quot;Shelter&quot;?",
+			"correct_answer": "Madeon",
+			"incorrect_answers": [
+				"Mat Zo"
+				,
+				"deadmau5"
+				,
+				"Zedd"
+				
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "The Swedish word &quot;Grunka&quot; means what in English?",
+			"correct_answer": "Thing",
+			"incorrect_answers": [
+				"People"
+				,
+				"Place"
+				,
+				"Pineapple"
+				
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Disney&#039;s Haunted Mansion is home to a trio of Hitchhiking Ghosts. Which of these is NOT one of them?",
+			"correct_answer": "Harry",
+			"incorrect_answers": [
+				"Gus"
+				,
+				"Phineas"
+				,
+				"Ezra"
+				
 			]
 		},
 		{
@@ -206,15 +293,27 @@
 			"question": "How long did it take the motorized window washers of the original World Trade Center to clean the entire exterior of the building?",
 			"correct_answer": "1 Month",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "3 Weeks"
-				},
-				{
-					"incorrect_answer": "1 Week"
-				},
-				{
-					"incorrect_answer": "2 Months"
-				}
+				"3 Weeks"
+				,
+				"1 Week"
+				,
+				"2 Months"
+				
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which of the following languages does NOT use gender as a part of its grammar?",
+			"correct_answer": "Turkish",
+			"incorrect_answers": [
+				"German"
+				,
+				"Danish"
+				,
+				"Polish"
+				
 			]
 		},
 		{
@@ -224,15 +323,12 @@
 			"question": "Which one of these Swedish companies was founded in 1943?",
 			"correct_answer": "IKEA",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "H &amp; M"
-				},
-				{
-					"incorrect_answer": "Lindex"
-				},
-				{
-					"incorrect_answer": "Clas Ohlson"
-				}
+				"H &amp; M"
+				,
+				"Lindex"
+				,
+				"Clas Ohlson"
+				
 			]
 		},
 		{
@@ -242,15 +338,12 @@
 			"question": "How many calories are in a 355 ml can of Pepsi Cola?",
 			"correct_answer": "150",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "200"
-				},
-				{
-					"incorrect_answer": "100"
-				},
-				{
-					"incorrect_answer": "155"
-				}
+				"200"
+				,
+				"100"
+				,
+				"155"
+				
 			]
 		},
 		{
@@ -260,15 +353,12 @@
 			"question": "De Eemhof, Port Zelande and Het Heijderbos are holiday villas owned by what company?",
 			"correct_answer": "Center Parcs",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Yelloh Village"
-				},
-				{
-					"incorrect_answer": "Keycamp"
-				},
-				{
-					"incorrect_answer": "Villa Plus"
-				}
+				"Yelloh Village"
+				,
+				"Keycamp"
+				,
+				"Villa Plus"
+				
 			]
 		},
 		{
@@ -278,15 +368,27 @@
 			"question": "What year was the RoboSapien toy robot released?",
 			"correct_answer": "2004",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "2000"
-				},
-				{
-					"incorrect_answer": "2001"
-				},
-				{
-					"incorrect_answer": "2006"
-				}
+				"2000"
+				,
+				"2001"
+				,
+				"2006"
+				
+			]
+		},
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "According to Fair Works Australia, how long do you have to work to get Long Service Leave?",
+			"correct_answer": "7 years",
+			"incorrect_answers": [
+				"2 years"
+				,
+				"8 years"
+				,
+				"6 months"
+				
 			]
 		},
 		{
@@ -296,15 +398,12 @@
 			"question": "According to the 2014-2015 Australian Bureau of Statistics, what percentage of Australians were born overseas?",
 			"correct_answer": "28%",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "13%"
-				},
-				{
-					"incorrect_answer": "20%"
-				},
-				{
-					"incorrect_answer": "7%"
-				}
+				"13%"
+				,
+				"20%"
+				,
+				"7%"
+				
 			]
 		},
 		{
@@ -314,15 +413,12 @@
 			"question": "What was Bank of America originally established as?",
 			"correct_answer": "Bank of Italy",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Bank of Long Island"
-				},
-				{
-					"incorrect_answer": "Bank of Pennsylvania"
-				},
-				{
-					"incorrect_answer": "Bank of Charlotte"
-				}
+				"Bank of Long Island"
+				,
+				"Bank of Pennsylvania"
+				,
+				"Bank of Charlotte"
+				
 			]
 		},
 		{
@@ -332,15 +428,12 @@
 			"question": "Which product did Nokia, the telecommunications company, originally sell?",
 			"correct_answer": "Paper",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Phones"
-				},
-				{
-					"incorrect_answer": "Computers"
-				},
-				{
-					"incorrect_answer": "Processors"
-				}
+				"Phones"
+				,
+				"Computers"
+				,
+				"Processors"
+				
 			]
 		},
 		{
@@ -350,15 +443,12 @@
 			"question": "What does the Latin phrase &quot;Veni, vidi, vici&quot; translate into English?",
 			"correct_answer": "I came, I saw, I conquered",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "See no evil, hear no evil, speak no evil"
-				},
-				{
-					"incorrect_answer": "Life, liberty, and happiness"
-				},
-				{
-					"incorrect_answer": "Past, present, and future"
-				}
+				"See no evil, hear no evil, speak no evil"
+				,
+				"Life, liberty, and happiness"
+				,
+				"Past, present, and future"
+				
 			]
 		}
 	]

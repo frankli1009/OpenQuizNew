@@ -5,18 +5,45 @@
 			"category": "Entertainment: Television",
 			"type": "multiple",
 			"difficulty": "easy",
+			"question": "What was the name of the police officer in the cartoon &quot;Top Cat&quot;?",
+			"correct_answer": "Dibble",
+			"incorrect_answers": [
+				"Barbrady"
+				,
+				"Mahoney"
+				,
+				"Murphy"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
 			"question": "In the TV show &quot;Cheers&quot;, Sam Malone was a former relief pitcher for which baseball team?",
 			"correct_answer": "Boston Red Sox",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "New York Mets"
-				},
-				{
-					"incorrect_answer": "Baltimore Orioles"
-				},
-				{
-					"incorrect_answer": "Milwaukee Brewers"
-				}
+				"New York Mets"
+				,
+				"Baltimore Orioles"
+				,
+				"Milwaukee Brewers"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which character was played by Dustin Diamond in the sitcom &#039;Saved by the Bell&#039;?",
+			"correct_answer": "Screech",
+			"incorrect_answers": [
+				"Zack"
+				,
+				"Mr. Belding"
+				,
+				"A.C. Slater"
+				
 			]
 		},
 		{
@@ -26,15 +53,87 @@
 			"question": "In the TV show &#039;M*A*S*H&#039;, what was the nickname of Corporal Walter O&#039;Reilly?",
 			"correct_answer": "Radar",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Hawkeye"
-				},
-				{
-					"incorrect_answer": "Hot Lips"
-				},
-				{
-					"incorrect_answer": "Trapper"
-				}
+				"Hawkeye"
+				,
+				"Hot Lips"
+				,
+				"Trapper"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Who played Agent Fox Mulder in the TV sci-fi drana &#039;The X-Files&#039;?",
+			"correct_answer": "David Duchovny",
+			"incorrect_answers": [
+				"Gillian Anderson"
+				,
+				"Robert Patrick"
+				,
+				"Mitch Pileggi"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Who is the star of the AMC series Breaking Bad?",
+			"correct_answer": "Walter White",
+			"incorrect_answers": [
+				"Saul Goodman"
+				,
+				"Jesse Pinkman"
+				,
+				"Skyler White"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "In the original Star Trek TV series, what was Captain James T. Kirk&#039;s middle name?",
+			"correct_answer": "Tiberius",
+			"incorrect_answers": [
+				"Trevor"
+				,
+				"Travis"
+				,
+				"Tyrone"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Grant Gustin plays which superhero on the CW show of the same name?",
+			"correct_answer": "The Flash",
+			"incorrect_answers": [
+				"The Arrow"
+				,
+				"Black Canary"
+				,
+				"Daredevil"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "In which British seaside town was the BBC sitcom &quot;Fawlty Towers&quot; set?",
+			"correct_answer": "Torquay",
+			"incorrect_answers": [
+				"Blackpool"
+				,
+				"Bournemouth"
+				,
+				"Great Yarmouth"
+				
 			]
 		},
 		{
@@ -44,15 +143,42 @@
 			"question": "Which of these Bojack Horseman characters is a human?",
 			"correct_answer": "Todd Chavez",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Lennie Turtletaub"
-				},
-				{
-					"incorrect_answer": "Princess Carolyn"
-				},
-				{
-					"incorrect_answer": "Tom Jumbo-Grumbo"
-				}
+				"Lennie Turtletaub"
+				,
+				"Princess Carolyn"
+				,
+				"Tom Jumbo-Grumbo"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "In Avatar: The Last Airbender, which element does Aang begin to learn after being defrosted?",
+			"correct_answer": "Water",
+			"incorrect_answers": [
+				"Air"
+				,
+				"Earth"
+				,
+				"Fire"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which of these characters in &quot;Stranger Things&quot; has the power of Telekinesis?",
+			"correct_answer": "Eleven",
+			"incorrect_answers": [
+				"Mike"
+				,
+				"Lucas"
+				,
+				"Karen"
+				
 			]
 		},
 		{
@@ -62,15 +188,12 @@
 			"question": "In the show Stranger Things, what is Eleven&#039;s favorite breakfast food?",
 			"correct_answer": "Eggo Waffles",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Toast"
-				},
-				{
-					"incorrect_answer": "Captain Crunch"
-				},
-				{
-					"incorrect_answer": "Bacon and Eggs"
-				}
+				"Toast"
+				,
+				"Captain Crunch"
+				,
+				"Bacon and Eggs"
+				
 			]
 		},
 		{
@@ -80,15 +203,12 @@
 			"question": "Guy&#039;s Grocery Games is hosted by which presenter?",
 			"correct_answer": "Guy Fieri",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Guy Martin"
-				},
-				{
-					"incorrect_answer": "Guy Ritchie"
-				},
-				{
-					"incorrect_answer": "Ainsley Harriott"
-				}
+				"Guy Martin"
+				,
+				"Guy Ritchie"
+				,
+				"Ainsley Harriott"
+				
 			]
 		},
 		{
@@ -98,15 +218,12 @@
 			"question": "The &quot;Psycho&quot; series of videos on YouTube was created by which of the following?",
 			"correct_answer": "RiDGiD STUDiOS",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Dan Bell"
-				},
-				{
-					"incorrect_answer": "Billy Familia"
-				},
-				{
-					"incorrect_answer": "VeganGainz"
-				}
+				"Dan Bell"
+				,
+				"Billy Familia"
+				,
+				"VeganGainz"
+				
 			]
 		},
 		{
@@ -116,15 +233,57 @@
 			"question": "How many seasons did &quot;Stargate SG-1&quot; have?",
 			"correct_answer": "10",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "3"
-				},
-				{
-					"incorrect_answer": "7"
-				},
-				{
-					"incorrect_answer": "12"
-				}
+				"3"
+				,
+				"7"
+				,
+				"12"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Who is the main character in the show &quot;Burn Notice&quot;?",
+			"correct_answer": "Michael Westen",
+			"incorrect_answers": [
+				"Sam Axe"
+				,
+				"Fiona Glenanne"
+				,
+				"Madeline Westen"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which company has exclusive rights to air episodes of the &quot;The Grand Tour&quot;?",
+			"correct_answer": "Amazon",
+			"incorrect_answers": [
+				"Netflix"
+				,
+				"BBC"
+				,
+				"CCTV"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "In the Star Trek universe, what color is Vulcan blood?",
+			"correct_answer": "Green",
+			"incorrect_answers": [
+				"Blue"
+				,
+				"Red"
+				,
+				"Purple"
+				
 			]
 		},
 		{
@@ -134,15 +293,27 @@
 			"question": "What country is Cory in the House set in?",
 			"correct_answer": "The United States of America",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Canada"
-				},
-				{
-					"incorrect_answer": "Venezuala"
-				},
-				{
-					"incorrect_answer": "England"
-				}
+				"Canada"
+				,
+				"Venezuala"
+				,
+				"England"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "On the show &quot;Rick and Morty&quot;, in episode &quot;Total Rickall&quot;, who was a parasite?",
+			"correct_answer": "Pencilvester",
+			"incorrect_answers": [
+				"Beth Smith"
+				,
+				"Summer Smith"
+				,
+				"Mr. Poopy Butthole"
+				
 			]
 		},
 		{
@@ -152,15 +323,12 @@
 			"question": "In Game of Thrones, what continent lies across the Narrow Sea from Westeros?",
 			"correct_answer": "Essos",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Easteros"
-				},
-				{
-					"incorrect_answer": "Westereast"
-				},
-				{
-					"incorrect_answer": "Esuntos"
-				}
+				"Easteros"
+				,
+				"Westereast"
+				,
+				"Esuntos"
+				
 			]
 		},
 		{
@@ -170,15 +338,27 @@
 			"question": "In Game of Thrones, what is Littlefinger&#039;s real name?",
 			"correct_answer": "Petyr Baelish",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Podrick Payne"
-				},
-				{
-					"incorrect_answer": "Lancel Lannister"
-				},
-				{
-					"incorrect_answer": "Torrhen Karstark"
-				}
+				"Podrick Payne"
+				,
+				"Lancel Lannister"
+				,
+				"Torrhen Karstark"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "When did the TV show Rick and Morty first air on Adult Swim?",
+			"correct_answer": "2013",
+			"incorrect_answers": [
+				"2014"
+				,
+				"2016"
+				,
+				"2015"
+				
 			]
 		},
 		{
@@ -188,15 +368,12 @@
 			"question": "In Supernatural, what&#039;s is Sam&#039;s brothers name?",
 			"correct_answer": "Dean",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Dave"
-				},
-				{
-					"incorrect_answer": "Steve"
-				},
-				{
-					"incorrect_answer": "Mike"
-				}
+				"Dave"
+				,
+				"Steve"
+				,
+				"Mike"
+				
 			]
 		},
 		{
@@ -206,15 +383,12 @@
 			"question": "In DuckTales, what is the name of the city where all the main characters live?",
 			"correct_answer": "Duckburg",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Duckwing"
-				},
-				{
-					"incorrect_answer": "Tailspin"
-				},
-				{
-					"incorrect_answer": "Wingford"
-				}
+				"Duckwing"
+				,
+				"Tailspin"
+				,
+				"Wingford"
+				
 			]
 		},
 		{
@@ -224,15 +398,12 @@
 			"question": "In the television show Breaking Bad, what is the street name of Walter and Jesse&#039;s notorious product?",
 			"correct_answer": "Blue Sky",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Baby Blue"
-				},
-				{
-					"incorrect_answer": "Rock Candy"
-				},
-				{
-					"incorrect_answer": "Pure Glass"
-				}
+				"Baby Blue"
+				,
+				"Rock Candy"
+				,
+				"Pure Glass"
+				
 			]
 		},
 		{
@@ -242,33 +413,57 @@
 			"question": "What was the name of the the first episode of Doctor Who to air in 1963?",
 			"correct_answer": "An Unearthly Child",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "The Daleks"
-				},
-				{
-					"incorrect_answer": "The Aztecs"
-				},
-				{
-					"incorrect_answer": "The Edge of Destruction"
-				}
+				"The Daleks"
+				,
+				"The Aztecs"
+				,
+				"The Edge of Destruction"
+				
 			]
 		},
 		{
 			"category": "Entertainment: Television",
 			"type": "multiple",
 			"difficulty": "easy",
-			"question": "What is the real name of the famous spanish humorist, El Risitas?",
-			"correct_answer": "Juan Joya Borga",
+			"question": "In the show &quot;Tengen Toppa Gurren Lagann&quot; what is the name of the character who force everyone to live underground?",
+			"correct_answer": "Lordgenome",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Gabriel Garcia Marquez"
-				},
-				{
-					"incorrect_answer": "Jesus Quintero"
-				},
-				{
-					"incorrect_answer": "Ernesto Guevara"
-				}
+				"Kingloname"
+				,
+				"Lord Genome"
+				,
+				"King Loname"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What is the name of the main character in &quot;The Flash&quot; TV series?",
+			"correct_answer": "Barry Allen",
+			"incorrect_answers": [
+				"Oliver Queen"
+				,
+				"Bart Allen"
+				,
+				"Bruce Wayne"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which show is known for the songs &quot;You are a Pirate&quot;, &quot;Cooking by the Book&quot; and &quot;We Are Number One&quot;?",
+			"correct_answer": "LazyTown",
+			"incorrect_answers": [
+				"Sofia the First"
+				,
+				"DuckTales"
+				,
+				"Tom and Jerry"
+				
 			]
 		},
 		{
@@ -278,15 +473,27 @@
 			"question": "In Star Trek: The Next Generation, what is the name of Data&#039;s cat?",
 			"correct_answer": "Spot",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Mittens"
-				},
-				{
-					"incorrect_answer": "Tom"
-				},
-				{
-					"incorrect_answer": "Kitty"
-				}
+				"Mittens"
+				,
+				"Tom"
+				,
+				"Kitty"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Who won Big Brother 2014 UK?",
+			"correct_answer": "Helen Wood",
+			"incorrect_answers": [
+				"Christopher Hall"
+				,
+				"Pauline Bennett"
+				,
+				"Pavandeep &quot;Pav&quot; Paul"
+				
 			]
 		},
 		{
@@ -296,15 +503,27 @@
 			"question": "In season one of the Netflix political drama &quot;House of Cards&quot;, what government position does Frank Underwood hold?",
 			"correct_answer": "House Majority Whip",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Attorney General"
-				},
-				{
-					"incorrect_answer": "President"
-				},
-				{
-					"incorrect_answer": "Chief of Staff"
-				}
+				"Attorney General"
+				,
+				"President"
+				,
+				"Chief of Staff"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "In &quot;Breaking Bad&quot;, Walter White is a high school teacher diagnosed with which form of cancer?",
+			"correct_answer": "Lung Cancer",
+			"incorrect_answers": [
+				"Prostate Cancer"
+				,
+				"Brain Cancer"
+				,
+				"Testicular Cancer"
+				
 			]
 		},
 		{
@@ -314,15 +533,12 @@
 			"question": "British actor David Morrissey stars as which role in &quot;The Walking Dead&quot;?",
 			"correct_answer": "The Governor",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Negan"
-				},
-				{
-					"incorrect_answer": "Rick Grimes"
-				},
-				{
-					"incorrect_answer": "Daryl Dixon"
-				}
+				"Negan"
+				,
+				"Rick Grimes"
+				,
+				"Daryl Dixon"
+				
 			]
 		},
 		{
@@ -332,15 +548,42 @@
 			"question": "Which of these Disney shows is classified as an anime?",
 			"correct_answer": "Stitch!",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "Cory in the House"
-				},
-				{
-					"incorrect_answer": "The Emperor&#039;s New School"
-				},
-				{
-					"incorrect_answer": "Hannah Montana"
-				}
+				"Cory in the House"
+				,
+				"The Emperor&#039;s New School"
+				,
+				"Hannah Montana"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "When Donkey Kong died in the &quot;Donkey Kong Country&quot; episode &quot;It&#039;s a Wonderful Life&quot;, who was his guardian angel?",
+			"correct_answer": "Eddie the Mean Old Yeti",
+			"incorrect_answers": [
+				"Kiddy Kong"
+				,
+				"Diddy Kong"
+				,
+				"King K. Rool"
+				
+			]
+		},
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "How many seasons did the Sci-Fi television show &quot;Stargate Atlantis&quot; have?",
+			"correct_answer": "5",
+			"incorrect_answers": [
+				"10"
+				,
+				"2"
+				,
+				"7"
+				
 			]
 		},
 		{
@@ -350,15 +593,12 @@
 			"question": "How many seasons did the Sci-Fi television show &quot;Stargate Universe&quot; have?",
 			"correct_answer": "2",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "10"
-				},
-				{
-					"incorrect_answer": "5"
-				},
-				{
-					"incorrect_answer": "3"
-				}
+				"10"
+				,
+				"5"
+				,
+				"3"
+				
 			]
 		}
 	]

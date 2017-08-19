@@ -8,9 +8,8 @@
 			"question": "Seoul is the capital of North Korea.",
 			"correct_answer": "False",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "True"
-				}
+				"True"
+				
 			]
 		},
 		{
@@ -20,45 +19,19 @@
 			"question": "The flag of South Africa features 7 colours.",
 			"correct_answer": "False",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "True"
-				}
+				"True"
+				
 			]
 		},
 		{
 			"category": "Geography",
 			"type": "boolean",
 			"difficulty": "medium",
-			"question": "The surface area of Russia is slightly larger than that of the dwarf planet Pluto.",
+			"question": "The Southeast Asian island of Borneo is politically divided among 3 countries.",
 			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
-			]
-		},
-		{
-			"category": "Geography",
-			"type": "boolean",
-			"difficulty": "medium",
-			"question": "Israel is 7 hours ahead of New York.",
-			"correct_answer": "True",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
-			]
-		},
-		{
-			"category": "Geography",
-			"type": "boolean",
-			"difficulty": "medium",
-			"question": "The longest place named in the United States is Lake Chargoggagoggmanchauggagoggchaubunagungamaugg, located near Webster, MA.",
-			"correct_answer": "True",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"False"
+				
 			]
 		},
 		{
@@ -68,9 +41,41 @@
 			"question": "Vietnam is the only country in the world that starts with V. ",
 			"correct_answer": "False",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "True"
-				}
+				"True"
+				
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "boolean",
+			"difficulty": "medium",
+			"question": "There exists an island named &quot;Java&quot;.",
+			"correct_answer": "True",
+			"incorrect_answers": [
+				"False"
+				
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "boolean",
+			"difficulty": "medium",
+			"question": "&quot;Mongolia&quot; was a part of the now non-existent U.S.S.R.",
+			"correct_answer": "False",
+			"incorrect_answers": [
+				"True"
+				
+			]
+		},
+		{
+			"category": "Geography",
+			"type": "boolean",
+			"difficulty": "medium",
+			"question": "The Sonoran Desert is located in eastern Africa.",
+			"correct_answer": "False",
+			"incorrect_answers": [
+				"True"
+				
 			]
 		},
 		{
@@ -80,21 +85,8 @@
 			"question": "The capital of the US State Ohio is the city of Chillicothe.",
 			"correct_answer": "False",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "True"
-				}
-			]
-		},
-		{
-			"category": "Geography",
-			"type": "boolean",
-			"difficulty": "medium",
-			"question": "Antarctica is the largest desert in the world.",
-			"correct_answer": "True",
-			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"True"
+				
 			]
 		},
 		{
@@ -104,21 +96,19 @@
 			"question": "You could walk from Norway to North Korea while only passing through Russia.",
 			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "False"
-				}
+				"False"
+				
 			]
 		},
 		{
 			"category": "Geography",
 			"type": "boolean",
 			"difficulty": "medium",
-			"question": "Norway has a larger land area than Sweden.",
-			"correct_answer": "False",
+			"question": "Japan has left-hand side traffic.",
+			"correct_answer": "True",
 			"incorrect_answers": [
-				{
-					"incorrect_answer": "True"
-				}
+				"False"
+				
 			]
 		}
 	]
