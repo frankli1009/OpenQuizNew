@@ -16,7 +16,7 @@
         <!-- GOOGLE FONTS --> 
         <link href="https://fonts.googleapis.com/css?family=Petit+Formal+Script|Ruslan+Display|Shrikhand|Boogaloo" rel="stylesheet">
         <!-- BOOTSTRAP CDN--> 
-        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/bootstrap.min.css" rel="stylesheet">
         <!-- CSS RESET NORMALIZE -->
         <link href="css/Normalizer.css" rel="stylesheet" type="text/css">
         <!-- My Own CSS -->
@@ -51,30 +51,30 @@
                 <div id="mainsettings" class="col-sm-3 mainSettings">
                     <div id="settings" class="settings">
                         <div>
-                            <p class="label"><label for="quizcount">Number of Questions(5-50):</label></p>
-                            <p><input type="number" id="quizcount" name="quizcount" value="10" title="Enter the number of questions (5-50)" placeholder="Enter a number" class="inputNum"></p>
+                            <p class="label"><label for="quizcount">Amount of Questions(5-50):</label></p>
+                            <p><input type="number" id="quizcount" name="quizcount" value="10" title="Enter the amount of questions (5-50)" placeholder="Enter a number" class="inputNum"></p>
                         </div>
-                        <div class="">
+                        <div>
                             <p class="label">Select Category</p>
                             <p><select id="quizcategory" name="category" class="inputNum">
                                 <option value="">Any Category</option>
                             </select></p>
                         </div>
-                        <div class="">
+                        <div>
+                            <p class="label">Select Type:</p>
+                            <p><select id="quiztype" name="quiztype" class="inputNum">
+                                <option value="">Any Type</option>
+                                <option value="multiple">Multiple Choice</option>
+                                <option value="boolean">True / False</option>
+                            </select></p>
+                        </div>
+                        <div>
                             <p class="label">Select Difficulty:</p>
                             <p><select id="quizdifficulty" name="category" class="inputNum">
                                 <option value="">Any Difficulty</option>
                                 <option value="easy">Easy</option>
                                 <option value="medium">Medium</option>
                                 <option value="hard">Hard</option>
-                            </select></p>
-                        </div>
-                        <div class="">
-                            <p class="label">Select Type:</p>
-                            <p><select id="quiztype" name="quiztype" class="inputNum">
-                                <option value="">Any Type</option>
-                                <option value="multiple">Multiple Choice</option>
-                                <option value="boolean">True / False</option>
                             </select></p>
                         </div>
                         <div>
@@ -124,26 +124,26 @@
                             <!-- Available Answers Area : bottom -->
                             <div class="questionAnswers">
                                 <div id="quesrow1" class="row answers">
-                                    <div id="answer1" class="col-xs-6 text-center answerBorder borderRightYellow">
-                                        <div id="ques20" class="answerDiv">
-                                            <p id="ques30"><span id="ques10"></span></p>
+                                    <div id="answer0" class="col-xs-6 text-center answerBorder borderRightYellow">
+                                        <div id="quest20" class="answerDiv">
+                                            <p id="quest30"><span id="quest10"></span></p>
                                         </div>
                                     </div>     
-                                    <div id="answer2" class="col-xs-6 text-center answerBorder">
-                                        <div id="ques21" class="answerDiv">
-                                            <p id="ques31"><span id="ques11"></span></p>
+                                    <div id="answer1" class="col-xs-6 text-center answerBorder">
+                                        <div id="quest21" class="answerDiv">
+                                            <p id="quest31"><span id="quest11"></span></p>
                                         </div>
                                     </div>     
                                 </div>
                                 <div id="quesrow2" class="row answers">
-                                    <div id="answer3" class="col-xs-6 fourAvailAnswers text-center answerBorder borderRightYellow">
-                                        <div id="ques22" class="answerDiv">
-                                            <p id="ques32"><span id="ques12"></span></p>
+                                    <div id="answer2" class="col-xs-6 fourAvailAnswers text-center answerBorder borderRightYellow">
+                                        <div id="quest22" class="answerDiv">
+                                            <p id="quest32"><span id="quest12"></span></p>
                                         </div>
                                     </div>     
-                                    <div id="answer4" class="col-xs-6 fourAvailAnswers answerBorder text-center">
-                                        <div id="ques23" class="answerDiv">
-                                            <p id="ques33"><span id="ques13"></span></p>
+                                    <div id="answer3" class="col-xs-6 fourAvailAnswers answerBorder text-center">
+                                        <div id="quest23" class="answerDiv">
+                                            <p id="quest33"><span id="quest13"></span></p>
                                         </div>
                                     </div>     
                                 </div>
@@ -218,6 +218,7 @@
         <script src="js/jquery-3.2.1.min.js"></script> 
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
         <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+        <script src="js/localData.js"></script>
         <script src="js/myScript.js"></script>
     </body>
 </html>

@@ -9,9 +9,246 @@
         
         <p>Due to connection error or api service failed, sometimes the application may not have the response from the https://opentdb.com, so I need to get some sample quiz data to local storage for using in such circumtances.</p>
         
+        <div>
+            <button id="getcategory">Get Categories</button>
+            <span id="rescategory"></span>
+        </div>
+        <div>
+            <select id="categories" name="categories" style="{width: '200px'}">
+                <option value="">All Categories</option>
+            </select>
+            <button id="getquestions">Get Questions</button>
+            <span>success: </span><span id="resquestion"></span>
+            <span> | failure: </span><span id="resquestionf"></span>
+        </div>
+        
+        
         <script src="js/jquery-3.2.1.min.js"></script> 
         
         <script>
+            var types = ["multiple", "boolean"];
+            var difficulties = ["easy", "medium", "hard"];
+            
+            var categoriesData = null;
+            
+            $.getJSON("data/categories.json")
+            .done(function(data) {
+                categoriesData = data;
+                categoriesData.trivia_categories.forEach(function(category) {
+                    $("#categories").append($("<option>").text(category.name).attr("value", category.id));
+                });
+                
+            });
+            
+            $("#getcategory").on("click", function() {
+                $("#categories option").remove();
+                $("#categories").append("<option>").text("All Categories").attr("value", "");
+                
+                var i= 0;
+                //get all categories
+                $.getJSON("https://opentdb.com/api_category.php")
+                .done(function(data) {
+                    console.log(data.trivia_categories);
+                    categoriesData = data;
+                    
+                    var jsonData = '{\n\t"trivia_categories": [\n';
+                    data.trivia_categories.forEach(function(category, index) {
+                        $("#categories").append($("<option>").text(category.name).attr("value", category.id));
+                        //console.log(category.name);
+                        i++;
+                        jsonData += '\t\t{\n\t\t\t"id": "'+category.id+'",\n';
+                        jsonData += '\t\t\t"name": "'+category.name+'",\n';
+                        jsonData += '\t\t\t"types": [\n';
+                        jsonData += '\t\t\t\t{\n';
+                        jsonData += '\t\t\t\t\t"type": "boolean",\n';
+                        jsonData += '\t\t\t\t\t"difficulties": [\n';
+                        jsonData += '\t\t\t\t\t\t{\n';
+                        jsonData += '\t\t\t\t\t\t\t"difficulty": "easy",\n';
+                        jsonData += '\t\t\t\t\t\t\t"qcount": "0"\n';
+                        jsonData += '\t\t\t\t\t\t},\n';
+                        jsonData += '\t\t\t\t\t\t{\n';
+                        jsonData += '\t\t\t\t\t\t\t"difficulty": "medium",\n';
+                        jsonData += '\t\t\t\t\t\t\t"qcount": "0"\n';
+                        jsonData += '\t\t\t\t\t\t},\n';
+                        jsonData += '\t\t\t\t\t\t{\n';
+                        jsonData += '\t\t\t\t\t\t\t"difficulty": "hard",\n';
+                        jsonData += '\t\t\t\t\t\t\t"qcount": "0"\n';
+                        jsonData += '\t\t\t\t\t\t}\n';
+                        jsonData += '\t\t\t\t\t]\n';
+                        jsonData += '\t\t\t\t},\n';
+                        jsonData += '\t\t\t\t{\n';
+                        jsonData += '\t\t\t\t\t"type": "multiple",\n';
+                        jsonData += '\t\t\t\t\t"difficulties": [\n';
+                        jsonData += '\t\t\t\t\t\t{\n';
+                        jsonData += '\t\t\t\t\t\t\t"difficulty": "easy",\n';
+                        jsonData += '\t\t\t\t\t\t\t"qcount": "0"\n';
+                        jsonData += '\t\t\t\t\t\t},\n';
+                        jsonData += '\t\t\t\t\t\t{\n';
+                        jsonData += '\t\t\t\t\t\t\t"difficulty": "medium",\n';
+                        jsonData += '\t\t\t\t\t\t\t"qcount": "0"\n';
+                        jsonData += '\t\t\t\t\t\t},\n';
+                        jsonData += '\t\t\t\t\t\t{\n';
+                        jsonData += '\t\t\t\t\t\t\t"difficulty": "hard",\n';
+                        jsonData += '\t\t\t\t\t\t\t"qcount": "0"\n';
+                        jsonData += '\t\t\t\t\t\t}\n';
+                        jsonData += '\t\t\t\t\t]\n';
+                        jsonData += '\t\t\t\t}\n';
+                        jsonData += '\t\t\t]\n';
+                        jsonData += '\t\t}';
+                        
+                        if(i<data.trivia_categories.length)
+                            jsonData += ',\n';
+                    });
+                    jsonData += "\n\t]\n}";
+                    download(jsonData, "categories.json", 'application/json');
+                    $("#rescategory").text("success");
+                })
+                .fail(function() {
+                    console.error("fail to get categories");
+                    $("#rescategory").text("failure");
+                });                
+            });
+            
+            $("#getquestions").on("click", function() {
+                var category = parseInt($("#categories").val());
+                console.log("category: "+category);
+                
+                doGetQuestions(category);
+            });
+            
+            //get category object from category 
+            function getCategoryObject(category) {
+                if(category === 0) return null;
+
+                for(var i=0; i<categoriesData.trivia_categories.length; i++) {
+                    var item = categoriesData.trivia_categories[i];
+                    //console.log("item.id: "+item.id+", category: "+category);
+                    if(parseInt(item.id) === parseInt(category)) {
+                        //console.log("find one");
+                        return item;
+                    } 
+                }
+                return null;
+            }
+
+            //get type object from catgory object and type
+            function getTypeObject(objCategory, type) {
+                if(objCategory === null) return null;
+
+                for(var i=0; i<objCategory.types.length; i++) {
+                    var item = objCategory.types[i];
+                    if(item.type === type) return item;
+                }
+                return null;
+            }
+
+            //get difficulty object from type object and difficulty
+            function getDifficultyObject(objType, difficulty) {
+                if(objType === null) return null;
+
+                for(var i=0; i<objType.difficulties.length; i++) {
+                    var item = objType.difficulties[i];
+
+                    if(item.difficulty === difficulty) return item;
+                }
+                return null;
+            }
+
+            async function doGetQuestions(incategory) {
+
+                var bCategoryDataChanged = false;
+                
+                for(var qamount = 50; qamount > 0; qamount -= 10) {
+                    console.log("qamount: "+qamount);
+                    
+                    for(var c=0; c<categoriesData.trivia_categories.length; c++) {
+                        var objCategory = categoriesData.trivia_categories[c];
+                        
+                        if((incategory === 0) || (isNaN(incategory)) || (parseInt(objCategory.id) === incategory)) {
+                            var category = parseInt(objCategory.id);
+                            console.log("category: "+category);
+                        
+                            var url = "https://opentdb.com/api.php?amount="+qamount+"&category=" + category;
+                            $("#resquestion").text(0);
+                            $("#resquestionf").text(0);
+
+                            //get questions for each type of each category
+                            for(var i=0; i<types.length; i++) {
+                                var type = types[i];
+                                url += "&type=" + type;
+                                console.log("type: "+type);
+                                
+                                var objType = getTypeObject(objCategory, type);
+
+                                //get questions for each difficulty of each type of each category
+                                for(var j=0; j<difficulties.length; j++) {
+                                    var difficulty = difficulties[j];
+                                    url += "&difficulty=" + difficulty;
+                                    console.log("difficulty: "+difficulty);
+                                    
+                                    var objDifficulty = getDifficultyObject(objType, difficulty);
+                                    if(parseInt(objDifficulty.qcount) > 0) continue;
+
+                                    var filename=category+"_"+type+"_"+difficulty+".json";
+                                    $.getJSON(url)
+                                    .done(function(data) {
+                                        console.log(data);
+
+                                        if(data.response_code === 0) {
+                                            var k=0;
+                                            var jsonData = '{\n\t"response_code": "'+data.response_code+'",\n';
+                                            jsonData += '\t"results": [\n';
+                                            data.results.forEach(function(result, index) {
+                                                jsonData += '\t\t{\n\t\t\t"category": "'+result.category+'",\n';
+                                                jsonData += '\t\t\t"type": "'+result.type+'",\n';
+                                                jsonData += '\t\t\t"difficulty": "'+result.difficulty+'",\n';
+                                                jsonData += '\t\t\t"question": "'+result.question+'",\n';
+                                                jsonData += '\t\t\t"correct_answer": "'+result.correct_answer+'",\n';
+                                                jsonData += '\t\t\t"incorrect_answers": [\n';
+                                                var j=0;
+                                                result.incorrect_answers.forEach(function(incorrect_answer, index) {
+                                                    jsonData += '\t\t\t\t"'+incorrect_answer+'"\n\t\t\t\t';
+                                                    if(++j < result.incorrect_answers.length)
+                                                        jsonData += ',';
+                                                    jsonData += '\n';
+                                                });
+                                                jsonData += '\t\t\t]\n';
+                                                jsonData += '\t\t}';
+                                                if(++k < data.results.length)
+                                                    jsonData += ',';
+                                                jsonData += '\n';
+                                            });
+                                            jsonData += '\t]\n}';
+
+                                            download(jsonData, filename, 'application/json');
+                                            $("#resquestion").text(parseInt($("#resquestion").text())+1);
+                                            objDifficulty.qcount = qamount;
+                                            bCategoryDataChanged = true;
+                                            console.log("op: success");
+
+                                        } else {
+                                            $("#resquestionf").text(parseInt($("#resquestionf").text())+1);
+                                            console.log("op: fail for no data");
+                                        }
+
+                                    })
+                                    .fail(function() {
+                                        console.error("fail to get questions for "+filename);
+                                        $("#resquestionf").text(parseInt($("#resquestionf").text())+1);
+                                        console.log("op: fail for json get data");
+
+                                    });
+                                    await sleep(1000);
+                                }
+                            }                
+                        }
+                    }
+                }
+                if(bCategoryDataChanged) {
+                    download(JSON.stringify(categoriesData), "categories.json", 'application/json');
+                }
+            }
+            
             // Function to download data to a file
             function download(data, filename, type) {
                 var file = new Blob([data], {type: type});
@@ -31,91 +268,9 @@
                 }
             }
             
-            var categories = [];
-            var types = ["multiple", "boolean"];
-            var difficulties = ["easy", "medium", "hard"];
-            var i = 0;
-            //get all categories
-            $.getJSON("https://opentdb.com/api_category.php")
-                .done(function(data) {
-                    console.log(data.trivia_categories);
-                    
-                    var jsonData = '{\n\t"categories": [\n';
-                    data.trivia_categories.forEach(function(category, index) {
-                        //console.log(category.name);
-                        categories[i++] = category.id;
-                        jsonData += '\t\t{\n\t\t\t"id": "'+category.id+'",\n';
-                        jsonData += '\t\t\t"name": "'+category.name+'"\n\t\t}';
-                        if(i<data.trivia_categories.length)
-                            jsonData += ',\n';
-                    });
-                    jsonData += "\n\t]\n}";
-                    //download(jsonData, "categories.json", 'application/json');
-                    
-                    if(i>0) {
-                        getQuestions(categories);
-                    }
-                })
-                .fail(function() {
-                    console.error("fail to get categories");
-                    alert("connection failed");
-                });    
-            
-            function getQuestions(categories) {
-                //get questions for each category, 50 is the maximum amount for api
-                categories.forEach(function(category, index) {
-                    //var url = "https://opentdb.com/api.php?amount=50&category=" + category;
-                    //var url = "https://opentdb.com/api.php?amount=20&category=" + category;
-                    var url = "https://opentdb.com/api.php?amount=10&category=" + category;
-
-                    //get questions for each type of each category
-                    types.forEach(function(type, index1) {
-                        url += "&type=" + type;
-
-                        //get questions for each difficulty of each type of each category
-                        difficulties.forEach(function(difficulty, index2) {
-                            url += "&difficulty=" + difficulty;
-
-                            var filename=category+"_"+type+"_"+difficulty+".json";
-                            $.getJSON(url)
-                                .done(function(data) {
-                                    console.log(data);
-                                    
-                                    if(data.response_code === 0) {
-                                        var k=0;
-                                        var jsonData = '{\n\t"response_code": "'+data.response_code+'",\n';
-                                        jsonData += '\t"results": [\n';
-                                        data.results.forEach(function(result, index) {
-                                            jsonData += '\t\t{\n\t\t\t"category": "'+result.category+'",\n';
-                                            jsonData += '\t\t\t"type": "'+result.type+'",\n';
-                                            jsonData += '\t\t\t"difficulty": "'+result.difficulty+'",\n';
-                                            jsonData += '\t\t\t"question": "'+result.question+'",\n';
-                                            jsonData += '\t\t\t"correct_answer": "'+result.correct_answer+'",\n';
-                                            jsonData += '\t\t\t"incorrect_answers": [\n';
-                                            var j=0;
-                                            result.incorrect_answers.forEach(function(incorrect_answer, index) {
-                                                jsonData += '\t\t\t\t{\n\t\t\t\t\t"incorrect_answer": "'+incorrect_answer+'"\n\t\t\t\t}';
-                                                if(++j < result.incorrect_answers.length)
-                                                    jsonData += ',';
-                                                jsonData += '\n';
-                                            });
-                                            jsonData += '\t\t\t]\n';
-                                            jsonData += '\t\t}';
-                                            if(++k < data.results.length)
-                                                jsonData += ',';
-                                            jsonData += '\n';
-                                        });
-                                        jsonData += '\t]\n}';
-
-                                        download(jsonData, filename, 'application/json');
-                                    }
-                                })
-                                .fail(function() {
-                                    console.error("fail to get questions for "+filename);
-                                });
-                        });
-                    });
-                });
+            //sleep
+            function sleep(ms) {
+                return new Promise(resolve => setTimeout(resolve, ms));
             }
         </script>
     </body>
