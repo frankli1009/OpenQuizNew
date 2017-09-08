@@ -24,7 +24,7 @@ function loadLocalQuizInfo() {
         $("#quizcategory").on("change", function() {
             var category = parseInt($(this).val());
             localCategoriesData.currentCategoryData = getCategoryObject(category);
-            console.log("localCategoriesData.currentCategoryData("+category+"): "+localCategoriesData.currentCategoryData);
+            //console.log("localCategoriesData.currentCategoryData("+category+"): "+localCategoriesData.currentCategoryData);
             
             var types = getTypesByCategory(category);
             var $allTypeOption = newOption("Any Type", "");
@@ -37,7 +37,7 @@ function loadLocalQuizInfo() {
         });
         $("#quiztype").on("change", function() {
             var type = $(this).val();
-            console.log("currentType: "+type);
+            //console.log("currentType: "+type);
             
             var difficulties = getDifficultiesByType(type);
             var $allDifficultyOption = newOption("Any Difficulty", "");
@@ -61,7 +61,7 @@ function loadLocalCategoriesAndSettings(data) {
     data.trivia_categories.forEach(function(category) {
         //console.log(category.name);
         if(hasCategoryQuestions(category)) {
-            console.log("category.name: "+category.name);
+            //console.log("category.name: "+category.name);
             $option = $("<option>");
             $option.text(category.name);
             $option.attr("value", category.id);
@@ -478,7 +478,7 @@ function getDifficultiesByType(type) {
     } else {
         iDifficulty = getDifficultiesByCategory(localCategoriesData.currentCategoryData, type);
     }
-    console.log("iDifficulty: "+iDifficulty);
+    //console.log("iDifficulty: "+iDifficulty);
     if((iDifficulty & 1) === 1) options.push("easy");
     if((iDifficulty & 2) === 2) options.push("medium");
     if((iDifficulty & 4) === 4) options.push("hard");

@@ -88,7 +88,7 @@ $(function(){
     
     //add the modal body div when showing settings on small devices
     $('#myModal').on('shown.bs.modal', function(){ 
-       addModalBody();
+        addModalBody();
     });
     
     //onclick event action for save settings btn, validate and save the settings on small devices
@@ -109,18 +109,19 @@ $(function(){
         
     //onclick event action for answers div, check whether the answer is right, then shift to the next question
     $(".answerBorder").on("click", function(e) {
-        console.log(e.target.id); //ques11, ques12, ques13, ques14
+        //console.log(e.target.id); //ques11, ques12, ques13, ques14
         var choice = e.target.id.substring(6,7);
-        console.log(choice);
+        //console.log(choice);
         if(parseInt(choice) === curQuestion.iCorrect) quiz.right++;
-        clearInterval(curQuestion.cntdwnInt);
-        curQuestion.cntdwnInt = null;
+        resetCurQuestion();
         nextQuestion();
     });
-        
-    //onlick event action for start a new quiz
+    
+    //onlick event action for starting a new quiz
     $("#startquiz").on("click", function() {
         if(!saveQuizSettings()) return;
+        // disable the settings
+        $("fieldset").attr("disabled", "disabled");
 
         $("#startgamediv").hide();
         $(".questionResultDiv").show();
@@ -144,11 +145,17 @@ $(function(){
             $.getJSON(url)
             .done(function(data) { //ajax done
                 //console.log(data);
-                if(data.response_code === 0) { //data state ok
-                    startQuiz(data);
-                } else {
-                    console.error("response_code: "+data.response_code);
-                    connectionFailure();
+                switch(data.response_code) { 
+                    case 0: //data state ok
+                        startQuiz(data);
+                        break;
+                    case 1: //there is no enough questions in the library
+                        questionNotEnoughFailure();
+                        break;
+                    default:
+                        console.error("response_code: "+data.response_code);
+                        connectionFailure();
+                        break;
                 }
             })
             .fail(function() {
@@ -172,13 +179,22 @@ $(function(){
     $("#newgame").on("click", function() {
         //if there is a question, clear the count down interval of the question 
         if(curQuestion.cntdwnInt != null) {
-            clearInterval(curQuestion.cntdwnInt);
-            curQuestion.cntdwnInt = null;
+            resetCurQuestion();
         }
         
         $("#startquiz").click();
     });
     
+    //onclick event action for giving up a quiz
+    $("#stopgame").on("click", function() {
+        resetCurQuestion();
+        //enable the settings
+        $("fieldset").removeAttr("disabled");
+
+        $("#startgamediv").show();
+        $(".questionResultDiv").hide();
+    });
+        
     //recenter the body when window resize
     var $window = $(window);
     $window.on("resize", function() {
@@ -191,10 +207,6 @@ $(function(){
             $("#headsec").css("marginTop", (height - bodyheight) / 2);
             $(".settingBtn").css("top", (height - bodyheight) / 2 + 30);
         }
-        
-        //reset result div width when using on small screen
-        //var width = $window.innerWidth(); 
-        //resetResultDivWidth(width);
     });
     
     $.ready($window.trigger("resize"));
@@ -208,24 +220,14 @@ function startQuiz(data) {
     showNextQuestion();
     //hide result div
     showResult(false);
-
 }
 
-//reset result div width when using on small screen
-function resetResultDivWidth(width) {
-       
-    console.log("winwidth: "+width);
-    if(width < 500) {
-        $(".resultDiv").width(width);
-        $(".resultChartRow").width(width);
-        $(".resultChart").width(width);
-        $(".canvasjs-chart-container").width(width);
-        $(".canvasjs-chart-canvas").width(width);
+//reset cur question state after give up the game or give one answer
+function resetCurQuestion() {
+    if(curQuestion.cntdwnInt !== null) {
+        clearInterval(curQuestion.cntdwnInt);
+        curQuestion.cntdwnInt = null;
     }
-    else {
-        $(".resultDiv").width("100%");
-        $(".resultChartRow").width("100%");
-    }    
 }
 
 //avoid key "enter", "." and "E" being input into the text input element
@@ -242,6 +244,12 @@ function skipKeys(e) {
     return true;
 }
 
+
+function questionNotEnoughFailure() {
+    $("#quizresult").text("Change settings");
+    $("#chartrightwrong").html("There are not enough questions for your settings.<br/>Please change the settings first, then retry.");
+    showResult(true, false);
+}
 
 function connectionFailure() {
     $("#quizresult").text("Load Failure!");
@@ -277,16 +285,24 @@ function toggleChart() {
 //when result div is on, hide toggle-chart button as required(e.g.: show api service failure result)
 function showResult(showRes, showBtn) {
     if(showRes) {
+        //enable settings
+        $("fieldset").removeAttr("disabled");
+        
         $("#questiondiv").hide();
         if(showBtn) {
             $(".floatBtn").show();
         } else {
             $(".floatBtn").hide();
+            //keep chartrightwrong visible to show assistant hint information
+            $("#charttimeused").addClass("hideChart");
+            $("#chartrightwrong").removeClass("hideChart");
         }
         $("#resultdiv").show();
+        $("#stopgame").text("Home");
     } else {
         $("#resultdiv").hide();
         $("#questiondiv").show();
+        $("#stopgame").text("Give Up");
     }
 }
 
@@ -303,6 +319,8 @@ function validCount(val, min, max) {
 function showNextQuestion() {
     if( quiz.count <= 0 ) return;
     
+    //console.log("quiz.count="+quiz.count);
+    //console.log("quiz.index="+quiz.index);
     quiz.index++;
     if(quiz.index < quiz.count) {
         var question = quiz.questions.results[quiz.index]; 
@@ -317,10 +335,10 @@ function showNextQuestion() {
             } else {
                 if(i<iCorrect) {
                     $("#quest1"+i).html(question.incorrect_answers[i]);
-                    console.log("incorrect: "+question.incorrect_answers[i]);
+                    //console.log("incorrect: "+question.incorrect_answers[i]);
                 } else {
                     $("#quest1"+i).html(question.incorrect_answers[i-1]);
-                    console.log("incorrect: "+question.incorrect_answers[i-1]);
+                    //console.log("incorrect: "+question.incorrect_answers[i-1]);
                 }
             }
             
@@ -354,15 +372,24 @@ function showNextQuestion() {
         //quizRes = 90;
         $("#quizresult").text(quizRes >= 85 ? "Excellent Job!" :
                              quizRes >= 60 ? "Well Done!" : "More Practice!");
-        var rightWrong = [];
-        rightWrong.push(new itemInfo('right', quiz.right));
-        rightWrong.push(new itemInfo('wrong', quiz.count-quiz.right));
-        addChart('chartrightwrong', 'doughnut', 'Right/Wrong', rightWrong);
-        
-        addChart('charttimeused', 'line', 'Time Used', quiz.answerTime);
-        showResult(true, true);
+
         $(".resultChart").show();
         $(".resultChart").resize();
+        
+        var bShowBtn = true;
+        try {
+            var rightWrong = [];
+            rightWrong.push(new itemInfo('right', quiz.right));
+            rightWrong.push(new itemInfo('wrong', quiz.count-quiz.right));
+            addChart('chartrightwrong', 'doughnut', 'Right/Wrong', rightWrong);
+            addChart('charttimeused', 'line', 'Time Used', quiz.answerTime);
+        }
+        catch(e) {
+            bShowBtn = false;
+            console.error("Error when displaying the chart.");
+        }
+        
+        showResult(true, bShowBtn);
     }
 }
 
@@ -498,7 +525,7 @@ function saveQuizSettings() {
        alert("Please enter a number between 3 and 60 for limited time per question.");
        return false;
     }
-
+    
     //initialize the quiz data with new settings
     quiz.count = parseInt($("#quizcount").val());
     quiz.category = $("#quizcategory").val();
