@@ -50,37 +50,39 @@
                 <!-- Settings Area: Left -->
                 <div id="mainsettings" class="col-sm-3 mainSettings">
                     <div id="settings" class="settings">
-                        <div>
-                            <p class="label"><label for="quizcount">Amount of Questions(5-50):</label></p>
-                            <p><input type="number" id="quizcount" name="quizcount" value="10" title="Enter the amount of questions (5-50)" placeholder="Enter a number" class="inputNum"></p>
-                        </div>
-                        <div>
-                            <p class="label">Select Category</p>
-                            <p><select id="quizcategory" name="category" class="inputNum">
-                                <option value="">Any Category</option>
-                            </select></p>
-                        </div>
-                        <div>
-                            <p class="label">Select Type:</p>
-                            <p><select id="quiztype" name="quiztype" class="inputNum">
-                                <option value="">Any Type</option>
-                                <option value="multiple">Multiple Choice</option>
-                                <option value="boolean">True / False</option>
-                            </select></p>
-                        </div>
-                        <div>
-                            <p class="label">Select Difficulty:</p>
-                            <p><select id="quizdifficulty" name="category" class="inputNum">
-                                <option value="">Any Difficulty</option>
-                                <option value="easy">Easy</option>
-                                <option value="medium">Medium</option>
-                                <option value="hard">Hard</option>
-                            </select></p>
-                        </div>
-                        <div>
-                            <p class="label"><label for="quiztime">Time Per Question(3-60)[s]:</label></p>
-                            <p><input type="number" id="quiztime" name="quiztime" value="60" title="Enter the limited time per question(3-60)" placeholder="Enter a limited time" class="inputNum"></p>
-                        </div>
+                        <fieldset>
+                            <div>
+                                <p class="label"><label for="quizcount">Amount of Questions(5-50):</label></p>
+                                <p><input type="number" id="quizcount" name="quizcount" value="10" title="Enter the amount of questions (5-50)" placeholder="Enter a number" class="inputNum"></p>
+                            </div>
+                            <div>
+                                <p class="label">Select Category</p>
+                                <p><select id="quizcategory" name="category" class="inputNum">
+                                    <option value="">Any Category</option>
+                                </select></p>
+                            </div>
+                            <div>
+                                <p class="label">Select Type:</p>
+                                <p><select id="quiztype" name="quiztype" class="inputNum">
+                                    <option value="">Any Type</option>
+                                    <option value="multiple">Multiple Choice</option>
+                                    <option value="boolean">True / False</option>
+                                </select></p>
+                            </div>
+                            <div>
+                                <p class="label">Select Difficulty:</p>
+                                <p><select id="quizdifficulty" name="category" class="inputNum">
+                                    <option value="">Any Difficulty</option>
+                                    <option value="easy">Easy</option>
+                                    <option value="medium">Medium</option>
+                                    <option value="hard">Hard</option>
+                                </select></p>
+                            </div>
+                            <div>
+                                <p class="label"><label for="quiztime">Time Per Question(3-60)[s]:</label></p>
+                                <p><input type="number" id="quiztime" name="quiztime" value="10" title="Enter the limited time per question(3-60)" placeholder="Enter a limited time" class="inputNum"></p>
+                            </div>
+                        </fieldset>
                     </div>
 
                 </div>
@@ -179,6 +181,7 @@
                         <!-- New Game Area: bottom -->
                         <div class="newGameBtnDiv">
                             <div class="text-center">
+                                <button id="stopgame" class="newGame">Give Up</button>
                                 <button id="newgame" class="newGame">New Game</button>
                             </div>
                         </div>
@@ -208,7 +211,7 @@
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                        <button id="savesettings" type="button" class="btn btn-success" data-dismiss="modal">Save Settings</button>
+<!--                        <button id="savesettings" type="button" class="btn btn-success" data-dismiss="modal">Save Settings</button>-->
                     </div>
                 </div>
 
@@ -216,8 +219,8 @@
         </div>
             
         <script src="js/jquery-3.2.1.min.js"></script> 
-        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-        <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/jquery.canvasjs.min.js"></script>
         <script src="js/localData.js"></script>
         <script src="js/myScript.js"></script>
     </body>
