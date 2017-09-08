@@ -63,6 +63,12 @@ body {
     padding: 0;
     overflow-x: hidden;
     background-color: rgba(219, 232, 243, 1);
+/*
+    background-image: url("../images/home-bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+*/
 }
 
 .container {
@@ -139,7 +145,10 @@ div.mainSettings {
 }
 
 .inputNum {
-    width: 150px;
+/*    width: 150px;*/
+    width: 94%;
+    color: rgba(128, 128, 128, 1);
+    border: 1px solid rgba(192, 192, 192, 1);
 }
 
 .questions {
@@ -311,6 +320,11 @@ p.question {
     margin-bottom: 0;
 }
 
+.resultComment span {
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
 .resultChartRow {
     width: 100%;
     background-color: rgba(37, 105, 166, 0.8); 
@@ -320,8 +334,8 @@ p.question {
 /*    background-color: rgba(37, 105, 166, 0.8); */
     margin: 0 auto 0 auto;
     height: 390px;
-    padding-left: 3px;
-    padding-right: 3px;
+    padding-left: 13px;
+    padding-right: 13px;
     display: block;
 }
 
@@ -362,7 +376,7 @@ a.btn {
 }
 
 .newGame {
-    width: 200px;
+    width: 140px;
     height: 40px;
     border-radius: 20px;
     background-color: rgba(170, 93, 0, 1);
